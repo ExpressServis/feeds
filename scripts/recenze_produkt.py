@@ -3,8 +3,11 @@ import time
 import requests
 import xml.etree.ElementTree as ET
 from pathlib import Path
+import os
 
-FEED_URL = "https://www.heureka.cz/direct/dotaznik/export-product-review.php?key=4e374a9eda4003d683ecb1fea6cf1d80"
+KEY = os.environ["HEUREKA_KEY"]
+FEED_URL = f"https://www.heureka.cz/direct/dotaznik/export-review.php?key={KEY}"
+
 # volitelně: omez od data (viz tip v zadání)
 # FEED_URL += "&from=2025-10-01 00:00:00"
 
