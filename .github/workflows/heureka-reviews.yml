@@ -33,8 +33,8 @@ jobs:
         env:
           HEUREKA_KEY: ${{ secrets.HEUREKA_KEY }}
         run: |
-          python scripts/export_heureka_shop_reviews.py
-          python scripts/export_heureka_product_reviews.py
+          python scripts/recenze.py
+          python scripts/recenze_produkt.py
 
       - name: Create Pull Request if changed
         env:
