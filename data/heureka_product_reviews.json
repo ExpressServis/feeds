@@ -1,7 +1,26 @@
 {
-  "generated_at": 1765839767,
-  "products_count": 29,
-  "reviews_count": 29,
+  "generated_at": 1765840926,
+  "stats": {
+    "products_count": 29,
+    "raw_reviews_in_feed": 29,
+    "saved_reviews": 29,
+    "duplicates_within_product_skipped": 0,
+    "cross_product_duplicates_count": 1
+  },
+  "cross_product_duplicates": {
+    "6f8b417cc31f89b40133ccd7ae09c42bd076d84d": [
+      {
+        "ean": "8596311237195",
+        "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-gray?utm_source=heureka",
+        "product_name": "LCD display + Dotyk + Přední Kryt Samsung G986/G985 Galaxy S20+ Cosmic Gray 57983118630"
+      },
+      {
+        "ean": "8596311249754",
+        "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-black-1?utm_source=heureka",
+        "product_name": "LCD Displej + Dotyk + Přední kryt Samsung G986/G985 Galaxy S20+"
+      }
+    ]
+  },
   "products": [
     {
       "product_name": "LCD display + Dotyk + Přední Kryt Samsung G986/G985 Galaxy S20+ Cosmic Gray 57983118630",
@@ -18,7 +37,8 @@
           "pros": "",
           "cons": "Prave dnes prestal fungovat.",
           "summary": "",
-          "recommends": "0"
+          "recommends": "0",
+          "fingerprint": "6f8b417cc31f89b40133ccd7ae09c42bd076d84d"
         }
       ]
     },
@@ -37,7 +57,8 @@
           "pros": "",
           "cons": "Prave dnes prestal fungovat.",
           "summary": "",
-          "recommends": "0"
+          "recommends": "0",
+          "fingerprint": "6f8b417cc31f89b40133ccd7ae09c42bd076d84d"
         }
       ]
     },
@@ -56,7 +77,8 @@
           "pros": "",
           "cons": "",
           "summary": "",
-          "recommends": ""
+          "recommends": "",
+          "fingerprint": "2a8861842adf6e7ffe18ac8f87675583583e250e"
         }
       ]
     },
@@ -75,7 +97,8 @@
           "pros": "Levné a průměrné ale doporučit jen pro tam kde přenos tepla není krytický. Kvalita podobná HY510",
           "cons": "Čekal sem lepší odvod tepla ale možná jsem rozmlsaný tekutým kovem. Ten kdo chce kvalitu si raději má koupit něco pořádného.",
           "summary": "Vodivost 6 W (mk) se mi zdá přestřelená a odhaduji tak na 2,5 max.",
-          "recommends": "0"
+          "recommends": "0",
+          "fingerprint": "aee045e10355aa483daddc0750abf652420693f0"
         }
       ]
     },
@@ -94,7 +117,8 @@
           "pros": "Cena",
           "cons": "Asi malinko kratší flex než na originální takže se musí popotáhnout a ohnout v jiném místě než je továrně ohnuto a trochu se to pne. (Po přišroubování jisticího plechu to ale nevypadne. \nNemá na sobě vyndavací samolepky jako originál.",
           "summary": "Originál to není ale za tu cenu slušná baterie.",
-          "recommends": "1"
+          "recommends": "1",
+          "fingerprint": "3a7749b04f9a0c626379ea05f65d5a3e1681195d"
         }
       ]
     },
@@ -113,7 +137,8 @@
           "pros": "",
           "cons": "",
           "summary": "Vcelku průměrné plastové zpracování které funguje na řidší věci (flux a podobně) ale při hustších už je znát pružení plastů a obávám se že moc dlouho nevydrží při větším tlaku nebo třeba pádu na zem. Patrona která se nasazuje je standardizovaná a  nasadíte Amtech nebo Polské průměrné či Čínské šmejdy a funguje to. U patron s pájkou je to podle její hustoty. Rozměr taky je docela velký ale chtěl sem vyzkoušet jiný dávkovač než kroužek s pantem a závitovou tyčí s pákou a když to srovnám tak je asi kroužek lepší volba.",
-          "recommends": "0"
+          "recommends": "0",
+          "fingerprint": "f2e74253eabdbb2af155425d872f213593e9c269"
         }
       ]
     },
@@ -132,7 +157,8 @@
           "pros": "Miniaturní šroubováčky, torx a podobně o 12 bitech (z každé strany bitu něco jiného takže 24 druhů).",
           "cons": "Bity jsou sice popsány ale jen na jedné ze 6 stran takže většinou stejně je umístíte tak že není čitelné co je to za tip bitu a nebo při každém vracení do magnetického držáku musíte najít kde je označení a pečlivě bit uložit.",
           "summary": "Kompaktní rozměr s 24 druhy těch mini bitů uložených magneticky v rukojeti šroubováku z kovu kde stopka se otáčí a lze jej tedy použít jako přítlačné ložisko a neodírat si dlaň.",
-          "recommends": "1"
+          "recommends": "1",
+          "fingerprint": "369c4f632380ef0cf73304dd5a78eabfbaa159bf"
         }
       ]
     },
@@ -151,7 +177,8 @@
           "pros": "",
           "cons": "",
           "summary": "",
-          "recommends": ""
+          "recommends": "",
+          "fingerprint": "be2e5e26ad10e84712aa24ccd24f54f57ef0f54b"
         }
       ]
     },
@@ -170,7 +197,8 @@
           "pros": "Opravdu drží",
           "cons": "",
           "summary": "",
-          "recommends": "1"
+          "recommends": "1",
+          "fingerprint": "668c1359890629630d7b5f1a9d710db966657df5"
         }
       ]
     },
@@ -189,7 +217,8 @@
           "pros": "",
           "cons": "",
           "summary": "",
-          "recommends": ""
+          "recommends": "",
+          "fingerprint": "d43fc406ec1d116948391fd521b8064c5fcca117"
         }
       ]
     },
@@ -208,7 +237,8 @@
           "pros": "Snadná instalace",
           "cons": "Mobil překvapivě ztěžkne, přesto, že je sklíčko tenké",
           "summary": "",
-          "recommends": "1"
+          "recommends": "1",
+          "fingerprint": "751bc128c31f282e54abeae39eec91559ffec1ae"
         }
       ]
     },
@@ -227,7 +257,8 @@
           "pros": "",
           "cons": "",
           "summary": "Kdybych vedel, jaky pekny a precizni kryt obdrzim, o tyden drive bych si nekupoval jiny - tento je fakt dobry, krasne se drzi a je vice safety, nez bezne ty ,ktere muzete prikoupit k telefonu - samozrejme cena vyssi, ale to je hned upozaděno, kdyz viditě kvalitu zpracovani a hlavne i pouzitelnost - moznost pripnout si na ruku, na kolo, na motorku atd atd",
-          "recommends": "1"
+          "recommends": "1",
+          "fingerprint": "4b58016b858abbbe6fe2db4c4da09cc2ab6233ed"
         }
       ]
     },
@@ -246,7 +277,8 @@
           "pros": "",
           "cons": "",
           "summary": "",
-          "recommends": ""
+          "recommends": "",
+          "fingerprint": "da9890988a23baef0f05a4b31c991c5231cf6352"
         }
       ]
     },
@@ -265,7 +297,8 @@
           "pros": "",
           "cons": "",
           "summary": "",
-          "recommends": ""
+          "recommends": "",
+          "fingerprint": "e41c84be4f23567a8dbaad35768ec1e5092118e0"
         }
       ]
     },
@@ -284,7 +317,8 @@
           "pros": "",
           "cons": "",
           "summary": "",
-          "recommends": ""
+          "recommends": "",
+          "fingerprint": "bde6f41bd694e3ed355c055d2fb11dd375b10f6d"
         }
       ]
     },
@@ -303,7 +337,8 @@
           "pros": "",
           "cons": "",
           "summary": "Bluetoth ovládání zámku",
-          "recommends": "1"
+          "recommends": "1",
+          "fingerprint": "c68eaf3f807f1f81db4507a5672b804085ac9934"
         }
       ]
     },
@@ -322,7 +357,8 @@
           "pros": "Prostě originální díl..",
           "cons": "",
           "summary": "Funkční dle předpokladu - orig. díl, takže bez problémů..",
-          "recommends": "1"
+          "recommends": "1",
+          "fingerprint": "88e2ad68d568f82a49cac72f1f52a34cc5b091cf"
         }
       ]
     },
@@ -341,7 +377,8 @@
           "pros": "bezproblémová instalce\nfunguje",
           "cons": "",
           "summary": "",
-          "recommends": "1"
+          "recommends": "1",
+          "fingerprint": "1736f721d07235da8f64421468d6fc615f6f13cc"
         }
       ]
     },
@@ -360,7 +397,8 @@
           "pros": "Spolehlivý, výkonný,jednoduché ovládání",
           "cons": "",
           "summary": "",
-          "recommends": "1"
+          "recommends": "1",
+          "fingerprint": "3c6f842e7d7ce667e8763dc8ea33dcbec4afa1a9"
         }
       ]
     },
@@ -379,7 +417,8 @@
           "pros": "Balíček obsahuje veškeré nářadí potřebné k výměně baterie, včetně obrazového postupu\nBaterie po instalaci funguje\nPro výměnu baterie volte raději videonávod na youtube, je “čitelnějši” a srozumitelnější",
           "cons": "",
           "summary": "",
-          "recommends": "1"
+          "recommends": "1",
+          "fingerprint": "522e0d75f632d6bfa8dd0808edc716f8ffb142ac"
         }
       ]
     },
@@ -398,7 +437,8 @@
           "pros": "Perfektní lepidlo\nSpojí téměř vše \nJe pružné a není agresivní",
           "cons": "",
           "summary": "",
-          "recommends": "1"
+          "recommends": "1",
+          "fingerprint": "c8ee00ba4d1be77c6242002909758c2b591e0e03"
         }
       ]
     },
@@ -417,7 +457,8 @@
           "pros": "Používám pouze tento\nHezky vypadá\nVelmi dobré ovládání hodinek\nUž několikrát zabránil poškození mých hodinek",
           "cons": "",
           "summary": "",
-          "recommends": "1"
+          "recommends": "1",
+          "fingerprint": "f04a35ade402599ae67eff12ec687635e1fe842e"
         }
       ]
     },
@@ -436,7 +477,8 @@
           "pros": "",
           "cons": "",
           "summary": "Vse OK",
-          "recommends": "1"
+          "recommends": "1",
+          "fingerprint": "bfec8a22e58bef84809c0b3ac5de9493e098c154"
         }
       ]
     },
@@ -455,7 +497,8 @@
           "pros": "",
           "cons": "",
           "summary": "",
-          "recommends": ""
+          "recommends": "",
+          "fingerprint": "c5ba8643e6f00042ae089c1936c34d75d893243a"
         }
       ]
     },
@@ -474,7 +517,8 @@
           "pros": "",
           "cons": "",
           "summary": "",
-          "recommends": ""
+          "recommends": "",
+          "fingerprint": "4a20b1d59b09238ccd92cca3f4b6af9087acf7f5"
         }
       ]
     },
@@ -493,7 +537,8 @@
           "pros": "",
           "cons": "",
           "summary": "",
-          "recommends": ""
+          "recommends": "",
+          "fingerprint": "7c45e2ec4ec934f292f8539432db70128457796c"
         }
       ]
     },
@@ -512,7 +557,8 @@
           "pros": "",
           "cons": "",
           "summary": "",
-          "recommends": ""
+          "recommends": "",
+          "fingerprint": "5e4e9600c8820c7da7704277df5b6157f6d761ad"
         }
       ]
     },
@@ -531,7 +577,8 @@
           "pros": "Pohodlný",
           "cons": "",
           "summary": "",
-          "recommends": "1"
+          "recommends": "1",
+          "fingerprint": "3af35ce2f81032f48cd81de0703b227809772bc9"
         }
       ]
     },
@@ -550,7 +597,8 @@
           "pros": "",
           "cons": "",
           "summary": "",
-          "recommends": ""
+          "recommends": "",
+          "fingerprint": "4801f545df44a462bb51cb2f990f654ce7925eaa"
         }
       ]
     }
