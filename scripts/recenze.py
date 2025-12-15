@@ -3,8 +3,10 @@ import time
 import requests
 import xml.etree.ElementTree as ET
 from pathlib import Path
+import os
 
-FEED_URL = "https://www.heureka.cz/direct/dotaznik/export-review.php?key=4e374a9eda4003d683ecb1fea6cf1d80"
+KEY = os.environ["HEUREKA_KEY"]
+FEED_URL = f"https://www.heureka.cz/direct/dotaznik/export-review.php?key={KEY}"
 OUT = Path("data/heureka_reviews.json")
 OUT.parent.mkdir(parents=True, exist_ok=True)
 
