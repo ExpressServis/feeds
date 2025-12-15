@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 FEED_URL = "https://www.heureka.cz/direct/dotaznik/export-review.php?key=4e374a9eda4003d683ecb1fea6cf1d80"
-OUT = Path("heureka_reviews.json")
+OUT = Path("data/heureka_reviews.json")
 OUT.parent.mkdir(parents=True, exist_ok=True)
 
 def txt(node, tag):
