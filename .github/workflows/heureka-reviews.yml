@@ -1,37 +1,66 @@
-name: Heureka Reviews Sync
+name: Heureka reviews export
 
 on:
-  schedule:
-    - cron: "15 2 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "15 2 * * *" # každý den 02:15 UTC (v CZ většinou 03:15/04:15)
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
-  sync:
+  export:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install deps
-        run: pip install requests
-
-      - name: Run script
-        run: python scripts/recenze.py
-
-      - name: Commit changes
+      - name: Install dependencies
         run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run exports
+        env:
+          HEUREKA_KEY: ${{ secrets.HEUREKA_KEY }}
+        run: |
+          python scripts/export_heureka_shop_reviews.py
+          python scripts/export_heureka_product_reviews.py
+
+      - name: Create Pull Request if changed
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          BRANCH="heureka-reviews-update"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/heureka_reviews.json
-          git commit -m "Update Heureka reviews" || exit 0
 
-      - name: Push changes
-        run: git push
+          git checkout -B "$BRANCH"
+
+          git add data/heureka_reviews.json data/heureka_product_reviews.json
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git commit -m "Update Heureka reviews export"
+          git push -f origin "$BRANCH"
+
+          gh pr create \
+            --base main \
+            --head "$BRANCH" \
+            --title "Update Heureka reviews" \
+            --body "Automated export of shop + product reviews from Heureka." \
+          || gh pr edit "$BRANCH" \
+            --title "Update Heureka reviews" \
+            --body "Automated export of shop + product reviews from Heureka."
