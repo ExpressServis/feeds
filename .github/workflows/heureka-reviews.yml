@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   export:
@@ -36,52 +35,18 @@ jobs:
           python scripts/recenze.py
           python scripts/recenze_produkt.py
 
-      - name: Commit changes to branch
-        id: commit
+      - name: Commit & push to main if changed
         run: |
-          BRANCH="heureka-reviews-update"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git checkout -B "$BRANCH"
 
           git add data/heureka_reviews.json data/heureka_product_reviews.json
 
           if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No changes."
             exit 0
           fi
 
           git commit -m "Update Heureka reviews export"
-          git push -f origin "$BRANCH"
-          echo "changed=true" >> "$GITHUB_OUTPUT"
-
-      - name: Create or update PR
-        if: steps.commit.outputs.changed == 'true'
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ github.token }}
-          script: |
-            const owner = context.repo.owner;
-            const repo = context.repo.repo;
-            const head = `${owner}:heureka-reviews-update`;
-            const base = "main";
-            const title = "Update Heureka reviews";
-            const body = "Automated export of shop + product reviews from Heureka.";
-
-            const prs = await github.rest.pulls.list({
-              owner, repo, state: "open", head, base
-            });
-
-            if (prs.data.length > 0) {
-              core.info(`PR already exists: #${prs.data[0].number}`);
-              await github.rest.pulls.update({
-                owner, repo, pull_number: prs.data[0].number, title, body
-              });
-            } else {
-              const pr = await github.rest.pulls.create({
-                owner, repo, head: "heureka-reviews-update", base, title, body
-              });
-              core.info(`Created PR: #${pr.data.number}`);
-            }
+          git pull --rebase origin main
+          git push origin HEAD:main
