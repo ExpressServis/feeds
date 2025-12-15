@@ -6,7 +6,7 @@ from pathlib import Path
 import os
 
 KEY = os.environ["HEUREKA_KEY"]
-FEED_URL = f"https://www.heureka.cz/direct/dotaznik/export-review.php?key={KEY}"
+FEED_URL = f"https://www.heureka.cz/direct/dotaznik/export-product-review.php?key={KEY}"
 
 # volitelně: omez od data (viz tip v zadání)
 # FEED_URL += "&from=2025-10-01 00:00:00"
