@@ -1,9 +1,9 @@
 {
-  "generated_at": 1765856483,
+  "generated_at": 1765942624,
   "stats": {
-    "products_count": 29,
-    "raw_reviews_in_feed": 29,
-    "saved_reviews": 29,
+    "products_count": 28,
+    "raw_reviews_in_feed": 28,
+    "saved_reviews": 28,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -345,7 +345,7 @@
     {
       "product_name": "LCD display + Dotyk + Přední Kryt Samsung F731 Galaxy Z Flip 5 5G Cream (Service Pack) GH82-31828B",
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-cream-service-pack?utm_source=heureka",
-      "price": 6395.0,
+      "price": 6305.0,
       "ean": "8596311243295",
       "reviews_count": 1,
       "reviews": [
@@ -579,26 +579,6 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "3af35ce2f81032f48cd81de0703b227809772bc9"
-        }
-      ]
-    },
-    {
-      "product_name": "Quad Lock Case MAG - iPhone 16e - Kryt mobilního telefonu - černý QMC-IPSE4",
-      "url": "https://www.express-servis.cz/p/quad-lock-case-mag-iphone-16-kryt-mobilniho-telefonu-cerny-kopie-1?utm_source=heureka",
-      "price": 1092.0,
-      "ean": "9348943149808",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20028128",
-          "rating_id_type": "product",
-          "unix_timestamp": 1750068132,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "4801f545df44a462bb51cb2f990f654ce7925eaa"
         }
       ]
     }
