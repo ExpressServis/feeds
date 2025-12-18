@@ -1,9 +1,9 @@
 {
-  "generated_at": 1765942624,
+  "generated_at": 1766029075,
   "stats": {
-    "products_count": 28,
-    "raw_reviews_in_feed": 28,
-    "saved_reviews": 28,
+    "products_count": 29,
+    "raw_reviews_in_feed": 29,
+    "saved_reviews": 29,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -59,6 +59,26 @@
           "summary": "",
           "recommends": "0",
           "fingerprint": "6f8b417cc31f89b40133ccd7ae09c42bd076d84d"
+        }
+      ]
+    },
+    {
+      "product_name": "Swissten síťový adaptér GaN 2x USB-C 65W PD + 1x USB-A 18W QC černý 22071410",
+      "url": "https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-2x-usb-c-65w-pd-1x-usb-a-18w-qc-cerny?utm_source=heureka",
+      "price": 376.0,
+      "ean": "8595217484535",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21377752",
+          "rating_id_type": "product",
+          "unix_timestamp": 1765523932,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Příjemně kompaktní rozměry, vzhledem k výkonu, kdy je možné nabíjet i notebook (65W) a ani se přehnaně nezahřívá.",
+          "recommends": "1",
+          "fingerprint": "14b5a3fa36ae77cde9ae8dc17f01519603f67d55"
         }
       ]
     },
@@ -205,7 +225,7 @@
     {
       "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml?utm_source=heureka",
-      "price": 32.0,
+      "price": 33.0,
       "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
@@ -265,7 +285,7 @@
     {
       "product_name": "Epico Slim Shell for Macbook Air 15\" M2/M3/M4, transparentní 82110101000005",
       "url": "https://www.express-servis.cz/p/epico-slim-shell-for-macbook-air-15-m2-m3-m4-a2941-a3114-matna-transparentni?utm_source=heureka",
-      "price": 401.0,
+      "price": 518.0,
       "ean": "8596049197235",
       "reviews_count": 1,
       "reviews": [
@@ -325,7 +345,7 @@
     {
       "product_name": "Danalock V3 - univerzální modul - Bluetooth DL-02031304",
       "url": "https://www.express-servis.cz/p/danalock-v3-univerzalni-modul-bluetooth-1?utm_source=heureka",
-      "price": 3566.0,
+      "price": 3486.0,
       "ean": "5712560000547",
       "reviews_count": 1,
       "reviews": [
@@ -385,7 +405,7 @@
     {
       "product_name": "Therabody Theragun Prime Plus TG0004116-3A10",
       "url": "https://www.express-servis.cz/p/therabody-theragun-prime-plus?utm_source=heureka",
-      "price": 11567.0,
+      "price": 10974.0,
       "ean": "840295405490",
       "reviews_count": 1,
       "reviews": [
@@ -425,7 +445,7 @@
     {
       "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml?utm_source=heureka",
-      "price": 32.0,
+      "price": 33.0,
       "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
@@ -445,7 +465,7 @@
     {
       "product_name": "Spigen Thin Fit, - ochranný kryt pro Apple Watch 9/8/7 45mm, čirý ACS04179",
       "url": "https://www.express-servis.cz/p/spigen-thin-fit-ochranny-kryt-pro-apple-watch-9-8-7-45mm-ciry?utm_source=heureka",
-      "price": 359.0,
+      "price": 341.0,
       "ean": "8809811857641",
       "reviews_count": 1,
       "reviews": [
@@ -485,7 +505,7 @@
     {
       "product_name": "Apple iPhone 12 / 12 Pro OLED displej + dotyk černý",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-12-12-pro-original-change-glass-refurbished-cerny?utm_source=heureka",
-      "price": 2035.0,
+      "price": 2005.0,
       "ean": "8597593014177",
       "reviews_count": 1,
       "reviews": [
