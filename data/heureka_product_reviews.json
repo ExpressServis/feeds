@@ -1,5 +1,5 @@
 {
-  "generated_at": 1766029075,
+  "generated_at": 1766115633,
   "stats": {
     "products_count": 29,
     "raw_reviews_in_feed": 29,
@@ -22,6 +22,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box na baterii HB-04-102B",
+      "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-vyhrivany-box?utm_source=heureka",
+      "price": 3322.0,
+      "ean": "7649994336097",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21417148",
+          "rating_id_type": "product",
+          "unix_timestamp": 1766046707,
+          "rating": 5.0,
+          "pros": "Super , nádherně ohřívá",
+          "cons": "Telefon s aplikací musí být poblíž.",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "ce031dd61058a7d6880112a7173d129dfea119c7"
+        }
+      ]
+    },
     {
       "product_name": "LCD display + Dotyk + Přední Kryt Samsung G986/G985 Galaxy S20+ Cosmic Gray 57983118630",
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-gray?utm_source=heureka",
@@ -59,26 +79,6 @@
           "summary": "",
           "recommends": "0",
           "fingerprint": "6f8b417cc31f89b40133ccd7ae09c42bd076d84d"
-        }
-      ]
-    },
-    {
-      "product_name": "Swissten síťový adaptér GaN 2x USB-C 65W PD + 1x USB-A 18W QC černý 22071410",
-      "url": "https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-2x-usb-c-65w-pd-1x-usb-a-18w-qc-cerny?utm_source=heureka",
-      "price": 376.0,
-      "ean": "8595217484535",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21377752",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765523932,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Příjemně kompaktní rozměry, vzhledem k výkonu, kdy je možné nabíjet i notebook (65W) a ani se přehnaně nezahřívá.",
-          "recommends": "1",
-          "fingerprint": "14b5a3fa36ae77cde9ae8dc17f01519603f67d55"
         }
       ]
     },
@@ -265,7 +265,7 @@
     {
       "product_name": "Quad Lock Case - iPhone 16 Pro Max - Kryt mobilního telefonu - černý QLC-IP16XL",
       "url": "https://www.express-servis.cz/p/quad-lock-case-iphone-16-pro-max-kryt-mobilniho-telefonu-cerny-kopie?utm_source=heureka",
-      "price": 977.0,
+      "price": 978.0,
       "ean": "9348943102803",
       "reviews_count": 1,
       "reviews": [
