@@ -1,9 +1,9 @@
 {
-  "generated_at": 1766115633,
+  "generated_at": 1766201510,
   "stats": {
-    "products_count": 29,
-    "raw_reviews_in_feed": 29,
-    "saved_reviews": 29,
+    "products_count": 28,
+    "raw_reviews_in_feed": 28,
+    "saved_reviews": 28,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -345,7 +345,7 @@
     {
       "product_name": "Danalock V3 - univerzální modul - Bluetooth DL-02031304",
       "url": "https://www.express-servis.cz/p/danalock-v3-univerzalni-modul-bluetooth-1?utm_source=heureka",
-      "price": 3486.0,
+      "price": 3566.0,
       "ean": "5712560000547",
       "reviews_count": 1,
       "reviews": [
@@ -465,7 +465,7 @@
     {
       "product_name": "Spigen Thin Fit, - ochranný kryt pro Apple Watch 9/8/7 45mm, čirý ACS04179",
       "url": "https://www.express-servis.cz/p/spigen-thin-fit-ochranny-kryt-pro-apple-watch-9-8-7-45mm-ciry?utm_source=heureka",
-      "price": 341.0,
+      "price": 359.0,
       "ean": "8809811857641",
       "reviews_count": 1,
       "reviews": [
@@ -579,26 +579,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "5e4e9600c8820c7da7704277df5b6157f6d761ad"
-        }
-      ]
-    },
-    {
-      "product_name": "Coteetci Apple Watch provlékací sportovní řemínek Series 1-9 (38/40/41mm) / 10 (42mm), bouřkově šedý WH5225-FH",
-      "url": "https://www.express-servis.cz/p/coteetci-apple-watch-provlekaci-sportovni-reminek-38-40-41mm-bourkove-sedy?utm_source=heureka",
-      "price": 59.0,
-      "ean": "6923869287754",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "15293232",
-          "rating_id_type": "offer",
-          "unix_timestamp": 1750323723,
-          "rating": 5.0,
-          "pros": "Pohodlný",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "3af35ce2f81032f48cd81de0703b227809772bc9"
         }
       ]
     }
