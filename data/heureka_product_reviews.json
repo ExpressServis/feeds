@@ -1,11 +1,11 @@
 {
-  "generated_at": 1766375431,
+  "generated_at": 1766461408,
   "stats": {
-    "products_count": 28,
-    "raw_reviews_in_feed": 28,
-    "saved_reviews": 28,
+    "products_count": 29,
+    "raw_reviews_in_feed": 29,
+    "saved_reviews": 29,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 1
+    "cross_product_duplicates_count": 2
   },
   "cross_product_duplicates": {
     "6f8b417cc31f89b40133ccd7ae09c42bd076d84d": [
@@ -18,6 +18,18 @@
         "ean": "8596311249754",
         "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-black-1?utm_source=heureka",
         "product_name": "LCD Displej + Dotyk + Přední kryt Samsung G986/G985 Galaxy S20+"
+      }
+    ],
+    "88e2ad68d568f82a49cac72f1f52a34cc5b091cf": [
+      {
+        "ean": "8596311243332",
+        "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-gray-service-pack?utm_source=heureka",
+        "product_name": "LCD display + Dotyk + Přední Kryt Samsung F731 Galaxy Z Flip 5 5G Gray (Service Pack) GH82-31828E"
+      },
+      {
+        "ean": "8596311243295",
+        "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-cream-service-pack?utm_source=heureka",
+        "product_name": "LCD display + Dotyk + Přední Kryt Samsung F731 Galaxy Z Flip 5 5G Cream (Service Pack) GH82-31828B"
       }
     ]
   },
@@ -245,7 +257,7 @@
     {
       "product_name": "Mobile Origin Screen Guard, ochranné sklo s aplikátorem pro iPhone 15 Pro SGZ-i15Pro",
       "url": "https://www.express-servis.cz/p/mobile-origin-screen-guard-ochranne-sklo-s-aplikatorem-pro-iphone-15-pro?utm_source=heureka",
-      "price": 177.0,
+      "price": 236.0,
       "ean": "8594215990413",
       "reviews_count": 1,
       "reviews": [
@@ -345,7 +357,7 @@
     {
       "product_name": "Danalock V3 - univerzální modul - Bluetooth DL-02031304",
       "url": "https://www.express-servis.cz/p/danalock-v3-univerzalni-modul-bluetooth-1?utm_source=heureka",
-      "price": 3566.0,
+      "price": 3486.0,
       "ean": "5712560000547",
       "reviews_count": 1,
       "reviews": [
@@ -359,6 +371,26 @@
           "summary": "Bluetoth ovládání zámku",
           "recommends": "1",
           "fingerprint": "c68eaf3f807f1f81db4507a5672b804085ac9934"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD display + Dotyk + Přední Kryt Samsung F731 Galaxy Z Flip 5 5G Gray (Service Pack) GH82-31828E",
+      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-gray-service-pack?utm_source=heureka",
+      "price": 6755.0,
+      "ean": "8596311243332",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "20683694",
+          "rating_id_type": "product",
+          "unix_timestamp": 1756738990,
+          "rating": 5.0,
+          "pros": "Prostě originální díl..",
+          "cons": "",
+          "summary": "Funkční dle předpokladu - orig. díl, takže bez problémů..",
+          "recommends": "1",
+          "fingerprint": "88e2ad68d568f82a49cac72f1f52a34cc5b091cf"
         }
       ]
     },
@@ -465,7 +497,7 @@
     {
       "product_name": "Spigen Thin Fit, - ochranný kryt pro Apple Watch 9/8/7 45mm, čirý ACS04179",
       "url": "https://www.express-servis.cz/p/spigen-thin-fit-ochranny-kryt-pro-apple-watch-9-8-7-45mm-ciry?utm_source=heureka",
-      "price": 359.0,
+      "price": 350.0,
       "ean": "8809811857641",
       "reviews_count": 1,
       "reviews": [
