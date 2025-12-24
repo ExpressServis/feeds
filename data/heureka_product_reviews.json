@@ -1,9 +1,9 @@
 {
-  "generated_at": 1766461408,
+  "generated_at": 1766547635,
   "stats": {
-    "products_count": 29,
-    "raw_reviews_in_feed": 29,
-    "saved_reviews": 29,
+    "products_count": 30,
+    "raw_reviews_in_feed": 30,
+    "saved_reviews": 30,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -34,6 +34,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Bluetooth headset swissten dock earpiece 51204000",
+      "url": "https://www.express-servis.cz/p/bluetooth-headset-swissten-dock-earpiece?utm_source=heureka",
+      "price": 381.0,
+      "ean": "8595217481411",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21450452",
+          "rating_id_type": "product",
+          "unix_timestamp": 1766512053,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Již druhá, na té první prasknul silikonový držák za ucho.\nStále funguje, jen ji není možné dál nosit.",
+          "recommends": "1",
+          "fingerprint": "9044707eb9045f9939b671723fd3811cab3e3351"
+        }
+      ]
+    },
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box na baterii HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-vyhrivany-box?utm_source=heureka",
