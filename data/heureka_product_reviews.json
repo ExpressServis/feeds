@@ -1,9 +1,9 @@
 {
-  "generated_at": 1766634210,
+  "generated_at": 1766720474,
   "stats": {
-    "products_count": 17,
-    "raw_reviews_in_feed": 17,
-    "saved_reviews": 17,
+    "products_count": 30,
+    "raw_reviews_in_feed": 30,
+    "saved_reviews": 30,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -34,6 +34,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Bluetooth headset swissten dock earpiece 51204000",
+      "url": "https://www.express-servis.cz/p/bluetooth-headset-swissten-dock-earpiece?utm_source=heureka",
+      "price": 381.0,
+      "ean": "8595217481411",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21450452",
+          "rating_id_type": "product",
+          "unix_timestamp": 1766512053,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Již druhá, na té první prasknul silikonový držák za ucho.\nStále funguje, jen ji není možné dál nosit.",
+          "recommends": "1",
+          "fingerprint": "9044707eb9045f9939b671723fd3811cab3e3351"
+        }
+      ]
+    },
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box na baterii HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-vyhrivany-box?utm_source=heureka",
@@ -115,6 +135,26 @@
       ]
     },
     {
+      "product_name": "Mijing TG650 - tepelná pasta TL0036",
+      "url": "https://www.express-servis.cz/p/mijing-tg650-tepelna-pasta?utm_source=heureka",
+      "price": 69.0,
+      "ean": "8597593008640",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21341680",
+          "rating_id_type": "product",
+          "unix_timestamp": 1765100715,
+          "rating": 2.0,
+          "pros": "Levné a průměrné ale doporučit jen pro tam kde přenos tepla není krytický. Kvalita podobná HY510",
+          "cons": "Čekal sem lepší odvod tepla ale možná jsem rozmlsaný tekutým kovem. Ten kdo chce kvalitu si raději má koupit něco pořádného.",
+          "summary": "Vodivost 6 W (mk) se mi zdá přestřelená a odhaduji tak na 2,5 max.",
+          "recommends": "0",
+          "fingerprint": "aee045e10355aa483daddc0750abf652420693f0"
+        }
+      ]
+    },
+    {
       "product_name": "Huawei HB356687ECW",
       "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-pro-huawei-3340mah-li-pol-oem?utm_source=heureka",
       "price": 132.0,
@@ -131,6 +171,26 @@
           "summary": "Originál to není ale za tu cenu slušná baterie.",
           "recommends": "1",
           "fingerprint": "3a7749b04f9a0c626379ea05f65d5a3e1681195d"
+        }
+      ]
+    },
+    {
+      "product_name": "RELIFE RL-062A Ruční lepicí pistole TL0023",
+      "url": "https://www.express-servis.cz/p/relife-rl-062a-rucni-lepici-pistole?utm_source=heureka",
+      "price": 134.0,
+      "ean": "8597593008510",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21336659",
+          "rating_id_type": "product",
+          "unix_timestamp": 1765100079,
+          "rating": 3.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Vcelku průměrné plastové zpracování které funguje na řidší věci (flux a podobně) ale při hustších už je znát pružení plastů a obávám se že moc dlouho nevydrží při větším tlaku nebo třeba pádu na zem. Patrona která se nasazuje je standardizovaná a  nasadíte Amtech nebo Polské průměrné či Čínské šmejdy a funguje to. U patron s pájkou je to podle její hustoty. Rozměr taky je docela velký ale chtěl sem vyzkoušet jiný dávkovač než kroužek s pantem a závitovou tyčí s pákou a když to srovnám tak je asi kroužek lepší volba.",
+          "recommends": "0",
+          "fingerprint": "f2e74253eabdbb2af155425d872f213593e9c269"
         }
       ]
     },
@@ -155,6 +215,26 @@
       ]
     },
     {
+      "product_name": "Proximity Flex senzor iPhone 14 Pro Max IPH0489",
+      "url": "https://www.express-servis.cz/p/proximity-flex-senzor-pro-apple-iphone-14-pro-max?utm_source=heureka",
+      "price": 585.0,
+      "ean": "8597593004895",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21325438",
+          "rating_id_type": "product",
+          "unix_timestamp": 1764935608,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "be2e5e26ad10e84712aa24ccd24f54f57ef0f54b"
+        }
+      ]
+    },
+    {
       "product_name": "iOttie Sticky Gel Dashboard Pad for Car Mounts - podložka pod držák do auta ACDPIO301",
       "url": "https://www.express-servis.cz/p/iottie-sticky-gel-dashboard-pad-for-car-mounts-podlozka-pod-drzak-do-auta?utm_source=heureka",
       "price": 227.0,
@@ -171,6 +251,66 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "668c1359890629630d7b5f1a9d710db966657df5"
+        }
+      ]
+    },
+    {
+      "product_name": "BAKU B-7000 Lepidlo 50g",
+      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml?utm_source=heureka",
+      "price": 33.0,
+      "ean": "8596115571044",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21198566",
+          "rating_id_type": "product",
+          "unix_timestamp": 1763553004,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "d43fc406ec1d116948391fd521b8064c5fcca117"
+        }
+      ]
+    },
+    {
+      "product_name": "Mobile Origin Screen Guard, ochranné sklo s aplikátorem pro iPhone 15 Pro SGZ-i15Pro",
+      "url": "https://www.express-servis.cz/p/mobile-origin-screen-guard-ochranne-sklo-s-aplikatorem-pro-iphone-15-pro?utm_source=heureka",
+      "price": 236.0,
+      "ean": "8594215990413",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21108151",
+          "rating_id_type": "product",
+          "unix_timestamp": 1762417350,
+          "rating": 4.0,
+          "pros": "Snadná instalace",
+          "cons": "Mobil překvapivě ztěžkne, přesto, že je sklíčko tenké",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "751bc128c31f282e54abeae39eec91559ffec1ae"
+        }
+      ]
+    },
+    {
+      "product_name": "Quad Lock Case - iPhone 16 Pro Max - Kryt mobilního telefonu - černý QLC-IP16XL",
+      "url": "https://www.express-servis.cz/p/quad-lock-case-iphone-16-pro-max-kryt-mobilniho-telefonu-cerny-kopie?utm_source=heureka",
+      "price": 978.0,
+      "ean": "9348943102803",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21099182",
+          "rating_id_type": "product",
+          "unix_timestamp": 1762320671,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Kdybych vedel, jaky pekny a precizni kryt obdrzim, o tyden drive bych si nekupoval jiny - tento je fakt dobry, krasne se drzi a je vice safety, nez bezne ty ,ktere muzete prikoupit k telefonu - samozrejme cena vyssi, ale to je hned upozaděno, kdyz viditě kvalitu zpracovani a hlavne i pouzitelnost - moznost pripnout si na ruku, na kolo, na motorku atd atd",
+          "recommends": "1",
+          "fingerprint": "4b58016b858abbbe6fe2db4c4da09cc2ab6233ed"
         }
       ]
     },
@@ -295,6 +435,26 @@
       ]
     },
     {
+      "product_name": "Apple A1382 - originální",
+      "url": "https://www.express-servis.cz/p/baterie-macbook-pro-15-2011-2012-a1382?utm_source=heureka",
+      "price": 1375.0,
+      "ean": "8596115568228",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "20665470",
+          "rating_id_type": "product",
+          "unix_timestamp": 1756457766,
+          "rating": 5.0,
+          "pros": "bezproblémová instalce\nfunguje",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "1736f721d07235da8f64421468d6fc615f6f13cc"
+        }
+      ]
+    },
+    {
       "product_name": "Therabody Theragun Prime Plus TG0004116-3A10",
       "url": "https://www.express-servis.cz/p/therabody-theragun-prime-plus?utm_source=heureka",
       "price": 10974.0,
@@ -315,6 +475,46 @@
       ]
     },
     {
+      "product_name": "Baterie A1953 pro Apple Macbook Pro 15 A1990 2018 - 2019 8596115580060",
+      "url": "https://www.express-servis.cz/p/baterie-macbook-pro-15-2018-2019-a1953?utm_source=heureka",
+      "price": 1715.0,
+      "ean": "8596115580060",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "20539377",
+          "rating_id_type": "product",
+          "unix_timestamp": 1754802313,
+          "rating": 5.0,
+          "pros": "Balíček obsahuje veškeré nářadí potřebné k výměně baterie, včetně obrazového postupu\nBaterie po instalaci funguje\nPro výměnu baterie volte raději videonávod na youtube, je “čitelnějši” a srozumitelnější",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "522e0d75f632d6bfa8dd0808edc716f8ffb142ac"
+        }
+      ]
+    },
+    {
+      "product_name": "BAKU B-7000 Lepidlo 50g",
+      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml?utm_source=heureka",
+      "price": 33.0,
+      "ean": "8596115571044",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "20493259",
+          "rating_id_type": "product",
+          "unix_timestamp": 1754382795,
+          "rating": 5.0,
+          "pros": "Perfektní lepidlo\nSpojí téměř vše \nJe pružné a není agresivní",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "c8ee00ba4d1be77c6242002909758c2b591e0e03"
+        }
+      ]
+    },
+    {
       "product_name": "Spigen Thin Fit, - ochranný kryt pro Apple Watch 9/8/7 45mm, čirý ACS04179",
       "url": "https://www.express-servis.cz/p/spigen-thin-fit-ochranny-kryt-pro-apple-watch-9-8-7-45mm-ciry?utm_source=heureka",
       "price": 350.0,
@@ -331,6 +531,46 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "f04a35ade402599ae67eff12ec687635e1fe842e"
+        }
+      ]
+    },
+    {
+      "product_name": "Páčidlo z nerezové oceli - iSesamo TL0010",
+      "url": "https://www.express-servis.cz/p/pacidlo-z-nerezove-oceli-isesamo?utm_source=heureka",
+      "price": 164.0,
+      "ean": "8597593008381",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "15417441",
+          "rating_id_type": "offer",
+          "unix_timestamp": 1753105696,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Vse OK",
+          "recommends": "1",
+          "fingerprint": "bfec8a22e58bef84809c0b3ac5de9493e098c154"
+        }
+      ]
+    },
+    {
+      "product_name": "Apple iPhone 12 / 12 Pro OLED displej + dotyk černý",
+      "url": "https://www.express-servis.cz/p/lcd-displej-iphone-12-12-pro-original-change-glass-refurbished-cerny?utm_source=heureka",
+      "price": 2035.0,
+      "ean": "8597593014177",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "20348917",
+          "rating_id_type": "product",
+          "unix_timestamp": 1752658153,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "c5ba8643e6f00042ae089c1936c34d75d893243a"
         }
       ]
     },
@@ -371,6 +611,26 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "7c45e2ec4ec934f292f8539432db70128457796c"
+        }
+      ]
+    },
+    {
+      "product_name": "Apple A1705 - originální",
+      "url": "https://www.express-servis.cz/p/baterie-macbook-12-2016-a1705?utm_source=heureka",
+      "price": 1375.0,
+      "ean": "8596115570405",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "20155345",
+          "rating_id_type": "product",
+          "unix_timestamp": 1751202970,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "5e4e9600c8820c7da7704277df5b6157f6d761ad"
         }
       ]
     }
