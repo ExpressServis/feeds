@@ -15265,30 +15265,30 @@
 		<ITEM_ID>SHOP_4946</ITEM_ID>
 		<PRODUCTNAME>Epico USB HUB Multimedia 3 - USB-C PD 3.0, 2 x USB 3.0, HDMI 4K 30Hz, Ethernet, SD, šedý 9915112100040</PRODUCTNAME>
 		<PRODUCT>Epico USB HUB Multimedia 3 - USB-C PD 3.0, 2 x USB 3.0, HDMI 4K 30Hz, Ethernet, SD, šedý 9915112100040</PRODUCT>
-		<DESCRIPTION>Skvelý multimediálny adaptér pre MacBooky a notebooky s USB-C, ktorý vám ho rozšíri o všetky potrebné periférie. Kompaktná veľkosť, podpora 4K@30Hz, HDMI, Ethernet, čítačka SD a Micro SD kariet, šedá farba.</DESCRIPTION>
+		<DESCRIPTION>Skvělý multimediální adaptér pro MacBooky a notebooky s USB-C, který Vám jej rozšíří o všechny potřebné periferie. Kompaktní velikost, podpora 4K@30Hz, HDMI, Ethernet, čtečka SD a Micro SD karet, šedá barva.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Šedá</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>HDMI</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Jack 3,5’’</PARAM_NAME>
+			<PARAM_NAME>Jack 3,5</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>USB 3.0</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>USB C</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Počet USB/USB-C</PARAM_NAME>
@@ -48220,11 +48220,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_11608</ITEM_ID>
-		<PRODUCTNAME>Epico MagSafe Powerbanka 10 000mAh, vesmírne šedá 9915101300250</PRODUCTNAME>
-		<PRODUCT>Epico MagSafe Powerbanka 10 000mAh, vesmírne šedá 9915101300250</PRODUCT>
-		<DESCRIPTION>Epico Mag+ Aluminium Power Bank 10 000 mAh je elegantná powerbanka s prvotriednym hliníkovým povrchom a skvelým výkonom. Kapacita batérie power banky zabezpečí, že sa vaše zariadenia počas dňa nevybijú. Powerbanka je kompatibilná s technológiou MagSafe a podporuje až 15W bezdrôtové nabíjanie (7,5W pre iPhone).</DESCRIPTION>
+		<PRODUCTNAME>Epico MagSafe Powerbanka 10 000mAh, vesmírně šedá 9915101300250</PRODUCTNAME>
+		<PRODUCT>Epico MagSafe Powerbanka 10 000mAh, vesmírně šedá 9915101300250</PRODUCT>
+		<DESCRIPTION>Epico Mag+ Aluminium Power Bank 10 000 mAh je elegantní powerbanka s prvotřídním hliníkovým povrchem a skvělým výkonem. Kapacita baterie power banky zajistí, že se vaše zařízení během dne nevybijí. Powerbanka je kompatibilní s technologií MagSafe a podporuje až 15W bezdrátové nabíjení (7,5W pro iPhone).</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Šedá</VAL>
 		</PARAM>
 		<PARAM>
@@ -48233,11 +48233,11 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>USB 3.0</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>USB C</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Počet USB/USB-C</PARAM_NAME>
@@ -50330,15 +50330,15 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_11696</ITEM_ID>
-		<PRODUCTNAME>Epico Resolve 38W Dual Car Charger, vesmírne šedá 9915111900103</PRODUCTNAME>
-		<PRODUCT>Epico Resolve 38W Dual Car Charger, vesmírne šedá 9915111900103</PRODUCT>
-		<DESCRIPTION>Epico Resolve 38W PD Car Charger je skvelým doplnkom vybavenia vášho automobilu. Má dva výstupy: port USB-C s 20W Power Delivery a port USB-A s 18W Quick Charge. S ohľadom na ekologické hodnoty je 100 % hliníkovej zliatiny použitej pri výrobe tejto autonabíjačky recyklovaných, napríklad z nápojových plechoviek, dverí automobilov alebo okenných rámov.</DESCRIPTION>
+		<PRODUCTNAME>Epico Resolve 38W Dual Car Charger, vesmírně šedá 9915111900103</PRODUCTNAME>
+		<PRODUCT>Epico Resolve 38W Dual Car Charger, vesmírně šedá 9915111900103</PRODUCT>
+		<DESCRIPTION>Epico Resolve 38W PD Car Charger je skvělým doplňkem vybavení vašeho automobilu. Má dva výstupy: port USB-C s 20W Power Delivery a port USB-A s 18W Quick Charge. S ohledem na ekologické hodnoty je 100 % hliníkové slitiny použité při výrobě této autonabíječky recyklováno, například z nápojových plechovek, dveří automobilů nebo okenních rámů.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Šedá</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Bezdrôtové nabíjanie</PARAM_NAME>
+			<PARAM_NAME>Bezdrátové nabíjení</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<MANUFACTURER>Epico</MANUFACTURER>
@@ -102564,12 +102564,12 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_8210</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 11 3110mAh (CoB) vrátane lepenia BT0013</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 11 3110mAh (CoB) vrátane lepenia BT0013</PRODUCT>
-		<DESCRIPTION>Ide o vysoko kvalitnú náhradnú súčiastku s kapacitou 3200mAh, ktorá zabezpečuje dlhú výdrž a optimálny výkon vášho zariadenia. Ideálna voľba na obnovenie plnej funkčnosti iPhone s rýchlym nabíjaním a stabilným výkonom.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 11 3110mAh (CoB) včetně lepení BT0013</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 11 3110mAh (CoB) včetně lepení BT0013</PRODUCT>
+		<DESCRIPTION>Jde o vysoce kvalitní náhradní díl o kapacitě 3200mAh, který zajišťuje dlouhou výdrž a optimální výkon vašeho zařízení. Ideální volba pro obnovu plné funkčnosti iPhone s rychlým nabíjením a stabilním výkonem.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Čierna</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/baterie-iphone-11?utm_source=heureka</URL>
@@ -102607,11 +102607,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_8225</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 11 Pro 3046mAh (CoB) vrátane lepenia BT0014</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 11 Pro 3046mAh (CoB) vrátane lepenia BT0014</PRODUCT>
-		<DESCRIPTION>Náhradná batéria pre Apple iPhone 11 Pro. Ide o vysoko kvalitný náhradný diel s kapacitou 3046mAh, ktorý zabezpečuje dlhú výdrž a optimálny výkon vášho zariadenia. Ideálna voľba pre obnovenie plnej funkčnosti iPhone s rýchlym nabíjaním a stabilným výkonom.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 11 Pro 3046mAh (CoB) včetně lepení BT0014</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 11 Pro 3046mAh (CoB) včetně lepení BT0014</PRODUCT>
+		<DESCRIPTION>Náhradní baterie pro Apple iPhone 11 Pro. Jde o vysoce kvalitní náhradní díl o kapacitě 3046mAh, který zajišťuje dlouhou výdrž a optimální výkon vašeho zařízení. Ideální volba pro obnovu plné funkčnosti iPhone s rychlým nabíjením a stabilním výkonem.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Baterie pro mobilní telefony</CATEGORYTEXT>
@@ -102650,11 +102650,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_8592</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 12 mini 2227mAh (CoB) vrátane lepenia BT0016</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 12 mini 2227mAh (CoB) vrátane lepenia BT0016</PRODUCT>
-		<DESCRIPTION>Náhradná batéria pre Apple iPhone 12 mini. Ide o vysoko kvalitný náhradný diel s kapacitou 2227mAh, ktorý zabezpečuje dlhú výdrž a optimálny výkon vášho zariadenia. Ideálna voľba pre obnovenie plnej funkčnosti iPhone s rýchlym nabíjaním a stabilným výkonom.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 12 mini 2227mAh (CoB) včetně lepení BT0016</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 12 mini 2227mAh (CoB) včetně lepení BT0016</PRODUCT>
+		<DESCRIPTION>Náhradní baterie pro Apple iPhone 12 mini. Jde o vysoce kvalitní náhradní díl o kapacitě 2227mAh, který zajišťuje dlouhou výdrž a optimální výkon vašeho zařízení. Ideální volba pro obnovu plné funkčnosti iPhone s rychlým nabíjením a stabilním výkonem.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Baterie pro mobilní telefony</CATEGORYTEXT>
@@ -102820,11 +102820,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_8875</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 12 / 12 Pro 2815mAh (CoB) vrátane lepenia BT0017</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 12 / 12 Pro 2815mAh (CoB) vrátane lepenia BT0017</PRODUCT>
-		<DESCRIPTION>Náhradná batéria pre Apple iPhone 12 / 12 Pro. Ide o vysoko kvalitný náhradný diel s kapacitou 2815mAh, ktorý zabezpečuje dlhú výdrž a optimálny výkon vášho zariadenia. Ideálna voľba pre obnovenie plnej funkčnosti iPhonu s rýchlym nabíjaním a stabilným výkonom.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 12 / 12 Pro 2815mAh (CoB) včetně lepení BT0017</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 12 / 12 Pro 2815mAh (CoB) včetně lepení BT0017</PRODUCT>
+		<DESCRIPTION>Náhradní baterie pro Apple iPhone 12 / 12 Pro. Jde o vysoce kvalitní náhradní díl o kapacitě 2815mAh, který zajišťuje dlouhou výdrž a optimální výkon vašeho zařízení. Ideální volba pro obnovu plné funkčnosti iPhone s rychlým nabíjením a stabilním výkonem.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Baterie pro mobilní telefony</CATEGORYTEXT>
@@ -102906,11 +102906,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_8955</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 13 Pro 3095mAh (CoB) vrátane lepenia BT0021</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 13 Pro 3095mAh (CoB) vrátane lepenia BT0021</PRODUCT>
-		<DESCRIPTION>Náhradná batéria pre Apple iPhone 13 Pro. Ide o vysoko kvalitný náhradný diel s kapacitou 3095mAh, ktorý zabezpečuje dlhú výdrž a optimálny výkon vášho zariadenia. Ideálna voľba pre obnovenie plnej funkčnosti iPhone s rýchlym nabíjaním a stabilným výkonom.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 13 Pro 3095mAh (CoB) včetně lepení BT0021</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 13 Pro 3095mAh (CoB) včetně lepení BT0021</PRODUCT>
+		<DESCRIPTION>Náhradní baterie pro Apple iPhone 13 Pro. Jde o vysoce kvalitní náhradní díl o kapacitě 3095mAh, který zajišťuje dlouhou výdrž a optimální výkon vašeho zařízení. Ideální volba pro obnovu plné funkčnosti iPhone s rychlým nabíjením a stabilním výkonem.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/baterie-iphone-13-pro?utm_source=heureka</URL>
@@ -102948,11 +102948,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_8965</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 13 3232mAh (CoB) vrátane lepenia BT0020</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 13 3232mAh (CoB) vrátane lepenia BT0020</PRODUCT>
-		<DESCRIPTION>Táto náhradná batéria pre iPhone 13 je perfektnou alternatívou k originálu a zabezpečí spoľahlivý výkon, dlhú výdrž a bezpečný chod.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 13 3232mAh (CoB) včetně lepení BT0020</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 13 3232mAh (CoB) včetně lepení BT0020</PRODUCT>
+		<DESCRIPTION>Tato náhradní baterie pro iPhone 13 je perfektní alternativou k originálu a zajistí spolehlivý výkon, dlouhou výdrž a bezpečný provoz.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Baterie pro mobilní telefony</CATEGORYTEXT>
@@ -102991,11 +102991,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_8997</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 13 mini 2406mAh (CoB) vrátane lepenia BT0019</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 13 mini 2406mAh (CoB) vrátane lepenia BT0019</PRODUCT>
-		<DESCRIPTION>Náhradná batéria pre Apple iPhone 13 mini. Ide o vysoko kvalitný náhradný diel s kapacitou 2406mAh, ktorý zabezpečuje dlhú výdrž a optimálny výkon vášho zariadenia. Ideálna voľba pre obnovu plnej funkčnosti iPhone s rýchlym nabíjaním a stabilným výkonom. Táto náhradná batéria pre iPhone 13 mini je perfektnou alternatívou k originálu a zabezpečí spoľahlivý výkon, dlhú výdrž a bezpečný chod.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 13 mini 2406mAh (CoB) včetně lepení BT0019</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 13 mini 2406mAh (CoB) včetně lepení BT0019</PRODUCT>
+		<DESCRIPTION>Náhradní baterie pro Apple iPhone 13 mini. Jde o vysoce kvalitní náhradní díl o kapacitě 2406mAh, který zajišťuje dlouhou výdrž a optimální výkon vašeho zařízení. Ideální volba pro obnovu plné funkčnosti iPhone s rychlým nabíjením a stabilním výkonem. Tato náhradní baterie pro iPhone 13 mini je perfektní alternativou k originálu a zajistí spolehlivý výkon, dlouhou výdrž a bezpečný provoz.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Baterie pro mobilní telefony</CATEGORYTEXT>
@@ -103460,11 +103460,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_14933</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone X 2716mAh (CoB) vrátane lepenia BT0009</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone X 2716mAh (CoB) vrátane lepenia BT0009</PRODUCT>
-		<DESCRIPTION>Náhradná batéria pre Apple iPhone X. Ide o vysoko kvalitný náhradný diel s kapacitou 2716mAh, ktorý zabezpečuje dlhú výdrž a optimálny výkon vášho zariadenia. Ideálna voľba pre obnovenie plnej funkčnosti iPhone s rýchlym nabíjaním a stabilným výkonom.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone X 2716mAh (CoB) včetně lepení BT0009</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone X 2716mAh (CoB) včetně lepení BT0009</PRODUCT>
+		<DESCRIPTION>Náhradní baterie pro Apple iPhone X. Jde o vysoce kvalitní náhradní díl o kapacitě 2716mAh, který zajišťuje dlouhou výdrž a optimální výkon vašeho zařízení. Ideální volba pro obnovu plné funkčnosti iPhone s rychlým nabíjením a stabilním výkonem.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Baterie pro mobilní telefony</CATEGORYTEXT>
@@ -105144,11 +105144,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_14924</ITEM_ID>
-		<PRODUCTNAME>Článok batérie iPhone 12 mini 2227mAh (CoB) BT0035</PRODUCTNAME>
-		<PRODUCT>Článok batérie iPhone 12 mini 2227mAh (CoB) BT0035</PRODUCT>
-		<DESCRIPTION>Náhradný článok batérie bez flex kábla s označením CoB (kobaltová batéria), určený pre telefón značky Apple. Článok batérie je určený na prepájanie flex kábla z pôvodnej batérie, telefón teda nebude zobrazovať varovanie o neoriginálnej batérii. Tento náhradný článok pre iPhone 12 mini je perfektnou alternatívou k originálu a zabezpečí spoľahlivý výkon, dlhú výdrž a bezpečný prevádzku.</DESCRIPTION>
+		<PRODUCTNAME>Článek baterie iPhone 12 mini 2227mAh (CoB) BT0035</PRODUCTNAME>
+		<PRODUCT>Článek baterie iPhone 12 mini 2227mAh (CoB) BT0035</PRODUCT>
+		<DESCRIPTION>Náhradní článek baterie bez flex kabelu s označením CoB (kobaltová baterie), určený pro telefon značky Apple. Článek baterie je určený pro přepájení flex kabelu z původní baterie, telefon tedy nebude zobrazovat varování o neoriginální baterii. Tento náhradní článek pro iPhone 12 mini je perfektní alternativou k originálu a zajistí spolehlivý výkon, dlouhou výdrž a bezpečný provoz.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Baterie pro mobilní telefony</CATEGORYTEXT>
@@ -149911,11 +149911,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_13121</ITEM_ID>
-		<PRODUCTNAME>UAG Metropolis SE - ochranný kryt pre iPad Air 11" (2024/25), zelený 124473117272</PRODUCTNAME>
-		<PRODUCT>UAG Metropolis SE - ochranný kryt pre iPad Air 11" (2024/25), zelený 124473117272</PRODUCT>
-		<DESCRIPTION>UAG Metropolis SE ochranné puzdro. Testované pre lekárske prostredie (puzdro UAG je možné opakovane dezinfikovať lekárskymi obrúskami a dezinfekčnými prostriedkami, aniž by sa zmenila integrita puzdra). Vysoko odolné kvalitné puzdro s originálnym dizajnom. Patentovaná kompozitná konštrukcia – tvrdý plášť puzdra s jadrom z odolného plastu. Rohy puzdra sú vystužené a ochránia tak vaše zariadenie pred otrasmi a nárazmi. Možnosť zloženia do rôznych polôh ako stojanček. Auto sleep/wake funkcia.</DESCRIPTION>
+		<PRODUCTNAME>UAG Metropolis SE - ochranný kryt pro iPad Air 11" (2024/25), zelený 124473117272</PRODUCTNAME>
+		<PRODUCT>UAG Metropolis SE - ochranný kryt pro iPad Air 11" (2024/25), zelený 124473117272</PRODUCT>
+		<DESCRIPTION>UAG Metropolis SE ochranné pouzdro. Testováno pro lékařské prostředí (pouzdro UAG lze opakovaně dezinfikovat lékařskými ubrousky a dezinfekčními prostředky, aniž by se změnila integrita pouzdra). Vysoce odolné kvalitní pouzdro s originálním designem. Patentovaná kompozitní konstrukce – tvrdý plášť pouzdra s jádrem z odolného plastu. Rohy pouzdra jsou vyztužené a ochrání tak Vaše zařízení před otřesy a nárazy. Možnost složení do různých poloh jako stojánek. Auto sleep/wake funkce.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Zelená</VAL>
 		</PARAM>
 		<PARAM>
@@ -150605,19 +150605,19 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17551</ITEM_ID>
-		<PRODUCTNAME>Epico UltraBoost Flat GaN 65W Nástenný nabíjač EA65b, biela 9915101100209</PRODUCTNAME>
-		<PRODUCT>Epico UltraBoost Flat GaN 65W Nástenný nabíjač EA65b, biela 9915101100209</PRODUCT>
-		<DESCRIPTION>Ultra-tenká 65W nabíjačka s technológiou GaN a skladacou zástrčkou je ideálna pre rýchle a bezpečné nabíjanie. Ponúka dva USB-C PD porty (65 W) a jeden USB-A port (18 W), čo umožňuje nabíjať viac zariadení naraz.</DESCRIPTION>
+		<PRODUCTNAME>Epico UltraBoost Flat GaN 65W Wall Charger EA65b, bílá 9915101100209</PRODUCTNAME>
+		<PRODUCT>Epico UltraBoost Flat GaN 65W Wall Charger EA65b, bílá 9915101100209</PRODUCT>
+		<DESCRIPTION>Ultra-tenká 65W nabíječka s technologií GaN a skládací zástrčkou je ideální pro rychlé a bezpečné nabíjení. Nabízí dva USB-C PD porty (65 W) a jeden USB-A port (18 W), což umožňuje nabíjet více zařízení najednou.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Napájací adaptér</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Napájecí adaptér</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Biela</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Bílá</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Bezdrôtové nabíjanie</PARAM_NAME>
+			<PARAM_NAME>Bezdrátové nabíjení</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<MANUFACTURER>Epico</MANUFACTURER>
@@ -150955,12 +150955,12 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17558</ITEM_ID>
-		<PRODUCTNAME>Epico UltraPack Qi2 10000mAh Alu Mag+ Wireless Power Bank EM71, titánová 9915112100085</PRODUCTNAME>
-		<PRODUCT>Epico UltraPack Qi2 10000mAh Alu Mag+ Wireless Power Bank EM71, titánová 9915112100085</PRODUCT>
-		<DESCRIPTION>Qi2 bezdrôtová powerbanka s 15W MagSafe nabíjaním a USB-C PD výstupom 20 W umožňuje až 2× rýchlejšie nabíjanie než bežné Qi nabíjačky. Vďaka kapacite 10 000 mAh nabijete iPhone 16 Pro až dvakrát, zatiaľ čo silný magnet zabezpečuje stabilné uchytenie.</DESCRIPTION>
+		<PRODUCTNAME>Epico UltraPack Qi2 10000mAh Alu Mag+ Wireless Power Bank EM71, titanová 9915112100085</PRODUCTNAME>
+		<PRODUCT>Epico UltraPack Qi2 10000mAh Alu Mag+ Wireless Power Bank EM71, titanová 9915112100085</PRODUCT>
+		<DESCRIPTION>Qi2 bezdrátová powerbanka s 15W MagSafe nabíjením a USB-C PD výstupem 20 W umožňuje až 2× rychlejší nabíjení než běžné Qi nabíječky. Díky kapacitě 10 000 mAh nabijete iPhone 16 Pro až dvakrát, zatímco silný magnet zajišťuje stabilní uchycení.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Hnedá</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Hnědá</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
@@ -150972,7 +150972,7 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>USB C</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Počet USB/USB-C</PARAM_NAME>
@@ -151018,12 +151018,12 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17559</ITEM_ID>
-		<PRODUCTNAME>Epico UltraPack Qi2 10000mAh Alu Mag+ Wireless Power Bank EM71, čierna 9915111300055</PRODUCTNAME>
-		<PRODUCT>Epico UltraPack Qi2 10000mAh Alu Mag+ Wireless Power Bank EM71, čierna 9915111300055</PRODUCT>
-		<DESCRIPTION>Qi2 Powerbank 10 000 mAh poskytuje až 2x rýchlejšie nabíjanie než bežné Qi nabíjačky vďaka Qi2 technológii. MagSafe kompatibilita a silný magnet zabezpečujú bezpečné prichytenie k telefónu, zatiaľ čo kapacita 10 000 mAh umožňuje 2 plné nabitia vášho iPhonu 16 Pro.</DESCRIPTION>
+		<PRODUCTNAME>Epico UltraPack Qi2 10000mAh Alu Mag+ Wireless Power Bank EM71, černá 9915111300055</PRODUCTNAME>
+		<PRODUCT>Epico UltraPack Qi2 10000mAh Alu Mag+ Wireless Power Bank EM71, černá 9915111300055</PRODUCT>
+		<DESCRIPTION>Qi2 Powerbank 10 000 mAh poskytuje až 2x rychlejší nabíjení než běžné Qi nabíječky díky Qi2 technologii. MagSafe kompatibilita a silný magnet zajišťují bezpečné přichycení k telefonu, zatímco kapacita 10 000 mAh umožňuje 2 plná nabití vašeho iPhonu 16 Pro.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Čierna</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
@@ -151035,7 +151035,7 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>USB C</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Počet USB/USB-C</PARAM_NAME>
@@ -155324,11 +155324,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_18209</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 13 3232mAh (CoB) s podporou konfigurácie BT0140</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 13 3232mAh (CoB) s podporou konfigurácie BT0140</PRODUCT>
-		<DESCRIPTION>Táto náhradná batéria pre iPhone 13 je perfektnou alternatívou k originálu a zabezpečí spoľahlivý výkon, dlhú výdrž a bezpečný chod.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 13 3232mAh (CoB) s podporou konfigurace BT0140</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 13 3232mAh (CoB) s podporou konfigurace BT0140</PRODUCT>
+		<DESCRIPTION>Tato náhradní baterie pro iPhone 13 je perfektní alternativou k originálu a zajistí spolehlivý výkon, dlouhou výdrž a bezpečný provoz.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Baterie pro mobilní telefony</CATEGORYTEXT>
@@ -155368,11 +155368,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_18212</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 13 Pro 3095mAh (CoB) s podporou konfigurácie BT0141</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 13 Pro 3095mAh (CoB) s podporou konfigurácie BT0141</PRODUCT>
-		<DESCRIPTION>Náhradná batéria pre Apple iPhone 13 Pro. Ide o vysoko kvalitný náhradný diel s kapacitou 3095mAh, ktorý zabezpečuje dlhú výdrž a optimálny výkon vášho zariadenia. Ideálna voľba pre obnovenie plnej funkčnosti iPhone s rýchlym nabíjaním a stabilným výkonom.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 13 Pro 3095mAh (CoB) s podporou konfigurace BT0141</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 13 Pro 3095mAh (CoB) s podporou konfigurace BT0141</PRODUCT>
+		<DESCRIPTION>Náhradní baterie pro Apple iPhone 13 Pro. Jde o vysoce kvalitní náhradní díl o kapacitě 3095mAh, který zajišťuje dlouhou výdrž a optimální výkon vašeho zařízení. Ideální volba pro obnovu plné funkčnosti iPhone s rychlým nabíjením a stabilním výkonem.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/baterie-iphone-13-pro-3095mah-cob-s-podporou-konfigurace?utm_source=heureka</URL>
@@ -155411,11 +155411,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_18214</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 13 mini 2406mAh (CoB) s podporou konfigurácie BT0142</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 13 mini 2406mAh (CoB) s podporou konfigurácie BT0142</PRODUCT>
-		<DESCRIPTION>Náhradná batéria pre Apple iPhone 13 mini. Ide o vysoko kvalitný náhradný diel s kapacitou 2406mAh, ktorý zabezpečuje dlhú výdrž a optimálny výkon vášho zariadenia. Ideálna voľba pre obnovu plnej funkčnosti iPhone s rýchlym nabíjaním a stabilným výkonom. Táto náhradná batéria pre iPhone 13 mini je perfektnou alternatívou k originálu a zabezpečí spoľahlivý výkon, dlhú výdrž a bezpečný chod.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 13 mini 2406mAh (CoB) s podporou konfigurace BT0142</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 13 mini 2406mAh (CoB) s podporou konfigurace BT0142</PRODUCT>
+		<DESCRIPTION>Náhradní baterie pro Apple iPhone 13 mini. Jde o vysoce kvalitní náhradní díl o kapacitě 2406mAh, který zajišťuje dlouhou výdrž a optimální výkon vašeho zařízení. Ideální volba pro obnovu plné funkčnosti iPhone s rychlým nabíjením a stabilním výkonem. Tato náhradní baterie pro iPhone 13 mini je perfektní alternativou k originálu a zajistí spolehlivý výkon, dlouhou výdrž a bezpečný provoz.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Baterie pro mobilní telefony</CATEGORYTEXT>
@@ -155587,11 +155587,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_18223</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 14 Pro 3200mAh (CoB) s podporou konfigurácie BT0146</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 14 Pro 3200mAh (CoB) s podporou konfigurácie BT0146</PRODUCT>
-		<DESCRIPTION>Táto náhradná batéria pre iPhone 14 Pro je perfektnou alternatívou k originálu a zabezpečí spoľahlivý výkon, dlhú výdrž a bezpečný chod.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 14 Pro 3200mAh (CoB) s podporou konfigurace BT0146</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 14 Pro 3200mAh (CoB) s podporou konfigurace BT0146</PRODUCT>
+		<DESCRIPTION>Tato náhradní baterie pro iPhone 14 Pro je perfektní alternativou k originálu a zajistí spolehlivý výkon, dlouhou výdrž a bezpečný provoz.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Baterie pro mobilní telefony</CATEGORYTEXT>
@@ -155631,11 +155631,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_18226</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 14 Pro Max 4323mAh (CoB) s podporou konfigurácie BT0147</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 14 Pro Max 4323mAh (CoB) s podporou konfigurácie BT0147</PRODUCT>
-		<DESCRIPTION>Náhradná batéria pre Apple iPhone 14 Pro Max. Ide o vysoko kvalitný náhradný diel s kapacitou 4323mAh, ktorý zabezpečuje dlhú výdrž a optimálny výkon vášho zariadenia. Ideálna voľba pre obnovenie plnej funkčnosti iPhonu s rýchlym nabíjaním a stabilným výkonom.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 14 Pro Max 4323mAh (CoB) s podporou konfigurace BT0147</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 14 Pro Max 4323mAh (CoB) s podporou konfigurace BT0147</PRODUCT>
+		<DESCRIPTION>Náhradní baterie pro Apple iPhone 14 Pro Max. Jde o vysoce kvalitní náhradní díl o kapacitě 4323mAh, který zajišťuje dlouhou výdrž a optimální výkon vašeho zařízení. Ideální volba pro obnovu plné funkčnosti iPhone s rychlým nabíjením a stabilním výkonem.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Baterie pro mobilní telefony</CATEGORYTEXT>
@@ -172298,9 +172298,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17332</ITEM_ID>
-		<PRODUCTNAME>Puzdro Swissten MagStick shell pre Apple iPhone 13 Pro modré 35503115</PRODUCTNAME>
-		<PRODUCT>Puzdro Swissten MagStick shell pre Apple iPhone 13 Pro modré 35503115</PRODUCT>
-		<DESCRIPTION>Puzdro SWISSTEN MagStick Shell je ideálnym doplnkom, ktorý skvele ochráni Vaše zariadenie a zároveň vynikne dizajnom uhlíkových vlákien. Puzdro podporuje bezdrôtové dobíjanie MagSafe. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PRODUCTNAME>Pouzdro Swissten MagStick shell pro Apple iPhone 13 Pro modré 35503115</PRODUCTNAME>
+		<PRODUCT>Pouzdro Swissten MagStick shell pro Apple iPhone 13 Pro modré 35503115</PRODUCT>
+		<DESCRIPTION>Pouzdro SWISSTEN MagStick Shell je ideálním doplňkem, který skvěle ochrání Vaše zařízení a zároveň vynikne designem uhlíkových vláken. Pouzdro podporuje bezdrátové dobíjení MagSafe. Baleno v blistru SWISSTEN.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/pouzdro-swissten-magstick-shell-pro-apple-iphone-13-pro-modre?utm_source=heureka</URL>
 		<IMGURL>https://api.express-servis.cz/files/shop/product-files/86885</IMGURL>
@@ -189114,9 +189114,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17515</ITEM_ID>
-		<PRODUCTNAME>Swissten power line power banka 60000 mAh pre notebooky 65W power delivery čierna 22013943</PRODUCTNAME>
-		<PRODUCT>Swissten power line power banka 60000 mAh pre notebooky 65W power delivery čierna 22013943</PRODUCT>
-		<DESCRIPTION>Powerbanka SWISSTEN s kapacitou 60.000mAh (222Wh), výkonom 65W a formátmi rýchleho nabíjania PowerDelivery 3.0, Qualcomm 3.0 a Huawei SCP. Balené v krabičke SWISSTEN.</DESCRIPTION>
+		<PRODUCTNAME>Swissten power line power bank 60000 mah pro notebooky 65w power delivery black 22013943</PRODUCTNAME>
+		<PRODUCT>Swissten power line power bank 60000 mah pro notebooky 65w power delivery black 22013943</PRODUCT>
+		<DESCRIPTION>Powerbanka SWISSTEN s kapacitou 60.000mAh (222Wh), výkonem 65W a formáty rychlého dobíjení PowerDelivery 3.0, Qualcomm 3.0 a Huawei SCP. Baleno v krabičce SWISSTEN</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Baterie a nabíjení | Powerbanky</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/swissten-power-line-power-bank-60000-mah-pro-notebooky-65w-power-delivery-black?utm_source=heureka</URL>
@@ -191658,9 +191658,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17505</ITEM_ID>
-		<PRODUCTNAME>Swissten sieťový adaptér gan 1x usb-c 45w pd + 1x usb-a 18w qc čierny 22071310</PRODUCTNAME>
-		<PRODUCT>Swissten sieťový adaptér gan 1x usb-c 45w pd + 1x usb-a 18w qc čierny 22071310</PRODUCT>
-		<DESCRIPTION>Nabíjačka Swissten, Max. výkon 45 Wattov, 1x USB-C + 1x USB-A, GaN technológia - efektívne nabíjanie bez prehriatia, Ochrana proti skratom, prepätiu, preťaženiu nabíjania a vysokej teplote, Menšie rozmery. Balené v blistri Swissten.</DESCRIPTION>
+		<PRODUCTNAME>Swissten síťový adaptér gan 1x usb-c 45w pd + 1x usb-a 18w qc černý 22071310</PRODUCTNAME>
+		<PRODUCT>Swissten síťový adaptér gan 1x usb-c 45w pd + 1x usb-a 18w qc černý 22071310</PRODUCT>
+		<DESCRIPTION>Nabíječka Swissten, Max. výkon 45 Wattů, 1x USB-C + 1x USB-A, GaN technologie - efektivní nabíjení bez přehřívání, Ochrana proti zkratování, přepětí, přetížení nabíjení a vysoké teplotě, Menší rozměry. Baleno v blistru Swissten.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Nabíječky pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-1x-usb-c-45w-pd-1x-usb-a-18w-qc-cerny?utm_source=heureka</URL>
@@ -267049,11 +267049,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20306</ITEM_ID>
-		<PRODUCTNAME>Displej iPhone 12 Pro Max - Originálne zostavený (FOG) Originálny TP - čierny IPH1003</PRODUCTNAME>
-		<PRODUCT>Displej iPhone 12 Pro Max - Originálne zostavený (FOG) Originálny TP - čierny IPH1003</PRODUCT>
-		<DESCRIPTION>Náhradný LCD displej s dotykovým sklom pre Apple iPhone 12 Pro Max. Náhradný diel, ktorý využijete, ak sa vám pôvodný displej poškrábal alebo praskol. Ponúka ostré farby, rýchlu odozvu dotyku a perfektnú čitateľnosť na slnku.</DESCRIPTION>
+		<PRODUCTNAME>Display iPhone 12 Pro Max - Original Assembled (FOG) Original TP - černý IPH1003</PRODUCTNAME>
+		<PRODUCT>Display iPhone 12 Pro Max - Original Assembled (FOG) Original TP - černý IPH1003</PRODUCT>
+		<DESCRIPTION>Náhradní LCD displej s dotykovým sklem pro Apple iPhone 12 Pro Max. Náhradní díl, který využijete, pokud se vám původních displej poškrábal nebo praskl. Nabízí ostré barvy, rychlou odezvu dotyku a perfektní čitelnost na slunci.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | LCD displeje k mobilním telefonům</CATEGORYTEXT>
@@ -293600,11 +293600,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20975</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 12 mini 2460mAh (CoB) s podporou konfigurácie - originál BT0155</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 12 mini 2460mAh (CoB) s podporou konfigurácie - originál BT0155</PRODUCT>
-		<DESCRIPTION>Batéria s originálnym BMS a kapacitou 2460 mAh (CoB) pre iPhone 12 mini s podporou konfigurácie. Kvalitná náhradná súčiastka na obnovenie pôvodnej výdrže a výkonu telefónu.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 12 mini 2460mAh (CoB) s podporou konfigurace - genuine BT0155</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 12 mini 2460mAh (CoB) s podporou konfigurace - genuine BT0155</PRODUCT>
+		<DESCRIPTION>Baterie s originální BMS a kapacitou 2460 mAh (CoB) pro iPhone 12 mini s podporou konfigurace. Kvalitní náhradní díl pro obnovení původní výdrže a výkonu telefonu.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Baterie pro mobilní telefony</CATEGORYTEXT>
@@ -295245,12 +295245,12 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21055</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 15 Pro Max 4730 mAh s podporou konfigurácie - Genuine BT0168</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 15 Pro Max 4730 mAh s podporou konfigurácie - Genuine BT0168</PRODUCT>
-		<DESCRIPTION>Náhradná batéria pre Apple iPhone 15 Pro Max. Ide o vysoko kvalitný náhradný diel s kapacitou 4730mAh, ktorý zabezpečuje dlhú výdrž a optimálny výkon vášho zariadenia. Ideálna voľba pre obnovu plnej funkčnosti iPhone s rýchlym nabíjaním a stabilným výkonom.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 15 Pro Max 4730 mAh s podporou konfigurace - Genuine BT0168</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 15 Pro Max 4730 mAh s podporou konfigurace - Genuine BT0168</PRODUCT>
+		<DESCRIPTION>Náhradní baterie pro Apple iPhone 15 Pro Max. Jde o vysoce kvalitní náhradní díl o kapacitě 4730mAh, který zajišťuje dlouhou výdrž a optimální výkon vašeho zařízení. Ideální volba pro obnovu plné funkčnosti iPhone s rychlým nabíjením a stabilním výkonem.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Čierna</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/baterie-iphone-15-pro-max-4730-mah-s-podporou-konfigurace-genuine?utm_source=heureka</URL>
@@ -338919,11 +338919,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21592</ITEM_ID>
-		<PRODUCTNAME>Batéria iPhone 13 Pro 3095mAh s podporou konfigurácie - bulk BT0176</PRODUCTNAME>
-		<PRODUCT>Batéria iPhone 13 Pro 3095mAh s podporou konfigurácie - bulk BT0176</PRODUCT>
-		<DESCRIPTION>Náhradná batéria pre Apple iPhone 13 Pro. Ide o vysoko kvalitný náhradný diel s kapacitou 3095mAh, ktorý zabezpečuje dlhú výdrž a optimálny výkon vášho zariadenia. Ideálna voľba pre obnovenie plnej funkčnosti iPhone s rýchlym nabíjaním a stabilným výkonom.</DESCRIPTION>
+		<PRODUCTNAME>Baterie iPhone 13 Pro 3095mAh s podporou konfigurace - bulk BT0176</PRODUCTNAME>
+		<PRODUCT>Baterie iPhone 13 Pro 3095mAh s podporou konfigurace - bulk BT0176</PRODUCT>
+		<DESCRIPTION>Náhradní baterie pro Apple iPhone 13 Pro. Jde o vysoce kvalitní náhradní díl o kapacitě 3095mAh, který zajišťuje dlouhou výdrž a optimální výkon vašeho zařízení. Ideální volba pro obnovu plné funkčnosti iPhone s rychlým nabíjením a stabilním výkonem.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>Express Servis Company</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/baterie-iphone-13-pro-3095mah-s-podporou-konfigurace-bulk?utm_source=heureka</URL>
@@ -341036,16 +341036,16 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_13011</ITEM_ID>
-		<PRODUCTNAME>Hello Kitty IML Head Logo - ochranný kryt pre iPhone 13 Pro, biely HKHCP13LHCKHST</PRODUCTNAME>
-		<PRODUCT>Hello Kitty IML Head Logo - ochranný kryt pre iPhone 13 Pro, biely HKHCP13LHCKHST</PRODUCT>
-		<DESCRIPTION>Predstavujeme vám prémiový kryt Hello Kitty - dokonalá kombinácia štýlu, ochrany a pohodlia pre váš telefón! Tento originálny kryt s logom hlavy Hello Kitty je vyrobený z mäkkého plastu, ktorý je pevný a zároveň pružný. To znamená, že poskytuje telefónu najlepšiu ochranu proti nepriaznivým vplyvom, ako sú poškriabania, otras, prach a dokonca aj pády.</DESCRIPTION>
+		<PRODUCTNAME>Hello Kitty IML Head Logo - ochranný kryt pro iPhone 13 Pro, bílý HKHCP13LHCKHST</PRODUCTNAME>
+		<PRODUCT>Hello Kitty IML Head Logo - ochranný kryt pro iPhone 13 Pro, bílý HKHCP13LHCKHST</PRODUCT>
+		<DESCRIPTION>Představujeme vám prémiový kryt Hello Kitty - dokonalá kombinace stylu, ochrany a pohodlí pro váš telefon! Tento originální kryt s logem hlavy Hello Kitty je vyroben z měkkého plastu, který je pevný a zároveň pružný. To znamená, že poskytuje telefonu nejlepší ochranu proti nepříznivým vlivům, jako jsou poškrábání, otřesy, prach a dokonce i pády.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Biela</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Bílá</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
@@ -341090,9 +341090,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20139</ITEM_ID>
-		<PRODUCTNAME>iPad Pro 10.5 LCD displej + dotyková doska biela 57983104389</PRODUCTNAME>
-		<PRODUCT>iPad Pro 10.5 LCD displej + dotyková doska biela 57983104389</PRODUCT>
-		<DESCRIPTION>Upozornenie: Dbajte na antistatickú ochranu: Pracujte na antistatickej podložke a prípadne používajte antistatický náramok. Skontrolujte, že máte všetky časti, ktoré by mohli podliehať statickej elektrine, správne podlepene antistatickou páskou. LCD pred inštaláciou riadne otestujte (funkčnosť dotyku, farby, jas, funkčnosť senzora, správnosť pixelového zobrazenia). Inštaláciu vykonajte s odpojenou batériou a uistite sa, že konektory sú do seba riadne zapojené, po inštalácii vykonajte riadnu kontrolu znova. Na použitý diel sa záruka nevzťahuje.</DESCRIPTION>
+		<PRODUCTNAME>iPad Pro 10.5 LCD Display + Dotyková Deska White 57983104389</PRODUCTNAME>
+		<PRODUCT>iPad Pro 10.5 LCD Display + Dotyková Deska White 57983104389</PRODUCT>
+		<DESCRIPTION>Upozornění: Dbejte na antistatickou ochranu: Pracujte na antistatické podložce a případně používejte antistatický náramek. Zkontrolujte, že máte všechny části, které by mohli podléhat statické elektřině správně podlepeny antistatickou páskou. LCD před instalací řádně otestujte (funkčnost dotyku, barvy, jas, funkčnost senzoru, správnost pixelového zobrazení) Instalaci proveďte s odpojenou baterií a ujistěte se, že konektory jsou do sebe řádně zapojeny, po instalaci proveďte řádnou kontrolu znovu. Na použítý díl se záruka nevztahuje.</DESCRIPTION>
 		<MANUFACTURER>iPhone LCD</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/ipad-pro-10-5-lcd-display-dotykova-deska-white?utm_source=heureka</URL>
@@ -341838,7 +341838,7 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_12956</ITEM_ID>
-		<DESCRIPTION>Guess PU 4G Metal Logo prémiový kryt, ktorý nielenže váš telefón perfektne ochráni, ale aj svojím podareným dizajnom a použitými prvotriednymi materiálmi bude ako šperk. Kryt je vyrobený z odolného PU materiálu, ktorý je mäkký a pružný a zároveň váš telefón ochráni najlepšie, ako je to možné. Prémiový dizajn dopĺňa kovové logo Guess na zadnej strane. Kryt ochráni váš telefón pred otrasmi, odreninami, poškriabaním a nečistotami.</DESCRIPTION>
+		<DESCRIPTION>Guess PU 4G Metal Logo prémiový kryt, který nejen že váš telefon perfektně ochrání, ale také svým povedeným designem a použitými prvotřídními materiály bude jako šperk. Kryt je vyroben z odolného PU materiálu, který je měkký a pružný a zároveň váš telefon ochrání nejlépe jak je to možné. Prémiový design doplňuje kovové logo Guess na zadní straně. Kryt ochrání váš telefon před otřesy, odřením, poškrábáním a nečistotami.</DESCRIPTION>
 		<MANUFACTURER>GUESS</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/guess-pu-4g-metal-logo-ochranny-kryt-pro-iphone-15-pro-max-ruzovy?utm_source=heureka</URL>
 		<IMGURL>https://api.express-servis.cz/files/shop/product-files/61200</IMGURL>
