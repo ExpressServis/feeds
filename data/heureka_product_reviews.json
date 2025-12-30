@@ -1,9 +1,9 @@
 {
-  "generated_at": 1766980577,
+  "generated_at": 1767066269,
   "stats": {
-    "products_count": 30,
-    "raw_reviews_in_feed": 30,
-    "saved_reviews": 30,
+    "products_count": 34,
+    "raw_reviews_in_feed": 34,
+    "saved_reviews": 34,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -34,6 +34,106 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Guess 4G Script PC/PU Pouzdro pro Airpods Pro, hnědý GUAP4GSMW",
+      "url": "https://www.express-servis.cz/p/guess-4g-script-pc-pu-pouzdro-pro-airpods-pro-brown?utm_source=heureka",
+      "price": 359.0,
+      "ean": "3666339009731",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21492107",
+          "rating_id_type": "product",
+          "unix_timestamp": 1767017541,
+          "rating": 4.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "c6f332549488ce1f3e6e2f73e4763714dba1177f"
+        }
+      ]
+    },
+    {
+      "product_name": "Guess 4G Script PC/PU Pouzdro pro AirPods Pro, černé GUAP4GSMK",
+      "url": "https://www.express-servis.cz/p/guess-4g-script-pc-pu-pouzdro-pro-airpods-pro-black?utm_source=heureka",
+      "price": 368.0,
+      "ean": "3666339009700",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21492106",
+          "rating_id_type": "product",
+          "unix_timestamp": 1767017540,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "418632892ffa26c08eb275cee66fcb0296884692"
+        }
+      ]
+    },
+    {
+      "product_name": "UAG Pathfinder - ochranný kryt s MagSafe pro iPhone 15 Pro, černá/šedá 114281113131",
+      "url": "https://www.express-servis.cz/p/uag-pathfinder-ochranny-kryt-s-magsafe-pro-iphone-15-pro-cerna-seda?utm_source=heureka",
+      "price": 733.0,
+      "ean": "840283909405",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21490128",
+          "rating_id_type": "product",
+          "unix_timestamp": 1767003437,
+          "rating": 5.0,
+          "pros": "Lehký \nSkvěle chrání telefon \nNeotřelý vzhled",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "ea96b51f515cb6cc86641d3e5a70800d429dd803"
+        }
+      ]
+    },
+    {
+      "product_name": "Tactical Mine MagForce 57983106500",
+      "url": "https://www.express-servis.cz/p/tactical-mine-magforce?utm_source=heureka",
+      "price": 404.0,
+      "ean": "8596311164354",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21490007",
+          "rating_id_type": "product",
+          "unix_timestamp": 1767002824,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Nedrží na některé silikonové obaly bez přilepení magnetického proužku, ale s ním drží telefon jako přikovaný. Jednoduchá aplikace, nepřekáží. Nenápadný, vkusný.",
+          "recommends": "1",
+          "fingerprint": "6bba139987f47841ede8c3a1d4a1333b093fe66d"
+        }
+      ]
+    },
+    {
+      "product_name": "Swissten power bank 20000 mAh 45W s integrovaným kabelem USB-C vesmírně stříbrná 22013976",
+      "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-45w-s-integrovanym-kabelem-usb-c-vesmirne-stribrna?utm_source=heureka",
+      "price": 713.0,
+      "ean": "8595217490833",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21488575",
+          "rating_id_type": "product",
+          "unix_timestamp": 1766995620,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "1531d68aca49d1d351882b9fe5c524ed38631125"
+        }
+      ]
+    },
     {
       "product_name": "Bluetooth headset swissten dock earpiece 51204000",
       "url": "https://www.express-servis.cz/p/bluetooth-headset-swissten-dock-earpiece?utm_source=heureka",
@@ -377,7 +477,7 @@
     {
       "product_name": "Danalock V3 - univerzální modul - Bluetooth DL-02031304",
       "url": "https://www.express-servis.cz/p/danalock-v3-univerzalni-modul-bluetooth-1?utm_source=heureka",
-      "price": 3486.0,
+      "price": 3566.0,
       "ean": "5712560000547",
       "reviews_count": 1,
       "reviews": [
@@ -437,7 +537,7 @@
     {
       "product_name": "Apple A1382 - originální",
       "url": "https://www.express-servis.cz/p/baterie-macbook-pro-15-2011-2012-a1382?utm_source=heureka",
-      "price": 1375.0,
+      "price": 1215.0,
       "ean": "8596115568228",
       "reviews_count": 1,
       "reviews": [
@@ -457,7 +557,7 @@
     {
       "product_name": "Therabody Theragun Prime Plus TG0004116-3A10",
       "url": "https://www.express-servis.cz/p/therabody-theragun-prime-plus?utm_source=heureka",
-      "price": 10974.0,
+      "price": 11413.0,
       "ean": "840295405490",
       "reviews_count": 1,
       "reviews": [
@@ -477,7 +577,7 @@
     {
       "product_name": "Baterie A1953 pro Apple Macbook Pro 15 A1990 2018 - 2019 8596115580060",
       "url": "https://www.express-servis.cz/p/baterie-macbook-pro-15-2018-2019-a1953?utm_source=heureka",
-      "price": 1715.0,
+      "price": 1775.0,
       "ean": "8596115580060",
       "reviews_count": 1,
       "reviews": [
@@ -517,7 +617,7 @@
     {
       "product_name": "Spigen Thin Fit, - ochranný kryt pro Apple Watch 9/8/7 45mm, čirý ACS04179",
       "url": "https://www.express-servis.cz/p/spigen-thin-fit-ochranny-kryt-pro-apple-watch-9-8-7-45mm-ciry?utm_source=heureka",
-      "price": 350.0,
+      "price": 341.0,
       "ean": "8809811857641",
       "reviews_count": 1,
       "reviews": [
@@ -611,26 +711,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "7c45e2ec4ec934f292f8539432db70128457796c"
-        }
-      ]
-    },
-    {
-      "product_name": "Apple A1705 - originální",
-      "url": "https://www.express-servis.cz/p/baterie-macbook-12-2016-a1705?utm_source=heureka",
-      "price": 1375.0,
-      "ean": "8596115570405",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20155345",
-          "rating_id_type": "product",
-          "unix_timestamp": 1751202970,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "5e4e9600c8820c7da7704277df5b6157f6d761ad"
         }
       ]
     }
