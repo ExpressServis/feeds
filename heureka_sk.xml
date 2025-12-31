@@ -4201,12 +4201,12 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_4875</ITEM_ID>
-		<PRODUCTNAME>Epico kľúčenka pre Apple AirTag silikónová Čierna</PRODUCTNAME>
-		<PRODUCT>Epico kľúčenka pre Apple AirTag silikónová Čierna</PRODUCT>
-		<DESCRIPTION>Praktické a flexibilné pútko pre AirTag, elegantné silikónové prevedenie, čierna farba.</DESCRIPTION>
+		<PRODUCTNAME>Epico klíčenka pro Apple AirTag silicone Černá</PRODUCTNAME>
+		<PRODUCT>Epico klíčenka pro Apple AirTag silicone Černá</PRODUCT>
+		<DESCRIPTION>Praktické a flexibilní poutko pro AirTag, elegantní silikonové provedení, černá barva.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Čierna</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
 		</PARAM>
 		<MANUFACTURER>Epico</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/epico-klicenka-pro-apple-airtag-silicone-cerna?utm_source=heureka</URL>
@@ -8615,12 +8615,12 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_3505</ITEM_ID>
-		<PRODUCTNAME>UAG Metropolis ochranné puzdro pre iPad 10,2" (2021/20/19), čierne 121916114040</PRODUCTNAME>
-		<PRODUCT>UAG Metropolis ochranné puzdro pre iPad 10,2" (2021/20/19), čierne 121916114040</PRODUCT>
-		<DESCRIPTION>UAG Metropolis puzdro pre iPad 10.2" - čierne vysoko odolné kvalitné puzdro s originálnym dizajnom, patentovaná kompozitná konštrukcia – tvrdý plášť puzdra s jadrom z odolného plastu, rohy puzdra sú vystužené a ochránia tak Vaše zariadenie pred otrasmi a nárazmi, nastaviteľný stojan pre jednoduchšie sledovanie fotiek, filmov.. možnosť nabíjania a synchronizácie s nasadeným krytom, držiak na Apple Pencil, spĺňa vojenské drop-normy.</DESCRIPTION>
+		<PRODUCTNAME>UAG Metropolis ochranné pouzdro pro iPad 10,2" (2021/20/19), černé 121916114040</PRODUCTNAME>
+		<PRODUCT>UAG Metropolis ochranné pouzdro pro iPad 10,2" (2021/20/19), černé 121916114040</PRODUCT>
+		<DESCRIPTION>UAG Metropolis pouzdro pro iPad 10.2" - černé vysoce odolné kvalitní pouzdro s originálním designem patentovaná kompozitní konstrukce – tvrdý plášť pouzdra s jádrem z odolného plastu rohy pouzdra jsou vyztužené a ochrání tak Vaše zařízení před otřesy a nárazy nastavitelný stojan pro snadnější sledování fotek, filmů.. možnost nabíjení a synchronizace s nasazeným krytem držák na Apple Pencil splňuje vojenské drop-normy</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Čierna</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
@@ -45234,15 +45234,15 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_10375</ITEM_ID>
-		<PRODUCTNAME>UAG Pathfinder SE - ochranný kryt pre iPhone 13 Pro, maskovaný 113157114061</PRODUCTNAME>
-		<PRODUCT>UAG Pathfinder SE - ochranný kryt pre iPhone 13 Pro, maskovaný 113157114061</PRODUCT>
-		<DESCRIPTION>UAG Pathfinder SE, ochranný kryt s odolným jadrom, absorbujúcim nárazy, MIL-STD-810G 516.6 certifikácia odolnosti pri páde, kompatibilný s bezdrôtovým nabíjaním.</DESCRIPTION>
+		<PRODUCTNAME>UAG Pathfinder SE - ochranný kryt pro iPhone 13 Pro, maskovaný 113157114061</PRODUCTNAME>
+		<PRODUCT>UAG Pathfinder SE - ochranný kryt pro iPhone 13 Pro, maskovaný 113157114061</PRODUCT>
+		<DESCRIPTION>UAG Pathfinder SE, ochranný krytodolné jádro krytu, absorbující nárazy, MIL-STD-810G 516.6 certifikace odolnosti při pádu, kompatibilní s bezdrátovým nabíjením.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Šedá</VAL>
 		</PARAM>
 		<PARAM>
@@ -63821,7 +63821,7 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_13978</ITEM_ID>
-		<DESCRIPTION>Tactical MagForce Hyperstealth vyniká jednoduchým farebným dizajnom, ktorý všade zapadne a hlavne chráni tvoj iPhone. Čistý dizajn s transparentnou plochou dodá puzdru jednoduchosť, ergonomickosť a jednoduchý cieľ. Jadro krytu je odolné voči nárazu a ochranný mantinel chráni obrazovku telefónu pri páde alebo položením displejom dole.</DESCRIPTION>
+		<DESCRIPTION>Tactical MagForce Hyperstealth vyniká jednoduchým barevným designem, který všude zapadne a hlavně chrání tvůj iPhone. Čistý design s transparentní plochou dodá pouzdru jednoduchost, ergonomičnost a jednoduchý cíl. Jádro krytu je odolné proti nárazu a ochranný mantinel chrání obrazovku telefonu při pádu nebo položením displejem dolu.</DESCRIPTION>
 		<MANUFACTURER>Tactical</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/tactical-magforce-hyperstealth-light-grey-kryt-s-magsafe-pro-iphone-16-sedy-kopie?utm_source=heureka</URL>
 		<IMGURL>https://api.express-servis.cz/files/shop/product-files/67122</IMGURL>
@@ -155817,9 +155817,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_16738</ITEM_ID>
-		<PRODUCTNAME>Audio adaptér Swissten Textile USB-C (samec) / 3,5mm AUX 0,15 m čierny 73502311</PRODUCTNAME>
-		<PRODUCT>Audio adaptér Swissten Textile USB-C (samec) / 3,5mm AUX 0,15 m čierny 73502311</PRODUCT>
-		<DESCRIPTION>Audio adaptér SWISSTEN Textile USB-C (samec) / 3,5mm AUX, Dĺžka: 15 cm, Využitie: Na pripojenie slúchadiel a reproduktorov k chytrým zariadeniam bez klasického audio jack vstupu, Textilný materiál. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PRODUCTNAME>Audio adaptér Swissten Textile USB-C (samec) / 3,5mm AUX 0,15 m černý 73502311</PRODUCTNAME>
+		<PRODUCT>Audio adaptér Swissten Textile USB-C (samec) / 3,5mm AUX 0,15 m černý 73502311</PRODUCT>
+		<DESCRIPTION>Audio adaptér SWISSTEN Textile USB-C (samec) / 3,5mm AUX, Délka: 15 cm, Využití: Pro připojení sluchátek a reproduktorů k chytrým zařízením bez klasického audio jack vstupu, Textilní materiál. Baleno v blistru SWISSTEN.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Nabíječky pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/audio-adapter-swissten-textile-usb-c-samec-3-5mm-aux-0-15-m-cerny-nahrazuje-73501301?utm_source=heureka</URL>
@@ -156730,9 +156730,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_16976</ITEM_ID>
-		<PRODUCTNAME>Dátový kábel Swissten textile II USB-C / USB-C 1,5 m ružový 71528205</PRODUCTNAME>
-		<PRODUCT>Dátový kábel Swissten textile II USB-C / USB-C 1,5 m ružový 71528205</PRODUCT>
-		<DESCRIPTION>Swissten textilný kábel II s dátovým prenosom, USB-C - USB-C, Dĺžka: 1.5 metra, Výkon: 60 Wattov, Prúd v kábli: 3 A, Rýchlosť prenosu dát: 480 Mb/s. Balené v blistri Swissten.</DESCRIPTION>
+		<PRODUCTNAME>Datový kabel Swissten textile II USB-C / USB-C 1,5 m růžový 71528205</PRODUCTNAME>
+		<PRODUCT>Datový kabel Swissten textile II USB-C / USB-C 1,5 m růžový 71528205</PRODUCT>
+		<DESCRIPTION>Swissten textilní kabel II s datovým přenosem, USB-C - USB-C, Délka: 1.5 metrů, Výkon: 60 Wattů, Proud v kabelu: 3 A, Rychlost přenosu dat: 480 Mb/s. Baleno v blistru Swissten.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Počítače a notebooky | Příslušenství k počítačům | Kabely a konektory | USB kabely</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/datovy-kabel-swissten-textile-ii-usb-c-usb-c-1-5-m-ruzovy?utm_source=heureka</URL>
@@ -157519,9 +157519,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17301</ITEM_ID>
-		<PRODUCTNAME>Dátový kábel Swissten Textile II USB-C / Lightning 1,5 m Čierny 71529203</PRODUCTNAME>
-		<PRODUCT>Dátový kábel Swissten Textile II USB-C / Lightning 1,5 m Čierny 71529203</PRODUCT>
-		<DESCRIPTION>Swissten textilný kábel II s dátovým prenosom, USB-C - LIGHTNING, Dĺžka: 1.5 metra, Prúd v kábli: 3 A, Rýchlosť prenosu dát: 480 Mb/s. Balené v blistri Swissten.</DESCRIPTION>
+		<PRODUCTNAME>Datový Kabel Swissten Textile II USB-C / Lightning 1,5 m Černý 71529203</PRODUCTNAME>
+		<PRODUCT>Datový Kabel Swissten Textile II USB-C / Lightning 1,5 m Černý 71529203</PRODUCT>
+		<DESCRIPTION>Swissten textilní kabel II s datovým přenosem, USB-C - LIGHTNING, Délka: 1.5 metrů, Proud v kabelu: 3 A, Rychlost přenosu dat: 480 Mb/s. Baleno v blistru Swissten.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Počítače a notebooky | Příslušenství k počítačům | Kabely a konektory | USB kabely</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/datovy-kabel-swissten-textile-ii-usb-c-lightning-1-5-m-cerny?utm_source=heureka</URL>
@@ -158949,9 +158949,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_16732</ITEM_ID>
-		<PRODUCTNAME>Datový kábel Swissten Textile USB / USB-C 2,0 m čierny 71521301</PRODUCTNAME>
-		<PRODUCT>Datový kábel Swissten Textile USB / USB-C 2,0 m čierny 71521301</PRODUCT>
-		<DESCRIPTION>Datový kábel Swissten USB/USB-C s kvalitným textilným opletením. Vďaka dĺžke 2,0m je vhodný do nákladných áut a do áut pre rodiny. Kábel je zosilnený a prenesie tak väčší prúd (až 3A) a zvládne aj rýchly prenos dát 480 Mb/s.</DESCRIPTION>
+		<PRODUCTNAME>Datový kabel Swissten Textile USB / USB-C 2,0 m černý 71521301</PRODUCTNAME>
+		<PRODUCT>Datový kabel Swissten Textile USB / USB-C 2,0 m černý 71521301</PRODUCT>
+		<DESCRIPTION>Datový kabel Swissten USB/USB-C s kvalitním textilním opletením. Díky délce 2,0m je vhodný do nákladních aut a do aut pro rodiny. Kabel je zesílený a přenese tak větší proud (až 3A) a zvládne i rychlý přenos dat 480 Mb/s.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Počítače a notebooky | Příslušenství k počítačům | Kabely a konektory | USB kabely</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/datovy-kabel-swissten-textile-usb-usb-c-2-0-m-cerny?utm_source=heureka</URL>
@@ -159173,9 +159173,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_16756</ITEM_ID>
-		<PRODUCTNAME>Datový kábel Swissten Textile USB-C / USB-C 2,0 m čierny 71528201</PRODUCTNAME>
-		<PRODUCT>Datový kábel Swissten Textile USB-C / USB-C 2,0 m čierny 71528201</PRODUCT>
-		<DESCRIPTION>Datový kábel Swissten USB-C / USB-C s kvalitným textilným opletením. Vďaka dĺžke 2,0m je vhodný do nákladných áut a do áut pre rodiny. Kábel je zosilnený a prenesie tak väčší prúd (až 3A) a zvládne aj rýchly prenos dát 480 Mb/s. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PRODUCTNAME>Datový kabel Swissten Textile USB-C / USB-C 2,0 m černý 71528201</PRODUCTNAME>
+		<PRODUCT>Datový kabel Swissten Textile USB-C / USB-C 2,0 m černý 71528201</PRODUCT>
+		<DESCRIPTION>Datový kabel Swissten USB-C / USB-C s kvalitním textilním opletením. Díky délce 2,0m je vhodný do nákladních aut a do aut pro rodiny. Kabel je zesílený a přenese tak větší proud (až 3A) a zvládne i rychlý přenos dat 480 Mb/s. Baleno v blistru SWISSTEN.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Počítače a notebooky | Příslušenství k počítačům | Kabely a konektory | USB kabely</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/datovy-kabel-swissten-textile-usb-c-usb-c-2-0-m-cerny?utm_source=heureka</URL>
@@ -159399,9 +159399,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_16842</ITEM_ID>
-		<PRODUCTNAME>Datový kábel Swissten Textile USB-C / USB-C 2,0 m Strieborný 71528202</PRODUCTNAME>
-		<PRODUCT>Datový kábel Swissten Textile USB-C / USB-C 2,0 m Strieborný 71528202</PRODUCT>
-		<DESCRIPTION>Datový kábel Swissten USB-C / USB-C s kvalitným textilným opletením. Vďaka dĺžke 2,0m je vhodný do nákladných áut a do áut pre rodiny. Kábel je zosilnený a prenesie tak väčší prúd (až 3A) a zvládne aj rýchly prenos dát 480 Mb/s. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PRODUCTNAME>Datový Kabel Swissten Textile USB-C / USB-C 2,0 m Stříbrný 71528202</PRODUCTNAME>
+		<PRODUCT>Datový Kabel Swissten Textile USB-C / USB-C 2,0 m Stříbrný 71528202</PRODUCT>
+		<DESCRIPTION>Datový kabel Swissten USB-C / USB-C s kvalitním textilním opletením. Díky délce 2,0m je vhodný do nákladních aut a do aut pro rodiny. Kabel je zesílený a přenese tak větší proud (až 3A) a zvládne i rychlý přenos dat 480 Mb/s. Baleno v blistru SWISSTEN.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Počítače a notebooky | Příslušenství k počítačům | Kabely a konektory | USB kabely</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/datovy-kabel-swissten-textile-usb-c-usb-c-2-0-m-stribrny?utm_source=heureka</URL>
@@ -160606,9 +160606,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17511</ITEM_ID>
-		<PRODUCTNAME>Magnetický držiak do auta swissten s-grip dashboard m2 65010305</PRODUCTNAME>
-		<PRODUCT>Magnetický držiak do auta swissten s-grip dashboard m2 65010305</PRODUCT>
-		<DESCRIPTION>Magnetický držiak do auta S-GRIP DASHBOARD M2 je možné pripevniť priamo na palubnú dosku. Rotačná guľa držiaka umožňuje umiestniť Vaše zariadenie do ľubovoľného uhla. Disponuje veľmi silným magnetom. Balené v blistri Swissten.</DESCRIPTION>
+		<PRODUCTNAME>Magnetický držák do auta swissten s-grip dashboard m2 65010305</PRODUCTNAME>
+		<PRODUCT>Magnetický držák do auta swissten s-grip dashboard m2 65010305</PRODUCT>
+		<DESCRIPTION>Magnetický držák do auta S-GRIP DASHBOARD M2 lze přichytit přímo na palubní desku. Rotační koule držáku umožňuje umístit Vaše zařízení do libovolného úhlu. Disponuje velmi silným magnetem. Baleno v blistru Swissten.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/magneticky-drzak-do-auta-swissten-s-grip-dashboard-m2?utm_source=heureka</URL>
 		<IMGURL>https://api.express-servis.cz/files/shop/product-files/87647</IMGURL>
@@ -186312,9 +186312,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17621</ITEM_ID>
-		<PRODUCTNAME>Swissten power banka 10000 mAh s integrovanými káblami usb-c a lightning vesmírne strieborná 22013939</PRODUCTNAME>
-		<PRODUCT>Swissten power banka 10000 mAh s integrovanými káblami usb-c a lightning vesmírne strieborná 22013939</PRODUCT>
-		<DESCRIPTION>Powerbanka Swissten 10000 mAh s integrovanými káblami USB-C + Lightning, Výstupný port: USB-C, Max. výkon 22.5W, Hmotnosť: 175 g, Typ batérie: Li-Polymer, Malé rozmery: (7,3 x 6,4 x 2,7 cm). Balené v blistri Swissten.</DESCRIPTION>
+		<PRODUCTNAME>Swissten power bank 10000 mAh s integrovanými kabely usb-c a lightning vesmírně stříbrná 22013939</PRODUCTNAME>
+		<PRODUCT>Swissten power bank 10000 mAh s integrovanými kabely usb-c a lightning vesmírně stříbrná 22013939</PRODUCT>
+		<DESCRIPTION>Powerbanka Swissten 10000 mAh s integrovanými kabely USB-C + Lightning, Výstupní port: USB-C, Max. výkon 22.5W, Váha: 175 g, Typ baterie: Li-Polymer, Malé rozměry: (7,3 x 6,4 x 2,7 cm). Baleno v blistru Swissten.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Baterie a nabíjení | Powerbanky</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/swissten-power-bank-10000-mah-s-integrovanymi-kabely-usb-c-a-lightning-vesmirne-stribrna?utm_source=heureka</URL>
@@ -189005,9 +189005,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17525</ITEM_ID>
-		<PRODUCTNAME>Swissten power line power banka 50000 mAh pre notebooky 100W power delivery čierna 22013942</PRODUCTNAME>
-		<PRODUCT>Swissten power line power banka 50000 mAh pre notebooky 100W power delivery čierna 22013942</PRODUCT>
-		<DESCRIPTION>Powerbanka SWISSTEN s kapacitou 50.000mAh (185Wh), výkonom 100W a formátmi rýchleho nabíjania PowerDelivery 3.0, Qualcomm 3.0 a Huawei SCP. Balené v krabičke SWISSTEN.</DESCRIPTION>
+		<PRODUCTNAME>Swissten power line power bank 50000 mah pro notebooky 100w power delivery black 22013942</PRODUCTNAME>
+		<PRODUCT>Swissten power line power bank 50000 mah pro notebooky 100w power delivery black 22013942</PRODUCT>
+		<DESCRIPTION>Powerbanka SWISSTEN s kapacitou 50.000mAh (185Wh), výkonem 100W a formáty rychlého dobíjení PowerDelivery 3.0, Qualcomm 3.0 a Huawei SCP. Baleno v krabičce SWISSTEN</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Baterie a nabíjení | Powerbanky</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/swissten-power-line-power-bank-50000-mah-pro-notebooky-100w-power-delivery-black?utm_source=heureka</URL>
@@ -189490,9 +189490,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17616</ITEM_ID>
-		<PRODUCTNAME>Swissten power bank voltbox 35W 30000 mAh s integrovanými káblami USB-C a Lightning čierna 22013938</PRODUCTNAME>
-		<PRODUCT>Swissten power bank voltbox 35W 30000 mAh s integrovanými káblami USB-C a Lightning čierna 22013938</PRODUCT>
-		<DESCRIPTION>Powerbanka Swissten Voltbox 30000 mAh, Káble USB-C + Lightning káble, Porty výstupu: USB-C + USB-A, Max. výkon 35W, Hmotnosť: 432 g, Typ batérie: Li-Polymer, Malé rozmery: (12 x 7,6 x 3,7 cm). Balené v blistri Swissten.</DESCRIPTION>
+		<PRODUCTNAME>Swissten power bank voltbox 35W 30000 mAh s integrovanými kabely USB-C a Lightning černá 22013938</PRODUCTNAME>
+		<PRODUCT>Swissten power bank voltbox 35W 30000 mAh s integrovanými kabely USB-C a Lightning černá 22013938</PRODUCT>
+		<DESCRIPTION>Powerbanka Swissten Voltbox 30000 mAh, Kabely USB-C + Lightning kabely, Porty výstupu: USB-C + USB-A, Max. výkon 35W, Váha: 432 g, Typ baterie: Li-Polymer, Malé rozměry: (12 x 7,6 x 3,7 cm). Baleno v blistru Swissten.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Baterie a nabíjení | Powerbanky</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/swissten-power-bank-voltbox-35w-30000-mah-s-integrovanymi-kabely-usb-c-a-lightning-cerna?utm_source=heureka</URL>
@@ -189534,9 +189534,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17622</ITEM_ID>
-		<PRODUCTNAME>Swissten power bank voltbox 35w 20000 mAh s integrovanými káblami usb-c a lightning čierna 22013937</PRODUCTNAME>
-		<PRODUCT>Swissten power bank voltbox 35w 20000 mAh s integrovanými káblami usb-c a lightning čierna 22013937</PRODUCT>
-		<DESCRIPTION>Powerbanka Swissten Voltbox 20000 mAh, Káble USB-C + Lightning káble, Porty výstupu: USB-C + USB-A, Max. výkon 35W, Hmotnosť: 297 g, Typ batérie: Li-Polymer, Malé rozmery: (12 x 7,2 x 2,6 cm). Balené v blistri Swissten.</DESCRIPTION>
+		<PRODUCTNAME>Swissten power bank voltbox 35w 20000 mAh s integrovanými kabely usb-c a lightning černá 22013937</PRODUCTNAME>
+		<PRODUCT>Swissten power bank voltbox 35w 20000 mAh s integrovanými kabely usb-c a lightning černá 22013937</PRODUCT>
+		<DESCRIPTION>Powerbanka Swissten Voltbox 20000 mAh, Kabely USB-C + Lightning kabely, Porty výstupu: USB-C + USB-A, Max. výkon 35W, Váha: 297 g, Typ baterie: Li-Polymer, Malé rozměry: (12 x 7,2 x 2,6 cm). Baleno v blistru Swissten.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Baterie a nabíjení | Powerbanky</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/swissten-power-bank-voltbox-35w-20000-mah-s-integrovanymi-kabely-usb-c-a-lightning-cerna?utm_source=heureka</URL>
@@ -190362,9 +190362,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_16827</ITEM_ID>
-		<PRODUCTNAME>Swissten sieťový adaptér GaN 1x USB-C 35W Power Delivery čierny + dátový kábel USB-C / USB-C 1,2 m 22070230</PRODUCTNAME>
-		<PRODUCT>Swissten sieťový adaptér GaN 1x USB-C 35W Power Delivery čierny + dátový kábel USB-C / USB-C 1,2 m 22070230</PRODUCT>
-		<DESCRIPTION>Nabíjačka Swissten, Max. výkon 35 Wattov, 1x USB-C, GaN technológia - efektívne nabíjanie bez prehriatia, Ochrana proti skratom, prepätiu, preťaženiu nabíjania a vysokej teplote, Malé rozmery. Súčasťou balenia USB-C/USB-C kábel. Balené v blistri Swissten.</DESCRIPTION>
+		<PRODUCTNAME>Swissten síťový adaptér GaN 1x USB-C 35W Power Delivery černý + datový kabel USB-C / USB-C 1,2 m 22070230</PRODUCTNAME>
+		<PRODUCT>Swissten síťový adaptér GaN 1x USB-C 35W Power Delivery černý + datový kabel USB-C / USB-C 1,2 m 22070230</PRODUCT>
+		<DESCRIPTION>Nabíječka Swissten, Max. výkon 35 Wattů, 1x USB-C, GaN technologie - efektivní nabíjení bez přehřívání, Ochrana proti zkratování, přepětí, přetížení nabíjení a vysoké teplotě, Malé rozměry. Součástí balení USB-C/USB-C kabel. Baleno v blistru Swissten.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Nabíječky pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-1x-usb-c-35w-power-delivery-cerny-datovy-kabel-usb-c-usb-c-1-2?utm_source=heureka</URL>
@@ -219734,9 +219734,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_18482</ITEM_ID>
-		<PRODUCTNAME>Dátový kábel Swissten Textile USB / Micro USB 1,2 m čierny 71522201</PRODUCTNAME>
-		<PRODUCT>Dátový kábel Swissten Textile USB / Micro USB 1,2 m čierny 71522201</PRODUCT>
-		<DESCRIPTION>Datový kábel Swissten USB/micro USB s kvalitným textilným opletením. Vďaka dĺžke 1,2 m je vhodný do auta, na stôl v kancelárii alebo na nočný stolík. Kábel je zosilnený a prenesie tak väčší prúd (až 3A) a zvládne aj rýchly prenos dát 480 Mb/s.</DESCRIPTION>
+		<PRODUCTNAME>Datový kabel Swissten Textile USB / Micro USB 1,2 m černý 71522201</PRODUCTNAME>
+		<PRODUCT>Datový kabel Swissten Textile USB / Micro USB 1,2 m černý 71522201</PRODUCT>
+		<DESCRIPTION>Datový kabel Swissten USB/micro USB s kvalitním textilním opletením. Díky délce 1,2m je vhodný do auta, na stůl v kanceláři nebo na noční stolek. Kabel je zesílený a přenese tak větší proud (až 3A) a zvládne i rychlý přenos dat 480 Mb/s.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Počítače a notebooky | Příslušenství k počítačům | Kabely a konektory | USB kabely</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/datovy-kabel-swissten-textile-usb-micro-usb-1-2-m-cerny-2?utm_source=heureka</URL>
@@ -230201,9 +230201,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_18820</ITEM_ID>
-		<PRODUCTNAME>Swissten dátový video kábel usb 4.0, usb-c, 240w, 8k@60hz, 40 gb/s, tb3 &amp; tb4, 1,5 m čierny 72501204</PRODUCTNAME>
-		<PRODUCT>Swissten dátový video kábel usb 4.0, usb-c, 240w, 8k@60hz, 40 gb/s, tb3 &amp; tb4, 1,5 m čierny 72501204</PRODUCT>
-		<DESCRIPTION>Swissten dátový video kábel USB 4.0, Prenos obrazu 8K@60Hz / 4K@120Hz, Univerzálna kompatibilita Thunderbolt 3 &amp; 4, Rýchly prenos dát 40 Gb/s, Rýchle nabíjanie až 240 W, Odolné spracovanie, USB-C na USB-C, Dĺžka 1,5 m. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PRODUCTNAME>Swissten datový video kabel usb 4.0, usb-c, 240w, 8k@60hz, 40 gb/s, tb3 &amp; tb4, 1,5 m černý 72501204</PRODUCTNAME>
+		<PRODUCT>Swissten datový video kabel usb 4.0, usb-c, 240w, 8k@60hz, 40 gb/s, tb3 &amp; tb4, 1,5 m černý 72501204</PRODUCT>
+		<DESCRIPTION>Swissten datový video kabel USB 4.0, Přenos obrazu 8K@60Hz / 4K@120Hz, Univerzální kompatibilita Thunderbolt 3 &amp; 4, Rychlý přenos dat 40 Gb/s, Rychlé dobíjení až 240 W, Odolné zpracování, USB-C na USB-C, Délka 1,5 m. Baleno v blistru SWISSTEN.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Počítače a notebooky | Příslušenství k počítačům | Kabely a konektory | USB kabely</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/swissten-datovy-video-kabel-usb-4-0-usb-c-240w-8k-60hz-40-gb-s-tb3-tb4-1-5-m-cerny?utm_source=heureka</URL>
@@ -329791,9 +329791,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17509</ITEM_ID>
-		<PRODUCTNAME>Swissten power banka 30000 mAh pre notebooky 133W Power Delivery šedá 22013917</PRODUCTNAME>
-		<PRODUCT>Swissten power banka 30000 mAh pre notebooky 133W Power Delivery šedá 22013917</PRODUCT>
-		<DESCRIPTION>Power banka SWISSTEN s kapacitou 30.000mAh, vstupom USB-C, výstupmi 2xUSB-C, 1xUSB-A a rýchlym nabíjaním PD a QC s výstupným výkonom až 133W. Typ batérie: Li-ion. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PRODUCTNAME>Swissten power bank 30000 mah pro notebooky 133w power delivery grey 22013917</PRODUCTNAME>
+		<PRODUCT>Swissten power bank 30000 mah pro notebooky 133w power delivery grey 22013917</PRODUCT>
+		<DESCRIPTION>Power Banka SWISSTEN a kapacitou 30.000mAh, vstupem USB-C, výstupy 2xUSB-C, 1xUSB-A a rychlým dobíjením PD a QC s výstupním výkonem až 133W. Typ baterie: Li-ion. Baleno v blistru SWISSTEN.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Baterie a nabíjení | Powerbanky</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/swissten-power-bank-30000-mah-pro-notebooky-133w-power-delivery-grey?utm_source=heureka</URL>
@@ -340233,9 +340233,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17420</ITEM_ID>
-		<PRODUCTNAME>Swissten Remienok pre Apple Watch Nylonový 38 / 40 / 41 mm Rúžovo Zlatý 46000704</PRODUCTNAME>
-		<PRODUCT>Swissten Remienok pre Apple Watch Nylonový 38 / 40 / 41 mm Rúžovo Zlatý 46000704</PRODUCT>
-		<DESCRIPTION>Elegantný remienok Swissten k Apple Watch 38-41 mm, Materiál: nylon, Dizajn: voľnočasový a športový. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PRODUCTNAME>Swissten Řemínek pro Apple Watch Nylonový 38 / 40 / 41 mm Růžovo Zlatý 46000704</PRODUCTNAME>
+		<PRODUCT>Swissten Řemínek pro Apple Watch Nylonový 38 / 40 / 41 mm Růžovo Zlatý 46000704</PRODUCT>
+		<DESCRIPTION>Elegantní řemínek Swissten k Apple Watch 38-41 mm, Materiál: nylon, Design: volnočasový a sportovní. Baleno v blistru SWISSTEN.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k nositelné elektronice | Příslušenství k chytrým hodinkám | Řemínky k chytrým hodinkám</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/swissten-reminek-pro-apple-watch-nylonovy-38-40-41-mm-ruzovo-zlaty?utm_source=heureka</URL>
@@ -341490,16 +341490,16 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_12956</ITEM_ID>
-		<PRODUCTNAME>Guess PU 4G Metal Logo - ochranný kryt pre iPhone 15 Pro Max, ružový GUHCP15X4GMGPI</PRODUCTNAME>
-		<PRODUCT>Guess PU 4G Metal Logo - ochranný kryt pre iPhone 15 Pro Max, ružový GUHCP15X4GMGPI</PRODUCT>
-		<DESCRIPTION>Guess PU 4G Metal Logo prémiový kryt, ktorý nielenže váš telefón perfektne ochráni, ale aj svojím podareným dizajnom a použitými prvotriednymi materiálmi bude ako šperk. Kryt je vyrobený z odolného PU materiálu, ktorý je mäkký a pružný a zároveň váš telefón ochráni najlepšie, ako je to možné. Prémiový dizajn dopĺňa kovové logo Guess na zadnej strane. Kryt ochráni váš telefón pred otrasmi, odreninami, poškriabaním a nečistotami.</DESCRIPTION>
+		<PRODUCTNAME>Guess PU 4G Metal Logo - ochranný kryt pro iPhone 15 Pro Max, růžový GUHCP15X4GMGPI</PRODUCTNAME>
+		<PRODUCT>Guess PU 4G Metal Logo - ochranný kryt pro iPhone 15 Pro Max, růžový GUHCP15X4GMGPI</PRODUCT>
+		<DESCRIPTION>Guess PU 4G Metal Logo prémiový kryt, který nejen že váš telefon perfektně ochrání, ale také svým povedeným designem a použitými prvotřídními materiály bude jako šperk. Kryt je vyroben z odolného PU materiálu, který je měkký a pružný a zároveň váš telefon ochrání nejlépe jak je to možné. Prémiový design doplňuje kovové logo Guess na zadní straně. Kryt ochrání váš telefon před otřesy, odřením, poškrábáním a nečistotami.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Ružová</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Růžová</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
@@ -341655,9 +341655,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21462</ITEM_ID>
-		<PRODUCTNAME>Nabíjací integrovaný obvod Tigris (Charging IC) pre iPhone 11 / 12 Series (SN2611A0, Yangtze) IPH1439</PRODUCTNAME>
-		<PRODUCT>Nabíjací integrovaný obvod Tigris (Charging IC) pre iPhone 11 / 12 Series (SN2611A0, Yangtze) IPH1439</PRODUCT>
-		<DESCRIPTION>Charging Tigris IC iPhone 11 / 12 Series (SN2611A0) (Yangtze) je profesionálny napájací čip na riadenie nabíjacieho obvodu. Určený na opravy základných dosiek Apple zariadení.</DESCRIPTION>
+		<PRODUCTNAME>Nabíjecí integrovaný obvod Tigris (Charging IC) pro iPhone 11 / 12 Series (SN2611A0, Yangtze) IPH1439</PRODUCTNAME>
+		<PRODUCT>Nabíjecí integrovaný obvod Tigris (Charging IC) pro iPhone 11 / 12 Series (SN2611A0, Yangtze) IPH1439</PRODUCT>
+		<DESCRIPTION>Charging Tigris IC iPhone 11 / 12 Series (SN2611A0) (Yangtze) je profesionální napájecí čip pro řízení nabíjecího obvodu. Určen pro opravy základních desek Apple zařízení.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/charging-tigris-ic-iphone-11-12-series-sn2611a0-yangtze?utm_source=heureka</URL>
@@ -341695,9 +341695,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21464</ITEM_ID>
-		<PRODUCTNAME>Integrovaný obvod bezdrôtového nabíjania (Wireless Charger IC) pre iPhone 11 Series (STPMB) IPH1440</PRODUCTNAME>
-		<PRODUCT>Integrovaný obvod bezdrôtového nabíjania (Wireless Charger IC) pre iPhone 11 Series (STPMB) IPH1440</PRODUCT>
-		<DESCRIPTION>Wireless Charger IC Chip iPhone 11 Series (STPMB) je integrovaný obvod na riadenie bezdrôtového nabíjania. Určený na opravy základných dosiek Apple zariadení.</DESCRIPTION>
+		<PRODUCTNAME>Integrovaný obvod bezdrátového nabíjení (Wireless Charger IC) pro iPhone 11 Series (STPMB) IPH1440</PRODUCTNAME>
+		<PRODUCT>Integrovaný obvod bezdrátového nabíjení (Wireless Charger IC) pro iPhone 11 Series (STPMB) IPH1440</PRODUCT>
+		<DESCRIPTION>Wireless Charger IC Chip iPhone 11 Series (STPMB) je integrovaný obvod pro řízení bezdrátového nabíjení. Určený pro opravy základních desek Apple zařízení.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/wireless-charger-ic-chip-iphone-11-series-stpmb?utm_source=heureka</URL>
@@ -341737,9 +341737,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21474</ITEM_ID>
-		<PRODUCTNAME>Veľký audio integrovaný obvod (Audio IC) pre iPhone 11 Series / iPhone 12 Series (338S00509) IPH1445</PRODUCTNAME>
-		<PRODUCT>Veľký audio integrovaný obvod (Audio IC) pre iPhone 11 Series / iPhone 12 Series (338S00509) IPH1445</PRODUCT>
-		<DESCRIPTION>Big Audio IC iPhone 11 / 12 Series (338S00509) je výkonný zvukový čip určený na opravy audio systému základnej dosky. Zabezpečuje stabilný prenos a spracovanie zvuku.</DESCRIPTION>
+		<PRODUCTNAME>Velký audio integrovaný obvod (Audio IC) pro iPhone 11 Series / iPhone 12 Series (338S00509) IPH1445</PRODUCTNAME>
+		<PRODUCT>Velký audio integrovaný obvod (Audio IC) pro iPhone 11 Series / iPhone 12 Series (338S00509) IPH1445</PRODUCT>
+		<DESCRIPTION>Big Audio IC iPhone 11 / 12 Series (338S00509) je výkonný zvukový čip určený pro opravy audio systému základní desky. Zajišťuje stabilní přenos a zpracování zvuku.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/big-audio-ic-iphone-11-series-12-series-338s00509?utm_source=heureka</URL>
@@ -341778,9 +341778,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21478</ITEM_ID>
-		<PRODUCTNAME>Malý napájací integrovaný obvod (Power IC) pre iPhone 11 Series (6840) IPH1447</PRODUCTNAME>
-		<PRODUCT>Malý napájací integrovaný obvod (Power IC) pre iPhone 11 Series (6840) IPH1447</PRODUCT>
-		<DESCRIPTION>Small Power IC iPhone 11 Series (6840) je originálny napájací čip na riadenie výkonu základnej dosky. Ideálny pre profesionálne opravy napájacieho systému.</DESCRIPTION>
+		<PRODUCTNAME>Malý napájecí integrovaný obvod (Power IC) pro iPhone 11 Series (6840) IPH1447</PRODUCTNAME>
+		<PRODUCT>Malý napájecí integrovaný obvod (Power IC) pro iPhone 11 Series (6840) IPH1447</PRODUCT>
+		<DESCRIPTION>Small Power IC iPhone 11 Series (6840) je originální napájecí čip pro řízení výkonu základní desky. Ideální pro profesionální opravy napájecího systému.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/small-power-ic-iphone-11-series-6840?utm_source=heureka</URL>
 		<IMGURL>https://api.express-servis.cz/files/shop/product-files/104767</IMGURL>
@@ -341818,9 +341818,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21494</ITEM_ID>
-		<PRODUCTNAME>Krystalový oscilátor 38,4 kHz pre iPhone 11 / 11 Pro Max / iPhone 12 Series / iPhone 13 Series IPH1455</PRODUCTNAME>
-		<PRODUCT>Krystalový oscilátor 38,4 kHz pre iPhone 11 / 11 Pro Max / iPhone 12 Series / iPhone 13 Series IPH1455</PRODUCT>
-		<DESCRIPTION>38.4 KHz kryštálový oscilátor iPhone 11 / 11 Pro Max / 12 / 13 Series je precízny časovací kryštál na synchronizáciu systémového taktu. Určený na opravy základných dosiek Apple zariadení.</DESCRIPTION>
+		<PRODUCTNAME>Krystalový oscilátor 38,4 kHz pro iPhone 11 / 11 Pro Max / iPhone 12 Series / iPhone 13 Series IPH1455</PRODUCTNAME>
+		<PRODUCT>Krystalový oscilátor 38,4 kHz pro iPhone 11 / 11 Pro Max / iPhone 12 Series / iPhone 13 Series IPH1455</PRODUCT>
+		<DESCRIPTION>38.4 KHz Crystal Oscillator iPhone 11 / 11 Pro Max / 12 / 13 Series je precizní časovací krystal pro synchronizaci systémového taktu. Určen pro opravy základních desek Apple zařízení.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/38-4khz-crystal-oscillator-iphone-11-11-pro-max-12-series-13-series?utm_source=heureka</URL>
@@ -341860,9 +341860,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21498</ITEM_ID>
-		<PRODUCTNAME>Nabíjací dock konektor (Charging Port Dock Connector) pre iPhone 11 (J8200, 34 pinov) IPH1457</PRODUCTNAME>
-		<PRODUCT>Nabíjací dock konektor (Charging Port Dock Connector) pre iPhone 11 (J8200, 34 pinov) IPH1457</PRODUCT>
-		<DESCRIPTION>Charging Port Dock Connector iPhone 11 (J8200, 34 pinov) je originálny konektor na opravu nabíjacieho portu na základnej doske. Určený pre profesionálne servisné využitie.</DESCRIPTION>
+		<PRODUCTNAME>Nabíjecí dock konektor (Charging Port Dock Connector) pro iPhone 11 (J8200, 34 pinů) IPH1457</PRODUCTNAME>
+		<PRODUCT>Nabíjecí dock konektor (Charging Port Dock Connector) pro iPhone 11 (J8200, 34 pinů) IPH1457</PRODUCT>
+		<DESCRIPTION>Charging Port Dock Connector iPhone 11 (J8200, 34 pinů) je originální konektor pro opravu nabíjecího portu na základní desce. Určen pro profesionální servisní využití.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/charging-port-dock-connector-iphone-11-j8200-34-pins?utm_source=heureka</URL>
@@ -341900,9 +341900,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21500</ITEM_ID>
-		<PRODUCTNAME>Rozhranie spodnej antény pre iPhone 11 Series (J_LAT_K, 10 pinov) IPH1458</PRODUCTNAME>
-		<PRODUCT>Rozhranie spodnej antény pre iPhone 11 Series (J_LAT_K, 10 pinov) IPH1458</PRODUCT>
-		<DESCRIPTION>Lower Antenna Interface iPhone 11 Series (J_LAT_K, 10 pinov) je konektor antény určený na prepojenie signálového obvodu základnej dosky. Ideálne pre profesionálne opravy.</DESCRIPTION>
+		<PRODUCTNAME>Rozhraní spodní antény pro iPhone 11 Series (J_LAT_K, 10 pinů) IPH1458</PRODUCTNAME>
+		<PRODUCT>Rozhraní spodní antény pro iPhone 11 Series (J_LAT_K, 10 pinů) IPH1458</PRODUCT>
+		<DESCRIPTION>Lower Antenna Interface iPhone 11 Series (J_LAT_K, 10 pinů) je konektor antény určený pro propojení signálového obvodu základní desky. Ideální pro profesionální opravy.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/lower-antenna-interface-iphone-11-series-j-lat-k-10-pins?utm_source=heureka</URL>
@@ -341940,9 +341940,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21502</ITEM_ID>
-		<PRODUCTNAME>Konektor FPC batérie (battery flex) pre iPhone 11 Series / iPhone SE (2020) (4 piny) IPH1459</PRODUCTNAME>
-		<PRODUCT>Konektor FPC batérie (battery flex) pre iPhone 11 Series / iPhone SE (2020) (4 piny) IPH1459</PRODUCT>
-		<DESCRIPTION>Battery Flex FPC Connector iPhone 11 Series / SE (2020) (4 pin) je konektor na pripojenie batérie k základnej doske. Určený pre profesionálne servisné opravy.</DESCRIPTION>
+		<PRODUCTNAME>Konektor FPC baterie (battery flex) pro iPhone 11 Series / iPhone SE (2020) (4 piny) IPH1459</PRODUCTNAME>
+		<PRODUCT>Konektor FPC baterie (battery flex) pro iPhone 11 Series / iPhone SE (2020) (4 piny) IPH1459</PRODUCT>
+		<DESCRIPTION>Battery Flex FPC Connector iPhone 11 Series / SE (2020) (4 pin) je konektor pro připojení baterie k základní desce. Určen pro profesionální servisní opravy.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/battery-flex-fpc-connector-iphone-11-series-se-2020-4-pin?utm_source=heureka</URL>
@@ -341980,9 +341980,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21503</ITEM_ID>
-		<PRODUCTNAME>Konektor FPC digitalizéra pre iPhone 11 (20 pinov) IPH1460</PRODUCTNAME>
-		<PRODUCT>Konektor FPC digitalizéra pre iPhone 11 (20 pinov) IPH1460</PRODUCT>
-		<DESCRIPTION>Digitizér FPC konektor iPhone 11 (20 pinov) je konektor na pripojenie dotykového panela k základnej doske. Určený na precízne servisné opravy.</DESCRIPTION>
+		<PRODUCTNAME>Konektor FPC digitizéru pro iPhone 11 (20 pinů) IPH1460</PRODUCTNAME>
+		<PRODUCT>Konektor FPC digitizéru pro iPhone 11 (20 pinů) IPH1460</PRODUCT>
+		<DESCRIPTION>Digitizer FPC Connector iPhone 11 (20 pinů) je konektor pro připojení dotykového panelu k základní desce. Určený pro precizní servisní opravy.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/digitizer-fpc-connector-iphone-11-20-pin?utm_source=heureka</URL>
@@ -342021,9 +342021,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21504</ITEM_ID>
-		<PRODUCTNAME>Napájacie rozhranie (Interface Power) pre iPhone 11 (18 pinov) IPH1461</PRODUCTNAME>
-		<PRODUCT>Napájacie rozhranie (Interface Power) pre iPhone 11 (18 pinov) IPH1461</PRODUCT>
-		<DESCRIPTION>Interface Power iPhone 11 (18 pinov) je napájací konektor zabezpečujúci prepojenie medzi zdrojom energie a základnou doskou. Ideálny pre profesionálne opravy napäťového obvodu.</DESCRIPTION>
+		<PRODUCTNAME>Napájecí rozhraní (Interface Power) pro iPhone 11 (18 pinů) IPH1461</PRODUCTNAME>
+		<PRODUCT>Napájecí rozhraní (Interface Power) pro iPhone 11 (18 pinů) IPH1461</PRODUCT>
+		<DESCRIPTION>Interface Power iPhone 11 (18 pinů) je napájecí konektor zajišťující propojení mezi zdrojem energie a základní deskou. Ideální pro profesionální opravy napěťového obvodu.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/interface-power-iphone-11-18-pins?utm_source=heureka</URL>
@@ -342061,9 +342061,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21505</ITEM_ID>
-		<PRODUCTNAME>Konektor FPC zadnej širokouhlej kamery pre iPhone 11 (J7200, 22 pinov) IPH1462</PRODUCTNAME>
-		<PRODUCT>Konektor FPC zadnej širokouhlej kamery pre iPhone 11 (J7200, 22 pinov) IPH1462</PRODUCT>
-		<DESCRIPTION>Konektor zadnej širokouhlej kamery FPC iPhone 11 (J7200, 22 pinov) je konektor zadnej širokouhlej kamery na pripojenie k základnej doske. Určený pre profesionálne opravy.</DESCRIPTION>
+		<PRODUCTNAME>Konektor FPC zadní širokoúhlé kamery pro iPhone 11 (J7200, 22 pinů) IPH1462</PRODUCTNAME>
+		<PRODUCT>Konektor FPC zadní širokoúhlé kamery pro iPhone 11 (J7200, 22 pinů) IPH1462</PRODUCT>
+		<DESCRIPTION>Rear Wide Angle Camera FPC Connector iPhone 11 (J7200, 22 pinů) je konektor zadní širokoúhlé kamery pro připojení k základní desce. Určený pro profesionální opravy.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/rear-wide-angle-camera-fpc-connector-iphone-11-j7200-22-pin?utm_source=heureka</URL>
@@ -342100,9 +342100,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21506</ITEM_ID>
-		<PRODUCTNAME>Konektor FPC LCD displeja pre iPhone 11 (J8000, 26 pinov) IPH1463</PRODUCTNAME>
-		<PRODUCT>Konektor FPC LCD displeja pre iPhone 11 (J8000, 26 pinov) IPH1463</PRODUCT>
-		<DESCRIPTION>LCD FPC konektor iPhone 11 (J8000, 26 pinov) je konektor displeja určený na prepojenie LCD modulu so základnou doskou. Vhodný pre profesionálne servisné opravy.</DESCRIPTION>
+		<PRODUCTNAME>Konektor FPC LCD displeje pro iPhone 11 (J8000, 26 pinů) IPH1463</PRODUCTNAME>
+		<PRODUCT>Konektor FPC LCD displeje pro iPhone 11 (J8000, 26 pinů) IPH1463</PRODUCT>
+		<DESCRIPTION>LCD FPC Connector iPhone 11 (J8000, 26 pinů) je konektor displeje určený pro propojení LCD modulu se základní deskou. Vhodný pro profesionální servisní opravy.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/lcd-fpc-connector-iphone-11-j8000-26-pin?utm_source=heureka</URL>
@@ -342141,9 +342141,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21509</ITEM_ID>
-		<PRODUCTNAME>Konektor FPC zadnej teleobjektívovej kamery pre iPhone 11 Series (J7400, 26 pinov) IPH1466</PRODUCTNAME>
-		<PRODUCT>Konektor FPC zadnej teleobjektívovej kamery pre iPhone 11 Series (J7400, 26 pinov) IPH1466</PRODUCT>
-		<DESCRIPTION>Zadný teleobjektívový konektor FPC iPhone 11 Series (J7400, 26 pinov) je konektor na pripojenie teleobjektívu k základnej doske. Ideálny pre profesionálne opravy kamerových obvodov.</DESCRIPTION>
+		<PRODUCTNAME>Konektor FPC zadní teleobjektivové kamery pro iPhone 11 Series (J7400, 26 pinů) IPH1466</PRODUCTNAME>
+		<PRODUCT>Konektor FPC zadní teleobjektivové kamery pro iPhone 11 Series (J7400, 26 pinů) IPH1466</PRODUCT>
+		<DESCRIPTION>Rear Telephoto Camera FPC Connector iPhone 11 Series (J7400, 26 pinů) je konektor pro připojení teleobjektivu k základní desce. Ideální pro profesionální opravy kamerových obvodů.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/rear-telephoto-camera-fpc-connector-iphone-11-series-j7400-26-pin?utm_source=heureka</URL>
@@ -342272,9 +342272,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21514</ITEM_ID>
-		<PRODUCTNAME>Konektor FPC čítačky SIM karty pre iPhone 11 (J-SIM-K, 10 pinov) IPH1471</PRODUCTNAME>
-		<PRODUCT>Konektor FPC čítačky SIM karty pre iPhone 11 (J-SIM-K, 10 pinov) IPH1471</PRODUCT>
-		<DESCRIPTION>SIM Card Reader FPC Connector iPhone 11 (J-SIM-K, 10 pinov) je konektor čítačky SIM karty na pripojenie k základnej doske. Vhodný pre profesionálne opravy signálneho obvodu.</DESCRIPTION>
+		<PRODUCTNAME>Konektor FPC čtečky SIM karty pro iPhone 11 (J-SIM-K, 10 pinů) IPH1471</PRODUCTNAME>
+		<PRODUCT>Konektor FPC čtečky SIM karty pro iPhone 11 (J-SIM-K, 10 pinů) IPH1471</PRODUCT>
+		<DESCRIPTION>SIM Card Reader FPC Connector iPhone 11 (J-SIM-K, 10 pinů) je konektor čtečky SIM karty pro připojení k základní desce. Vhodný pro profesionální opravy signálního obvodu.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/sim-card-reader-fpc-connector-iphone-11-j-sim-k-10-pin?utm_source=heureka</URL>
@@ -342312,9 +342312,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21515</ITEM_ID>
-		<PRODUCTNAME>Konektor FPC prednej kamery pre iPhone XS / XS Max / iPhone 11 Pro / 11 Pro Max (J4200, 18 pinov) IPH1472</PRODUCTNAME>
-		<PRODUCT>Konektor FPC prednej kamery pre iPhone XS / XS Max / iPhone 11 Pro / 11 Pro Max (J4200, 18 pinov) IPH1472</PRODUCT>
-		<DESCRIPTION>Front Camera FPC Connector iPhone XS / XS Max / 11 Pro / 11 Pro Max (J4200, 18 pinov) je konektor na pripojenie prednej kamery a Face ID systému. Ideálny pre profesionálne servisné opravy.</DESCRIPTION>
+		<PRODUCTNAME>Konektor FPC přední kamery pro iPhone XS / XS Max / iPhone 11 Pro / 11 Pro Max (J4200, 18 pinů) IPH1472</PRODUCTNAME>
+		<PRODUCT>Konektor FPC přední kamery pro iPhone XS / XS Max / iPhone 11 Pro / 11 Pro Max (J4200, 18 pinů) IPH1472</PRODUCT>
+		<DESCRIPTION>Front Camera FPC Connector iPhone XS / XS Max / 11 Pro / 11 Pro Max (J4200, 18 pinů) je konektor pro připojení přední kamery a Face ID systému. Ideální pro profesionální servisní opravy.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/front-camera-fpc-connector-iphone-xs-xs-max-11-pro-11-pro-max-j4200-18-pin?utm_source=heureka</URL>
@@ -342353,9 +342353,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21516</ITEM_ID>
-		<PRODUCTNAME>Konektor FPC prednej kamery pre iPhone 11 Pro / 11 Pro Max (18 pinov) IPH1473</PRODUCTNAME>
-		<PRODUCT>Konektor FPC prednej kamery pre iPhone 11 Pro / 11 Pro Max (18 pinov) IPH1473</PRODUCT>
-		<DESCRIPTION>Front Camera FPC Connector iPhone 11 Pro / 11 Pro Max (18 pinov) je konektor na pripojenie prednej kamery a Face ID systému k základnej doske. Vhodný pre profesionálne opravy.</DESCRIPTION>
+		<PRODUCTNAME>Konektor FPC přední kamery pro iPhone 11 Pro / 11 Pro Max (18 pinů) IPH1473</PRODUCTNAME>
+		<PRODUCT>Konektor FPC přední kamery pro iPhone 11 Pro / 11 Pro Max (18 pinů) IPH1473</PRODUCT>
+		<DESCRIPTION>Front Camera FPC Connector iPhone 11 Pro / 11 Pro Max (18 pinů) je konektor pro připojení přední kamery a Face ID systému k základní desce. Vhodný pro profesionální opravy.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/front-camera-fpc-connector-iphone-11-pro-11-pro-max-18-pin?utm_source=heureka</URL>
@@ -342392,9 +342392,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21517</ITEM_ID>
-		<PRODUCTNAME>Konektor FPC zadnej širokouhlej kamery pre iPhone 11 Pro / 11 Pro Max (J7200, 28 pinov) IPH1474</PRODUCTNAME>
-		<PRODUCT>Konektor FPC zadnej širokouhlej kamery pre iPhone 11 Pro / 11 Pro Max (J7200, 28 pinov) IPH1474</PRODUCT>
-		<DESCRIPTION>Zadný širokouhlý fotoaparát FPC konektor iPhone 11 Pro / 11 Pro Max (J7200, 28 pinov) je konektor na pripojenie zadného širokouhlého fotoaparátu k základnej doske. Ideálny pre profesionálne servisné opravy.</DESCRIPTION>
+		<PRODUCTNAME>Konektor FPC zadní širokoúhlé kamery pro iPhone 11 Pro / 11 Pro Max (J7200, 28 pinů) IPH1474</PRODUCTNAME>
+		<PRODUCT>Konektor FPC zadní širokoúhlé kamery pro iPhone 11 Pro / 11 Pro Max (J7200, 28 pinů) IPH1474</PRODUCT>
+		<DESCRIPTION>Rear Wide Angle Camera FPC Connector iPhone 11 Pro / 11 Pro Max (J7200, 28 pinů) je konektor pro připojení zadní širokoúhlé kamery k základní desce. Ideální pro profesionální servisní opravy.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/rear-wide-angle-camera-fpc-connector-iphone-11-pro-11-pro-max-j7200-28-pin?utm_source=heureka</URL>
@@ -342433,9 +342433,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21518</ITEM_ID>
-		<PRODUCTNAME>Konektor FPC digitalizéra pre iPhone 11 Pro / 11 Pro Max (J8100, 20 pinov) IPH1475</PRODUCTNAME>
-		<PRODUCT>Konektor FPC digitalizéra pre iPhone 11 Pro / 11 Pro Max (J8100, 20 pinov) IPH1475</PRODUCT>
-		<DESCRIPTION>Digitizér FPC konektor iPhone 11 Pro / 11 Pro Max (J8100, 20 pinov) je konektor na pripojenie dotykovej vrstvy displeja k základnej doske. Vhodný pre profesionálne opravy.</DESCRIPTION>
+		<PRODUCTNAME>Konektor FPC digitizéru pro iPhone 11 Pro / 11 Pro Max (J8100, 20 pinů) IPH1475</PRODUCTNAME>
+		<PRODUCT>Konektor FPC digitizéru pro iPhone 11 Pro / 11 Pro Max (J8100, 20 pinů) IPH1475</PRODUCT>
+		<DESCRIPTION>Digitizer FPC Connector iPhone 11 Pro / 11 Pro Max (J8100, 20 pinů) je konektor pro připojení dotykové vrstvy displeje k základní desce. Vhodný pro profesionální opravy.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/digitizer-fpc-connector-iphone-11-pro-11-pro-max-j8100-20-pin?utm_source=heureka</URL>
@@ -342474,9 +342474,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21521</ITEM_ID>
-		<PRODUCTNAME>FPC flex kábel cyklónu (vibrácie) / kompasu / tlačidiel pre iPhone 11 Pro / 11 Pro Max (22 pinov) IPH1478</PRODUCTNAME>
-		<PRODUCT>FPC flex kábel cyklónu (vibrácie) / kompasu / tlačidiel pre iPhone 11 Pro / 11 Pro Max (22 pinov) IPH1478</PRODUCT>
-		<DESCRIPTION>Cyclone &amp; Compass &amp; Button FPC konektor iPhone 11 Pro / 11 Pro Max (22 pinov) je konektor na pripojenie kompasu, senzorov a tlačidlových obvodov k základnej doske. Ideálny pre profesionálne opravy.</DESCRIPTION>
+		<PRODUCTNAME>FPC flex kabel cyklonu (vibrace) / kompasu / tlačítek pro iPhone 11 Pro / 11 Pro Max (22 pinů) IPH1478</PRODUCTNAME>
+		<PRODUCT>FPC flex kabel cyklonu (vibrace) / kompasu / tlačítek pro iPhone 11 Pro / 11 Pro Max (22 pinů) IPH1478</PRODUCT>
+		<DESCRIPTION>Cyclone &amp; Compass &amp; Button FPC Connector iPhone 11 Pro / 11 Pro Max (22 pinů) je konektor pro připojení kompasu, senzorů a tlačítkových obvodů k základní desce. Ideální pro profesionální opravy.</DESCRIPTION>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/cyclone-compass-button-fpc-iphone-11-pro-11-pro-max-22-pin?utm_source=heureka</URL>
