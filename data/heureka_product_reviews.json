@@ -1,5 +1,5 @@
 {
-  "generated_at": 1767066269,
+  "generated_at": 1767152642,
   "stats": {
     "products_count": 34,
     "raw_reviews_in_feed": 34,
@@ -51,26 +51,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "c6f332549488ce1f3e6e2f73e4763714dba1177f"
-        }
-      ]
-    },
-    {
-      "product_name": "Guess 4G Script PC/PU Pouzdro pro AirPods Pro, černé GUAP4GSMK",
-      "url": "https://www.express-servis.cz/p/guess-4g-script-pc-pu-pouzdro-pro-airpods-pro-black?utm_source=heureka",
-      "price": 368.0,
-      "ean": "3666339009700",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21492106",
-          "rating_id_type": "product",
-          "unix_timestamp": 1767017540,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "418632892ffa26c08eb275cee66fcb0296884692"
         }
       ]
     },
@@ -157,7 +137,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box na baterii HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-vyhrivany-box?utm_source=heureka",
-      "price": 3322.0,
+      "price": 4295.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -231,6 +211,26 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "2a8861842adf6e7ffe18ac8f87675583583e250e"
+        }
+      ]
+    },
+    {
+      "product_name": "Swissten power line power bank 50000 mah pro notebooky 100w power delivery black 22013942",
+      "url": "https://www.express-servis.cz/p/swissten-power-line-power-bank-50000-mah-pro-notebooky-100w-power-delivery-black?utm_source=heureka",
+      "price": 1659.0,
+      "ean": "8595217481282",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21338155",
+          "rating_id_type": "product",
+          "unix_timestamp": 1765114363,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "40263bc558c78d96016860644f8af585c896d169"
         }
       ]
     },
