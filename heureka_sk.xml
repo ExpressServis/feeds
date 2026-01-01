@@ -341804,15 +341804,15 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_13978</ITEM_ID>
-		<PRODUCTNAME>Tactical MagForce Hyperstealth - Svetlo šedý - kryt s MagSafe pre iPhone 16, šedý 57983121843</PRODUCTNAME>
-		<PRODUCT>Tactical MagForce Hyperstealth - Svetlo šedý - kryt s MagSafe pre iPhone 16, šedý 57983121843</PRODUCT>
-		<DESCRIPTION>Tactical MagForce Hyperstealth vyniká jednoduchým farebným dizajnom, ktorý všade zapadne a hlavne chráni tvoj iPhone. Čistý dizajn s transparentnou plochou dodá puzdru jednoduchosť, ergonomickosť a jednoduchý cieľ. Jadro krytu je odolné voči nárazu a ochranný mantinel chráni obrazovku telefónu pri páde alebo položením displejom dole.</DESCRIPTION>
+		<PRODUCTNAME>Tactical MagForce Hyperstealth - Light Grey - kryt s MagSafe pro iPhone 16, šedý 57983121843</PRODUCTNAME>
+		<PRODUCT>Tactical MagForce Hyperstealth - Light Grey - kryt s MagSafe pro iPhone 16, šedý 57983121843</PRODUCT>
+		<DESCRIPTION>Tactical MagForce Hyperstealth vyniká jednoduchým barevným designem, který všude zapadne a hlavně chrání tvůj iPhone. Čistý design s transparentní plochou dodá pouzdru jednoduchost, ergonomičnost a jednoduchý cíl. Jádro krytu je odolné proti nárazu a ochranný mantinel chrání obrazovku telefonu při pádu nebo položením displejem dolu.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Šedá</VAL>
 		</PARAM>
 		<PARAM>
