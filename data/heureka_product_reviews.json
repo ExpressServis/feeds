@@ -1,9 +1,9 @@
 {
-  "generated_at": 1767152642,
+  "generated_at": 1767239826,
   "stats": {
-    "products_count": 34,
-    "raw_reviews_in_feed": 34,
-    "saved_reviews": 34,
+    "products_count": 35,
+    "raw_reviews_in_feed": 35,
+    "saved_reviews": 35,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -34,6 +34,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Apple iPhone 17 Pro 256 GB MG8J4SX/A Modrá",
+      "url": "https://www.express-servis.cz/p/apple-iphone-17-pro-256gb-temne-modry?utm_source=heureka",
+      "price": 32575.0,
+      "ean": "195950627596",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21509023",
+          "rating_id_type": "product",
+          "unix_timestamp": 1767203324,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "e985b475d4a8e00bfd5d23431c0cad7b14eedd6e"
+        }
+      ]
+    },
     {
       "product_name": "Guess 4G Script PC/PU Pouzdro pro Airpods Pro, hnědý GUAP4GSMW",
       "url": "https://www.express-servis.cz/p/guess-4g-script-pc-pu-pouzdro-pro-airpods-pro-brown?utm_source=heureka",
@@ -537,7 +557,7 @@
     {
       "product_name": "Apple A1382 - originální",
       "url": "https://www.express-servis.cz/p/baterie-macbook-pro-15-2011-2012-a1382?utm_source=heureka",
-      "price": 1215.0,
+      "price": 1375.0,
       "ean": "8596115568228",
       "reviews_count": 1,
       "reviews": [
@@ -657,7 +677,7 @@
     {
       "product_name": "Apple iPhone 12 / 12 Pro OLED displej + dotyk černý",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-12-12-pro-original-change-glass-refurbished-cerny?utm_source=heureka",
-      "price": 2035.0,
+      "price": 2005.0,
       "ean": "8597593014177",
       "reviews_count": 1,
       "reviews": [
