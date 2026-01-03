@@ -1,11 +1,11 @@
 {
-  "generated_at": 1767325682,
+  "generated_at": 1767411508,
   "stats": {
     "products_count": 35,
     "raw_reviews_in_feed": 35,
     "saved_reviews": 35,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 2
+    "cross_product_duplicates_count": 3
   },
   "cross_product_duplicates": {
     "6f8b417cc31f89b40133ccd7ae09c42bd076d84d": [
@@ -18,6 +18,18 @@
         "ean": "8596311249754",
         "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-black-1?utm_source=heureka",
         "product_name": "LCD Displej + Dotyk + Přední kryt Samsung G986/G985 Galaxy S20+"
+      }
+    ],
+    "3a7749b04f9a0c626379ea05f65d5a3e1681195d": [
+      {
+        "ean": "8596311204555",
+        "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-pro-huawei-3340mah-li-pol-oem?utm_source=heureka",
+        "product_name": "Huawei HB356687ECW"
+      },
+      {
+        "ean": "8596311110603",
+        "url": "https://www.express-servis.cz/p/hb356687ecw-huawei-baterie-3340mah-li-pol-service-pack?utm_source=heureka",
+        "product_name": "Huawei HB356687ECW"
       }
     ],
     "88e2ad68d568f82a49cac72f1f52a34cc5b091cf": [
@@ -279,6 +291,26 @@
       "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-pro-huawei-3340mah-li-pol-oem?utm_source=heureka",
       "price": 132.0,
       "ean": "8596311204555",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21336718",
+          "rating_id_type": "product",
+          "unix_timestamp": 1765100449,
+          "rating": 5.0,
+          "pros": "Cena",
+          "cons": "Asi malinko kratší flex než na originální takže se musí popotáhnout a ohnout v jiném místě než je továrně ohnuto a trochu se to pne. (Po přišroubování jisticího plechu to ale nevypadne. \nNemá na sobě vyndavací samolepky jako originál.",
+          "summary": "Originál to není ale za tu cenu slušná baterie.",
+          "recommends": "1",
+          "fingerprint": "3a7749b04f9a0c626379ea05f65d5a3e1681195d"
+        }
+      ]
+    },
+    {
+      "product_name": "Huawei HB356687ECW",
+      "url": "https://www.express-servis.cz/p/hb356687ecw-huawei-baterie-3340mah-li-pol-service-pack?utm_source=heureka",
+      "price": 340.0,
+      "ean": "8596311110603",
       "reviews_count": 1,
       "reviews": [
         {
@@ -711,26 +743,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "4a20b1d59b09238ccd92cca3f4b6af9087acf7f5"
-        }
-      ]
-    },
-    {
-      "product_name": "Epico Milanese+ pro Apple Watch SE/Series 1-11 (38/40/41/42mm) - hvězdně bílý 69818182100001",
-      "url": "https://www.express-servis.cz/p/epico-watch-strap-milanese-reminek-milansky-tah-pro-38-40-41mm-hvezdne-bila?utm_source=heureka",
-      "price": 645.0,
-      "ean": "8596049184693",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21266746",
-          "rating_id_type": "product",
-          "unix_timestamp": 1751450580,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "7c45e2ec4ec934f292f8539432db70128457796c"
         }
       ]
     }
