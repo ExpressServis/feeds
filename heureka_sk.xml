@@ -10034,31 +10034,31 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_5703</ITEM_ID>
-		<PRODUCTNAME>Taktické Black Hawk StrikePods - Vodotesné, bezdrôtové slúchadlá, čierne 57983106504</PRODUCTNAME>
-		<PRODUCT>Taktické Black Hawk StrikePods - Vodotesné, bezdrôtové slúchadlá, čierne 57983106504</PRODUCT>
-		<DESCRIPTION>Vodoodolné slúchadlá Tactical Black Hawk s inteligentným potlačením okolitého hluku a dotykovým ovládaním. Parádny a čistý zvukový zážitok z počúvania hudby na cestách aj v pohodlí domova.</DESCRIPTION>
+		<PRODUCTNAME>Tactical Black Hawk StrikePods - Voděodolná, bezdrátová sluchátka, černá 57983106504</PRODUCTNAME>
+		<PRODUCT>Tactical Black Hawk StrikePods - Voděodolná, bezdrátová sluchátka, černá 57983106504</PRODUCT>
+		<DESCRIPTION>Voděodolná sluchátka Tactical Black Hawk s inteligentním potlačením okolního hluku a dotykovým ovládáním. Parádní a čistý zvukový zážitek z poslechu hudby na cestách i v pohodlí domova.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Čierna</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Bezdrôtové nabíjanie</PARAM_NAME>
+			<PARAM_NAME>Bezdrátové nabíjení</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Jack 3,5’’</PARAM_NAME>
+			<PARAM_NAME>Jack 3,5</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<MANUFACTURER>Tactical</MANUFACTURER>
@@ -92412,8 +92412,8 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_15449</ITEM_ID>
-		<PRODUCTNAME>HB386589ECW Huawei Batéria 3750mAh Li-Ion (Service Pack) 24022732</PRODUCTNAME>
-		<PRODUCT>HB386589ECW Huawei Batéria 3750mAh Li-Ion (Service Pack) 24022732</PRODUCT>
+		<PRODUCTNAME>HB386589ECW Huawei Baterie 3750mAh Li-Ion (Service Pack) 24022732</PRODUCTNAME>
+		<PRODUCT>HB386589ECW Huawei Baterie 3750mAh Li-Ion (Service Pack) 24022732</PRODUCT>
 		<DESCRIPTION>24022732 Huawei P10 Plus, Honor View 10, Honor Play, Huawei Nova 3, Huawei Nova 5T, Huawei Mate 20 Lite, Honor 20</DESCRIPTION>
 		<MANUFACTURER>Huawei</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/hb386589ecw-huawei-baterie-3750mah-li-ion-service-pack?utm_source=heureka</URL>
@@ -200863,13 +200863,13 @@
 		<ITEM_ID>SHOP_15080</ITEM_ID>
 		<PRODUCTNAME>Apple iMac 24" M4 Apple iMac 24" M4 (2024) 10CPU/10GPU/16GB/512GB modrý MWV33CZ/A</PRODUCTNAME>
 		<PRODUCT>Apple iMac 24" M4 Apple iMac 24" M4 (2024) 10CPU/10GPU/16GB/512GB modrý MWV33CZ/A</PRODUCT>
-		<DESCRIPTION>Vytvorený pre Apple Intelligence. Osobnejší, súkromnejší, výkonnejší. Nové úchvatné farby. Úžasne tenký dizajn. Čip M4. 12MP Center Stage kamera. Funkcia Pohľad na stôl.</DESCRIPTION>
+		<DESCRIPTION>Dělaný pro Apple Intelligence. Osobnější, soukromější, výkonnější. Nové úchvatné barvy. Úžasně tenký design. Čip M4. 12MP Center Stage kamera. Funkce Pohled na stůl.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>24"</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>4480 x 2520</VAL>
 		</PARAM>
 		<PARAM>
@@ -200877,15 +200877,15 @@
 			<VAL>Ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magic Keyboard, Magic Mouse, Napájací kábel, USB C kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magic Keyboard, Magic Mouse, Napájecí kabel, USB C kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>IPS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet displejov</PARAM_NAME>
+			<PARAM_NAME>Počet displejů</PARAM_NAME>
 			<VAL>1</VAL>
 		</PARAM>
 		<PARAM>
@@ -200894,14 +200894,14 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Lesklý displej</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Retina</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>4,44</VAL>
 		</PARAM>
 		<PARAM>
@@ -200909,15 +200909,15 @@
 			<VAL>461 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>547 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>147,0 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Modrá</VAL>
 		</PARAM>
 		<PARAM>
@@ -200926,18 +200926,18 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Stereo reproduktory</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Webkamera</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Numerická klávesnica</PARAM_NAME>
+			<PARAM_NAME>Numerická klávesnice</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
@@ -200945,67 +200945,67 @@
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>512 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Zvýraznenie basov</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Zvýraznění basů</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Platforma</PARAM_NAME>
 			<VAL>OS X</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>macOS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple M4</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Pamäť RAM</PARAM_NAME>
+			<PARAM_NAME>Paměť RAM</PARAM_NAME>
 			<VAL>16 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>10x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>SSD</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Podsvietenie klávesnice</PARAM_NAME>
+			<PARAM_NAME>Podsvícení klávesnice</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Automatické podsvietenie displeja</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Automatické podsvícení displeje</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>HDMI</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Jack 3,5’’</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Jack 3,5</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>FireWire</PARAM_NAME>
+			<PARAM_NAME>Firewire</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
@@ -201013,8 +201013,8 @@
 			<VAL>Thunderbolt 4</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výstup na slúchadlá</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Výstup na sluchátka</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>USB 3.0</PARAM_NAME>
@@ -201022,27 +201022,27 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>USB C</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Počet USB/USB-C</PARAM_NAME>
 			<VAL>4x USB-C</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Snímač okolia osvetlenia</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Snímač okolního osvětlení</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Zabudovaný reproduktor</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ počítača</PARAM_NAME>
-			<VAL>Všetko v jednom</VAL>
+			<PARAM_NAME>Typ počítače</PARAM_NAME>
+			<VAL>All-in-one</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Distribúcia</PARAM_NAME>
-			<VAL>Samozrejme, prosím, poskytnite text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Distribuce</PARAM_NAME>
+			<VAL>Česká</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Počítače a notebooky | Stolní počítače</CATEGORYTEXT>
@@ -203866,31 +203866,31 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_16808</ITEM_ID>
-		<PRODUCTNAME>Apple iPad 11" (2025) MD4E4HC/A Apple iPad 11" 128GB Wi-Fi ružový (2025) 128 GB Ružová</PRODUCTNAME>
-		<PRODUCT>Apple iPad 11" (2025) MD4E4HC/A Apple iPad 11" 128GB Wi-Fi ružový (2025) 128 GB Ružová</PRODUCT>
-		<DESCRIPTION>Milujem. Kreslím. Čarujem. Teraz so superrýchlym čipom A16. Ešte väčšie úložisko. Nádherný Liquid Retina displej. Samý displej. Samá zábava.</DESCRIPTION>
+		<PRODUCTNAME>Apple iPad 11" (2025) MD4E4HC/A Apple iPad 11" 128GB Wi-Fi růžový (2025) 128 GB Růžová</PRODUCTNAME>
+		<PRODUCT>Apple iPad 11" (2025) MD4E4HC/A Apple iPad 11" 128GB Wi-Fi růžový (2025) 128 GB Růžová</PRODUCT>
+		<DESCRIPTION>Miluju. Kreslím. Čaruju. Teď se superrychlým čipem A16. Ještě větší úložiště. Nádherný Liquid Retina displej. Samý displej. Samá zábava.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>11"</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>2360 x 1640 px</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ batérie</PARAM_NAME>
+			<PARAM_NAME>Typ baterie</PARAM_NAME>
 			<VAL>Li-pol</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Kapacita batérie</PARAM_NAME>
+			<PARAM_NAME>Kapacita baterie</PARAM_NAME>
 			<VAL>7606</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>10 hodín</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>10 hodin</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
@@ -203898,27 +203898,27 @@
 			<VAL>Ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>USB C kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>USB C kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>Liquid Retina</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet displejov</PARAM_NAME>
+			<PARAM_NAME>Počet displejů</PARAM_NAME>
 			<VAL>1</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Dotykový</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Retina</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>477 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -203926,83 +203926,83 @@
 			<VAL>249 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>180 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>7 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Konštrukcia</PARAM_NAME>
+			<PARAM_NAME>Konstrukce</PARAM_NAME>
 			<VAL>Dotykové</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Ružová</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Růžová</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Emailový prehliadač</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Emailový prohlížeč</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
 			<VAL>Hliník</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>MP3/WMA/AAC vyzváňania</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>MP3/WMA/AAC vyzvánění</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Fotoaparát</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie fotoaparátu</PARAM_NAME>
+			<PARAM_NAME>Rozlišení fotoaparátu</PARAM_NAME>
 			<VAL>12 Mpx</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Automatické zaostrovanie</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Automatické ostření</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie videokamery</PARAM_NAME>
+			<PARAM_NAME>Rozlišení videokamery</PARAM_NAME>
 			<VAL>0</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Predná kamera</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Přední kamera</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie prednej kamery</PARAM_NAME>
+			<PARAM_NAME>Rozlišení přední kamery</PARAM_NAME>
 			<VAL>12 Mpx</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vestavaný blesk</PARAM_NAME>
+			<PARAM_NAME>Vestavěný blesk</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>MP3</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Internetový prehliadač</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Internetový prohlížeč</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Stereo reproduktory</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>128 GB</VAL>
 		</PARAM>
 		<PARAM>
@@ -204010,11 +204010,11 @@
 			<VAL>iOS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>iPadOS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple A16 Bionic</VAL>
 		</PARAM>
 		<PARAM>
@@ -204023,14 +204023,14 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>LTE/5G</PARAM_NAME>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>HDMI</PARAM_NAME>
@@ -204041,7 +204041,7 @@
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
@@ -204057,12 +204057,12 @@
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Jack 3,5’’</PARAM_NAME>
+			<PARAM_NAME>Jack 3,5</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Distribúcia</PARAM_NAME>
-			<VAL>Samozrejme, prosím, poskytnite text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Distribuce</PARAM_NAME>
+			<VAL>Česká</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Tablety a čtečky | Tablety</CATEGORYTEXT>
@@ -211030,27 +211030,27 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17162</ITEM_ID>
-		<PRODUCTNAME>Apple iPad Air 13" (2025) MCNH4HC/A Apple iPad Air 13" (2025) 128GB Wi-Fi vesmírne šedý 128 GB Šedá</PRODUCTNAME>
-		<PRODUCT>Apple iPad Air 13" (2025) MCNH4HC/A Apple iPad Air 13" (2025) 128GB Wi-Fi vesmírne šedý 128 GB Šedá</PRODUCT>
-		<DESCRIPTION>Nový iPad Air. S výkonným čipom Apple M3. Pripravený na všetko. Vytvorený pre Apple Intelligence. Ohromné možnosti AI.</DESCRIPTION>
+		<PRODUCTNAME>Apple iPad Air 13" (2025) MCNH4HC/A Apple iPad Air 13" (2025) 128GB Wi-Fi vesmírně šedý 128 GB Šedá</PRODUCTNAME>
+		<PRODUCT>Apple iPad Air 13" (2025) MCNH4HC/A Apple iPad Air 13" (2025) 128GB Wi-Fi vesmírně šedý 128 GB Šedá</PRODUCT>
+		<DESCRIPTION>Nový iPad Air. S výkonným čipem Apple M3. Připravený na všechno. Dělaný pro Apple IntelligenceOhromné možnosti AI.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>13"</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>2732 x 2048</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ batérie</PARAM_NAME>
+			<PARAM_NAME>Typ baterie</PARAM_NAME>
 			<VAL>Li-pol</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>10 hodín</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>10 hodin</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
@@ -211058,27 +211058,27 @@
 			<VAL>Ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>USB C kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>USB C kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>Liquid Retina</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet displejov</PARAM_NAME>
+			<PARAM_NAME>Počet displejů</PARAM_NAME>
 			<VAL>1</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Dotykový</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Retina</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>616 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -211086,83 +211086,83 @@
 			<VAL>281 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>215 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>6 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Konštrukcia</PARAM_NAME>
+			<PARAM_NAME>Konstrukce</PARAM_NAME>
 			<VAL>Dotykové</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Šedá</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Emailový prehliadač</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Emailový prohlížeč</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
 			<VAL>Hliník</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>MP3/WMA/AAC vyzváňania</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>MP3/WMA/AAC vyzvánění</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Fotoaparát</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie fotoaparátu</PARAM_NAME>
+			<PARAM_NAME>Rozlišení fotoaparátu</PARAM_NAME>
 			<VAL>12 Mpx</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Automatické zaostrovanie</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Automatické ostření</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie videokamery</PARAM_NAME>
+			<PARAM_NAME>Rozlišení videokamery</PARAM_NAME>
 			<VAL>3840 x 2160</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Predná kamera</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Přední kamera</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie prednej kamery</PARAM_NAME>
+			<PARAM_NAME>Rozlišení přední kamery</PARAM_NAME>
 			<VAL>12 Mpx</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vestavaný blesk</PARAM_NAME>
+			<PARAM_NAME>Vestavěný blesk</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>MP3</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Internetový prehliadač</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Internetový prohlížeč</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Stereo reproduktory</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>128 GB</VAL>
 		</PARAM>
 		<PARAM>
@@ -211170,15 +211170,15 @@
 			<VAL>iOS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>iPadOS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple M3</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Pamäť RAM</PARAM_NAME>
+			<PARAM_NAME>Paměť RAM</PARAM_NAME>
 			<VAL>8 GB</VAL>
 		</PARAM>
 		<PARAM>
@@ -211187,14 +211187,14 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>LTE/5G</PARAM_NAME>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>HDMI</PARAM_NAME>
@@ -211205,7 +211205,7 @@
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
@@ -211221,12 +211221,12 @@
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Jack 3,5’’</PARAM_NAME>
+			<PARAM_NAME>Jack 3,5</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Distribúcia</PARAM_NAME>
-			<VAL>Samozrejme, prosím, poskytnite text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Distribuce</PARAM_NAME>
+			<VAL>Česká</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Tablety a čtečky | Tablety</CATEGORYTEXT>
@@ -254980,9 +254980,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_10927</ITEM_ID>
-		<PRODUCTNAME>Doska nabíjania pre Samsung Galaxy A33 5G A336 (Service pack) GH96-15022A</PRODUCTNAME>
-		<PRODUCT>Doska nabíjania pre Samsung Galaxy A33 5G A336 (Service pack) GH96-15022A</PRODUCT>
-		<DESCRIPTION>Náhradná doska nabíjania s USB-C konektorom v kvalite Service Pack pre telefón značky Samsung.</DESCRIPTION>
+		<PRODUCTNAME>Deska nabíjení pro Samsung Galaxy A33 5G A336 (Service pack) GH96-15022A</PRODUCTNAME>
+		<PRODUCT>Deska nabíjení pro Samsung Galaxy A33 5G A336 (Service pack) GH96-15022A</PRODUCT>
+		<DESCRIPTION>Náhradní deska nabíjení s USB-C konektorem v kvalitě Service Pack pro telefon značky Samsung.</DESCRIPTION>
 		<MANUFACTURER>Samsung</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/deska-nabijeni-pro-samsung-galaxy-a33-5g-a336-service-pack?utm_source=heureka</URL>
 		<IMGURL>https://api.express-servis.cz/files/shop/product-files/57088</IMGURL>
@@ -255091,9 +255091,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_11287</ITEM_ID>
-		<PRODUCTNAME>Doska nabíjania pre Samsung Galaxy S23 S911 (Service pack) GH96-15629A</PRODUCTNAME>
-		<PRODUCT>Doska nabíjania pre Samsung Galaxy S23 S911 (Service pack) GH96-15629A</PRODUCT>
-		<DESCRIPTION>Náhradná doska nabíjania s USB-C konektorom v kvalite Service Pack pre telefón značky Samsung.</DESCRIPTION>
+		<PRODUCTNAME>Deska nabíjení pro Samsung Galaxy S23 S911 (Service pack) GH96-15629A</PRODUCTNAME>
+		<PRODUCT>Deska nabíjení pro Samsung Galaxy S23 S911 (Service pack) GH96-15629A</PRODUCT>
+		<DESCRIPTION>Náhradní deska nabíjení s USB-C konektorem v kvalitě Service Pack pro telefon značky Samsung.</DESCRIPTION>
 		<MANUFACTURER>Samsung</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/deska-nabijeni-pro-samsung-galaxy-s23-s911-service-pack?utm_source=heureka</URL>
 		<IMGURL>https://api.express-servis.cz/files/shop/product-files/57448</IMGURL>
@@ -272548,39 +272548,39 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20671</ITEM_ID>
-		<PRODUCTNAME>Apple Apple Watch SE 3 (2025) Cellular 40mm Apple Watch SE 3 (2025) Cellular 40mm biela / hviezdne biela športový remienok S/M Biela</PRODUCTNAME>
-		<PRODUCT>Apple Apple Watch SE 3 (2025) Cellular 40mm Apple Watch SE 3 (2025) Cellular 40mm biela / hviezdne biela športový remienok S/M Biela</PRODUCT>
-		<DESCRIPTION>Apple Watch SE 3 majú inovatívne snímače, vrátane snímača srdcovej činnosti a snímania teploty zápästia. O svojom zdraví si tak udržíš prehľad. Gyroskop, akcelerometer a GPS sledujú tvoju aktivitu a stoja za presnými kondičnými ukazovateľmi a bezpečnostnými funkciami.</DESCRIPTION>
+		<PRODUCTNAME>Apple Apple Watch SE 3 (2025) Cellular 40mm Apple Watch SE 3 (2025) Cellular 40mm bílé / hvězdně bílý sportovní řemínek S/M Bílá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch SE 3 (2025) Cellular 40mm Apple Watch SE 3 (2025) Cellular 40mm bílé / hvězdně bílý sportovní řemínek S/M Bílá</PRODUCT>
+		<DESCRIPTION>Apple Watch SE 3 mají inovativní snímače, včetně snímače srdeční činnosti a snímání teploty zápěstí. O svém zdraví si tak udržíš přehled. Gyroskop, akcelerometr a GPS sledují tvoji aktivitu a stojí za přesnými kondičními ukazateli a bezpečnostními funkcemi.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>1,78</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>324 x 394</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>1 deň</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Odolné</PARAM_NAME>
-			<VAL>Vodoodolnosť</VAL>
+			<VAL>Voděodolnost</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magnetický nabíjací kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>LTPO OLED</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>26,3 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -272588,64 +272588,64 @@
 			<VAL>40 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>34 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>11 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Biela</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Bílá</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
 			<VAL>Hliník</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>64 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>Watch OS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple S10</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>2x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>GPS</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Glonass</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
@@ -272691,39 +272691,39 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20672</ITEM_ID>
-		<PRODUCTNAME>Apple Apple Watch SE 3 (2025) Cellular 40mm Apple Watch SE 3 (2025) Cellular 40mm biela / hviezdne biela športový remienok M/L Biela</PRODUCTNAME>
-		<PRODUCT>Apple Apple Watch SE 3 (2025) Cellular 40mm Apple Watch SE 3 (2025) Cellular 40mm biela / hviezdne biela športový remienok M/L Biela</PRODUCT>
-		<DESCRIPTION>Apple Watch SE 3 majú inovatívne snímače, vrátane snímača srdcovej činnosti a snímania teploty zápästia. O svojom zdraví si tak udržíš prehľad. Gyroskop, akcelerometer a GPS sledujú tvoju aktivitu a stoja za presnými kondičnými ukazovateľmi a bezpečnostnými funkciami.</DESCRIPTION>
+		<PRODUCTNAME>Apple Apple Watch SE 3 (2025) Cellular 40mm Apple Watch SE 3 (2025) Cellular 40mm bílé / hvězdně bílý sportovní řemínek M/L Bílá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch SE 3 (2025) Cellular 40mm Apple Watch SE 3 (2025) Cellular 40mm bílé / hvězdně bílý sportovní řemínek M/L Bílá</PRODUCT>
+		<DESCRIPTION>Apple Watch SE 3 mají inovativní snímače, včetně snímače srdeční činnosti a snímání teploty zápěstí. O svém zdraví si tak udržíš přehled. Gyroskop, akcelerometr a GPS sledují tvoji aktivitu a stojí za přesnými kondičními ukazateli a bezpečnostními funkcemi.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>1,78</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>324 x 394</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>1 deň</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Odolné</PARAM_NAME>
-			<VAL>Vodoodolnosť</VAL>
+			<VAL>Voděodolnost</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magnetický nabíjací kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>LTPO OLED</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>26,3 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -272731,64 +272731,64 @@
 			<VAL>40 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>34 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>11 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Biela</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Bílá</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
 			<VAL>Hliník</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>64 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>Watch OS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple S10</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>2x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>GPS</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Glonass</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
@@ -272977,39 +272977,39 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20676</ITEM_ID>
-		<PRODUCTNAME>Apple Apple Watch SE 3 (2025) Cellular 44mm Apple Watch SE 3 (2025) Cellular 44mm biele / hviezdne biele športové remienok M/L Biela</PRODUCTNAME>
-		<PRODUCT>Apple Apple Watch SE 3 (2025) Cellular 44mm Apple Watch SE 3 (2025) Cellular 44mm biele / hviezdne biele športové remienok M/L Biela</PRODUCT>
-		<DESCRIPTION>Apple Watch SE 3 majú inovatívne snímače, vrátane snímača srdcovej činnosti a snímania teploty zápästia. O svojom zdraví si tak udržíš prehľad. Gyroskop, akcelerometer a GPS sledujú tvoju aktivitu a stoja za presnými kondičnými ukazovateľmi a bezpečnostnými funkciami.</DESCRIPTION>
+		<PRODUCTNAME>Apple Apple Watch SE 3 (2025) Cellular 44mm Apple Watch SE 3 (2025) Cellular 44mm bílé / hvězdně bílý sportovní řemínek M/L Bílá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch SE 3 (2025) Cellular 44mm Apple Watch SE 3 (2025) Cellular 44mm bílé / hvězdně bílý sportovní řemínek M/L Bílá</PRODUCT>
+		<DESCRIPTION>Apple Watch SE 3 mají inovativní snímače, včetně snímače srdeční činnosti a snímání teploty zápěstí. O svém zdraví si tak udržíš přehled. Gyroskop, akcelerometr a GPS sledují tvoji aktivitu a stojí za přesnými kondičními ukazateli a bezpečnostními funkcemi.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>1,93"</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>324 x 394</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>1 deň</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Odolné</PARAM_NAME>
-			<VAL>Vodoodolnosť</VAL>
+			<VAL>Voděodolnost</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magnetický nabíjací kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>LTPO OLED</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>33 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -273017,64 +273017,64 @@
 			<VAL>44 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>38 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>11 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Biela</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Bílá</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
 			<VAL>Hliník</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>64 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>Watch OS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple S10</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>2x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>GPS</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Glonass</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
@@ -273447,39 +273447,39 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20683</ITEM_ID>
-		<PRODUCTNAME>Apple Apple Watch SE 3 (2025) Cellular 40mm Apple Watch SE 3 (2025) Cellular 40mm atramentový / atramentový športový remienok M/L Čierna</PRODUCTNAME>
-		<PRODUCT>Apple Apple Watch SE 3 (2025) Cellular 40mm Apple Watch SE 3 (2025) Cellular 40mm atramentový / atramentový športový remienok M/L Čierna</PRODUCT>
-		<DESCRIPTION>Apple Watch SE 3 majú inovatívne snímače, vrátane snímača srdcovej činnosti a snímania teploty zápästia. O svojom zdraví si tak udržíš prehľad. Gyroskop, akcelerometer a GPS sledujú tvoju aktivitu a stoja za presnými kondičnými ukazovateľmi a bezpečnostnými funkciami.</DESCRIPTION>
+		<PRODUCTNAME>Apple Apple Watch SE 3 (2025) Cellular 40mm Apple Watch SE 3 (2025) Cellular 40mm inkoustové / inkoustový sportovní řemínek M/L Černá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch SE 3 (2025) Cellular 40mm Apple Watch SE 3 (2025) Cellular 40mm inkoustové / inkoustový sportovní řemínek M/L Černá</PRODUCT>
+		<DESCRIPTION>Apple Watch SE 3 mají inovativní snímače, včetně snímače srdeční činnosti a snímání teploty zápěstí. O svém zdraví si tak udržíš přehled. Gyroskop, akcelerometr a GPS sledují tvoji aktivitu a stojí za přesnými kondičními ukazateli a bezpečnostními funkcemi.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>1,78</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>324 x 394</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>1 deň</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Odolné</PARAM_NAME>
-			<VAL>Vodoodolnosť</VAL>
+			<VAL>Voděodolnost</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magnetický nabíjací kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>LTPO OLED</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>26,3 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -273487,64 +273487,64 @@
 			<VAL>40 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>34 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>11 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Čierna</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
 			<VAL>Hliník</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>64 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>Watch OS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple S10</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>2x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>GPS</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Glonass</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
@@ -274001,39 +274001,39 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20697</ITEM_ID>
-		<PRODUCTNAME>Apple Apple Watch Series 11 GPS 42mm Apple Watch Series 11 GPS 42mm ružovo zlaté / svetlo ružový športový remienok M/L Zlatá</PRODUCTNAME>
-		<PRODUCT>Apple Apple Watch Series 11 GPS 42mm Apple Watch Series 11 GPS 42mm ružovo zlaté / svetlo ružový športový remienok M/L Zlatá</PRODUCT>
-		<DESCRIPTION>Séria 11 sú najtenšie Apple Watch. Sú tak pohodlné, že si ich nemusíš dávať z ruky, takže tvoje životné funkcie sledujú aj v čase, keď spíš. Batéria má ohromnú výdrž – pri plnom nabití až 24 hodín bežného používania. Za 15 minút ju nabiješ až na 8 hodín.</DESCRIPTION>
+		<PRODUCTNAME>Apple Apple Watch Series 11 GPS 42mm Apple Watch Series 11 GPS 42mm růžově zlaté / světle ruměnný sportovní řemínem M/L Zlatá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch Series 11 GPS 42mm Apple Watch Series 11 GPS 42mm růžově zlaté / světle ruměnný sportovní řemínem M/L Zlatá</PRODUCT>
+		<DESCRIPTION>Series 11 jsou nejtenčí Apple Watch. Jsou tak pohodlné, že je nemusíš sundávat z ruky, takže tvoje životní funkce sledují i v době, kdy spíš. Baterie má ohromnou výdrž – při plném nabití až 24 hodin běžného používání. Za 15 minut ji nabiješ až na 8 hodin.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>1,78</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>374 x 446</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>1 deň</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Odolné</PARAM_NAME>
-			<VAL>Prachotesnosť, Vodoodolnosť</VAL>
+			<VAL>Prachotěsnost, Voděodolnost</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magnetický nabíjací kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>OLED</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>34,6 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -274041,15 +274041,15 @@
 			<VAL>42 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>36 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>10 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Zlatá</VAL>
 		</PARAM>
 		<PARAM>
@@ -274057,48 +274057,48 @@
 			<VAL>Hliník</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>64 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>Watch OS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple S10</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>2x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>GPS</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Glonass</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
@@ -275377,39 +275377,39 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20717</ITEM_ID>
-		<PRODUCTNAME>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm ružovo zlaté / svetlo ružový športový remienok S/M Zlatá</PRODUCTNAME>
-		<PRODUCT>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm ružovo zlaté / svetlo ružový športový remienok S/M Zlatá</PRODUCT>
-		<DESCRIPTION>Séria 11 sú najtenšie Apple Watch. Sú tak pohodlné, že si ich nemusíš dávať z ruky, takže tvoje životné funkcie sledujú aj v čase, keď spíš. Batéria má ohromnú výdrž – pri plnom nabití až 24 hodín bežného používania. Za 15 minút ju nabiješ až na 8 hodín.</DESCRIPTION>
+		<PRODUCTNAME>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm růžově zlaté / světle ruměnný sportovní řemínem S/M Zlatá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm růžově zlaté / světle ruměnný sportovní řemínem S/M Zlatá</PRODUCT>
+		<DESCRIPTION>Series 11 jsou nejtenčí Apple Watch. Jsou tak pohodlné, že je nemusíš sundávat z ruky, takže tvoje životní funkce sledují i v době, kdy spíš. Baterie má ohromnou výdrž – při plném nabití až 24 hodin běžného používání. Za 15 minut ji nabiješ až na 8 hodin.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>1,78</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>374 x 446</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>1 deň</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Odolné</PARAM_NAME>
-			<VAL>Prachotesnosť, Vodoodolnosť</VAL>
+			<VAL>Prachotěsnost, Voděodolnost</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magnetický nabíjací kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>OLED</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>34,6 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -275417,15 +275417,15 @@
 			<VAL>42 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>36 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>10 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Zlatá</VAL>
 		</PARAM>
 		<PARAM>
@@ -275433,48 +275433,48 @@
 			<VAL>Hliník</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>64 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>Watch OS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple S10</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>2x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>GPS</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Glonass</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
@@ -277627,39 +277627,39 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20741</ITEM_ID>
-		<PRODUCTNAME>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm zlatý titan / zlatý milánsky tah Zlatá</PRODUCTNAME>
-		<PRODUCT>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm zlatý titan / zlatý milánsky tah Zlatá</PRODUCT>
-		<DESCRIPTION>Séria 11 sú najtenšie Apple Watch. Sú tak pohodlné, že si ich nemusíš dávať z ruky, takže tvoje životné funkcie sledujú aj v čase, keď spíš. Batéria má ohromnú výdrž – pri plnom nabití až 24 hodín bežného používania. Za 15 minút ju nabiješ až na 8 hodín.</DESCRIPTION>
+		<PRODUCTNAME>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm zlatý titan / zlatý milánský tah Zlatá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm zlatý titan / zlatý milánský tah Zlatá</PRODUCT>
+		<DESCRIPTION>Series 11 jsou nejtenčí Apple Watch. Jsou tak pohodlné, že je nemusíš sundávat z ruky, takže tvoje životní funkce sledují i v době, kdy spíš. Baterie má ohromnou výdrž – při plném nabití až 24 hodin běžného používání. Za 15 minut ji nabiješ až na 8 hodin.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>1,9"</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>416 x 496</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>1 deň</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Odolné</PARAM_NAME>
-			<VAL>Prachotesnosť, Vodoodolnosť</VAL>
+			<VAL>Prachotěsnost, Voděodolnost</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magnetický nabíjací kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>OLED</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>43,1 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -277667,15 +277667,15 @@
 			<VAL>46 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>39 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>10 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Zlatá</VAL>
 		</PARAM>
 		<PARAM>
@@ -277683,48 +277683,48 @@
 			<VAL>Titan</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>64 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>Watch OS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple S10</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>2x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>GPS</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Glonass</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
@@ -277810,39 +277810,39 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20746</ITEM_ID>
-		<PRODUCTNAME>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm zlatý titan / svetlo ružový športový remienok S/M Zlatá</PRODUCTNAME>
-		<PRODUCT>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm zlatý titan / svetlo ružový športový remienok S/M Zlatá</PRODUCT>
-		<DESCRIPTION>Séria 11 sú najtenšie Apple Watch. Sú tak pohodlné, že si ich nemusíš dávať z ruky, takže tvoje životné funkcie sledujú aj v čase, keď spíš. Batéria má ohromnú výdrž – pri plnom nabití až 24 hodín bežného používania. Za 15 minút ju nabiješ až na 8 hodín.</DESCRIPTION>
+		<PRODUCTNAME>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm zlatý titan / světle ruměnný sportovní řemínek S/M Zlatá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm zlatý titan / světle ruměnný sportovní řemínek S/M Zlatá</PRODUCT>
+		<DESCRIPTION>Series 11 jsou nejtenčí Apple Watch. Jsou tak pohodlné, že je nemusíš sundávat z ruky, takže tvoje životní funkce sledují i v době, kdy spíš. Baterie má ohromnou výdrž – při plném nabití až 24 hodin běžného používání. Za 15 minut ji nabiješ až na 8 hodin.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>1,78</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>374 x 446</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>1 deň</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Odolné</PARAM_NAME>
-			<VAL>Prachotesnosť, Vodoodolnosť</VAL>
+			<VAL>Prachotěsnost, Voděodolnost</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magnetický nabíjací kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>OLED</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>34,6 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -277850,15 +277850,15 @@
 			<VAL>42 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>36 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>10 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Zlatá</VAL>
 		</PARAM>
 		<PARAM>
@@ -277866,48 +277866,48 @@
 			<VAL>Titan</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>64 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>Watch OS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple S10</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>2x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>GPS</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Glonass</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
@@ -278946,39 +278946,39 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20742</ITEM_ID>
-		<PRODUCTNAME>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm šedý titan / bridlicovo šedý milánsky remienok Šedá</PRODUCTNAME>
-		<PRODUCT>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm šedý titan / bridlicovo šedý milánsky remienok Šedá</PRODUCT>
-		<DESCRIPTION>Séria 11 sú najtenšie Apple Watch. Sú tak pohodlné, že si ich nemusíš dávať z ruky, takže tvoje životné funkcie sledujú aj v čase, keď spíš. Batéria má ohromnú výdrž – pri plnom nabití až 24 hodín bežného používania. Za 15 minút ju nabiješ až na 8 hodín.</DESCRIPTION>
+		<PRODUCTNAME>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm šedý titan / břidlicově šedý milánský tah Šedá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm šedý titan / břidlicově šedý milánský tah Šedá</PRODUCT>
+		<DESCRIPTION>Series 11 jsou nejtenčí Apple Watch. Jsou tak pohodlné, že je nemusíš sundávat z ruky, takže tvoje životní funkce sledují i v době, kdy spíš. Baterie má ohromnou výdrž – při plném nabití až 24 hodin běžného používání. Za 15 minut ji nabiješ až na 8 hodin.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>1,9"</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>416 x 496</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>1 deň</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Odolné</PARAM_NAME>
-			<VAL>Prachotesnosť, Vodoodolnosť</VAL>
+			<VAL>Prachotěsnost, Voděodolnost</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magnetický nabíjací kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>OLED</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>43,1 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -278986,15 +278986,15 @@
 			<VAL>46 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>39 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>10 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Šedá</VAL>
 		</PARAM>
 		<PARAM>
@@ -279002,48 +279002,48 @@
 			<VAL>Titan</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>64 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>Watch OS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple S10</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>2x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>GPS</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Glonass</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
@@ -307927,39 +307927,39 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20729</ITEM_ID>
-		<PRODUCTNAME>Apple Apple Watch Series 11 Cellular 46mm Apple Watch Series 11 Cellular 46mm ružovo zlaté / svetlo ružový športový remienok S/M Zlatá</PRODUCTNAME>
-		<PRODUCT>Apple Apple Watch Series 11 Cellular 46mm Apple Watch Series 11 Cellular 46mm ružovo zlaté / svetlo ružový športový remienok S/M Zlatá</PRODUCT>
-		<DESCRIPTION>Séria 11 sú najtenšie Apple Watch. Sú tak pohodlné, že si ich nemusíš dávať z ruky, takže tvoje životné funkcie sledujú aj v čase, keď spíš. Batéria má ohromnú výdrž – pri plnom nabití až 24 hodín bežného používania. Za 15 minút ju nabiješ až na 8 hodín.</DESCRIPTION>
+		<PRODUCTNAME>Apple Apple Watch Series 11 Cellular 46mm Apple Watch Series 11 Cellular 46mm růžově zlaté / světle ruměnný sportovní řemínem S/M Zlatá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch Series 11 Cellular 46mm Apple Watch Series 11 Cellular 46mm růžově zlaté / světle ruměnný sportovní řemínem S/M Zlatá</PRODUCT>
+		<DESCRIPTION>Series 11 jsou nejtenčí Apple Watch. Jsou tak pohodlné, že je nemusíš sundávat z ruky, takže tvoje životní funkce sledují i v době, kdy spíš. Baterie má ohromnou výdrž – při plném nabití až 24 hodin běžného používání. Za 15 minut ji nabiješ až na 8 hodin.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>1,9"</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>416 x 496</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>1 deň</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Odolné</PARAM_NAME>
-			<VAL>Prachotesnosť, Vodoodolnosť</VAL>
+			<VAL>Prachotěsnost, Voděodolnost</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magnetický nabíjací kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>OLED</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>43,1 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -307967,15 +307967,15 @@
 			<VAL>46 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>39 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>10 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Zlatá</VAL>
 		</PARAM>
 		<PARAM>
@@ -307983,48 +307983,48 @@
 			<VAL>Hliník</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>64 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>Watch OS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple S10</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>2x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>GPS</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Glonass</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
@@ -308569,39 +308569,39 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20684</ITEM_ID>
-		<PRODUCTNAME>Apple Apple Watch SE 3 (2025) Cellular 44mm Apple Watch SE 3 (2025) Cellular 44mm atramentový / atramentový športový remienok S/M Čierna</PRODUCTNAME>
-		<PRODUCT>Apple Apple Watch SE 3 (2025) Cellular 44mm Apple Watch SE 3 (2025) Cellular 44mm atramentový / atramentový športový remienok S/M Čierna</PRODUCT>
-		<DESCRIPTION>Apple Watch SE 3 majú inovatívne snímače, vrátane snímača srdcovej činnosti a snímania teploty zápästia. O svojom zdraví si tak udržíš prehľad. Gyroskop, akcelerometer a GPS sledujú tvoju aktivitu a stoja za presnými kondičnými ukazovateľmi a bezpečnostnými funkciami.</DESCRIPTION>
+		<PRODUCTNAME>Apple Apple Watch SE 3 (2025) Cellular 44mm Apple Watch SE 3 (2025) Cellular 44mm inkoustové / inkoustový sportovní řemínek S/M Černá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch SE 3 (2025) Cellular 44mm Apple Watch SE 3 (2025) Cellular 44mm inkoustové / inkoustový sportovní řemínek S/M Černá</PRODUCT>
+		<DESCRIPTION>Apple Watch SE 3 mají inovativní snímače, včetně snímače srdeční činnosti a snímání teploty zápěstí. O svém zdraví si tak udržíš přehled. Gyroskop, akcelerometr a GPS sledují tvoji aktivitu a stojí za přesnými kondičními ukazateli a bezpečnostními funkcemi.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>1,93"</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>324 x 394</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>1 deň</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Odolné</PARAM_NAME>
-			<VAL>Vodoodolnosť</VAL>
+			<VAL>Voděodolnost</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magnetický nabíjací kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>LTPO OLED</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>33 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -308609,64 +308609,64 @@
 			<VAL>44 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>38 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>11 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Čierna</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
 			<VAL>Hliník</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>64 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>Watch OS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple S10</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>2x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>GPS</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Glonass</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
@@ -322007,39 +322007,39 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20685</ITEM_ID>
-		<PRODUCTNAME>Apple Apple Watch SE 3 (2025) Cellular 44mm Apple Watch SE 3 (2025) Cellular 44mm atramentový / atramentový športový remienok M/L Čierna</PRODUCTNAME>
-		<PRODUCT>Apple Apple Watch SE 3 (2025) Cellular 44mm Apple Watch SE 3 (2025) Cellular 44mm atramentový / atramentový športový remienok M/L Čierna</PRODUCT>
-		<DESCRIPTION>Apple Watch SE 3 majú inovatívne snímače, vrátane snímača srdcovej činnosti a snímania teploty zápästia. O svojom zdraví si tak udržíš prehľad. Gyroskop, akcelerometer a GPS sledujú tvoju aktivitu a stoja za presnými kondičnými ukazovateľmi a bezpečnostnými funkciami.</DESCRIPTION>
+		<PRODUCTNAME>Apple Apple Watch SE 3 (2025) Cellular 44mm Apple Watch SE 3 (2025) Cellular 44mm inkoustové / inkoustový sportovní řemínek M/L Černá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch SE 3 (2025) Cellular 44mm Apple Watch SE 3 (2025) Cellular 44mm inkoustové / inkoustový sportovní řemínek M/L Černá</PRODUCT>
+		<DESCRIPTION>Apple Watch SE 3 mají inovativní snímače, včetně snímače srdeční činnosti a snímání teploty zápěstí. O svém zdraví si tak udržíš přehled. Gyroskop, akcelerometr a GPS sledují tvoji aktivitu a stojí za přesnými kondičními ukazateli a bezpečnostními funkcemi.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>1,93"</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>324 x 394</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>1 deň</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Odolné</PARAM_NAME>
-			<VAL>Vodoodolnosť</VAL>
+			<VAL>Voděodolnost</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magnetický nabíjací kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>LTPO OLED</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>33 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -322047,64 +322047,64 @@
 			<VAL>44 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>38 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>11 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Čierna</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
 			<VAL>Hliník</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>64 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>Watch OS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple S10</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>2x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>GPS</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Glonass</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
@@ -322196,13 +322196,13 @@
 		<ITEM_ID>SHOP_15086</ITEM_ID>
 		<PRODUCTNAME>Apple iMac 24" M4 Apple iMac 24" M4 (2024) 10CPU/10GPU/24GB/512GB zelený MD2Q4CZ/A</PRODUCTNAME>
 		<PRODUCT>Apple iMac 24" M4 Apple iMac 24" M4 (2024) 10CPU/10GPU/24GB/512GB zelený MD2Q4CZ/A</PRODUCT>
-		<DESCRIPTION>Vytvorený pre Apple Intelligence. Osobnejší, súkromnejší, výkonnejší. Nové úchvatné farby. Úžasne tenký dizajn. Čip M4. 12MP Center Stage kamera. Funkcia Pohľad na stôl.</DESCRIPTION>
+		<DESCRIPTION>Dělaný pro Apple Intelligence. Osobnější, soukromější, výkonnější. Nové úchvatné barvy. Úžasně tenký design. Čip M4. 12MP Center Stage kamera. Funkce Pohled na stůl.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>24"</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>4480 x 2520</VAL>
 		</PARAM>
 		<PARAM>
@@ -322210,15 +322210,15 @@
 			<VAL>Ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magic Keyboard, Magic Mouse, Napájací kábel, USB C kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magic Keyboard, Magic Mouse, Napájecí kabel, USB C kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>IPS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet displejov</PARAM_NAME>
+			<PARAM_NAME>Počet displejů</PARAM_NAME>
 			<VAL>1</VAL>
 		</PARAM>
 		<PARAM>
@@ -322227,14 +322227,14 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Lesklý displej</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Retina</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>4,44</VAL>
 		</PARAM>
 		<PARAM>
@@ -322242,15 +322242,15 @@
 			<VAL>461 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>547 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>147,0 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Zelená</VAL>
 		</PARAM>
 		<PARAM>
@@ -322259,18 +322259,18 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Stereo reproduktory</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Webkamera</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Numerická klávesnica</PARAM_NAME>
+			<PARAM_NAME>Numerická klávesnice</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
@@ -322278,67 +322278,67 @@
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>512 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Zvýraznenie basov</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Zvýraznění basů</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Platforma</PARAM_NAME>
 			<VAL>OS X</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>macOS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple M4</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Pamäť RAM</PARAM_NAME>
+			<PARAM_NAME>Paměť RAM</PARAM_NAME>
 			<VAL>24 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>10x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>SSD</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Podsvietenie klávesnice</PARAM_NAME>
+			<PARAM_NAME>Podsvícení klávesnice</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Automatické podsvietenie displeja</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Automatické podsvícení displeje</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>HDMI</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Jack 3,5’’</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Jack 3,5</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>FireWire</PARAM_NAME>
+			<PARAM_NAME>Firewire</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
@@ -322346,8 +322346,8 @@
 			<VAL>Thunderbolt 4</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výstup na slúchadlá</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Výstup na sluchátka</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>USB 3.0</PARAM_NAME>
@@ -322355,27 +322355,27 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>USB C</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Počet USB/USB-C</PARAM_NAME>
 			<VAL>4x USB-C</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Snímač okolia osvetlenia</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Snímač okolního osvětlení</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Zabudovaný reproduktor</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ počítača</PARAM_NAME>
-			<VAL>Všetko v jednom</VAL>
+			<PARAM_NAME>Typ počítače</PARAM_NAME>
+			<VAL>All-in-one</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Distribúcia</PARAM_NAME>
-			<VAL>Samozrejme, prosím, poskytnite text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Distribuce</PARAM_NAME>
+			<VAL>Česká</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Počítače a notebooky | Stolní počítače</CATEGORYTEXT>
@@ -331528,39 +331528,39 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20670</ITEM_ID>
-		<PRODUCTNAME>Apple Apple Watch SE 3 (2025) GPS 40mm Apple Watch SE 3 (2025) GPS 40mm biele / hviezdne biele športové remienok M/L Biela</PRODUCTNAME>
-		<PRODUCT>Apple Apple Watch SE 3 (2025) GPS 40mm Apple Watch SE 3 (2025) GPS 40mm biele / hviezdne biele športové remienok M/L Biela</PRODUCT>
-		<DESCRIPTION>Apple Watch SE 3 majú inovatívne snímače, vrátane snímača srdcovej činnosti a snímania teploty zápästia. O svojom zdraví si tak udržíš prehľad. Gyroskop, akcelerometer a GPS sledujú tvoju aktivitu a stoja za presnými kondičnými ukazovateľmi a bezpečnostnými funkciami.</DESCRIPTION>
+		<PRODUCTNAME>Apple Apple Watch SE 3 (2025) GPS 40mm Apple Watch SE 3 (2025) GPS 40mm bílé / hvězdně bílý sportovní řemínek M/L Bílá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch SE 3 (2025) GPS 40mm Apple Watch SE 3 (2025) GPS 40mm bílé / hvězdně bílý sportovní řemínek M/L Bílá</PRODUCT>
+		<DESCRIPTION>Apple Watch SE 3 mají inovativní snímače, včetně snímače srdeční činnosti a snímání teploty zápěstí. O svém zdraví si tak udržíš přehled. Gyroskop, akcelerometr a GPS sledují tvoji aktivitu a stojí za přesnými kondičními ukazateli a bezpečnostními funkcemi.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>1,78</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>324 x 394</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>1 deň</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Odolné</PARAM_NAME>
-			<VAL>Vodoodolnosť</VAL>
+			<VAL>Voděodolnost</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magnetický nabíjací kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>LTPO OLED</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>26,3 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -331568,64 +331568,64 @@
 			<VAL>40 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>34 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>11 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Biela</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Bílá</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
 			<VAL>Hliník</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>64 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>Watch OS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple S10</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>2x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>GPS</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Glonass</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
@@ -332251,39 +332251,39 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_20698</ITEM_ID>
-		<PRODUCTNAME>Apple Apple Watch Series 11 GPS 42mm Apple Watch Series 11 GPS 42mm ružovo zlaté / svetlo ružový športový remienok S/M Zlatá</PRODUCTNAME>
-		<PRODUCT>Apple Apple Watch Series 11 GPS 42mm Apple Watch Series 11 GPS 42mm ružovo zlaté / svetlo ružový športový remienok S/M Zlatá</PRODUCT>
-		<DESCRIPTION>Séria 11 sú najtenšie Apple Watch. Sú tak pohodlné, že si ich nemusíš dávať z ruky, takže tvoje životné funkcie sledujú aj v čase, keď spíš. Batéria má ohromnú výdrž – pri plnom nabití až 24 hodín bežného používania. Za 15 minút ju nabiješ až na 8 hodín.</DESCRIPTION>
+		<PRODUCTNAME>Apple Apple Watch Series 11 GPS 42mm Apple Watch Series 11 GPS 42mm růžově zlaté / světle ruměnný sportovní řemínem S/M Zlatá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch Series 11 GPS 42mm Apple Watch Series 11 GPS 42mm růžově zlaté / světle ruměnný sportovní řemínem S/M Zlatá</PRODUCT>
+		<DESCRIPTION>Series 11 jsou nejtenčí Apple Watch. Jsou tak pohodlné, že je nemusíš sundávat z ruky, takže tvoje životní funkce sledují i v době, kdy spíš. Baterie má ohromnou výdrž – při plném nabití až 24 hodin běžného používání. Za 15 minut ji nabiješ až na 8 hodin.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>1,78</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>374 x 446</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>1 deň</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Odolné</PARAM_NAME>
-			<VAL>Prachotesnosť, Vodoodolnosť</VAL>
+			<VAL>Prachotěsnost, Voděodolnost</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magnetický nabíjací kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>OLED</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>34,6 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -332291,15 +332291,15 @@
 			<VAL>42 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>36 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>10 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Zlatá</VAL>
 		</PARAM>
 		<PARAM>
@@ -332307,48 +332307,48 @@
 			<VAL>Hliník</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>64 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>Watch OS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple S10</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>2x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>GPS</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Glonass</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
@@ -343670,15 +343670,15 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_13532</ITEM_ID>
-		<PRODUCTNAME>Tactical MagForce Hyperstealth - ochranný kryt s MagSafe pre iPhone 13 Pro Max, zelený 57983113554</PRODUCTNAME>
-		<PRODUCT>Tactical MagForce Hyperstealth - ochranný kryt s MagSafe pre iPhone 13 Pro Max, zelený 57983113554</PRODUCT>
-		<DESCRIPTION>4 farby, priesvitné chrbát, podpora Apple MagSafe. Tactical MagForce Hyperstealth vyniká jednoduchým farebným dizajnom, ktorý všade zapadne a hlavne chráni tvoj iPhone. ČISTÝ DIZAJN Čistý dizajn s transparentnou plochou dodá puzdru jednoduchosť, ergonomickosť a jednoduchý cieľ. Jadro krytu je odolné voči nárazu a ochranný mantinel chráni obrazovku telefónu pri páde alebo položením displejom nadol. Okolo šošoviek fotoaparátu je dominantný ochranný rám.</DESCRIPTION>
+		<PRODUCTNAME>Tactical MagForce Hyperstealth - ochranný kryt s MagSafe pro iPhone 13 Pro Max, zelený 57983113554</PRODUCTNAME>
+		<PRODUCT>Tactical MagForce Hyperstealth - ochranný kryt s MagSafe pro iPhone 13 Pro Max, zelený 57983113554</PRODUCT>
+		<DESCRIPTION>4 barvy, průsvitná záda, podpora Apple MagSafe. Tactical MagForce Hyperstealth vyniká jednoduchým barevným designem, který všude zapadne a hlavně chrání tvůj iPhone. ČISTÝ DESIGN Čistý design s transparentní plochou dodá pouzdru jednoduchost, ergonomičnost a jednoduchý cíl. Jádro krytu je odolné proti nárazu a ochranný mantinel chrání obrazovku telefonu při pádu nebo položením displejem dolu. Okolo čoček fotoaparátu je dominantní ochranný rám.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Zelená</VAL>
 		</PARAM>
 		<PARAM>
@@ -343723,9 +343723,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_15668</ITEM_ID>
-		<PRODUCTNAME>EB-BF946ABY Batéria pre Samsung Li-Ion 2020mAh (OEM) 57983123543</PRODUCTNAME>
-		<PRODUCT>EB-BF946ABY Batéria pre Samsung Li-Ion 2020mAh (OEM) 57983123543</PRODUCT>
-		<DESCRIPTION>Samsung Galaxy Z Fold 5 Nejde o originálnu batériu.</DESCRIPTION>
+		<PRODUCTNAME>EB-BF946ABY Baterie pro Samsung Li-Ion 2020mAh (OEM) 57983123543</PRODUCTNAME>
+		<PRODUCT>EB-BF946ABY Baterie pro Samsung Li-Ion 2020mAh (OEM) 57983123543</PRODUCT>
+		<DESCRIPTION>Samsung Galaxy Z Fold 5 Nejedná se o originální baterii.</DESCRIPTION>
 		<MANUFACTURER>For_Samsung</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/eb-bf946aby-baterie-pro-samsung-li-ion-2020mah-oem-1?utm_source=heureka</URL>
 		<IMGURL>https://api.express-servis.cz/files/shop/product-files/79048</IMGURL>
