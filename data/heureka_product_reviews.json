@@ -1,9 +1,9 @@
 {
-  "generated_at": 1767585785,
+  "generated_at": 1767671163,
   "stats": {
-    "products_count": 35,
-    "raw_reviews_in_feed": 35,
-    "saved_reviews": 35,
+    "products_count": 34,
+    "raw_reviews_in_feed": 34,
+    "saved_reviews": 34,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -169,7 +169,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box na baterii HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-vyhrivany-box?utm_source=heureka",
-      "price": 4295.0,
+      "price": 3199.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -723,26 +723,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "c5ba8643e6f00042ae089c1936c34d75d893243a"
-        }
-      ]
-    },
-    {
-      "product_name": "Samsung EB-BG781ABY",
-      "url": "https://www.express-servis.cz/p/eb-bg781aby-samsung-baterie-li-ion-4500mah-service-pack?utm_source=heureka",
-      "price": 675.0,
-      "ean": "8596311131776",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21266747",
-          "rating_id_type": "product",
-          "unix_timestamp": 1751735978,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "4a20b1d59b09238ccd92cca3f4b6af9087acf7f5"
         }
       ]
     }
