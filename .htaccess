@@ -1,0 +1,3 @@
+<Files "heureka_sk.xml">
+    Header set Content-Type "text/xml; charset=utf-8"
+</Files>
