@@ -7944,12 +7944,12 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_3246</ITEM_ID>
-		<PRODUCTNAME>Netatmo Rain / Wind Gauge Mount - Držiak pre zrážkomer NWM01-WW</PRODUCTNAME>
-		<PRODUCT>Netatmo Rain / Wind Gauge Mount - Držiak pre zrážkomer NWM01-WW</PRODUCT>
-		<DESCRIPTION>Netatmo držiak pre zrážkomer a anemometer - čierny držiak pre anemometer a zrážkomer jednoduché upevnenie prídavných modulov Netatmo vyrobený z kvalitného TPU a kovu Balenie obsahuje: držiak</DESCRIPTION>
+		<PRODUCTNAME>Netatmo Rain / Wind Gauge Mount - Držák pro srážkoměr NWM01-WW</PRODUCTNAME>
+		<PRODUCT>Netatmo Rain / Wind Gauge Mount - Držák pro srážkoměr NWM01-WW</PRODUCT>
+		<DESCRIPTION>Netatmo držák pro srážkoměr a anemometr - černý držák pro anemometr a srážkoměr jednoduché upevnění přídavných modulů Netatmo vyroben z kvalitního TPU a kovu Balení obsahuje: držák</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Čierna</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
 		</PARAM>
 		<MANUFACTURER>Netatmo</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Chytrá domácnost | Meteostanice</CATEGORYTEXT>
@@ -10008,12 +10008,12 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_2461</ITEM_ID>
-		<PRODUCTNAME>Netatmo Additional Indoor Module - vnútorný modul pre meteostanicu NIM01-WW</PRODUCTNAME>
-		<PRODUCT>Netatmo Additional Indoor Module - vnútorný modul pre meteostanicu NIM01-WW</PRODUCT>
-		<DESCRIPTION>Netatmo vnútorný modul pre meteostanicu - strieborný prídavný vnútorný modul pre Netatmo Urban Weather Station s možnosťou umiestnenia do inej časti bytu/domu, všetky stanice sa prepoja pomocou WiFi, budete mať tak dokonalý prehľad o počasí a kvalite vzduchu. Rozmery: 45x45x155 mm, nabíjanie pomocou batérií. Balenie obsahuje: vnútorný modul pre meteostanicu Netatmo.</DESCRIPTION>
+		<PRODUCTNAME>Netatmo Additional Indoor Module - vnitřní modul pro meteostanici NIM01-WW</PRODUCTNAME>
+		<PRODUCT>Netatmo Additional Indoor Module - vnitřní modul pro meteostanici NIM01-WW</PRODUCT>
+		<DESCRIPTION>Netatmo vnitřní modul pro meteostanici - stříbrný přídavný vnitřní modul pro Netatmo Urban Weather Station možnost umístění do jiné části bytu/domu všechny stanice se propojí pomocí WiFi, budete mít tak dokonalý přehled o počasí, kvalitě vzduchu rozměry: 45x45x155 mm nabíjení pomocí baterií Balení obsahuje: vnitřní modul pro meteostanici Netatmo</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Biela</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Bílá</VAL>
 		</PARAM>
 		<MANUFACTURER>Netatmo</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Chytrá domácnost | Meteostanice</CATEGORYTEXT>
@@ -10036,12 +10036,12 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_2463</ITEM_ID>
-		<PRODUCTNAME>Netatmo Urban Weather Station - meteorologická stanica NWS01-EC</PRODUCTNAME>
-		<PRODUCT>Netatmo Urban Weather Station - meteorologická stanica NWS01-EC</PRODUCT>
-		<DESCRIPTION>Netatmo osobná meteorologická stanica - strieborná elegantná meteorologická stanica komunikujúca s mobilnými zariadeniami s iOS a Android systémom monitoruje počasie, sleduje kvalitu vnútorného aj vonkajšieho vzduchu, meria koncentráciu CO2 v ovzduší, eviduje vlhkosť vzduchu aj znečistenie hlukom, predpoveď počasia na 7 dní, počasie zaznamenáva v jasných jednoduchých grafoch, napájanie pomocou batérií: 2x AAA, možnosť rozširovať o ďalšie čidla, rozmery vnútorného čidla: 45x45x155 mm, rozmery vonkajšieho čidla: 45x45x105 mm, rozsah merania vnútorné teploty: 0°C do 50°C, rozsah merania vonkajšej teploty: -40°C - 65°C, frekvencia ukladania dát do cloudu: 5 minút. Balenie obsahuje: vnútorné čidlo, vonkajšie čidlo, USB kábel, USB adaptér, 2 ks AAA batérie.</DESCRIPTION>
+		<PRODUCTNAME>Netatmo Urban Weather Station - meteorologická stanice NWS01-EC</PRODUCTNAME>
+		<PRODUCT>Netatmo Urban Weather Station - meteorologická stanice NWS01-EC</PRODUCT>
+		<DESCRIPTION>Netatmo osobní meteorologická stanice - stříbrná elegantní meteorologická stanice komunikující s mobilními zařízeními s iOS a Android systémem monitoruje počasí, sleduje kvalitu vnitřního i venkovního vzduchu měří koncentraci CO2 v ovzduší eviduje vlhkost vzduchu i znečištění hlukem předpověď počasí na 7 dnů počasí zaznamenává v jasných jednoduchých grafech napájení pomocí baterií: 2x AAA možnost rozšiřovat o další čidla rozměry vnitřního čidla: 45x45x155 mm rozměry venkovního čidla: 45x45x105 mm rozsah měření vnitřní teploty: 0°C do 50°C rozsah měření venkovní teploty: -40°C - 65°C frekvence ukládání dat do cloudu: 5 minut Balení obsahuje: vnitřní čidlo venkovní čidlo USB kabel USB adaptér 2 ks AAA baterie</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Strieborná</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Stříbrná</VAL>
 		</PARAM>
 		<MANUFACTURER>Netatmo</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Chytrá domácnost | Meteostanice</CATEGORYTEXT>
@@ -10189,12 +10189,12 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_3245</ITEM_ID>
-		<PRODUCTNAME>Netatmo Wind Gauge - čidlo vetra NWA01-WW</PRODUCTNAME>
-		<PRODUCT>Netatmo Wind Gauge - čidlo vetra NWA01-WW</PRODUCT>
-		<DESCRIPTION>Netatmo Wind Gauge anemometer - čierny prídavný anemometer k meteostanici NETATMO spoľahlivo meria rýchlosť a smer vetra. Anemometer má integrované 4 ultrazvukové snímače, odchýlka pri meraní: rýchlosti 0,5 m/s, smeru 5°. Možnosť nastavenia upozornenia pri zmene rýchlosti a smeru vetra. Rozsah merania: 0 - 45 m/s. Aplikácia zdarma, aktualizácia stavu po 5 minútach. Bezdrôtové pripojenie medzi modulmi s dosahom až 100 metrov. Wi-Fi 802.11 b/g/n, kompatibilné (2,4 GHz).</DESCRIPTION>
+		<PRODUCTNAME>Netatmo Wind Gauge - čidlo větru NWA01-WW</PRODUCTNAME>
+		<PRODUCT>Netatmo Wind Gauge - čidlo větru NWA01-WW</PRODUCT>
+		<DESCRIPTION>Netatmo Wind Gauge anemometr - černý přídavný anemometr k meteostanici NETATMO spolehlivě měří rychlost a směr větru anemometr má integrované 4 ultrazvukové snímače odchylka při měření: rychlosti 0,5 m/s, směru 5° možnost nastavení upozornění při změně rychlosti a směru větru rozsah měření: 0 - 45 m/s aplikace zdarma aktualizace stavu po 5 minutách bezdrátové připojení mezi moduly s dosahem až 100 metrů Wi-Fi 802.11 b/ g/ n, kompatibilní (2,4 GHz)</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Čierna</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
 		</PARAM>
 		<MANUFACTURER>Netatmo</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Chytrá domácnost | Meteostanice</CATEGORYTEXT>
@@ -42828,12 +42828,12 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_13830</ITEM_ID>
-		<PRODUCTNAME>Netatmo Doorlock, chytrý zámok strieborný NDL</PRODUCTNAME>
-		<PRODUCT>Netatmo Doorlock, chytrý zámok strieborný NDL</PRODUCT>
-		<DESCRIPTION>Netatmo Smart Zámok a Kľúče predstavujú dokonalé riešenie pre bezpečný a pohodlný prístup do vášho domova. Tento chytrý zámok je vyrobený z odolných materiálov, ktoré zaručujú dlhú životnosť a vysokú úroveň ochrany. Vďaka možnosti správy prístupu cez smartphone môžete flexibilne a jednoducho riadiť, kto má k vášmu domovu prístup. Navyše, ak sa vám vybije batéria, záložný port micro-USB zabezpečí, že zámok opäť rýchlo aktivujete. Tento systém je ideálny pre tých, ktorí hľadajú spoľahlivú a modernú ochranu svojho domova.</DESCRIPTION>
+		<PRODUCTNAME>Netatmo Doorlock, chytrý zámek stříbrný NDL</PRODUCTNAME>
+		<PRODUCT>Netatmo Doorlock, chytrý zámek stříbrný NDL</PRODUCT>
+		<DESCRIPTION>Netatmo Smart Zámek a Klíče představují dokonalé řešení pro bezpečný a pohodlný přístup do vašeho domova. Tento chytrý zámek je vyroben z odolných materiálů, které zaručují dlouhou životnost a vysokou úroveň ochrany. Díky možnosti správy přístupu přes smartphone můžete flexibilně a snadno řídit, kdo má k vašemu domovu přístup. Navíc, pokud se vám vybije baterie, záložní port micro-USB zajistí, že zámek opět rychle aktivujete. Tento systém je ideální pro ty, kteří hledají spolehlivou a moderní ochranu svého domova.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Strieborná</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Stříbrná</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Zabudovaný reproduktor</PARAM_NAME>
@@ -124961,11 +124961,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_18322</ITEM_ID>
-		<PRODUCTNAME>Puzdro Swissten Soft Joy pre Samsung S921 Galaxy S24 5G Čierne 34500348</PRODUCTNAME>
-		<PRODUCT>Puzdro Swissten Soft Joy pre Samsung S921 Galaxy S24 5G Čierne 34500348</PRODUCT>
-		<DESCRIPTION>SWISSTEN SOFT JOY je gélové puzdro s dokonale padnúcimi výrezmi na fotoaparát a prolismi na tlačidlá. Ideálna hrúbka puzdra zvýrazní atraktivitu vášho smartfónu a zároveň ho maximálne ochráni. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PRODUCTNAME>Pouzdro Swissten Soft Joy pro Samsung S921 Galaxy S24 5G Černé 34500348</PRODUCTNAME>
+		<PRODUCT>Pouzdro Swissten Soft Joy pro Samsung S921 Galaxy S24 5G Černé 34500348</PRODUCT>
+		<DESCRIPTION>SWISSTEN SOFT JOY je gelové pouzdro s dokonale padnoucími výřezy na fotoaparát a prolisy na tlačítka. Ideální tloušťka pouzdra zvýrazní atraktivitu vašeho smartphonu a zároveň ho maximálně ochrání. Baleno v blistru SWISSTEN</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/pouzdro-swissten-soft-joy-pro-samsung-s921-galaxy-s24-5g-cerne?utm_source=heureka</URL>
@@ -159496,11 +159496,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_18461</ITEM_ID>
-		<PRODUCTNAME>Puzdro Swissten Soft Joy pre Samsung Galaxy A56 čierne 34500436</PRODUCTNAME>
-		<PRODUCT>Puzdro Swissten Soft Joy pre Samsung Galaxy A56 čierne 34500436</PRODUCT>
-		<DESCRIPTION>Puzdro SWISSTEN Soft Joy ponúka spoľahlivú ochranu proti nárazom a škrabancom. Vďaka tenkému dizajnu a protišmykovému povrchu sa pohodlne drží a presné výrezy umožňujú jednoduchý prístup ku všetkým funkciám telefónu. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PRODUCTNAME>Pouzdro Swissten Soft Joy pro Samsung Galaxy A56 černé 34500436</PRODUCTNAME>
+		<PRODUCT>Pouzdro Swissten Soft Joy pro Samsung Galaxy A56 černé 34500436</PRODUCT>
+		<DESCRIPTION>Pouzdro SWISSTEN Soft Joy nabízí spolehlivou ochranu proti nárazům a škrábancům. Díky tenkému designu a protiskluzovému povrchu se pohodlně drží a přesné výřezy umožňují snadný přístup ke všem funkcím telefonu. Baleno v blistru SWISSTEN.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/pouzdro-swissten-soft-joy-pro-samsung-galaxy-a56-cerne?utm_source=heureka</URL>
@@ -159678,11 +159678,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_18468</ITEM_ID>
-		<PRODUCTNAME>Puzdro Swissten Clear Jelly pre Apple iPhone 16e transparentné 32802968</PRODUCTNAME>
-		<PRODUCT>Puzdro Swissten Clear Jelly pre Apple iPhone 16e transparentné 32802968</PRODUCT>
-		<DESCRIPTION>Silikónové puzdro so špeciálnym nano povrchom, ktorý zabraňuje prilepeniu puzdra na smartfón. Predný zvýšený okraj chráni displej pred poškriabaním pri položení telefónu čelom nadol. Balené v blistri Swissten.</DESCRIPTION>
+		<PRODUCTNAME>Pouzdro Swissten Clear Jelly pro Apple iPhone 16e transparentní 32802968</PRODUCTNAME>
+		<PRODUCT>Pouzdro Swissten Clear Jelly pro Apple iPhone 16e transparentní 32802968</PRODUCT>
+		<DESCRIPTION>Silikonové pouzdro se speciálním nano povrchem, který zabraňuje přilepení pouzdra na smartphone. Přední zvýšený okraj chrání displej před poškrábáním při položení telefonu čelní stranou dolů. Baleno v blistru Swissten.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/pouzdro-swissten-clear-jelly-pro-apple-iphone-16e-transparentni?utm_source=heureka</URL>
@@ -167717,9 +167717,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_18897</ITEM_ID>
-		<PRODUCTNAME>Swissten ochranné temperované sklo pre Xiaomi Redmi Note 10 5G / Poco M3 Pro 5G RE 2,5D 74517901</PRODUCTNAME>
-		<PRODUCT>Swissten ochranné temperované sklo pre Xiaomi Redmi Note 10 5G / Poco M3 Pro 5G RE 2,5D 74517901</PRODUCT>
-		<DESCRIPTION>Spodná vysoko adhezívna časť s tenkou silikónovou vrstvou, ktorá výrazne zjednoduší aplikáciu. Sklo je opatrené špeciálnou oleofóbnou vrstvou - vysoká citlivosť. Tvrdosť 9H. Hrúbka 0,3 mm. Zaoblené hrany.</DESCRIPTION>
+		<PRODUCTNAME>Swissten ochranné temperované sklo pro Xiaomi Redmi Note 10 5G / Poco M3 Pro 5G RE 2,5D 74517901</PRODUCTNAME>
+		<PRODUCT>Swissten ochranné temperované sklo pro Xiaomi Redmi Note 10 5G / Poco M3 Pro 5G RE 2,5D 74517901</PRODUCT>
+		<DESCRIPTION>Spodní vysoce adhesivní část s tenkou silikonovou vrstvou, která výrazně zjednodušší aplikaci. Sklo je opatřeno speciální oleofobní vrstvou - vysoká citlivost. Tvrdost 9H. Tloušťka 0,3 mm. Zaoblené hrany.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Pouzdra, skla, fólie | Tvrzená skla pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/ochranne-temperovane-sklo-swissten-pro-xiaomi-redmi-note-10-5g-poco-m3-pro-5g-re-2-5d?utm_source=heureka</URL>
@@ -167741,11 +167741,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_18899</ITEM_ID>
-		<PRODUCTNAME>Ochranné temperované sklo Swissten pre Xiaomi Redmi Note 14 5G RE 2,5D 74518011</PRODUCTNAME>
-		<PRODUCT>Ochranné temperované sklo Swissten pre Xiaomi Redmi Note 14 5G RE 2,5D 74518011</PRODUCT>
-		<DESCRIPTION>Ochranné temperované sklo SWISSTEN chráni displej pred poškriabaním a prasknutím. Tvrdosť 9H, 100% priehľadnosť, jednoduchá inštalácia bez bublín a ochrana proti odtlačkom prstov zabezpečujú spoľahlivú ochranu a čistý obraz. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PRODUCTNAME>Ochranné temperované sklo Swissten pro Xiaomi Redmi Note 14 5G RE 2,5D 74518011</PRODUCTNAME>
+		<PRODUCT>Ochranné temperované sklo Swissten pro Xiaomi Redmi Note 14 5G RE 2,5D 74518011</PRODUCT>
+		<DESCRIPTION>Ochranné temperované sklo SWISSTEN chrání displej před poškrábáním a prasknutím. Tvrdost 9H, 100% průhlednost, snadná instalace bez bublin a ochrana proti otiskům prstů zajišťují spolehlivou ochranu a čistý obraz. Baleno v blistru SWISSTEN.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Pouzdra, skla, fólie | Tvrzená skla pro mobilní telefony</CATEGORYTEXT>
@@ -227844,13 +227844,13 @@
 		<ITEM_ID>SHOP_15075</ITEM_ID>
 		<PRODUCTNAME>Apple iMac 24" M4 Apple iMac 24" M4 (2024) 8CPU/8GPU/16GB/256GB modrý MWUF3CZ/A</PRODUCTNAME>
 		<PRODUCT>Apple iMac 24" M4 Apple iMac 24" M4 (2024) 8CPU/8GPU/16GB/256GB modrý MWUF3CZ/A</PRODUCT>
-		<DESCRIPTION>Vytvorený pre Apple Intelligence. Osobnejší, súkromnejší, výkonnejší. Nové úchvatné farby. Úžasne tenký dizajn. Čip M4. 12MP Center Stage kamera. Funkcia Pohľad na stôl.</DESCRIPTION>
+		<DESCRIPTION>Dělaný pro Apple Intelligence. Osobnější, soukromější, výkonnější. Nové úchvatné barvy. Úžasně tenký design. Čip M4. 12MP Center Stage kamera. Funkce Pohled na stůl.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>24"</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>4480 x 2520</VAL>
 		</PARAM>
 		<PARAM>
@@ -227858,15 +227858,15 @@
 			<VAL>Ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>Magic Keyboard, Magic Mouse, Napájací kábel, USB C kábel</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magic Keyboard, Magic Mouse, Napájecí kabel, USB C kabel</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>IPS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet displejov</PARAM_NAME>
+			<PARAM_NAME>Počet displejů</PARAM_NAME>
 			<VAL>1</VAL>
 		</PARAM>
 		<PARAM>
@@ -227875,14 +227875,14 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Lesklý displej</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Retina</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>4,44</VAL>
 		</PARAM>
 		<PARAM>
@@ -227890,15 +227890,15 @@
 			<VAL>461 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>547 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>147,0 mm</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Modrá</VAL>
 		</PARAM>
 		<PARAM>
@@ -227907,18 +227907,18 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Stereo reproduktory</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Webkamera</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Numerická klávesnica</PARAM_NAME>
+			<PARAM_NAME>Numerická klávesnice</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
@@ -227926,67 +227926,67 @@
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>256 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Zvýraznenie basov</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Zvýraznění basů</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Platforma</PARAM_NAME>
 			<VAL>OS X</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>macOS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple M4</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Pamäť RAM</PARAM_NAME>
+			<PARAM_NAME>Paměť RAM</PARAM_NAME>
 			<VAL>16 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>8x</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>SSD</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Podsvietenie klávesnice</PARAM_NAME>
+			<PARAM_NAME>Podsvícení klávesnice</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Automatické podsvietenie displeja</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Automatické podsvícení displeje</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>HDMI</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Jack 3,5’’</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Jack 3,5</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>FireWire</PARAM_NAME>
+			<PARAM_NAME>Firewire</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
@@ -227994,8 +227994,8 @@
 			<VAL>Thunderbolt 4</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výstup na slúchadlá</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Výstup na sluchátka</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>USB 3.0</PARAM_NAME>
@@ -228003,27 +228003,27 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>USB C</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Počet USB/USB-C</PARAM_NAME>
 			<VAL>2x USB-C</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Snímač okolia osvetlenia</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Snímač okolního osvětlení</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Zabudovaný reproduktor</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ počítača</PARAM_NAME>
-			<VAL>Všetko v jednom</VAL>
+			<PARAM_NAME>Typ počítače</PARAM_NAME>
+			<VAL>All-in-one</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Distribúcia</PARAM_NAME>
-			<VAL>Samozrejme, prosím, poskytnite text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Distribuce</PARAM_NAME>
+			<VAL>Česká</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Počítače a notebooky | Stolní počítače</CATEGORYTEXT>
@@ -234516,25 +234516,25 @@
 		<ITEM_ID>SHOP_15021</ITEM_ID>
 		<PRODUCTNAME>Apple iPad mini (2024) MXNE3HC/A Apple iPad mini (2024) 256GB Wi-Fi fialový 256 GB Fialová</PRODUCTNAME>
 		<PRODUCT>Apple iPad mini (2024) MXNE3HC/A Apple iPad mini (2024) 256GB Wi-Fi fialový 256 GB Fialová</PRODUCT>
-		<DESCRIPTION>iPad mini 2024, čip A17 Pro, ťažko výkonný, ľahko prenosný. Štyri nádherné farby. Zariadenie ako žiadne iné. Kompatibilné s Apple Pencil Pro, ktorý prekresľuje hranice kreativity.</DESCRIPTION>
+		<DESCRIPTION>iPad mini 2024, čip A17 Pro, těžce výkonný, lehce přenosný. Čtyři nádherné barvy. Zařízení jako žádné jiné. Kompatibilní s Apple Pencil Pro, který překresluje hranice kreativity.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
 			<VAL>8,3"</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
 			<VAL>2266 x 1488</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ batérie</PARAM_NAME>
+			<PARAM_NAME>Typ baterie</PARAM_NAME>
 			<VAL>Li-ion</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
-			<VAL>10 hodín</VAL>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>10 hodin</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vodoodolný</PARAM_NAME>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
@@ -234542,27 +234542,27 @@
 			<VAL>Ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Obsah balenia</PARAM_NAME>
-			<VAL>USB kábel, Nabíjačka</VAL>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>USB kabel, Nabíječka</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
 			<VAL>Liquid Retina</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet displejov</PARAM_NAME>
+			<PARAM_NAME>Počet displejů</PARAM_NAME>
 			<VAL>1</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Dotykový</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Retina</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>293 g</VAL>
 		</PARAM>
 		<PARAM>
@@ -234570,83 +234570,83 @@
 			<VAL>195</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Šírka</PARAM_NAME>
+			<PARAM_NAME>Šířka</PARAM_NAME>
 			<VAL>135</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
 			<VAL>6</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Konštrukcia</PARAM_NAME>
+			<PARAM_NAME>Konstrukce</PARAM_NAME>
 			<VAL>Dotykové</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 			<VAL>Fialová</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Emailový prehliadač</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Emailový prohlížeč</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Materiál</PARAM_NAME>
 			<VAL>Hliník</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>MP3/WMA/AAC vyzváňania</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>MP3/WMA/AAC vyzvánění</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Fotoaparát</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie fotoaparátu</PARAM_NAME>
+			<PARAM_NAME>Rozlišení fotoaparátu</PARAM_NAME>
 			<VAL>12 Mpx</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Automatické zaostrovanie</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Automatické ostření</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie videokamery</PARAM_NAME>
+			<PARAM_NAME>Rozlišení videokamery</PARAM_NAME>
 			<VAL>0</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Predná kamera</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Přední kamera</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Rozlíšenie prednej kamery</PARAM_NAME>
+			<PARAM_NAME>Rozlišení přední kamery</PARAM_NAME>
 			<VAL>12 Mpx</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Vestavaný blesk</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Vestavěný blesk</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>MP3</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Internetový prehliadač</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Internetový prohlížeč</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Stereo reproduktory</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Mikrofón</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
 			<VAL>256 GB</VAL>
 		</PARAM>
 		<PARAM>
@@ -234654,19 +234654,19 @@
 			<VAL>iOS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
 			<VAL>iPadOS</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
 			<VAL>Apple A17 Pro</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Pamäť RAM</PARAM_NAME>
+			<PARAM_NAME>Paměť RAM</PARAM_NAME>
 			<VAL>8 GB</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
 			<VAL>5x</VAL>
 		</PARAM>
 		<PARAM>
@@ -234675,7 +234675,7 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Wifi</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>LTE/5G</PARAM_NAME>
@@ -234683,7 +234683,7 @@
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>Bluetooth</PARAM_NAME>
-			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+			<VAL>ano</VAL>
 		</PARAM>
 		<PARAM>
 			<PARAM_NAME>HDMI</PARAM_NAME>
@@ -234694,7 +234694,7 @@
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
@@ -234710,12 +234710,12 @@
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Jack 3,5’’</PARAM_NAME>
+			<PARAM_NAME>Jack 3,5</PARAM_NAME>
 			<VAL>ne</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Distribúcia</PARAM_NAME>
-			<VAL>Samozrejme, prosím, poskytnite text, ktorý chcete preložiť.</VAL>
+			<PARAM_NAME>Distribuce</PARAM_NAME>
+			<VAL>Česká</VAL>
 		</PARAM>
 		<MANUFACTURER>Apple</MANUFACTURER>
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Tablety a čtečky | Tablety</CATEGORYTEXT>
@@ -249409,9 +249409,9 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_21078</ITEM_ID>
-		<PRODUCTNAME>Swissten power banka cestovná 25000 mAh (96.25Wh) 100W s integrovaným káblom USB-C šedá 22013977</PRODUCTNAME>
-		<PRODUCT>Swissten power banka cestovná 25000 mAh (96.25Wh) 100W s integrovaným káblom USB-C šedá 22013977</PRODUCT>
-		<DESCRIPTION>Powerbanka Swissten 25000 mAh s integrovaným káblom USB-C, Výstupné porty: USB-C + USB-A, Max. výkon 100W, Hmotnosť: 430 g, Typ batérie: Li-Polymer, Malé rozmery: (10,6 × 6,8 × 4 cm). Balené v blistri Swissten.</DESCRIPTION>
+		<PRODUCTNAME>Swissten power bank cestovní 25000 mAh (96.25Wh) 100W s integrovaným kabelem USB-C šedá 22013977</PRODUCTNAME>
+		<PRODUCT>Swissten power bank cestovní 25000 mAh (96.25Wh) 100W s integrovaným kabelem USB-C šedá 22013977</PRODUCT>
+		<DESCRIPTION>Powerbanka Swissten 25000 mAh s integrovaným kabelem USB-C, Výstupní porty: USB-C + USB-A, Max. výkon 100W, Váha: 430 g, Typ baterie: Li-Polymer, Malé rozměry: (10,6 × 6,8 × 4 cm). Baleno v blistru Swissten.</DESCRIPTION>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/swissten-power-bank-cestovni-25000-mah-96-25wh-100w-s-integrovanym-kabelem-usb-c-seda?utm_source=heureka</URL>
 		<IMGURL>https://api.express-servis.cz/files/shop/product-files/102240</IMGURL>
@@ -258323,11 +258323,11 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_17281</ITEM_ID>
-		<PRODUCTNAME>Puzdro Swissten MagStick FLEX pre Apple iPhone 15 Plus Fialové 35503025</PRODUCTNAME>
-		<PRODUCT>Puzdro Swissten MagStick FLEX pre Apple iPhone 15 Plus Fialové 35503025</PRODUCT>
-		<DESCRIPTION>Elegantné puzdro SWISSTEN MagStick FLEX, ktoré skvele ochráni vaše zariadenie pred nechcenými pádmi a škrabancami. Puzdro podporuje bezdrôtové nabíjanie MagSafe. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PRODUCTNAME>Pouzdro Swissten MagStick FLEX pro Apple iPhone 15 Plus Fialové 35503025</PRODUCTNAME>
+		<PRODUCT>Pouzdro Swissten MagStick FLEX pro Apple iPhone 15 Plus Fialové 35503025</PRODUCT>
+		<DESCRIPTION>Elegantní pouzdro SWISSTEN MagStick FLEX, které skvěle ochrání vaše zařízení před nechtěnými pády a škrábanci. Pouzdro podporuje bezdrátové dobíjení MagSafe. Baleno v blistru SWISSTEN.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
+			<PARAM_NAME>Barva</PARAM_NAME>
 		</PARAM>
 		<MANUFACTURER>SWISSTEN</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/pouzdro-swissten-magstick-flex-pro-apple-iphone-15-plus-fialove?utm_source=heureka</URL>
@@ -258460,16 +258460,16 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_13675</ITEM_ID>
-		<PRODUCTNAME>Backbone One - Apple Edition Mobilný herný ovládač pre USB-C BB-51-P-BA</PRODUCTNAME>
-		<PRODUCT>Backbone One - Apple Edition Mobilný herný ovládač pre USB-C BB-51-P-BA</PRODUCT>
-		<DESCRIPTION>Hrajte prakticky akúkoľvek hru, kdekoľvek Vyberte si z bezplatných hier z App Store, ako je Call of Duty: Mobile a Roblox, streamujte cez cloudovú hernú službu, ako je Xbox Game Pass, Apple Arcade, GeForce NOW a Amazon Luna, alebo hrajte hry pomocou Remote Play z PlayStation alebo PC. Kvalita hernej konzoly na cestách Kompaktná konštrukcia ovládača, starostlivo vyrobená tak, aby bola pohodlná a prenosná, je vybavená ultra širokými analógovými triggermi, vysoko presnými thumbstickmi a citlivým D-podom a tlačidlami.</DESCRIPTION>
+		<PRODUCTNAME>Backbone One - Apple Edition Mobile Gaming Controller pro USB-C BB-51-P-BA</PRODUCTNAME>
+		<PRODUCT>Backbone One - Apple Edition Mobile Gaming Controller pro USB-C BB-51-P-BA</PRODUCT>
+		<DESCRIPTION>Hrajte prakticky jakoukoli hru, kdekoli Vyberte si z bezplatných her z App Store, jako je Call of Duty: Mobile a Roblox, streamujte přes cloudovou herní službu, jako je Xbox Game Pass, Apple Arcade, GeForce NOW a Amazon Luna, nebo hrajte hry pomocí Remote Play z PlayStation nebo PC. Kvalita herní konzole na cestách Kompaktní konstrukce ovladače, pečlivě vyrobená tak, aby byla pohodlná a přenosná, je vybavena ultra širokými analogovými triggery, vysoce přesnými thumbsticky a citlivým D-padem a tlačítky.</DESCRIPTION>
 		<PARAM>
-			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
 			<VAL>138g</VAL>
 		</PARAM>
 		<PARAM>
-			<PARAM_NAME>Farba</PARAM_NAME>
-			<VAL>Čierna</VAL>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
 		</PARAM>
 		<MANUFACTURER>Backbone</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/backbone-one-apple-edition-mobile-gaming-controller-pro-usb-c?utm_source=heureka</URL>
