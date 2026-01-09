@@ -81,34 +81,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_429</ITEM_ID>
-		<PRODUCTNAME>Apple USB-C víceportový digitální AV adaptér MUF82ZM/A</PRODUCTNAME>
-		<PRODUCT>Apple USB-C víceportový digitální AV adaptér MUF82ZM/A</PRODUCT>
-		<DESCRIPTION>USB-C víceportovým digitálním AV adaptérem připojíte MacBook s USB-C portem k HDMI displeji. Navíc k němu můžete připojit standardní USB zařízení a USB-C nabíjecí kabel.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Bílá</VAL>
-		</PARAM>
-		<MANUFACTURER>Apple</MANUFACTURER>
-		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Adaptéry a redukce k mobilům</CATEGORYTEXT>
-		<URL>https://www.express-servis.cz/p/apple-usb-c-viceportovy-digitalni-av-adapter?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/2330</IMGURL>
-		<PRICE_VAT>87.44</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>0190198914439</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_430</ITEM_ID>
 		<PRODUCTNAME>Apple USB-C do USB adaptér MJ1M2ZM/A</PRODUCTNAME>
 		<PRODUCT>Apple USB-C do USB adaptér MJ1M2ZM/A</PRODUCT>
@@ -7971,6 +7943,34 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_3246</ITEM_ID>
+		<PRODUCTNAME>Netatmo Rain / Wind Gauge Mount - Držiak pre zrážkomer NWM01-WW</PRODUCTNAME>
+		<PRODUCT>Netatmo Rain / Wind Gauge Mount - Držiak pre zrážkomer NWM01-WW</PRODUCT>
+		<DESCRIPTION>Netatmo držiak pre zrážkomer a anemometer - čierny držiak pre anemometer a zrážkomer jednoduché upevnenie prídavných modulov Netatmo vyrobený z kvalitného TPU a kovu Balenie obsahuje: držiak</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Farba</PARAM_NAME>
+			<VAL>Čierna</VAL>
+		</PARAM>
+		<MANUFACTURER>Netatmo</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Chytrá domácnost | Meteostanice</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/netatmo-rain-wind-gauge-mount-drzak-pro-srazkomer?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/25607</IMGURL>
+		<PRICE_VAT>30.54</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>3700730500913</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_3390</ITEM_ID>
 		<PRODUCTNAME>Spigen Thin Fit, ochranný kryt pro iPhone 11 Pro, zelený ACS00416</PRODUCTNAME>
 		<PRODUCT>Spigen Thin Fit, ochranný kryt pro iPhone 11 Pro, zelený ACS00416</PRODUCT>
@@ -10007,6 +10007,62 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_2461</ITEM_ID>
+		<PRODUCTNAME>Netatmo Additional Indoor Module - vnútorný modul pre meteostanicu NIM01-WW</PRODUCTNAME>
+		<PRODUCT>Netatmo Additional Indoor Module - vnútorný modul pre meteostanicu NIM01-WW</PRODUCT>
+		<DESCRIPTION>Netatmo vnútorný modul pre meteostanicu - strieborný prídavný vnútorný modul pre Netatmo Urban Weather Station s možnosťou umiestnenia do inej časti bytu/domu, všetky stanice sa prepoja pomocou WiFi, budete mať tak dokonalý prehľad o počasí a kvalite vzduchu. Rozmery: 45x45x155 mm, nabíjanie pomocou batérií. Balenie obsahuje: vnútorný modul pre meteostanicu Netatmo.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Farba</PARAM_NAME>
+			<VAL>Biela</VAL>
+		</PARAM>
+		<MANUFACTURER>Netatmo</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Chytrá domácnost | Meteostanice</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/netatmo-additional-indoor-module-vnitrni-modul-pro-meteostanici?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/9792</IMGURL>
+		<PRICE_VAT>81.84</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>3700730500203</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_2463</ITEM_ID>
+		<PRODUCTNAME>Netatmo Urban Weather Station - meteorologická stanica NWS01-EC</PRODUCTNAME>
+		<PRODUCT>Netatmo Urban Weather Station - meteorologická stanica NWS01-EC</PRODUCT>
+		<DESCRIPTION>Netatmo osobná meteorologická stanica - strieborná elegantná meteorologická stanica komunikujúca s mobilnými zariadeniami s iOS a Android systémom monitoruje počasie, sleduje kvalitu vnútorného aj vonkajšieho vzduchu, meria koncentráciu CO2 v ovzduší, eviduje vlhkosť vzduchu aj znečistenie hlukom, predpoveď počasia na 7 dní, počasie zaznamenáva v jasných jednoduchých grafoch, napájanie pomocou batérií: 2x AAA, možnosť rozširovať o ďalšie čidla, rozmery vnútorného čidla: 45x45x155 mm, rozmery vonkajšieho čidla: 45x45x105 mm, rozsah merania vnútorné teploty: 0°C do 50°C, rozsah merania vonkajšej teploty: -40°C - 65°C, frekvencia ukladania dát do cloudu: 5 minút. Balenie obsahuje: vnútorné čidlo, vonkajšie čidlo, USB kábel, USB adaptér, 2 ks AAA batérie.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Farba</PARAM_NAME>
+			<VAL>Strieborná</VAL>
+		</PARAM>
+		<MANUFACTURER>Netatmo</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Chytrá domácnost | Meteostanice</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/netatmo-urban-weather-station-meteorologicka-stanice?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/9794</IMGURL>
+		<PRICE_VAT>161.25</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>3700730500104</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_2542</ITEM_ID>
 		<PRODUCTNAME>Spigen Liquid Air, ochranný kryt pro iPhone 7 / 8 / SE2020 / SE2022 042CS20511</PRODUCTNAME>
 		<PRODUCT>Spigen Liquid Air, ochranný kryt pro iPhone 7 / 8 / SE2020 / SE2022 042CS20511</PRODUCT>
@@ -10129,6 +10185,34 @@
 			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
 			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
 			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_3245</ITEM_ID>
+		<PRODUCTNAME>Netatmo Wind Gauge - čidlo vetra NWA01-WW</PRODUCTNAME>
+		<PRODUCT>Netatmo Wind Gauge - čidlo vetra NWA01-WW</PRODUCT>
+		<DESCRIPTION>Netatmo Wind Gauge anemometer - čierny prídavný anemometer k meteostanici NETATMO spoľahlivo meria rýchlosť a smer vetra. Anemometer má integrované 4 ultrazvukové snímače, odchýlka pri meraní: rýchlosti 0,5 m/s, smeru 5°. Možnosť nastavenia upozornenia pri zmene rýchlosti a smeru vetra. Rozsah merania: 0 - 45 m/s. Aplikácia zdarma, aktualizácia stavu po 5 minútach. Bezdrôtové pripojenie medzi modulmi s dosahom až 100 metrov. Wi-Fi 802.11 b/g/n, kompatibilné (2,4 GHz).</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Farba</PARAM_NAME>
+			<VAL>Čierna</VAL>
+		</PARAM>
+		<MANUFACTURER>Netatmo</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Chytrá domácnost | Meteostanice</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/netatmo-wind-gauge-cidlo-vetru?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/29455</IMGURL>
+		<PRICE_VAT>117.27</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>3700730500227</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -14212,6 +14296,35 @@
 		<PRICE_VAT>97.70</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>4897041803044</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_1669</ITEM_ID>
+		<PRODUCTNAME>Netatmo Rain Gauge - přídavný modul pro meteostanici - srážkoměr NRG01-WW</PRODUCTNAME>
+		<PRODUCT>Netatmo Rain Gauge - přídavný modul pro meteostanici - srážkoměr NRG01-WW</PRODUCT>
+		<DESCRIPTION>Meteostanice přídavný modul, smart, srážkoměr, měřící rozsah 0.2mm/hod - 120mm/h, přesnost 1mm/h, vyklápěcí odměrka, dosah až 100m, kompatibilita s iOS/Android, Wi-Fi, USB, 2x AAA</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
+		</PARAM>
+		<MANUFACTURER>Netatmo</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Chytrá domácnost | Příslušenství k meteostanicím</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/netatmo-rain-gauge-pridavny-modul-pro-meteostanici-srazkomer?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/5876</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/5877</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>80.87</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>3700730500210</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -18738,41 +18851,6 @@
 		<PRICE_VAT>74.88</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>0857199008245</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_7351</ITEM_ID>
-		<PRODUCTNAME>Tractive GPS DOG XL, GPS sledování polohy a aktivity pro psy, zelený TRDOG4XLGR</PRODUCTNAME>
-		<PRODUCT>Tractive GPS DOG XL, GPS sledování polohy a aktivity pro psy, zelený TRDOG4XLGR</PRODUCT>
-		<DESCRIPTION>GPS lokátor Tractive GPS Dog XL má vestavěný výkonný akumulátor, který vydrží v provozu až 21 dnů bez nutnosti připojení k napájecí síti. Skvěle se hodí pro větší psy jako ideální společník na jejich cestách za dobrodružstvím. Zatímco váš pes poznává a objevuje okolí, vy vždy víte, kde se váš pes nachází. GPS Tracker pomocí aplikace přenáší všechny údaje o aktuální kondici vašeho psa.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Zelená</VAL>
-		</PARAM>
-		<MANUFACTURER>Tractive</MANUFACTURER>
-		<CATEGORYTEXT>Heureka.cz | Elektronika | Chytrá domácnost | Wearables | Chytré lokátory</CATEGORYTEXT>
-		<URL>https://www.express-servis.cz/p/tractive-gps-dog-xl-gps-sledovani-polohy-a-aktivity-pro-psy-zeleny?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/40386</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/40379</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/40380</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/40381</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/40382</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/40383</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/40384</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/40385</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>63.15</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>9120056451647</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -25355,41 +25433,6 @@
 		<PRICE_VAT>34.77</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>1240000015188</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_9679</ITEM_ID>
-		<PRODUCTNAME>Ozobot STEAM sada - Ozobot zkoumá solární systém OZO-035010-01</PRODUCTNAME>
-		<PRODUCT>Ozobot STEAM sada - Ozobot zkoumá solární systém OZO-035010-01</PRODUCT>
-		<DESCRIPTION>Tři - dva - jedna - start povolen! Vydejte se na vzrušující cestu za poznáním vesmíru, při které si zároveň osvojíte základní koncepty STEAM a technické dovednosti. Vezme vás na ni hra OzoGoes to the Solar System.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Více barev</VAL>
-		</PARAM>
-		<MANUFACTURER>Ozobot</MANUFACTURER>
-		<CATEGORYTEXT>Heureka.cz | Elektronika | Chytrá domácnost | Programovatelné stavebnice</CATEGORYTEXT>
-		<URL>https://www.express-servis.cz/p/ozobot-steam-sada-ozobot-zkouma-solarni-system?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/49566</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/49563</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/49564</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/49565</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/49567</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/49568</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/49569</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/49570</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>60.99</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8809405237774</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -32897,7 +32940,7 @@
 		<IMGURL>https://api.express-servis.cz/files/shop/product-files/30716</IMGURL>
 		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/30715</IMGURL_ALTERNATIVE>
 		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/30717</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>111.85</PRICE_VAT>
+		<PRICE_VAT>112.38</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>0718037855448</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
@@ -38908,40 +38951,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_13283</ITEM_ID>
-		<PRODUCTNAME>iPega 9180 PS4 Gamepad Double Charger PG-9180</PRODUCTNAME>
-		<PRODUCT>iPega 9180 PS4 Gamepad Double Charger PG-9180</PRODUCT>
-		<DESCRIPTION>Už se nemusíte strachovat, jestli vám vydrží ovladač ještě na jeden zápas. Využívejte dokovací stanici iPega 9180 a svůj ovladač na PlayStation 4 budete mít vždy připravený k akci. Stačí vždy po hře odložit ovladač do stanice a bude neustále nabitý. Nabíjet můžete navíc i dva ovladače současně. Dokovací stanice má ve výbavě také přepěťovou ochranu a světelné upozornění na nabití. Součástí balení je USB kabel, kterým zařízení připojíte ke konzoli PS4.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Černá</VAL>
-		</PARAM>
-		<MANUFACTURER>iPega</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/ipega-9180-ps4-gamepad-double-charger?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/62651</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/62652</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/62653</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/62654</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/62655</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/62656</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/62657</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/62658</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>8.86</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>6987246391809</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_13285</ITEM_ID>
 		<PRODUCTNAME>iPega P5S009 Multifunkční Nabíjecí Stojan pro PS5 Slim, bílý PG-P5S009</PRODUCTNAME>
 		<PRODUCT>iPega P5S009 Multifunkční Nabíjecí Stojan pro PS5 Slim, bílý PG-P5S009</PRODUCT>
@@ -40961,44 +40970,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_13546</ITEM_ID>
-		<PRODUCTNAME>Tactical Infantry - ochranný kryt pro Apple iPhone 14 Pro, černý 57983116286</PRODUCTNAME>
-		<PRODUCT>Tactical Infantry - ochranný kryt pro Apple iPhone 14 Pro, černý 57983116286</PRODUCT>
-		<DESCRIPTION>První ochranná linie pro smartphone, která chrání tvoje zařízení při těch nejhrubších srážkách! V boji ověřen protiskluzový pískovaný povrch. Vše zabaleno v krutopřísném ekologickém balení. Sežeň si svůj kousek a přidej se k elitním řadám! Ochrana pískováním Protiskluzový pískovaný povrch zajišťuje akceschopný pevný úchop. Originální styl Tactical Tactical Infantry chrání tvoje zařízení, ale zároveň doplňuje tvůj jedinečný styl. Chraň své zařízení bez toho, aniž bys obětoval styl.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Voděodolný</PARAM_NAME>
-			<VAL>ne</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Černá</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Materiál</PARAM_NAME>
-			<VAL>TPU</VAL>
-		</PARAM>
-		<MANUFACTURER>Tactical</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/tactical-infantry-ochranny-kryt-pro-apple-iphone-14-pro-cerny?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/64698</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/64699</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/64700</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/64701</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>8.11</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596311224256</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_13549</ITEM_ID>
 		<PRODUCTNAME>Tactical Quantum Stealth - ochranný kryt pro Apple iPhone 13, čirý/černý 57983116301</PRODUCTNAME>
 		<PRODUCT>Tactical Quantum Stealth - ochranný kryt pro Apple iPhone 13, čirý/černý 57983116301</PRODUCT>
@@ -42853,6 +42824,49 @@
 			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
 			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
 			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_13830</ITEM_ID>
+		<PRODUCTNAME>Netatmo Doorlock, chytrý zámok strieborný NDL</PRODUCTNAME>
+		<PRODUCT>Netatmo Doorlock, chytrý zámok strieborný NDL</PRODUCT>
+		<DESCRIPTION>Netatmo Smart Zámok a Kľúče predstavujú dokonalé riešenie pre bezpečný a pohodlný prístup do vášho domova. Tento chytrý zámok je vyrobený z odolných materiálov, ktoré zaručujú dlhú životnosť a vysokú úroveň ochrany. Vďaka možnosti správy prístupu cez smartphone môžete flexibilne a jednoducho riadiť, kto má k vášmu domovu prístup. Navyše, ak sa vám vybije batéria, záložný port micro-USB zabezpečí, že zámok opäť rýchlo aktivujete. Tento systém je ideálny pre tých, ktorí hľadajú spoľahlivú a modernú ochranu svojho domova.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Farba</PARAM_NAME>
+			<VAL>Strieborná</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Zabudovaný reproduktor</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<MANUFACTURER>Netatmo</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Počítače a notebooky | Síťové prvky | IP kamery</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/netatmo-doorlock-chytry-zamek-stribrny?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/65957</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/65967</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/65966</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/65965</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/65964</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/65963</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/65962</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/65961</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/65960</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/65959</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/65958</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/65968</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>358.16</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>3700730504805</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -50482,6 +50496,38 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_4491</ITEM_ID>
+		<PRODUCTNAME>Apple iPhone XS Max Nabíjecí konektor Černá</PRODUCTNAME>
+		<PRODUCT>Apple iPhone XS Max Nabíjecí konektor Černá</PRODUCT>
+		<DESCRIPTION>Nabíjecí port Flex kabel pro Apple iPhone. Pokud vaše zařízení přestalo nabíjet, díky této součástce opravíte nabíjecí konektor.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/nabijeci-port-flex-kabel-pro-apple-iphone-xs-max-cerny-genuine?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/74765</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/74766</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/74767</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/74768</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/74769</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>11.50</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8597593002129</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_4492</ITEM_ID>
 		<PRODUCTNAME>Apple iPhone XS Max Zadní kryt bílý</PRODUCTNAME>
 		<PRODUCT>Apple iPhone XS Max Zadní kryt bílý</PRODUCT>
@@ -51652,33 +51698,6 @@
 		<PRICE_VAT>12.65</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8597593009883</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_5263</ITEM_ID>
-		<PRODUCTNAME>Kryt Apple iPhone 12 Pro zadní šedý</PRODUCTNAME>
-		<PRODUCT>Kryt Apple iPhone 12 Pro zadní šedý</PRODUCT>
-		<DESCRIPTION>Na náhradním dílu se nachází logo. Náhradní sklo zadního krytu pro Apple iPhone. Určen pro nahrazení poškrábaného, poškozeného či rozbitého zadního panelu.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Šedá</VAL>
-		</PARAM>
-		<MANUFACTURER>Apple</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/sklo-zadniho-krytu-s-vetsim-otvorem-na-kameru-pro-apple-iphone-12-pro-grafitove-sede?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/75747</IMGURL>
-		<PRICE_VAT>11.46</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8597593009876</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -62732,6 +62751,38 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_6049</ITEM_ID>
+		<PRODUCTNAME>Apple iPhone 12 Mini Nabíjecí konektor černý</PRODUCTNAME>
+		<PRODUCT>Apple iPhone 12 Mini Nabíjecí konektor černý</PRODUCT>
+		<DESCRIPTION>Nabíjecí port Flex kabel pro Apple iPhone. Pokud vaše zařízení přestalo nabíjet, díky této součástce opravíte nabíjecí konektor.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/nabijeci-port-flex-kabel-pro-apple-iphone-12-mini-cerny-genuine?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/74749</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/74750</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/74751</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/74752</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/74753</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>16.83</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8597593002044</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_6050</ITEM_ID>
 		<PRODUCTNAME>Apple iPhone 12 Mini Nabíjecí konektor modrý</PRODUCTNAME>
 		<PRODUCT>Apple iPhone 12 Mini Nabíjecí konektor modrý</PRODUCT>
@@ -64162,49 +64213,6 @@
 		<PRICE_VAT>566.61</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>0840295406138</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_15212</ITEM_ID>
-		<PRODUCTNAME>Therabody JetBoots Prime - Small JB0004131-3A1S</PRODUCTNAME>
-		<PRODUCT>Therabody JetBoots Prime - Small JB0004131-3A1S</PRODUCT>
-		<DESCRIPTION>Therabody JetBoots Prime - Small je revoluční zařízení, které vám poskytne úlevu a regeneraci při každodenním používání. Díky pokročilé technologii kompresní terapie se můžete snadno postarat o své nohy a tělo, a to pohodlně doma i na cestách.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Hmotnost</PARAM_NAME>
-			<VAL>2,51 kg</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Černá</VAL>
-		</PARAM>
-		<MANUFACTURER>Therabody</MANUFACTURER>
-		<CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Péče o tělo a zdraví | Péče o tělo | Masážní přístroje</CATEGORYTEXT>
-		<URL>https://www.express-servis.cz/p/therabody-jetboots-prime-small?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/77235</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77245</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77244</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77243</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77242</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77241</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77240</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77239</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77238</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77237</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77236</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77246</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>553.44</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>0840295406121</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -66146,8 +66154,6 @@
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_15445</ITEM_ID>
-		<PRODUCTNAME>HB396689ECW Huawei Baterie 3900mAh Li-Ion (Service Pack) 24022102</PRODUCTNAME>
-		<PRODUCT>HB396689ECW Huawei Baterie 3900mAh Li-Ion (Service Pack) 24022102</PRODUCT>
 		<DESCRIPTION>24022102 Huawei Mate 9 r.v.2018 y.o.p. 2018</DESCRIPTION>
 		<MANUFACTURER>Huawei</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/hb396689ecw-huawei-baterie-3900mah-li-ion-service-pack?utm_source=heureka</URL>
@@ -66156,11 +66162,6 @@
 		<VAT>21%</VAT>
 		<EAN>8596311110566</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
 		<DELIVERY>
 			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
 			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
@@ -66755,29 +66756,6 @@
 		<PRICE_VAT>6.83</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8596311169816</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_15538</ITEM_ID>
-		<PRODUCTNAME>BN5H Xiaomi Original Baterie 5000mAh (Service Pack) 46020000AW1Y</PRODUCTNAME>
-		<PRODUCT>BN5H Xiaomi Original Baterie 5000mAh (Service Pack) 46020000AW1Y</PRODUCT>
-		<DESCRIPTION>Poco M5 Náhradní baterie pro Xiaomi, kterou využijete v případě, že baterie na vašem zařízení potřebuje výměnu, ať už přestala nabíjet na 100%, je poškozena nebo časem znehodnocena.</DESCRIPTION>
-		<MANUFACTURER>Xiaomi</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/bn5h-xiaomi-original-baterie-5000mah-service-pack?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/78906</IMGURL>
-		<PRICE_VAT>16.44</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596311235955</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -70803,44 +70781,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_15362</ITEM_ID>
-		<PRODUCTNAME>USB-C 20W napájecí adaptér pro Apple - bulk AC0012</PRODUCTNAME>
-		<PRODUCT>USB-C 20W napájecí adaptér pro Apple - bulk AC0012</PRODUCT>
-		<DESCRIPTION>20W USB-C napájecí adaptér pro Apple slouží k rychlému a účinnému nabíjení doma, v kanceláři i na cestách. Je sice kompatibilní s jakýmkoli USB-C zařízením, ale pro optimální výkon nabíjení ho Apple doporučuje používat s 11 palcovým iPadem Pro nebo 12,9 palcovým iPadem Pro (3. generace). Podporuje taky rychlé nabíjení iPhonu 8 a novějších. Balení bulk (bez krabičky). Kabel není součástí balení.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Obsah balení</PARAM_NAME>
-			<VAL>Nabíječka</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Bílá</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Bezdrátové nabíjení</PARAM_NAME>
-			<VAL>ne</VAL>
-		</PARAM>
-		<MANUFACTURER>OEM</MANUFACTURER>
-		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Nabíječky pro mobilní telefony</CATEGORYTEXT>
-		<URL>https://www.express-servis.cz/p/apple-usb-c-20w-napajeci-adapter-bulk?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/78602</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/78600</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/78601</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>1.85</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8597593012029</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_15363</ITEM_ID>
 		<PRODUCTNAME>Lightning USB - C kabel 1m pro Apple - bulk AC0013</PRODUCTNAME>
 		<PRODUCT>Lightning USB - C kabel 1m pro Apple - bulk AC0013</PRODUCT>
@@ -72379,29 +72319,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_16163</ITEM_ID>
-		<PRODUCTNAME>BN5M Xiaomi Original Baterie 5000mAh (Service Pack) 1330102000090B</PRODUCTNAME>
-		<PRODUCT>BN5M Xiaomi Original Baterie 5000mAh (Service Pack) 1330102000090B</PRODUCT>
-		<DESCRIPTION>Xiaomi Redmi Note 12 4G Náhradní baterie pro Xiaomi, kterou využijete v případě, že baterie na vašem zařízení potřebuje výměnu, ať už přestala nabíjet na 100%, je poškozena nebo časem znehodnocena.</DESCRIPTION>
-		<MANUFACTURER>Xiaomi</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/bn5m-xiaomi-original-baterie-5000mah-service-pack?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/80646</IMGURL>
-		<PRICE_VAT>31.51</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596311244131</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_16164</ITEM_ID>
 		<PRODUCTNAME>BM58 Xiaomi Original Baterie 5000mAh (Service Pack) 460200008M1G</PRODUCTNAME>
 		<PRODUCT>BM58 Xiaomi Original Baterie 5000mAh (Service Pack) 460200008M1G</PRODUCT>
@@ -73780,32 +73697,6 @@
 			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
 			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
 			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_14699</ITEM_ID>
-		<PRODUCTNAME>OLED displej Apple Watch Series 5 40mm / Series SE 40mm WCH0012</PRODUCTNAME>
-		<PRODUCT>OLED displej Apple Watch Series 5 40mm / Series SE 40mm WCH0012</PRODUCT>
-		<DESCRIPTION>Kvalitní náhradní OLED displej pro Apple Watch Series 5 40 mm / SE 40mm je ideálním řešením při poškození vašeho původního displeje.</DESCRIPTION>
-		<MANUFACTURER>Apple</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/oled-displej-pro-apple-watch-series-5-40mm-series-se-40mm?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/72807</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/72806</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/72808</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/72809</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>134.64</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8597593007100</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -80985,6 +80876,34 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_8074</ITEM_ID>
+		<PRODUCTNAME>Nabíjecí port Flex kabel iPhone 13 Mini - temně inkoustový Genuine IPH0275</PRODUCTNAME>
+		<PRODUCT>Nabíjecí port Flex kabel iPhone 13 Mini - temně inkoustový Genuine IPH0275</PRODUCT>
+		<DESCRIPTION>Nabíjecí port flex kabel Genuine v barvě temně inkoustová pro iPhone 13 Mini. Spolehlivý náhradní díl pro opravu.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | Náhradní flex kabely pro mobilní telefony</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/nabijeci-port-flex-kabel-pro-apple-iphone-13-mini-temne-inkoustovy-genuine?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/74884</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/74883</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>23.58</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8597593002754</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_8075</ITEM_ID>
 		<PRODUCTNAME>Nabíjecí port Flex kabel iPhone 13 Mini - hvězdně bílý Genuine IPH0293</PRODUCTNAME>
 		<PRODUCT>Nabíjecí port Flex kabel iPhone 13 Mini - hvězdně bílý Genuine IPH0293</PRODUCT>
@@ -84675,48 +84594,6 @@
 		<PRICE_VAT>72.36</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>0856500011127</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_10141</ITEM_ID>
-		<PRODUCTNAME>Nomad Sport Strap M/L - řemínek pro Apple Watch Series 1-3 (42mm) / 4-10 (44/45/46/49mm), šedý NM01958185</PRODUCTNAME>
-		<PRODUCT>Nomad Sport Strap M/L - řemínek pro Apple Watch Series 1-3 (42mm) / 4-10 (44/45/46/49mm), šedý NM01958185</PRODUCT>
-		<DESCRIPTION>Nomad Sport Strap M/L, black. řemínek je vyroben z odolné FKM pryže. Materiál je antimikrobiální, hypoalergenní a vodotěsný. Ideální na aktivní životní styl, přezka je tak odolná, že vydrží ve všech přírodních podmínkách. Řemínek je určený pro obvod zápěstí od 150 mm do 210 mm.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Voděodolný</PARAM_NAME>
-			<VAL>ano</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Šedá</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Materiál</PARAM_NAME>
-			<VAL>Silikon</VAL>
-		</PARAM>
-		<MANUFACTURER>Nomad</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/nomad-sport-strap-m-l-reminek-pro-apple-watch-42-44-45-46-49-mm-sedy?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/52755</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/52756</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/52757</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/52758</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/52759</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/52760</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/52761</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/52762</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>72.36</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>0856500019581</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -92495,35 +92372,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_16302</ITEM_ID>
-		<PRODUCTNAME>SUNSHINE Y22 Ultra Řezačka Ochranných Folií Y22 Ultra</PRODUCTNAME>
-		<PRODUCT>SUNSHINE Y22 Ultra Řezačka Ochranných Folií Y22 Ultra</PRODUCT>
-		<DESCRIPTION>Sunshine Y22 Ultra je řezačka ochranných folií, která vám umožňuje řezat fólie pro různé druhy zařízení. Disponuje širokou online databází šablon, která je průběžné aktualizována.</DESCRIPTION>
-		<MANUFACTURER>Sunshine</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/sunshine-y22-ultra-rezacka-ochrannych-folii?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/81129</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81123</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81124</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81125</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81126</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81127</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81128</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>473.05</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>6941590209432</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_16307</ITEM_ID>
 		<PRODUCTNAME>SUNSHINE Ochranná UV fólie ze skleněných vláken 25 ks - SS-U300 SS-U300</PRODUCTNAME>
 		<PRODUCT>SUNSHINE Ochranná UV fólie ze skleněných vláken 25 ks - SS-U300 SS-U300</PRODUCT>
@@ -94491,30 +94339,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_16368</ITEM_ID>
-		<PRODUCTNAME>Xiaomi Redmi Note 13 5G Deska vč. Dobíjecího Konektoru (Service Pack) 5600010N1700</PRODUCTNAME>
-		<PRODUCT>Xiaomi Redmi Note 13 5G Deska vč. Dobíjecího Konektoru (Service Pack) 5600010N1700</PRODUCT>
-		<DESCRIPTION>Nabíjecí konektor pro Xiaomi. Pokud vaše zařízení přestalo nabíjet, díky této součástce opravíte nabíjecí konektor a díly, které jsou na něm připojeny pomocí flex kabelu.</DESCRIPTION>
-		<MANUFACTURER>Xiaomi</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/xiaomi-redmi-note-13-5g-deska-vc-dobijeciho-konektoru-service-pack-1?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/81371</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81368</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>15.65</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596311266492</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_16373</ITEM_ID>
 		<PRODUCTNAME>Xiaomi Redmi Note 9 Pro/9S Deska vč. Dobíjecího Konektoru (Service Pack) 560001J6A100</PRODUCTNAME>
 		<PRODUCT>Xiaomi Redmi Note 9 Pro/9S Deska vč. Dobíjecího Konektoru (Service Pack) 560001J6A100</PRODUCT>
@@ -94646,33 +94470,6 @@
 		<PRICE_VAT>100.00</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>6971806515958</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_16392</ITEM_ID>
-		<PRODUCTNAME>SUNSHINE UV Hydrokondenzační Privacy Folie pro Smartphony Pack 25 kusů - SS-057UHS SS-057UHS</PRODUCTNAME>
-		<PRODUCT>SUNSHINE UV Hydrokondenzační Privacy Folie pro Smartphony Pack 25 kusů - SS-057UHS SS-057UHS</PRODUCT>
-		<DESCRIPTION>Sunshine SS-057UHS je prémiová privání HD Folie Je vyrobena z vysoce kvalitní Korea TPU. Tato HD UV fólie vyniká prvotřídním zpracováním a nabízí špičkovou kvalitu, vysokou pružnost a dlouhou životnost.</DESCRIPTION>
-		<MANUFACTURER>Sunshine</MANUFACTURER>
-		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Pouzdra, skla, fólie | Ochranné fólie pro mobilní telefony</CATEGORYTEXT>
-		<URL>https://www.express-servis.cz/p/sunshine-ss-057uhs-uv-hydrokondenzacni-privacy-folie-pro-smartphony-pack-25-kusu?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/81506</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81476</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81505</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81507</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>76.59</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>6941590210391</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -95182,7 +94979,7 @@
 		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81730</IMGURL_ALTERNATIVE>
 		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81731</IMGURL_ALTERNATIVE>
 		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81732</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>12.82</PRICE_VAT>
+		<PRICE_VAT>8.02</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8596311271045</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
@@ -96055,29 +95852,6 @@
 		<PRICE_VAT>14.15</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8596311215056</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_16452</ITEM_ID>
-		<PRODUCTNAME>Samsung A546B Galaxy A54 5G Kryt Baterie Awesome Graphite (Service Pack) GH82-30703A</PRODUCTNAME>
-		<PRODUCT>Samsung A546B Galaxy A54 5G Kryt Baterie Awesome Graphite (Service Pack) GH82-30703A</PRODUCT>
-		<DESCRIPTION>Náhradní bateriový kryt pro Samsung Galaxy A54 5G A546B. Nový kryt využijete v případě, že vám původní kryt praskl, poškrábal se nebo jinak znehodnotil, ať už při pádu nebo opotřebením časem.</DESCRIPTION>
-		<MANUFACTURER>Samsung</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/samsung-a546b-galaxy-a54-5g-kryt-baterie-awesome-graphite-service-pack?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/81624</IMGURL>
-		<PRICE_VAT>22.70</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596311214943</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -111468,7 +111242,7 @@
 		<URL>https://www.express-servis.cz/p/ochranne-temperovane-sklo-swissten-pro-xiaomi-redmi-note-8-pro-re-2-5d?utm_source=heureka</URL>
 		<IMGURL>https://api.express-servis.cz/files/shop/product-files/89636</IMGURL>
 		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/89637</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>7.84</PRICE_VAT>
+		<PRICE_VAT>6.92</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8595217469440</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
@@ -113068,41 +112842,6 @@
 		<PRICE_VAT>5.07</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8595217483118</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_17150</ITEM_ID>
-		<PRODUCTNAME>Pouzdro Swissten Clear Jelly MagStick pro Apple iPhone 12 / 12 Pro transparentní 33001704</PRODUCTNAME>
-		<PRODUCT>Pouzdro Swissten Clear Jelly MagStick pro Apple iPhone 12 / 12 Pro transparentní 33001704</PRODUCT>
-		<DESCRIPTION>Elegantní čiré pouzdro SWISSTEN MagStick vhodné pro dobíjení MagSafe. Baleno v blistru SWISSTEN</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-		</PARAM>
-		<MANUFACTURER>SWISSTEN</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/pouzdro-swissten-clear-jelly-magstick-pro-apple-iphone-12-12-pro-transparentni?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/85753</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/85752</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/85760</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/85759</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/85758</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/85757</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/85756</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/85755</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/85754</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/85761</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>5.46</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8595217478244</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -125221,6 +124960,39 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_18322</ITEM_ID>
+		<PRODUCTNAME>Puzdro Swissten Soft Joy pre Samsung S921 Galaxy S24 5G Čierne 34500348</PRODUCTNAME>
+		<PRODUCT>Puzdro Swissten Soft Joy pre Samsung S921 Galaxy S24 5G Čierne 34500348</PRODUCT>
+		<DESCRIPTION>SWISSTEN SOFT JOY je gélové puzdro s dokonale padnúcimi výrezmi na fotoaparát a prolismi na tlačidlá. Ideálna hrúbka puzdra zvýrazní atraktivitu vášho smartfónu a zároveň ho maximálne ochráni. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Farba</PARAM_NAME>
+		</PARAM>
+		<MANUFACTURER>SWISSTEN</MANUFACTURER>
+		<URL>https://www.express-servis.cz/p/pouzdro-swissten-soft-joy-pro-samsung-s921-galaxy-s24-5g-cerne?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/91417</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/91418</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/91419</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/91420</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/91421</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/91422</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/91423</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/91424</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>7.14</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8595217485747</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_18323</ITEM_ID>
 		<PRODUCTNAME>Pouzdro Swissten Soft Joy pro Samsung S921 Galaxy S24 5G Červené 34500349</PRODUCTNAME>
 		<PRODUCT>Pouzdro Swissten Soft Joy pro Samsung S921 Galaxy S24 5G Červené 34500349</PRODUCT>
@@ -127381,6 +127153,38 @@
 		<PRICE_VAT>22.78</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8595217469358</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_16835</ITEM_ID>
+		<PRODUCTNAME>Sluchátka Swissten Earbuds Rainbow YS-D2 Černá 51106000</PRODUCTNAME>
+		<PRODUCT>Sluchátka Swissten Earbuds Rainbow YS-D2 Černá 51106000</PRODUCT>
+		<DESCRIPTION>Sluchátka SWISSTEN YS-D2 z modelové řady RAINBOW se vyznačují skloubením vysokové kvality a příznivé ceny. Sluchátka disponují konektorem 3,5mm jack, vestavěným mikrofonem a funkčním tlačítkem. Baleno v blistru SWISSTEN.</DESCRIPTION>
+		<MANUFACTURER>SWISSTEN</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | TV, audio, video | Sluchátka</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/sluchatka-swissten-earbuds-rainbow-ys-d2-cerna?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/83661</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/83658</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/83659</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/83660</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/83662</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/83663</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/83664</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/83665</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/83666</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>5.24</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8595217445819</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -137096,6 +136900,234 @@
 		<GIFT id="SHOP_17830">Express smluvní záruka (3 roky) iPhone / iPad</GIFT>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_15018</ITEM_ID>
+		<PRODUCTNAME>Apple iPad mini (2024) MXN83HC/A Apple iPad mini (2024) 128GB Wi-Fi hvězdně bílý 128 GB Bílá</PRODUCTNAME>
+		<PRODUCT>Apple iPad mini (2024) MXN83HC/A Apple iPad mini (2024) 128GB Wi-Fi hvězdně bílý 128 GB Bílá</PRODUCT>
+		<DESCRIPTION>iPad mini 2024, čip A17 Pro, těžce výkonný, lehce přenosný. Čtyři nádherné barvy. Zařízení jako žádné jiné. Kompatibilní s Apple Pencil Pro, který překresluje hranice kreativity.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
+			<VAL>8,3"</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
+			<VAL>2266 x 1488</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ baterie</PARAM_NAME>
+			<VAL>Li-ion</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>10 hodin</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Odolné</PARAM_NAME>
+			<VAL>Ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>USB kabel, Nabíječka</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
+			<VAL>Liquid Retina</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet displejů</PARAM_NAME>
+			<VAL>1</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Dotykový</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Retina</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
+			<VAL>293 g</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výška</PARAM_NAME>
+			<VAL>195</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Šířka</PARAM_NAME>
+			<VAL>135</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
+			<VAL>6</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Konstrukce</PARAM_NAME>
+			<VAL>Dotykové</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Bílá</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Emailový prohlížeč</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Materiál</PARAM_NAME>
+			<VAL>Hliník</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>MP3/WMA/AAC vyzvánění</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Fotoaparát</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení fotoaparátu</PARAM_NAME>
+			<VAL>12 Mpx</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Automatické ostření</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení videokamery</PARAM_NAME>
+			<VAL>0</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Přední kamera</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení přední kamery</PARAM_NAME>
+			<VAL>12 Mpx</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Vestavěný blesk</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>MP3</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Internetový prohlížeč</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Stereo reproduktory</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
+			<VAL>128 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Platforma</PARAM_NAME>
+			<VAL>iOS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
+			<VAL>iPadOS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
+			<VAL>Apple A17 Pro</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Paměť RAM</PARAM_NAME>
+			<VAL>8 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
+			<VAL>5x</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Touch ID/Face ID</PARAM_NAME>
+			<VAL>Face ID</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Wifi</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>LTE/5G</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Bluetooth</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>HDMI</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>NFC</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>eSIM</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>GPS</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Glonass</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Jack 3,5</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Distribuce</PARAM_NAME>
+			<VAL>Česká</VAL>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Tablety a čtečky | Tablety</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/apple-ipad-mini-2024-128gb-wi-fi-hvezdne-bily?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/75925</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/75924</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/75926</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/75927</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>622.94</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>195949729362</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<GIFT id="SHOP_17830">Express smluvní záruka (3 roky) iPhone / iPad</GIFT>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_15019</ITEM_ID>
 		<PRODUCTNAME>Apple iPad mini (2024) MXN73HC/A Apple iPad mini (2024) 128GB Wi-Fi modrý 128 GB Modrá</PRODUCTNAME>
 		<PRODUCT>Apple iPad mini (2024) MXN73HC/A Apple iPad mini (2024) 128GB Wi-Fi modrý 128 GB Modrá</PRODUCT>
@@ -138678,6 +138710,234 @@
 		<PRICE_VAT>1006.35</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>195949752025</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<GIFT id="SHOP_17830">Express smluvní záruka (3 roky) iPhone / iPad</GIFT>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_15028</ITEM_ID>
+		<PRODUCTNAME>Apple iPad mini (2024) MYGY3HC/A Apple iPad mini (2024) 512GB Wi-Fi vesmírně šedý 512 GB Šedá</PRODUCTNAME>
+		<PRODUCT>Apple iPad mini (2024) MYGY3HC/A Apple iPad mini (2024) 512GB Wi-Fi vesmírně šedý 512 GB Šedá</PRODUCT>
+		<DESCRIPTION>iPad mini 2024, čip A17 Pro, těžce výkonný, lehce přenosný. Čtyři nádherné barvy. Zařízení jako žádné jiné. Kompatibilní s Apple Pencil Pro, který překresluje hranice kreativity.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
+			<VAL>8,3"</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
+			<VAL>2266 x 1488</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ baterie</PARAM_NAME>
+			<VAL>Li-ion</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>10 hodin</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Odolné</PARAM_NAME>
+			<VAL>Ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>USB kabel, Nabíječka</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
+			<VAL>Liquid Retina</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet displejů</PARAM_NAME>
+			<VAL>1</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Dotykový</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Retina</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
+			<VAL>293 g</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výška</PARAM_NAME>
+			<VAL>195</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Šířka</PARAM_NAME>
+			<VAL>135</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
+			<VAL>6</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Konstrukce</PARAM_NAME>
+			<VAL>Dotykové</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Šedá</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Emailový prohlížeč</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Materiál</PARAM_NAME>
+			<VAL>Hliník</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>MP3/WMA/AAC vyzvánění</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Fotoaparát</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení fotoaparátu</PARAM_NAME>
+			<VAL>12 Mpx</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Automatické ostření</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení videokamery</PARAM_NAME>
+			<VAL>0</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Přední kamera</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení přední kamery</PARAM_NAME>
+			<VAL>12 Mpx</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Vestavěný blesk</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>MP3</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Internetový prohlížeč</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Stereo reproduktory</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
+			<VAL>512 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Platforma</PARAM_NAME>
+			<VAL>iOS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
+			<VAL>iPadOS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
+			<VAL>Apple A17 Pro</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Paměť RAM</PARAM_NAME>
+			<VAL>8 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
+			<VAL>5x</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Touch ID/Face ID</PARAM_NAME>
+			<VAL>Face ID</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Wifi</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>LTE/5G</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Bluetooth</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>HDMI</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>NFC</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>eSIM</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>GPS</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Glonass</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Jack 3,5</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Distribuce</PARAM_NAME>
+			<VAL>Česká</VAL>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Tablety a čtečky | Tablety</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/apple-ipad-mini-2024-512gb-wi-fi-vesmirne-sedy?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/75972</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/75973</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/75974</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/75975</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>1006.35</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>195949751790</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -141405,6 +141665,212 @@
 		<PRICE_VAT>1536.52</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>195949591402</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_15073</ITEM_ID>
+		<PRODUCTNAME>Apple iMac 24" M4 Apple iMac 24" M4 (2024) 8CPU/8GPU/16GB/256GB růžový MWUG3CZ/A</PRODUCTNAME>
+		<PRODUCT>Apple iMac 24" M4 Apple iMac 24" M4 (2024) 8CPU/8GPU/16GB/256GB růžový MWUG3CZ/A</PRODUCT>
+		<DESCRIPTION>Dělaný pro Apple Intelligence. Osobnější, soukromější, výkonnější. Nové úchvatné barvy. Úžasně tenký design. Čip M4. 12MP Center Stage kamera. Funkce Pohled na stůl.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
+			<VAL>24"</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
+			<VAL>4480 x 2520</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Odolné</PARAM_NAME>
+			<VAL>Ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magic Keyboard, Magic Mouse, Napájecí kabel, USB C kabel</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
+			<VAL>IPS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet displejů</PARAM_NAME>
+			<VAL>1</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Matný displej</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Lesklý displej</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Retina</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
+			<VAL>4,44</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výška</PARAM_NAME>
+			<VAL>461 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Šířka</PARAM_NAME>
+			<VAL>547 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
+			<VAL>147,0 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Růžová</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Materiál</PARAM_NAME>
+			<VAL>Hliník</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Stereo reproduktory</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Webkamera</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Numerická klávesnice</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>CD/DVD mechanika</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
+			<VAL>256 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Zvýraznění basů</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Platforma</PARAM_NAME>
+			<VAL>OS X</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
+			<VAL>macOS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
+			<VAL>Apple M4</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Paměť RAM</PARAM_NAME>
+			<VAL>16 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
+			<VAL>8x</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>SSD</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Podsvícení klávesnice</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Automatické podsvícení displeje</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Wifi</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Bluetooth</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>HDMI</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Jack 3,5</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Firewire</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Thunderbolt</PARAM_NAME>
+			<VAL>Thunderbolt 4</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výstup na sluchátka</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>USB 3.0</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>USB C</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet USB/USB-C</PARAM_NAME>
+			<VAL>2x USB-C</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Snímač okolního osvětlení</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Zabudovaný reproduktor</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ počítače</PARAM_NAME>
+			<VAL>All-in-one</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Distribuce</PARAM_NAME>
+			<VAL>Česká</VAL>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Počítače a notebooky | Stolní počítače</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/apple-imac-24-m4-2024-8cpu-8gpu-16gb-256gb-ruzovy?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/76242</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/76240</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/76241</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>1536.52</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>195949593161</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -159029,6 +159495,38 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_18461</ITEM_ID>
+		<PRODUCTNAME>Puzdro Swissten Soft Joy pre Samsung Galaxy A56 čierne 34500436</PRODUCTNAME>
+		<PRODUCT>Puzdro Swissten Soft Joy pre Samsung Galaxy A56 čierne 34500436</PRODUCT>
+		<DESCRIPTION>Puzdro SWISSTEN Soft Joy ponúka spoľahlivú ochranu proti nárazom a škrabancom. Vďaka tenkému dizajnu a protišmykovému povrchu sa pohodlne drží a presné výrezy umožňujú jednoduchý prístup ku všetkým funkciám telefónu. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Farba</PARAM_NAME>
+		</PARAM>
+		<MANUFACTURER>SWISSTEN</MANUFACTURER>
+		<URL>https://www.express-servis.cz/p/pouzdro-swissten-soft-joy-pro-samsung-galaxy-a56-cerne?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/92035</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92036</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92037</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92038</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92039</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92040</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92041</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>10.05</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8595217492417</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_18463</ITEM_ID>
 		<PRODUCTNAME>Pouzdro Swissten Soft Joy pro Samsung Galaxy A36 modré 34500438</PRODUCTNAME>
 		<PRODUCT>Pouzdro Swissten Soft Joy pro Samsung Galaxy A36 modré 34500438</PRODUCT>
@@ -159166,6 +159664,39 @@
 		<PRICE_VAT>4.63</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8595217492479</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_18468</ITEM_ID>
+		<PRODUCTNAME>Puzdro Swissten Clear Jelly pre Apple iPhone 16e transparentné 32802968</PRODUCTNAME>
+		<PRODUCT>Puzdro Swissten Clear Jelly pre Apple iPhone 16e transparentné 32802968</PRODUCT>
+		<DESCRIPTION>Silikónové puzdro so špeciálnym nano povrchom, ktorý zabraňuje prilepeniu puzdra na smartfón. Predný zvýšený okraj chráni displej pred poškriabaním pri položení telefónu čelom nadol. Balené v blistri Swissten.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Farba</PARAM_NAME>
+		</PARAM>
+		<MANUFACTURER>SWISSTEN</MANUFACTURER>
+		<URL>https://www.express-servis.cz/p/pouzdro-swissten-clear-jelly-pro-apple-iphone-16e-transparentni?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/92072</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92073</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92074</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92075</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92076</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92077</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92078</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92079</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>10.67</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8595217492615</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -162345,6 +162876,36 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_8334</ITEM_ID>
+		<PRODUCTNAME>Baterie A1495 Macbook Air 11 2013 - 2017 - A1465 BT0095</PRODUCTNAME>
+		<PRODUCT>Baterie A1495 Macbook Air 11 2013 - 2017 - A1465 BT0095</PRODUCT>
+		<DESCRIPTION>Náhradní baterie pro Apple MacBook Air 11 2011 / 2012- A1465, kterou využijete v případě, že baterie na vašem zařízení potřebuje výměnu, ať už přestala nabíjet na 100%, je poškozena nebo časem znehodnocena. Tato náhradní baterie pro MacBook Air 11 je perfektní alternativou k originálu a zajistí spolehlivý výkon, dlouhou výdrž a bezpečný provoz.</DESCRIPTION>
+		<MANUFACTURER>Express Servis Company</MANUFACTURER>
+		<URL>https://www.express-servis.cz/p/baterie-macbook-air-11-2013-2017-a1495?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/76103</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/76102</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/76104</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/76105</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/76106</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/76107</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/76108</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/78453</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>52.22</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8597593011732</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_8336</ITEM_ID>
 		<PRODUCTNAME>Baterie A1405 Macbook Air 13 - A1466 BT0097</PRODUCTNAME>
 		<PRODUCT>Baterie A1405 Macbook Air 13 - A1466 BT0097</PRODUCT>
@@ -163271,49 +163832,6 @@
 		<PRICE_VAT>13.79</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8596115589414</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_15275</ITEM_ID>
-		<PRODUCTNAME>MONK rychlonabíjecí USB-C adaptér 25W PD bílý MNK01PDC-CWH25</PRODUCTNAME>
-		<PRODUCT>MONK rychlonabíjecí USB-C adaptér 25W PD bílý MNK01PDC-CWH25</PRODUCT>
-		<DESCRIPTION>MONK rychlonabíjecí USB-C adaptér s výkonem 25W Power delivery 3.0 a PPS, pro rychlé nabíjení mobilních telefonů nebo tabletů.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Obsah balení</PARAM_NAME>
-			<VAL>Napájecí adaptér</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Bílá</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Bezdrátové nabíjení</PARAM_NAME>
-			<VAL>ne</VAL>
-		</PARAM>
-		<MANUFACTURER>MONK</MANUFACTURER>
-		<CATEGORYTEXT>Heureka.cz | Elektronika | Počítače a notebooky | Příslušenství k počítačům | Kabely a konektory | Napájecí kabely</CATEGORYTEXT>
-		<URL>https://www.express-servis.cz/p/monk-rychlonabijeci-usb-c-adapter-25w-pd-bily?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/77904</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77905</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77906</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77907</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77908</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77909</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77910</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/77911</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>18.82</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596115589452</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -164300,30 +164818,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_18656</ITEM_ID>
-		<PRODUCTNAME>LCD Display + Dotyková Deska + Přední Kryt Huawei P30 Black 2446440</PRODUCTNAME>
-		<PRODUCT>LCD Display + Dotyková Deska + Přední Kryt Huawei P30 Black 2446440</PRODUCT>
-		<DESCRIPTION>Typ displeje: OLED Huawei P30 (ELE-L09, ELE-L29) LCD podporuje funkčnost čtečky otisku prstů v displeji. Upozornění: Dbejte na antistatickou ochranu: Pracujte na antistatické podložce a případně používejte antistatický náramek. Zkontrolujte, že máte všechny části, které by mohli podléhat statické elektřině správně podlepeny antistatickou páskou. LCD před instalací řádně otestujte (funkčnost dotyku, barvy, jas, funkčnost senzoru, správnost pixelového zobrazení) Instalaci proveďte s odpojenou baterií a ujistěte se, že konektory jsou do sebe řádně zapojeny, po instalaci proveďte řádnou kontrolu znovu. Pokud není díl měněn v autorizovaném servisu, na použítý díl se záruka nevztahuje.</DESCRIPTION>
-		<MANUFACTURER>For_Huawei</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/lcd-display-dotykova-deska-predni-kryt-huawei-p30-black?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/92740</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92737</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>53.99</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596311078224</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_18661</ITEM_ID>
 		<PRODUCTNAME>LCD Display + Dotyková Deska + Přední Kryt Huawei P30 Lite White (pro 48MP foto) 2446452</PRODUCTNAME>
 		<PRODUCT>LCD Display + Dotyková Deska + Přední Kryt Huawei P30 Lite White (pro 48MP foto) 2446452</PRODUCT>
@@ -164509,30 +165003,6 @@
 		<PRICE_VAT>68.97</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8596311233425</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_18713</ITEM_ID>
-		<PRODUCTNAME>LCD Display + Dotyková Deska Lenovo Tab M9 Black 57983115520</PRODUCTNAME>
-		<PRODUCT>LCD Display + Dotyková Deska Lenovo Tab M9 Black 57983115520</PRODUCT>
-		<DESCRIPTION>LCD displej s dotykovou deskou pro Lenovo Tab M9 (černý) je kompletní náhradní modul, který obnovuje obraz i citlivou odezvu dotyku při poškozeném nebo nefunkčním displeji.</DESCRIPTION>
-		<MANUFACTURER>For_Lenovo</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/lcd-display-dotykova-deska-lenovo-tab-m9-black?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/92874</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/92870</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>34.60</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596311218330</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -164802,27 +165272,6 @@
 			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
 			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
 		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_17281</ITEM_ID>
-		<DESCRIPTION>Elegantní pouzdro SWISSTEN MagStick FLEX, které skvěle ochrání vaše zařízení před nechtěnými pády a škrábanci. Pouzdro podporuje bezdrátové dobíjení MagSafe. Baleno v blistru SWISSTEN.</DESCRIPTION>
-		<MANUFACTURER>SWISSTEN</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/pouzdro-swissten-magstick-flex-pro-apple-iphone-15-plus-fialove?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/86606</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/86607</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/86608</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/86609</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/86610</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/86611</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>8.68</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8595217488885</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
 			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
@@ -166539,42 +166988,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_13868</ITEM_ID>
-		<PRODUCTNAME>Apple iPad Pro 13" (2024) Magic Keyboard s českou klávesnicí, bílá MWR43CZ/A</PRODUCTNAME>
-		<PRODUCT>Apple iPad Pro 13" (2024) Magic Keyboard s českou klávesnicí, bílá MWR43CZ/A</PRODUCT>
-		<DESCRIPTION>Magic Keyboard k 13palcovému iPadu Pro (M4) – český – bílý Magic Keyboard k iPadu Pro na pohodlné psaní a ovládání pomocí gest na trackpadu má nový elegantní design, hliníkovou dlaňovou opěrku a je krásně přenosný. Má řádek 14 funkčních kláves pro rychlý přístup k funkcím, jako je nastavování jasu displeje nebo ovládání hlasitosti, a USB-C konektor na průchozí nabíjení. Díky plovoucí konzolové konstrukci si hladce nastavíš ten správný pozorovací úhel. Nový, větší trackpad s haptickou odezvou je ideální na přesné úkony, jako je úprava tabulek nebo výběr textu.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Bílá</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Materiál</PARAM_NAME>
-			<VAL>TPU a umělá kůže</VAL>
-		</PARAM>
-		<MANUFACTURER>APPLE</MANUFACTURER>
-		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Tablety a čtečky | Příslušenství k tabletům | Pouzdra na tablety</CATEGORYTEXT>
-		<URL>https://www.express-servis.cz/p/magic-keyboard-ipad-pro-13-m4-cz-bila?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/66228</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/66229</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/66230</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/66231</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/66232</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>396.59</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>195949483585</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_13871</ITEM_ID>
 		<PRODUCTNAME>Apple iPad Pro 13" (2024) Magic Keyboard s slovenskou klávesnicí, černá MWR53SL/A</PRODUCTNAME>
 		<PRODUCT>Apple iPad Pro 13" (2024) Magic Keyboard s slovenskou klávesnicí, černá MWR53SL/A</PRODUCT>
@@ -167290,6 +167703,59 @@
 		<PRICE_VAT>6.21</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8595217484306</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_18897</ITEM_ID>
+		<PRODUCTNAME>Swissten ochranné temperované sklo pre Xiaomi Redmi Note 10 5G / Poco M3 Pro 5G RE 2,5D 74517901</PRODUCTNAME>
+		<PRODUCT>Swissten ochranné temperované sklo pre Xiaomi Redmi Note 10 5G / Poco M3 Pro 5G RE 2,5D 74517901</PRODUCT>
+		<DESCRIPTION>Spodná vysoko adhezívna časť s tenkou silikónovou vrstvou, ktorá výrazne zjednoduší aplikáciu. Sklo je opatrené špeciálnou oleofóbnou vrstvou - vysoká citlivosť. Tvrdosť 9H. Hrúbka 0,3 mm. Zaoblené hrany.</DESCRIPTION>
+		<MANUFACTURER>SWISSTEN</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Pouzdra, skla, fólie | Tvrzená skla pro mobilní telefony</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/ochranne-temperovane-sklo-swissten-pro-xiaomi-redmi-note-10-5g-poco-m3-pro-5g-re-2-5d?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/93438</IMGURL>
+		<PRICE_VAT>6.21</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8595217477469</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_18899</ITEM_ID>
+		<PRODUCTNAME>Ochranné temperované sklo Swissten pre Xiaomi Redmi Note 14 5G RE 2,5D 74518011</PRODUCTNAME>
+		<PRODUCT>Ochranné temperované sklo Swissten pre Xiaomi Redmi Note 14 5G RE 2,5D 74518011</PRODUCT>
+		<DESCRIPTION>Ochranné temperované sklo SWISSTEN chráni displej pred poškriabaním a prasknutím. Tvrdosť 9H, 100% priehľadnosť, jednoduchá inštalácia bez bublín a ochrana proti odtlačkom prstov zabezpečujú spoľahlivú ochranu a čistý obraz. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Farba</PARAM_NAME>
+		</PARAM>
+		<MANUFACTURER>SWISSTEN</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Pouzdra, skla, fólie | Tvrzená skla pro mobilní telefony</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/ochranne-temperovane-sklo-swissten-pro-xiaomi-redmi-note-14-5g-re-2-5d?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/93440</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/93441</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/93442</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>5.38</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8595217493018</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -169091,30 +169557,6 @@
 		<PRICE_VAT>48.26</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8596311216787</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_19083</ITEM_ID>
-		<PRODUCTNAME>LCD Display + Dotyková Deska + Přední Kryt pro Xiaomi Redmi Note 8 Pro Black 2449757</PRODUCTNAME>
-		<PRODUCT>LCD Display + Dotyková Deska + Přední Kryt pro Xiaomi Redmi Note 8 Pro Black 2449757</PRODUCT>
-		<DESCRIPTION>Typ displeje: IPS M1906G7G Upozornění: Díl není podporován verzí firmwaru Miui 12.5.1 Dbejte na antistatickou ochranu: Pracujte na antistatické podložce a případně používejte antistatický náramek. Zkontrolujte, že máte všechny části, které by mohli podléhat statické elektřině správně podlepeny antistatickou páskou. LCD před instalací řádně otestujte (funkčnost dotyku, barvy, jas, funkčnost senzoru, správnost pixelového zobrazení) Instalaci proveďte s odpojenou baterií a ujistěte se, že konektory jsou do sebe řádně zapojeny, po instalaci proveďte řádnou kontrolu znovu. Pokud není díl měněn v autorizovaném servisu, na použítý díl se záruka nevztahuje.</DESCRIPTION>
-		<MANUFACTURER>For_Xiaomi</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/lcd-display-dotykova-deska-predni-kryt-pro-xiaomi-redmi-note-8-pro-black?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/94143</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/94142</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>34.60</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596311099526</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -171319,30 +171761,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_19361</ITEM_ID>
-		<PRODUCTNAME>Motorola E20 LCD Display + Dotyková Deska Black 57983107084</PRODUCTNAME>
-		<PRODUCT>Motorola E20 LCD Display + Dotyková Deska Black 57983107084</PRODUCT>
-		<DESCRIPTION>Typ displeje: IPS Moto E20 (XT2155-3) Upozornění: Dbejte na antistatickou ochranu: Pracujte na antistatické podložce a případně používejte antistatický náramek. Zkontrolujte, že máte všechny části, které by mohli podléhat statické elektřině správně podlepeny antistatickou páskou. LCD před instalací řádně otestujte (funkčnost dotyku, barvy, jas, funkčnost senzoru, správnost pixelového zobrazení) Instalaci proveďte s odpojenou baterií a ujistěte se, že konektory jsou do sebe řádně zapojeny, po instalaci proveďte řádnou kontrolu znovu. Pokud není díl měněn v autorizovaném servisu, na použítý díl se záruka nevztahuje.</DESCRIPTION>
-		<MANUFACTURER>For_Motorola</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/motorola-e20-lcd-display-dotykova-deska-black?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/94759</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/94758</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>24.90</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596311169014</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_19366</ITEM_ID>
 		<PRODUCTNAME>Motorola E22 LCD Display + Dotyková Deska Black 57983114126</PRODUCTNAME>
 		<PRODUCT>Motorola E22 LCD Display + Dotyková Deska Black 57983114126</PRODUCT>
@@ -173103,7 +173521,7 @@
 		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Pouzdra, skla, fólie | Tvrzená skla pro mobilní telefony</CATEGORYTEXT>
 		<URL>https://www.express-servis.cz/p/ochranne-temperovane-sklo-swissten-pro-apple-iphone-16e-re-2-5d?utm_source=heureka</URL>
 		<IMGURL>https://api.express-servis.cz/files/shop/product-files/94991</IMGURL>
-		<PRICE_VAT>14.63</PRICE_VAT>
+		<PRICE_VAT>11.77</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8595217492707</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
@@ -178433,6 +178851,42 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_19896</ITEM_ID>
+		<PRODUCTNAME>Particula GoBalance Sport PAR-GBN1-Sport</PRODUCTNAME>
+		<PRODUCT>Particula GoBalance Sport PAR-GBN1-Sport</PRODUCT>
+		<DESCRIPTION>Chcete svůj domácí trénink posunout na vyšší level? Balanční podložka GoBalance Sport od společnosti Particula je ideálním nástrojem pro aktivní lidi a sportovce, kteří touží po zdokonalení své stability, síly a koordinace.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Šedá</VAL>
+		</PARAM>
+		<MANUFACTURER>Particula</MANUFACTURER>
+		<URL>https://www.express-servis.cz/p/particula-gobalance-sport?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/96807</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/96815</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/96814</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/96813</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/96812</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/96811</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/96810</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/96809</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/96808</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/96816</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>125.56</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>0850007562861</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_19897</ITEM_ID>
 		<PRODUCTNAME>FORM Smart Swim 2 – chytré plavecké brýle FRM-FSG300-SG-BK</PRODUCTNAME>
 		<PRODUCT>FORM Smart Swim 2 – chytré plavecké brýle FRM-FSG300-SG-BK</PRODUCT>
@@ -181737,6 +182191,32 @@
 		<GIFT id="SHOP_17830">Express smluvní záruka (3 roky) iPhone / iPad</GIFT>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_9370</ITEM_ID>
+		<PRODUCTNAME>Baterie A1713 / A2171 Macbook Pro 13 A1708 (2016) / A2159 (2019) BT0105</PRODUCTNAME>
+		<PRODUCT>Baterie A1713 / A2171 Macbook Pro 13 A1708 (2016) / A2159 (2019) BT0105</PRODUCT>
+		<DESCRIPTION>Náhradní baterie pro Apple MacBook Pro 13 A1708 (2016) / A2159 (2019), kterou využijete v případě, že baterie na vašem zařízení potřebuje výměnu, ať už přestala nabíjet na 100%, je poškozena nebo časem znehodnocena.Tato náhradní baterie pro MacBook Pro 13 je perfektní alternativou k originálu a zajistí spolehlivý výkon, dlouhou výdrž a bezpečný provoz. Tato baterie je kompatibilní napříč platformou od intelu 2016 do M1/M2 macbooků pro s touchbarem, podmínkou je, že musí být stroj 2port USBC.</DESCRIPTION>
+		<MANUFACTURER>Express Servis Company</MANUFACTURER>
+		<URL>https://www.express-servis.cz/p/baterie-macbook-pro-13-2019-2020-a2171?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/76158</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/76157</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/76160</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/78456</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>60.60</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8597593011831</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_16740</ITEM_ID>
 		<PRODUCTNAME>Datový kabel Swissten Soft Silicone USB-C / USB-C 1,5 m 60W černý 71532010</PRODUCTNAME>
 		<PRODUCT>Datový kabel Swissten Soft Silicone USB-C / USB-C 1,5 m 60W černý 71532010</PRODUCT>
@@ -182045,30 +182525,6 @@
 		<PRICE_VAT>4.98</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8595217454729</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_16394</ITEM_ID>
-		<PRODUCTNAME>SUNSHINE Hydrogelová Folie pro Smartphony Pack 50 kusů - SS-057R SS-057R</PRODUCTNAME>
-		<PRODUCT>SUNSHINE Hydrogelová Folie pro Smartphony Pack 50 kusů - SS-057R SS-057R</PRODUCT>
-		<DESCRIPTION>Sunshine SS-057R je prémiová HD Folie Je vyrobena z vysoce kvalitní Korea TPU. Tato HD fólie vyniká prvotřídním zpracováním a nabízí špičkovou kvalitu, vysokou pružnost a dlouhou životnost. Folie je tenká 0,15mm, ideální pro zaoblené displeje. Hlavní vlastnosti: Odolnost vůči stresu - fólie je navržena tak, aby vydržela běžné nárazy a napětí. Obnovitelnost - fólie se dokáže přizpůsobit a obnovit po drobných škrábancích, což prodlužuje její životnost. Folie je voděodolná a s oleofobní úpravou, která chrání povrch před vodou, upatlání a otisku prstů. Tato fólie poskytuje vynikající ochranu pro vaše zařízení, aniž by negativně ovlivnila jeho vzhled či funkčnost. - Rozměry 120x180 mm - Podpora do 7 palců</DESCRIPTION>
-		<MANUFACTURER>Sunshine</MANUFACTURER>
-		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Pouzdra, skla, fólie | Ochranné fólie pro mobilní telefony</CATEGORYTEXT>
-		<URL>https://www.express-servis.cz/p/sunshine-ss-057r-hydrogelova-folie-pro-smartphony-pack-50-kusu?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/81479</IMGURL>
-		<PRICE_VAT>98.89</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>6941590201009</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -190600,45 +191056,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_17554</ITEM_ID>
-		<PRODUCTNAME>Epico UltraBoost GaN 45W Wall Charger EA45, bílá 9915101100201</PRODUCTNAME>
-		<PRODUCT>Epico UltraBoost GaN 45W Wall Charger EA45, bílá 9915101100201</PRODUCT>
-		<DESCRIPTION>Tato kompaktní nabíječka s výkonem 45 W nabízí rychlé nabíjení telefonů, tabletů a notebooků díky dvěma USB-C portům s Power Delivery. Díky technologii GaN je menší, chladnější a energeticky úspornější.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Obsah balení</PARAM_NAME>
-			<VAL>Napájecí adaptér</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Bílá</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Bezdrátové nabíjení</PARAM_NAME>
-			<VAL>ne</VAL>
-		</PARAM>
-		<MANUFACTURER>Epico</MANUFACTURER>
-		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Baterie a nabíječky pro mobily | Nabíječky pro mobilní telefony</CATEGORYTEXT>
-		<URL>https://www.express-servis.cz/p/epico-ultraboost-gan-45w-wall-charger-ea45-bila?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/87904</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/87905</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/87906</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/87907</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>23.58</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596049196153</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_20383</ITEM_ID>
 		<PRODUCTNAME>Display iPhone 13 Pro - Original Pulled (Genuine) Apple configuration - černý IPH1017</PRODUCTNAME>
 		<PRODUCT>Display iPhone 13 Pro - Original Pulled (Genuine) Apple configuration - černý IPH1017</PRODUCT>
@@ -193683,6 +194100,37 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_20295</ITEM_ID>
+		<PRODUCTNAME>LCD displej iPhone 11 Pro - Original Change Glass (Refurbished) - černý IPH0992</PRODUCTNAME>
+		<PRODUCT>LCD displej iPhone 11 Pro - Original Change Glass (Refurbished) - černý IPH0992</PRODUCT>
+		<DESCRIPTION>Originální refurbished displej s vyměněným sklem pro iPhone 11 Pro. Spolehlivé a cenově dostupné řešení opravy.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | LCD displeje k mobilním telefonům</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/lcd-displej-iphone-11-pro-original-change-glass-refurbished-cerny?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/97825</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/97826</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/97827</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/97828</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/97829</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>86.60</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8597593014115</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_20298</ITEM_ID>
 		<PRODUCTNAME>LCD displej iPhone 11 Pro Max - Original Change Glass (Refurbished) - černý IPH0995</PRODUCTNAME>
 		<PRODUCT>LCD displej iPhone 11 Pro Max - Original Change Glass (Refurbished) - černý IPH0995</PRODUCT>
@@ -193701,33 +194149,6 @@
 		<PRICE_VAT>106.87</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8597593014146</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_20299</ITEM_ID>
-		<PRODUCTNAME>LCD displej iPhone 12 / 12 Pro - Soft OLED Classic - Transplantable IC - černý IPH0997</PRODUCTNAME>
-		<PRODUCT>LCD displej iPhone 12 / 12 Pro - Soft OLED Classic - Transplantable IC - černý IPH0997</PRODUCT>
-		<DESCRIPTION>Displej Soft OLED Classic s transplantovatelným IC pro iPhone 12 / 12 Pro. Kvalitní a spolehlivé řešení opravy.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-		</PARAM>
-		<MANUFACTURER>Apple</MANUFACTURER>
-		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | LCD displeje k mobilním telefonům</CATEGORYTEXT>
-		<URL>https://www.express-servis.cz/p/lcd-displej-iphone-12-12-pro-soft-oled-classic-transplantable-ic-cerny?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/97847</IMGURL>
-		<PRICE_VAT>74.26</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8597593014160</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -195785,6 +196206,134 @@
 		<GIFT id="SHOP_17832">Express smluvní záruka (3 roky) Watch</GIFT>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_20651</ITEM_ID>
+		<PRODUCTNAME>Apple Watch Ultra 3 (2025) Apple Watch Ultra 3 (2025) 49mm - přírodní titan s ocelově modrým oceánským řemínkem</PRODUCTNAME>
+		<PRODUCT>Apple Watch Ultra 3 (2025) Apple Watch Ultra 3 (2025) 49mm - přírodní titan s ocelově modrým oceánským řemínkem</PRODUCT>
+		<DESCRIPTION>Apple Watch Ultra 3 vynikají v multitaskingu – v jednu chvíli slouží jako sportovní tracker, vzápětí jako chytré hodinky. Hladce tak přejdeš z pracovní porady na trénink v boxu nebo z potápění na večeři s přáteli. Za běhu si vyřídíš hovory, odpovíš na zprávy, pustíš hudbu a zaplatíš za nákupy. Hodinky průběžně sledují tvoje aktuální zdravotní ukazatele a pro všechny případy tě jistí užitečnými bezpečnostními funkcemi. Nejmenují se Ultra pro nic za nic.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
+			<VAL>1,93"</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
+			<VAL>422 x 514</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>42 hodin</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Odolné</PARAM_NAME>
+			<VAL>Prachotěsnost, Voděodolnost</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
+			<VAL>LTPO OLED</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
+			<VAL>61,6 g</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výška</PARAM_NAME>
+			<VAL>49 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Šířka</PARAM_NAME>
+			<VAL>44 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
+			<VAL>12 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Stříbrná</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Materiál</PARAM_NAME>
+			<VAL>Titan</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
+			<VAL>64 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
+			<VAL>Watch OS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
+			<VAL>Apple S10</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
+			<VAL>2</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Wifi</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Bluetooth</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>GPS</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Glonass</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/apple-watch-ultra-3-2025-49mm-prirodni-titan-s-ocelove-modrym-oceanskym-reminkem?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/99915</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/99905</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/99906</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/99907</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/99908</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/99909</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/99913</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/99914</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>936.28</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>195950608786</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<GIFT id="SHOP_17832">Express smluvní záruka (3 roky) Watch</GIFT>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_20652</ITEM_ID>
 		<PRODUCTNAME>Apple Watch Ultra 3 (2025) Apple Watch Ultra 3 (2025) 49mm - přírodní titan s přírodně titanovým milánským tahem L</PRODUCTNAME>
 		<PRODUCT>Apple Watch Ultra 3 (2025) Apple Watch Ultra 3 (2025) 49mm - přírodní titan s přírodně titanovým milánským tahem L</PRODUCT>
@@ -197214,6 +197763,134 @@
 		<PRICE_VAT>328.99</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>195950646627</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<GIFT id="SHOP_17832">Express smluvní záruka (3 roky) Watch</GIFT>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_20689</ITEM_ID>
+		<PRODUCTNAME>Apple Apple Watch Series 11 GPS 42mm Apple Watch Series 11 GPS 42mm černé / černý sportovní řemínek S/M Černá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch Series 11 GPS 42mm Apple Watch Series 11 GPS 42mm černé / černý sportovní řemínek S/M Černá</PRODUCT>
+		<DESCRIPTION>Series 11 jsou nejtenčí Apple Watch. Jsou tak pohodlné, že je nemusíš sundávat z ruky, takže tvoje životní funkce sledují i v době, kdy spíš. Baterie má ohromnou výdrž – při plném nabití až 24 hodin běžného používání. Za 15 minut ji nabiješ až na 8 hodin.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
+			<VAL>1,78</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
+			<VAL>374 x 446</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Odolné</PARAM_NAME>
+			<VAL>Prachotěsnost, Voděodolnost</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
+			<VAL>OLED</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
+			<VAL>34,6 g</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výška</PARAM_NAME>
+			<VAL>42 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Šířka</PARAM_NAME>
+			<VAL>36 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
+			<VAL>10 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Materiál</PARAM_NAME>
+			<VAL>Hliník</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
+			<VAL>64 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
+			<VAL>Watch OS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
+			<VAL>Apple S10</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
+			<VAL>2x</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Wifi</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Bluetooth</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>GPS</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Glonass</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/apple-watch-series-11-gps-42mm-cerne-cerny-sportovni-reminek-s-m?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/100144</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100143</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100145</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100146</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100147</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100148</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100149</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100150</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>482.79</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>195950631357</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -199638,6 +200315,262 @@
 		<GIFT id="SHOP_17832">Express smluvní záruka (3 roky) Watch</GIFT>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_20741</ITEM_ID>
+		<PRODUCTNAME>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm zlatý titan / zlatý milánský tah Zlatá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm zlatý titan / zlatý milánský tah Zlatá</PRODUCT>
+		<DESCRIPTION>Series 11 jsou nejtenčí Apple Watch. Jsou tak pohodlné, že je nemusíš sundávat z ruky, takže tvoje životní funkce sledují i v době, kdy spíš. Baterie má ohromnou výdrž – při plném nabití až 24 hodin běžného používání. Za 15 minut ji nabiješ až na 8 hodin.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
+			<VAL>1,9"</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
+			<VAL>416 x 496</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Odolné</PARAM_NAME>
+			<VAL>Prachotěsnost, Voděodolnost</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
+			<VAL>OLED</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
+			<VAL>43,1 g</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výška</PARAM_NAME>
+			<VAL>46 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Šířka</PARAM_NAME>
+			<VAL>39 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
+			<VAL>10 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Zlatá</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Materiál</PARAM_NAME>
+			<VAL>Titan</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
+			<VAL>64 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
+			<VAL>Watch OS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
+			<VAL>Apple S10</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
+			<VAL>2x</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Wifi</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Bluetooth</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>GPS</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Glonass</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/apple-watch-series-11-cellular-42mm-zlaty-titan-zlaty-milansky-tah?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/100518</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100511</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100512</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100513</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100514</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100515</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100516</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100671</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>900.58</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>195950629699</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<GIFT id="SHOP_17832">Express smluvní záruka (3 roky) Watch</GIFT>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_20744</ITEM_ID>
+		<PRODUCTNAME>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm zlatý titan / světle ruměnný sportovní řemínek M/L Zlatá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm zlatý titan / světle ruměnný sportovní řemínek M/L Zlatá</PRODUCT>
+		<DESCRIPTION>Series 11 jsou nejtenčí Apple Watch. Jsou tak pohodlné, že je nemusíš sundávat z ruky, takže tvoje životní funkce sledují i v době, kdy spíš. Baterie má ohromnou výdrž – při plném nabití až 24 hodin běžného používání. Za 15 minut ji nabiješ až na 8 hodin.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
+			<VAL>1,78</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
+			<VAL>374 x 446</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Odolné</PARAM_NAME>
+			<VAL>Prachotěsnost, Voděodolnost</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
+			<VAL>OLED</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
+			<VAL>34,6 g</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výška</PARAM_NAME>
+			<VAL>42 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Šířka</PARAM_NAME>
+			<VAL>36 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
+			<VAL>10 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Zlatá</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Materiál</PARAM_NAME>
+			<VAL>Titan</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
+			<VAL>64 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
+			<VAL>Watch OS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
+			<VAL>Apple S10</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
+			<VAL>2x</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Wifi</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Bluetooth</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>GPS</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Glonass</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/apple-watch-series-11-cellular-42mm-zlaty-titan-svetle-rumenny-sportovni-reminek-m-l?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/100543</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100528</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100529</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100530</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100531</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100532</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100541</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100542</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>834.48</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>195950629682</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<GIFT id="SHOP_17832">Express smluvní záruka (3 roky) Watch</GIFT>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_20745</ITEM_ID>
 		<PRODUCTNAME>Apple iPhone 12 / 12 Pro Sluchátko</PRODUCTNAME>
 		<PRODUCT>Apple iPhone 12 / 12 Pro Sluchátko</PRODUCT>
@@ -201642,7 +202575,7 @@
 		<IMGURL>https://api.express-servis.cz/files/shop/product-files/35440</IMGURL>
 		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/35438</IMGURL_ALTERNATIVE>
 		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/35439</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>69.63</PRICE_VAT>
+		<PRICE_VAT>69.90</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>0194253416203</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
@@ -206779,37 +207712,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_20944</ITEM_ID>
-		<PRODUCTNAME>LCD displej iPhone 15 - Incell FHD - AQ7 / Aftermarket IPH1406</PRODUCTNAME>
-		<PRODUCT>LCD displej iPhone 15 - Incell FHD - AQ7 / Aftermarket IPH1406</PRODUCT>
-		<DESCRIPTION>LCD displej Incell FHD AQ7 pro iPhone 15. Aftermarket displej se spolehlivým obrazem a rychlou odezvou dotyku.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-		</PARAM>
-		<MANUFACTURER>Apple</MANUFACTURER>
-		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | LCD displeje k mobilním telefonům</CATEGORYTEXT>
-		<URL>https://www.express-servis.cz/p/lcd-displej-iphone-15-incell-fhd-aq7-aftermarket?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/101331</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/101332</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/101333</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/101334</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/101335</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>42.97</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8597593018465</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_20945</ITEM_ID>
 		<PRODUCTNAME>LCD displej iPhone 15 Plus - Incell FHD - AQ7 / Aftermarket IPH1405</PRODUCTNAME>
 		<PRODUCT>LCD displej iPhone 15 Plus - Incell FHD - AQ7 / Aftermarket IPH1405</PRODUCT>
@@ -206828,6 +207730,37 @@
 		<PRICE_VAT>39.88</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8597593018458</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_20946</ITEM_ID>
+		<PRODUCTNAME>LCD displej iPhone 15 Pro Max - Incell FHD 120 Hz - AQ7 / Aftermarket IPH1404</PRODUCTNAME>
+		<PRODUCT>LCD displej iPhone 15 Pro Max - Incell FHD 120 Hz - AQ7 / Aftermarket IPH1404</PRODUCT>
+		<DESCRIPTION>LCD displej Incell FHD 120 Hz AQ7 pro iPhone 15 Pro Max. Aftermarket displej s ostrým obrazem a vysokou obnovovací frekvencí.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Příslušenství k mobilům | Náhradní díly pro mobilní telefony | LCD displeje k mobilním telefonům</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/lcd-displej-iphone-15-pro-max-incell-fhd-120-hz-aq7-aftermarket?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/101341</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/101342</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/101343</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/101344</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/101345</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>40.77</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8597593018441</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -222143,30 +223076,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_16542</ITEM_ID>
-		<PRODUCTNAME>Samsung A525 Galaxy A52 Kryt Baterie Black (Service Pack) GH82-25427A</PRODUCTNAME>
-		<PRODUCT>Samsung A525 Galaxy A52 Kryt Baterie Black (Service Pack) GH82-25427A</PRODUCT>
-		<DESCRIPTION>GH82-25427A Náhradní bateriový kryt pro Samsung Galaxy A52 A525F, A526B. Nový kryt využijete v případě, že vám původní kryt praskl, poškrábal se nebo jinak znehodnotil, ať už při pádu nebo opotřebením časem.</DESCRIPTION>
-		<MANUFACTURER>Samsung</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/samsung-a525-galaxy-a52-kryt-baterie-black-service-pack?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/81984</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81983</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>20.18</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596311155093</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_14770</ITEM_ID>
 		<PRODUCTNAME>tedee relé modul TD-RELAY</PRODUCTNAME>
 		<PRODUCT>tedee relé modul TD-RELAY</PRODUCT>
@@ -223959,30 +224868,6 @@
 		<PRICE_VAT>12.60</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8597593019981</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_19189</ITEM_ID>
-		<PRODUCTNAME>LCD Display + Dotyková Deska pro Xiaomi 14T/14T Pro 57983123680</PRODUCTNAME>
-		<PRODUCT>LCD Display + Dotyková Deska pro Xiaomi 14T/14T Pro 57983123680</PRODUCT>
-		<DESCRIPTION>Typ displeje: OLED Xiaomi 14T: 2406APNFAG Xiaomi 14T Pro: 2407FPN8EG LCD podporuje funkčnost čtečky otisku prstů v displeji. Upozornění: Dbejte na antistatickou ochranu: Pracujte na antistatické podložce a případně používejte antistatický náramek. Zkontrolujte, že máte všechny části, které by mohli podléhat statické elektřině správně podlepeny antistatickou páskou. LCD před instalací řádně otestujte (funkčnost dotyku, barvy, jas, funkčnost senzoru, správnost pixelového zobrazení) Instalaci proveďte s odpojenou baterií a ujistěte se, že konektory jsou do sebe řádně zapojeny, po instalaci proveďte řádnou kontrolu znovu. Pokud není díl měněn v autorizovaném servisu, na použítý díl se záruka nevztahuje.</DESCRIPTION>
-		<MANUFACTURER>For_Xiaomi</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/lcd-display-dotykova-deska-pro-xiaomi-14t-14t-pro?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/94413</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/94411</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>52.22</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596311266034</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -226956,6 +227841,212 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_15075</ITEM_ID>
+		<PRODUCTNAME>Apple iMac 24" M4 Apple iMac 24" M4 (2024) 8CPU/8GPU/16GB/256GB modrý MWUF3CZ/A</PRODUCTNAME>
+		<PRODUCT>Apple iMac 24" M4 Apple iMac 24" M4 (2024) 8CPU/8GPU/16GB/256GB modrý MWUF3CZ/A</PRODUCT>
+		<DESCRIPTION>Vytvorený pre Apple Intelligence. Osobnejší, súkromnejší, výkonnejší. Nové úchvatné farby. Úžasne tenký dizajn. Čip M4. 12MP Center Stage kamera. Funkcia Pohľad na stôl.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<VAL>24"</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<VAL>4480 x 2520</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Odolné</PARAM_NAME>
+			<VAL>Ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Obsah balenia</PARAM_NAME>
+			<VAL>Magic Keyboard, Magic Mouse, Napájací kábel, USB C kábel</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<VAL>IPS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet displejov</PARAM_NAME>
+			<VAL>1</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Matný displej</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Lesklý displej</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Retina</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<VAL>4,44</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výška</PARAM_NAME>
+			<VAL>461 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Šírka</PARAM_NAME>
+			<VAL>547 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<VAL>147,0 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Farba</PARAM_NAME>
+			<VAL>Modrá</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Materiál</PARAM_NAME>
+			<VAL>Hliník</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Stereo reproduktory</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Mikrofón</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Webkamera</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Numerická klávesnica</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>CD/DVD mechanika</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<VAL>256 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Zvýraznenie basov</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Platforma</PARAM_NAME>
+			<VAL>OS X</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<VAL>macOS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<VAL>Apple M4</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Pamäť RAM</PARAM_NAME>
+			<VAL>16 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<VAL>8x</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>SSD</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Podsvietenie klávesnice</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Automatické podsvietenie displeja</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Wifi</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Bluetooth</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>HDMI</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Jack 3,5’’</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>FireWire</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Thunderbolt</PARAM_NAME>
+			<VAL>Thunderbolt 4</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výstup na slúchadlá</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>USB 3.0</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>USB C</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet USB/USB-C</PARAM_NAME>
+			<VAL>2x USB-C</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Snímač okolia osvetlenia</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Zabudovaný reproduktor</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ počítača</PARAM_NAME>
+			<VAL>Všetko v jednom</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Distribúcia</PARAM_NAME>
+			<VAL>Samozrejme, prosím, poskytnite text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Počítače a notebooky | Stolní počítače</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/apple-imac-24-m4-2024-8cpu-8gpu-16gb-256gb-modry?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/76250</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/76248</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/76249</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>1536.52</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>195949592720</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_7518</ITEM_ID>
 		<PRODUCTNAME>Tactical Velvet Smoothie - Kryt pro Apple iPhone 15 - Avatar 57983116000</PRODUCTNAME>
 		<PRODUCT>Tactical Velvet Smoothie - Kryt pro Apple iPhone 15 - Avatar 57983116000</PRODUCT>
@@ -227023,32 +228114,6 @@
 			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
 			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
 			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_21603</ITEM_ID>
-		<PRODUCTNAME>LCD displej iPhone 13 Pro - Soft OLED Aftermarket Pro XO7 120 Hz IPH1639</PRODUCTNAME>
-		<PRODUCT>LCD displej iPhone 13 Pro - Soft OLED Aftermarket Pro XO7 120 Hz IPH1639</PRODUCT>
-		<DESCRIPTION>LCD displej iPhone 13 Pro – Soft OLED Aftermarket Pro XO7 120 Hz je špičkový displej s plynulým obrazem a realistickými barvami. Perfektní volba pro profesionální výměnu poškozeného displeje.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-		</PARAM>
-		<MANUFACTURER>Express Servis</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/lcd-displej-iphone-13-pro-soft-oled-aftermarket-pro-xo7-120-hz?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/104343</IMGURL>
-		<PRICE_VAT>87.92</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8597593021038</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -228453,6 +229518,134 @@
 			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
 		</DELIVERY>
 		<ITEM_TYPE>bazar</ITEM_TYPE>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_20714</ITEM_ID>
+		<PRODUCTNAME>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm černé / černý sportovní řemínek S/M Černá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch Series 11 Cellular 42mm Apple Watch Series 11 Cellular 42mm černé / černý sportovní řemínek S/M Černá</PRODUCT>
+		<DESCRIPTION>Series 11 jsou nejtenčí Apple Watch. Jsou tak pohodlné, že je nemusíš sundávat z ruky, takže tvoje životní funkce sledují i v době, kdy spíš. Baterie má ohromnou výdrž – při plném nabití až 24 hodin běžného používání. Za 15 minut ji nabiješ až na 8 hodin.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
+			<VAL>1,78</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
+			<VAL>374 x 446</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Odolné</PARAM_NAME>
+			<VAL>Prachotěsnost, Voděodolnost</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
+			<VAL>OLED</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
+			<VAL>34,6 g</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výška</PARAM_NAME>
+			<VAL>42 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Šířka</PARAM_NAME>
+			<VAL>36 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
+			<VAL>10 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Materiál</PARAM_NAME>
+			<VAL>Hliník</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
+			<VAL>64 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
+			<VAL>Watch OS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
+			<VAL>Apple S10</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
+			<VAL>2x</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Wifi</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Bluetooth</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>GPS</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Glonass</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/apple-watch-series-11-cellular-42mm-cerne-cerny-sportovni-reminek-s-m?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/100315</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100314</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100316</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100317</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100318</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100319</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100320</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100321</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>615.00</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>195950619508</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<GIFT id="SHOP_17832">Express smluvní záruka (3 roky) Watch</GIFT>
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_14913</ITEM_ID>
@@ -233320,6 +234513,234 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_15021</ITEM_ID>
+		<PRODUCTNAME>Apple iPad mini (2024) MXNE3HC/A Apple iPad mini (2024) 256GB Wi-Fi fialový 256 GB Fialová</PRODUCTNAME>
+		<PRODUCT>Apple iPad mini (2024) MXNE3HC/A Apple iPad mini (2024) 256GB Wi-Fi fialový 256 GB Fialová</PRODUCT>
+		<DESCRIPTION>iPad mini 2024, čip A17 Pro, ťažko výkonný, ľahko prenosný. Štyri nádherné farby. Zariadenie ako žiadne iné. Kompatibilné s Apple Pencil Pro, ktorý prekresľuje hranice kreativity.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Veľkosť displeja</PARAM_NAME>
+			<VAL>8,3"</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlíšenie displeja</PARAM_NAME>
+			<VAL>2266 x 1488</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ batérie</PARAM_NAME>
+			<VAL>Li-ion</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výdrž batérie</PARAM_NAME>
+			<VAL>10 hodín</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Vodoodolný</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Odolné</PARAM_NAME>
+			<VAL>Ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Obsah balenia</PARAM_NAME>
+			<VAL>USB kábel, Nabíjačka</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ displeja</PARAM_NAME>
+			<VAL>Liquid Retina</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet displejov</PARAM_NAME>
+			<VAL>1</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Dotykový</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Retina</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<VAL>293 g</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výška</PARAM_NAME>
+			<VAL>195</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Šírka</PARAM_NAME>
+			<VAL>135</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hĺbka</PARAM_NAME>
+			<VAL>6</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Konštrukcia</PARAM_NAME>
+			<VAL>Dotykové</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Farba</PARAM_NAME>
+			<VAL>Fialová</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Emailový prehliadač</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Materiál</PARAM_NAME>
+			<VAL>Hliník</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>MP3/WMA/AAC vyzváňania</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Fotoaparát</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlíšenie fotoaparátu</PARAM_NAME>
+			<VAL>12 Mpx</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Automatické zaostrovanie</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlíšenie videokamery</PARAM_NAME>
+			<VAL>0</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Predná kamera</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlíšenie prednej kamery</PARAM_NAME>
+			<VAL>12 Mpx</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Vestavaný blesk</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>MP3</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Internetový prehliadač</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Stereo reproduktory</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Mikrofón</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Slot pre SIM kartu</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Veľkosť pamäte</PARAM_NAME>
+			<VAL>256 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Platforma</PARAM_NAME>
+			<VAL>iOS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Operačný systém</PARAM_NAME>
+			<VAL>iPadOS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ procesora</PARAM_NAME>
+			<VAL>Apple A17 Pro</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Pamäť RAM</PARAM_NAME>
+			<VAL>8 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet jadier procesora</PARAM_NAME>
+			<VAL>5x</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Touch ID/Face ID</PARAM_NAME>
+			<VAL>Face ID</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Wifi</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>LTE/5G</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Bluetooth</PARAM_NAME>
+			<VAL>Samozrejme, pošlite mi text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>HDMI</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>NFC</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Možnosť pamäťovej karty</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>eSIM</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>GPS</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Glonass</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Jack 3,5’’</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Distribúcia</PARAM_NAME>
+			<VAL>Samozrejme, prosím, poskytnite text, ktorý chcete preložiť.</VAL>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Tablety a čtečky | Tablety</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/apple-ipad-mini-2024-256gb-wi-fi-fialovy?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/75947</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/75944</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/75945</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/75946</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>750.74</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>195949730511</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<GIFT id="SHOP_17830">Express smluvní záruka (3 roky) iPhone / iPad</GIFT>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_13492</ITEM_ID>
 		<PRODUCTNAME>Tactical MagForce Hyperstealth - ochranný kryt pro iPhone 15, modrý 57983115957</PRODUCTNAME>
 		<PRODUCT>Tactical MagForce Hyperstealth - ochranný kryt pro iPhone 15, modrý 57983115957</PRODUCT>
@@ -234813,45 +236234,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_12818</ITEM_ID>
-		<PRODUCTNAME>Guess PU 4G Metal Logo - ochranný kryt pro iPhone 14, šedý GUHCP14S4GMGGR</PRODUCTNAME>
-		<PRODUCT>Guess PU 4G Metal Logo - ochranný kryt pro iPhone 14, šedý GUHCP14S4GMGGR</PRODUCT>
-		<DESCRIPTION>Guess PU 4G Metal Logo prémiový kryt, který nejen že váš telefon perfektně ochrání, ale také svým povedeným designem a použitými prvotřídními materiály bude jako šperk. Kryt je vyroben z odolného PU materiálu, který je měkký a pružný a zároveň váš telefon ochrání nejlépe jak je to možné. Prémiový design doplňuje kovové logo Guess na zadní straně. Kryt ochrání váš telefon před otřesy, odřením, poškrábáním a nečistotami.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Voděodolný</PARAM_NAME>
-			<VAL>ne</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Šedá</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Materiál</PARAM_NAME>
-			<VAL>TPU</VAL>
-		</PARAM>
-		<MANUFACTURER>GUESS</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/guess-pu-4g-metal-logo-ochranny-kryt-pro-iphone-14-sedy?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/60406</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/60407</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/60408</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/60409</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/60410</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>21.95</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>3666339066246</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_19179</ITEM_ID>
 		<PRODUCTNAME>LCD display + Dotyk + Přední Kryt pro Samsung S901B Galaxy S22 Phantom Black 57983125924</PRODUCTNAME>
 		<PRODUCT>LCD display + Dotyk + Přední Kryt pro Samsung S901B Galaxy S22 Phantom Black 57983125924</PRODUCT>
@@ -235238,7 +236620,7 @@
 		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81702</IMGURL_ALTERNATIVE>
 		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81703</IMGURL_ALTERNATIVE>
 		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/81704</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>12.82</PRICE_VAT>
+		<PRICE_VAT>5.33</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>8596311271038</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
@@ -239632,30 +241014,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_19067</ITEM_ID>
-		<PRODUCTNAME>LCD Display + Dotyková Deska + Přední Kryt pro Xiaomi Redmi Note 10 Pro 57983113708</PRODUCTNAME>
-		<PRODUCT>LCD Display + Dotyková Deska + Přední Kryt pro Xiaomi Redmi Note 10 Pro 57983113708</PRODUCT>
-		<DESCRIPTION>Typ displeje: AMOLED M2101K6G, M2101K6R Upozornění: Dbejte na antistatickou ochranu: Pracujte na antistatické podložce a případně používejte antistatický náramek. Zkontrolujte, že máte všechny části, které by mohli podléhat statické elektřině správně podlepeny antistatickou páskou. LCD před instalací řádně otestujte (funkčnost dotyku, barvy, jas, funkčnost senzoru, správnost pixelového zobrazení) Instalaci proveďte s odpojenou baterií a ujistěte se, že konektory jsou do sebe řádně zapojeny, po instalaci proveďte řádnou kontrolu znovu. Pokud není díl měněn v autorizovaném servisu, na použítý díl se záruka nevztahuje.</DESCRIPTION>
-		<MANUFACTURER>For_Xiaomi</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/lcd-display-dotykova-deska-predni-kryt-pro-xiaomi-redmi-note-10-pro?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/94099</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/94097</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>48.70</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596311206610</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_19124</ITEM_ID>
 		<PRODUCTNAME>LCD Display + Dotyková Deska + Přední Kryt pro Xiaomi Redmi Note 9 Pro/9S/9 Pro Max Glacier White 2453772</PRODUCTNAME>
 		<PRODUCT>LCD Display + Dotyková Deska + Přední Kryt pro Xiaomi Redmi Note 9 Pro/9S/9 Pro Max Glacier White 2453772</PRODUCT>
@@ -240580,30 +241938,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_19013</ITEM_ID>
-		<PRODUCTNAME>LCD Display + Dotyková Deska Honor X6/X8 5G/70 Lite 57983111664</PRODUCTNAME>
-		<PRODUCT>LCD Display + Dotyková Deska Honor X6/X8 5G/70 Lite 57983111664</PRODUCT>
-		<DESCRIPTION>Typ displeje: TFT Honor X6 (VNE-LX1, VNE-LX2, VNE-LX3) Honor X8 5G (VNE-N41) Honor 70 Lite (RBN-NX1) Upozornění: Dbejte na antistatickou ochranu: Pracujte na antistatické podložce a případně používejte antistatický náramek. Zkontrolujte, že máte všechny části, které by mohli podléhat statické elektřině správně podlepeny antistatickou páskou. LCD před instalací řádně otestujte (funkčnost dotyku, barvy, jas, funkčnost senzoru, správnost pixelového zobrazení) Instalaci proveďte s odpojenou baterií a ujistěte se, že konektory jsou do sebe řádně zapojeny, po instalaci proveďte řádnou kontrolu znovu. Pokud není díl měněn v autorizovaném servisu, na použítý díl se záruka nevztahuje.</DESCRIPTION>
-		<MANUFACTURER>For_Honor</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/lcd-display-dotykova-deska-honor-x6-x8-5g-70-lite?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/93991</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/93990</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>26.22</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596311195570</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_19256</ITEM_ID>
 		<PRODUCTNAME>LCD Display + Dotyková Deska + Přední kryt pro Poco X6 5G Black 57983121245</PRODUCTNAME>
 		<PRODUCT>LCD Display + Dotyková Deska + Přední kryt pro Poco X6 5G Black 57983121245</PRODUCT>
@@ -241375,38 +242709,6 @@
 		<PRICE_VAT>39.18</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>850070419253</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_6589</ITEM_ID>
-		<PRODUCTNAME>Plegium Smart Emergency Button Wearable – chytrý osobní alarm, bílý PL-SEBW-WH</PRODUCTNAME>
-		<PRODUCT>Plegium Smart Emergency Button Wearable – chytrý osobní alarm, bílý PL-SEBW-WH</PRODUCT>
-		<DESCRIPTION>Plegium Smart Emergency Button je osobní alarm ve formě chytrého tlačítka. Po aktivaci zdarma odesílá automatické textové zprávy o poloze GPS a spouští telefonní hovory na vybrané kontakty pro případ nouze.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Bílá</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Materiál</PARAM_NAME>
-			<VAL>Plast</VAL>
-		</PARAM>
-		<MANUFACTURER>Plegium</MANUFACTURER>
-		<CATEGORYTEXT>Heureka.cz | Elektronika | Chytrá domácnost | Wearables | Chytré lokátory</CATEGORYTEXT>
-		<URL>https://www.express-servis.cz/p/plegium-smart-emergency-button-wearable-chytry-osobni-alarm-bily-2?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/35809</IMGURL>
-		<PRICE_VAT>55.00</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>7350094783253</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -245667,6 +246969,134 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_20698</ITEM_ID>
+		<PRODUCTNAME>Apple Apple Watch Series 11 GPS 42mm Apple Watch Series 11 GPS 42mm růžově zlaté / světle ruměnný sportovní řemínem S/M Zlatá</PRODUCTNAME>
+		<PRODUCT>Apple Apple Watch Series 11 GPS 42mm Apple Watch Series 11 GPS 42mm růžově zlaté / světle ruměnný sportovní řemínem S/M Zlatá</PRODUCT>
+		<DESCRIPTION>Series 11 jsou nejtenčí Apple Watch. Jsou tak pohodlné, že je nemusíš sundávat z ruky, takže tvoje životní funkce sledují i v době, kdy spíš. Baterie má ohromnou výdrž – při plném nabití až 24 hodin běžného používání. Za 15 minut ji nabiješ až na 8 hodin.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Velikost displeje</PARAM_NAME>
+			<VAL>1,78</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Rozlišení displeje</PARAM_NAME>
+			<VAL>374 x 446</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výdrž baterie</PARAM_NAME>
+			<VAL>1 den</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Odolné</PARAM_NAME>
+			<VAL>Prachotěsnost, Voděodolnost</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Obsah balení</PARAM_NAME>
+			<VAL>Magnetický nabíjecí kabel</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ displeje</PARAM_NAME>
+			<VAL>OLED</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hmotnost</PARAM_NAME>
+			<VAL>34,6 g</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Výška</PARAM_NAME>
+			<VAL>42 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Šířka</PARAM_NAME>
+			<VAL>36 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Hloubka</PARAM_NAME>
+			<VAL>10 mm</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Zlatá</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Materiál</PARAM_NAME>
+			<VAL>Hliník</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Mikrofon</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Slot pro SIM kartu</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Velikost paměti</PARAM_NAME>
+			<VAL>64 GB</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Operační systém</PARAM_NAME>
+			<VAL>Watch OS</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Typ procesoru</PARAM_NAME>
+			<VAL>Apple S10</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Počet jader procesoru</PARAM_NAME>
+			<VAL>2x</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Wifi</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Bluetooth</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Možnost paměťové karty</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>GPS</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Glonass</PARAM_NAME>
+			<VAL>ano</VAL>
+		</PARAM>
+		<MANUFACTURER>Apple</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Chytré hodinky</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/apple-watch-series-11-gps-42mm-ruzove-zlate-svetle-rumenny-sportovni-reminem-s-m?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/100216</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100209</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100210</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100211</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100212</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100213</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100214</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/100215</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>482.79</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>195950619102</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<GIFT id="SHOP_17832">Express smluvní záruka (3 roky) Watch</GIFT>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_20894</ITEM_ID>
 		<PRODUCTNAME>Apple silikonový kryt s Magsafe na iPhone 17 Pro Max terakotový MGFQ4ZM/A</PRODUCTNAME>
 		<PRODUCT>Apple silikonový kryt s Magsafe na iPhone 17 Pro Max terakotový MGFQ4ZM/A</PRODUCT>
@@ -247965,6 +249395,35 @@
 		<PRICE_VAT>35.70</PRICE_VAT>
 		<VAT>21%</VAT>
 		<EAN>5714948000026</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_21078</ITEM_ID>
+		<PRODUCTNAME>Swissten power banka cestovná 25000 mAh (96.25Wh) 100W s integrovaným káblom USB-C šedá 22013977</PRODUCTNAME>
+		<PRODUCT>Swissten power banka cestovná 25000 mAh (96.25Wh) 100W s integrovaným káblom USB-C šedá 22013977</PRODUCT>
+		<DESCRIPTION>Powerbanka Swissten 25000 mAh s integrovaným káblom USB-C, Výstupné porty: USB-C + USB-A, Max. výkon 100W, Hmotnosť: 430 g, Typ batérie: Li-Polymer, Malé rozmery: (10,6 × 6,8 × 4 cm). Balené v blistri Swissten.</DESCRIPTION>
+		<MANUFACTURER>SWISSTEN</MANUFACTURER>
+		<URL>https://www.express-servis.cz/p/swissten-power-bank-cestovni-25000-mah-96-25wh-100w-s-integrovanym-kabelem-usb-c-seda?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/102240</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/102236</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/102237</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/102238</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/102239</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/102241</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/102242</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>50.99</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8595217493346</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
 			<DELIVERY_ID>DPD</DELIVERY_ID>
@@ -251030,30 +252489,6 @@
 			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
 		</DELIVERY>
 		<GIFT id="SHOP_17830">Express smluvní záruka (3 roky) iPhone / iPad</GIFT>
-	</SHOPITEM>
-	<SHOPITEM>
-		<ITEM_ID>SHOP_16668</ITEM_ID>
-		<PRODUCTNAME>Samsung A346B Galaxy A34 5G Přední Rámeček Awesome Silver (Service Pack) GH82-31312B</PRODUCTNAME>
-		<PRODUCT>Samsung A346B Galaxy A34 5G Přední Rámeček Awesome Silver (Service Pack) GH82-31312B</PRODUCT>
-		<DESCRIPTION>Náhradní rám určený pro Samsung Galaxy A34 5G A346B. Náhradní díl, který využijete, pokud se vám původních displej poškrábal, praskl nebo se jinak znehodnotil.</DESCRIPTION>
-		<MANUFACTURER>Samsung</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/samsung-a346b-galaxy-a34-5g-predni-ramecek-awesome-silver-service-pack?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/82248</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/82247</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>18.02</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>8596311215735</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
 		<ITEM_ID>SHOP_16076</ITEM_ID>
@@ -256161,45 +257596,6 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
-		<ITEM_ID>SHOP_12968</ITEM_ID>
-		<PRODUCTNAME>Guess PU 4G Metal Logo - ochranný kryt pro iPhone 13 Pro Max, růžový</PRODUCTNAME>
-		<PRODUCT>Guess PU 4G Metal Logo - ochranný kryt pro iPhone 13 Pro Max, růžový</PRODUCT>
-		<DESCRIPTION>Guess PU 4G Metal Logo prémiový kryt, který nejen že váš telefon perfektně ochrání, ale také svým povedeným designem a použitými prvotřídními materiály bude jako šperk. Kryt je vyroben z odolného PU materiálu, který je měkký a pružný a zároveň váš telefon ochrání nejlépe jak je to možné. Prémiový design doplňuje kovové logo Guess na zadní straně. Kryt ochrání váš telefon před otřesy, odřením, poškrábáním a nečistotami.</DESCRIPTION>
-		<PARAM>
-			<PARAM_NAME>Voděodolný</PARAM_NAME>
-			<VAL>ne</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Barva</PARAM_NAME>
-			<VAL>Růžová</VAL>
-		</PARAM>
-		<PARAM>
-			<PARAM_NAME>Materiál</PARAM_NAME>
-			<VAL>TPU</VAL>
-		</PARAM>
-		<MANUFACTURER>GUESS</MANUFACTURER>
-		<URL>https://www.express-servis.cz/p/guess-pu-4g-metal-logo-ochranny-kryt-pro-iphone-13-pro-max-ruzovy?utm_source=heureka</URL>
-		<IMGURL>https://api.express-servis.cz/files/shop/product-files/61257</IMGURL>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/61258</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/61259</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/61260</IMGURL_ALTERNATIVE>
-		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/61261</IMGURL_ALTERNATIVE>
-		<PRICE_VAT>21.95</PRICE_VAT>
-		<VAT>21%</VAT>
-		<EAN>3666339024864</EAN>
-		<DELIVERY_DATE>0</DELIVERY_DATE>
-		<DELIVERY>
-			<DELIVERY_ID>DPD</DELIVERY_ID>
-			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
-		</DELIVERY>
-		<DELIVERY>
-			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
-			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
-			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
-		</DELIVERY>
-	</SHOPITEM>
-	<SHOPITEM>
 		<ITEM_ID>SHOP_15127</ITEM_ID>
 		<PRODUCTNAME>Cubenest Stolní LED lampička s bezdrátovým nabíjením LTW01C</PRODUCTNAME>
 		<PRODUCT>Cubenest Stolní LED lampička s bezdrátovým nabíjením LTW01C</PRODUCT>
@@ -256926,8 +258322,155 @@
 		</DELIVERY>
 	</SHOPITEM>
 	<SHOPITEM>
+		<ITEM_ID>SHOP_17281</ITEM_ID>
+		<PRODUCTNAME>Puzdro Swissten MagStick FLEX pre Apple iPhone 15 Plus Fialové 35503025</PRODUCTNAME>
+		<PRODUCT>Puzdro Swissten MagStick FLEX pre Apple iPhone 15 Plus Fialové 35503025</PRODUCT>
+		<DESCRIPTION>Elegantné puzdro SWISSTEN MagStick FLEX, ktoré skvele ochráni vaše zariadenie pred nechcenými pádmi a škrabancami. Puzdro podporuje bezdrôtové nabíjanie MagSafe. Balené v blistri SWISSTEN.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Farba</PARAM_NAME>
+		</PARAM>
+		<MANUFACTURER>SWISSTEN</MANUFACTURER>
+		<URL>https://www.express-servis.cz/p/pouzdro-swissten-magstick-flex-pro-apple-iphone-15-plus-fialove?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/86606</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/86607</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/86608</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/86609</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/86610</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/86611</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>8.68</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8595217488885</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_6589</ITEM_ID>
+		<PRODUCTNAME>Plegium Smart Emergency Button Wearable – chytrý osobní alarm, bílý PL-SEBW-WH</PRODUCTNAME>
+		<PRODUCT>Plegium Smart Emergency Button Wearable – chytrý osobní alarm, bílý PL-SEBW-WH</PRODUCT>
+		<DESCRIPTION>Plegium Smart Emergency Button je osobní alarm ve formě chytrého tlačítka. Po aktivaci zdarma odesílá automatické textové zprávy o poloze GPS a spouští telefonní hovory na vybrané kontakty pro případ nouze.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Bílá</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Materiál</PARAM_NAME>
+			<VAL>Plast</VAL>
+		</PARAM>
+		<MANUFACTURER>Plegium</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Chytrá domácnost | Wearables | Chytré lokátory</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/plegium-smart-emergency-button-wearable-chytry-osobni-alarm-bily-2?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/35809</IMGURL>
+		<PRICE_VAT>55.00</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>7350094783253</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_12968</ITEM_ID>
+		<PRODUCTNAME>Guess PU 4G Metal Logo - ochranný kryt pro iPhone 13 Pro Max, růžový</PRODUCTNAME>
+		<PRODUCT>Guess PU 4G Metal Logo - ochranný kryt pro iPhone 13 Pro Max, růžový</PRODUCT>
+		<DESCRIPTION>Guess PU 4G Metal Logo prémiový kryt, který nejen že váš telefon perfektně ochrání, ale také svým povedeným designem a použitými prvotřídními materiály bude jako šperk. Kryt je vyroben z odolného PU materiálu, který je měkký a pružný a zároveň váš telefon ochrání nejlépe jak je to možné. Prémiový design doplňuje kovové logo Guess na zadní straně. Kryt ochrání váš telefon před otřesy, odřením, poškrábáním a nečistotami.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Růžová</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Materiál</PARAM_NAME>
+			<VAL>TPU</VAL>
+		</PARAM>
+		<MANUFACTURER>GUESS</MANUFACTURER>
+		<URL>https://www.express-servis.cz/p/guess-pu-4g-metal-logo-ochranny-kryt-pro-iphone-13-pro-max-ruzovy?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/61257</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/61258</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/61259</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/61260</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/61261</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>21.95</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>3666339024864</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_9679</ITEM_ID>
+		<PRODUCTNAME>Ozobot STEAM sada - Ozobot zkoumá solární systém OZO-035010-01</PRODUCTNAME>
+		<PRODUCT>Ozobot STEAM sada - Ozobot zkoumá solární systém OZO-035010-01</PRODUCT>
+		<DESCRIPTION>Tři - dva - jedna - start povolen! Vydejte se na vzrušující cestu za poznáním vesmíru, při které si zároveň osvojíte základní koncepty STEAM a technické dovednosti. Vezme vás na ni hra OzoGoes to the Solar System.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Více barev</VAL>
+		</PARAM>
+		<MANUFACTURER>Ozobot</MANUFACTURER>
+		<CATEGORYTEXT>Heureka.cz | Elektronika | Chytrá domácnost | Programovatelné stavebnice</CATEGORYTEXT>
+		<URL>https://www.express-servis.cz/p/ozobot-steam-sada-ozobot-zkouma-solarni-system?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/49566</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/49563</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/49564</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/49565</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/49567</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/49568</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/49569</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/49570</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>60.99</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8809405237774</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
 		<ITEM_ID>SHOP_13675</ITEM_ID>
-		<DESCRIPTION>Hrajte prakticky jakoukoli hru, kdekoli Vyberte si z bezplatných her z App Store, jako je Call of Duty: Mobile a Roblox, streamujte přes cloudovou herní službu, jako je Xbox Game Pass, Apple Arcade, GeForce NOW a Amazon Luna, nebo hrajte hry pomocí Remote Play z PlayStation nebo PC. Kvalita herní konzole na cestách Kompaktní konstrukce ovladače, pečlivě vyrobená tak, aby byla pohodlná a přenosná, je vybavena ultra širokými analogovými triggery, vysoce přesnými thumbsticky a citlivým D-padem a tlačítky.</DESCRIPTION>
+		<PRODUCTNAME>Backbone One - Apple Edition Mobilný herný ovládač pre USB-C BB-51-P-BA</PRODUCTNAME>
+		<PRODUCT>Backbone One - Apple Edition Mobilný herný ovládač pre USB-C BB-51-P-BA</PRODUCT>
+		<DESCRIPTION>Hrajte prakticky akúkoľvek hru, kdekoľvek Vyberte si z bezplatných hier z App Store, ako je Call of Duty: Mobile a Roblox, streamujte cez cloudovú hernú službu, ako je Xbox Game Pass, Apple Arcade, GeForce NOW a Amazon Luna, alebo hrajte hry pomocou Remote Play z PlayStation alebo PC. Kvalita hernej konzoly na cestách Kompaktná konštrukcia ovládača, starostlivo vyrobená tak, aby bola pohodlná a prenosná, je vybavená ultra širokými analógovými triggermi, vysoko presnými thumbstickmi a citlivým D-podom a tlačidlami.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Hmotnosť</PARAM_NAME>
+			<VAL>138g</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Farba</PARAM_NAME>
+			<VAL>Čierna</VAL>
+		</PARAM>
 		<MANUFACTURER>Backbone</MANUFACTURER>
 		<URL>https://www.express-servis.cz/p/backbone-one-apple-edition-mobile-gaming-controller-pro-usb-c?utm_source=heureka</URL>
 		<IMGURL>https://api.express-servis.cz/files/shop/product-files/65146</IMGURL>
@@ -256942,9 +258485,52 @@
 		<EAN>850041963167</EAN>
 		<DELIVERY_DATE>0</DELIVERY_DATE>
 		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
 			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
 			<DELIVERY_PRICE>2.16</DELIVERY_PRICE>
 			<DELIVERY_PRICE_COD>4.76</DELIVERY_PRICE_COD>
+		</DELIVERY>
+	</SHOPITEM>
+	<SHOPITEM>
+		<ITEM_ID>SHOP_13546</ITEM_ID>
+		<PRODUCTNAME>Tactical Infantry - ochranný kryt pro Apple iPhone 14 Pro, černý 57983116286</PRODUCTNAME>
+		<PRODUCT>Tactical Infantry - ochranný kryt pro Apple iPhone 14 Pro, černý 57983116286</PRODUCT>
+		<DESCRIPTION>První ochranná linie pro smartphone, která chrání tvoje zařízení při těch nejhrubších srážkách! V boji ověřen protiskluzový pískovaný povrch. Vše zabaleno v krutopřísném ekologickém balení. Sežeň si svůj kousek a přidej se k elitním řadám! Ochrana pískováním Protiskluzový pískovaný povrch zajišťuje akceschopný pevný úchop. Originální styl Tactical Tactical Infantry chrání tvoje zařízení, ale zároveň doplňuje tvůj jedinečný styl. Chraň své zařízení bez toho, aniž bys obětoval styl.</DESCRIPTION>
+		<PARAM>
+			<PARAM_NAME>Voděodolný</PARAM_NAME>
+			<VAL>ne</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Barva</PARAM_NAME>
+			<VAL>Černá</VAL>
+		</PARAM>
+		<PARAM>
+			<PARAM_NAME>Materiál</PARAM_NAME>
+			<VAL>TPU</VAL>
+		</PARAM>
+		<MANUFACTURER>Tactical</MANUFACTURER>
+		<URL>https://www.express-servis.cz/p/tactical-infantry-ochranny-kryt-pro-apple-iphone-14-pro-cerny?utm_source=heureka</URL>
+		<IMGURL>https://api.express-servis.cz/files/shop/product-files/64698</IMGURL>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/64699</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/64700</IMGURL_ALTERNATIVE>
+		<IMGURL_ALTERNATIVE>https://api.express-servis.cz/files/shop/product-files/64701</IMGURL_ALTERNATIVE>
+		<PRICE_VAT>8.11</PRICE_VAT>
+		<VAT>21%</VAT>
+		<EAN>8596311224256</EAN>
+		<DELIVERY_DATE>0</DELIVERY_DATE>
+		<DELIVERY>
+			<DELIVERY_ID>DPD</DELIVERY_ID>
+			<DELIVERY_PRICE>5.24</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>9.61</DELIVERY_PRICE_COD>
+		</DELIVERY>
+		<DELIVERY>
+			<DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+			<DELIVERY_PRICE>3.04</DELIVERY_PRICE>
+			<DELIVERY_PRICE_COD>5.64</DELIVERY_PRICE_COD>
 		</DELIVERY>
 	</SHOPITEM>
 </SHOP>
