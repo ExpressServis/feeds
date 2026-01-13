@@ -1,9 +1,9 @@
 {
-  "generated_at": 1768186680,
+  "generated_at": 1768272882,
   "stats": {
-    "products_count": 33,
-    "raw_reviews_in_feed": 33,
-    "saved_reviews": 33,
+    "products_count": 32,
+    "raw_reviews_in_feed": 32,
+    "saved_reviews": 32,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -659,26 +659,6 @@
           "summary": "Vse OK",
           "recommends": "1",
           "fingerprint": "bfec8a22e58bef84809c0b3ac5de9493e098c154"
-        }
-      ]
-    },
-    {
-      "product_name": "Apple iPhone 12 / 12 Pro OLED displej + dotyk černý",
-      "url": "https://www.express-servis.cz/p/lcd-displej-iphone-12-12-pro-original-change-glass-refurbished-cerny?utm_source=heureka",
-      "price": 2035.0,
-      "ean": "8597593014177",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20348917",
-          "rating_id_type": "product",
-          "unix_timestamp": 1752658153,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "c5ba8643e6f00042ae089c1936c34d75d893243a"
         }
       ]
     }
