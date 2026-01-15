@@ -1,9 +1,9 @@
 {
-  "generated_at": 1768359396,
+  "generated_at": 1768445707,
   "stats": {
-    "products_count": 31,
-    "raw_reviews_in_feed": 31,
-    "saved_reviews": 31,
+    "products_count": 30,
+    "raw_reviews_in_feed": 30,
+    "saved_reviews": 30,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -39,26 +39,6 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "bb1aee98f57453485b98fd9054dfc6fa476e8ee0"
-        }
-      ]
-    },
-    {
-      "product_name": "Apple iPhone 17 Pro 256 GB MG8J4SX/A Modrá",
-      "url": "https://www.express-servis.cz/p/apple-iphone-17-pro-256gb-temne-modry?utm_source=heureka",
-      "price": 32575.0,
-      "ean": "195950627596",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21509023",
-          "rating_id_type": "product",
-          "unix_timestamp": 1767203324,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "e985b475d4a8e00bfd5d23431c0cad7b14eedd6e"
         }
       ]
     },
