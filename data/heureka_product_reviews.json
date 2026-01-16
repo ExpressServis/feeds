@@ -1,11 +1,11 @@
 {
-  "generated_at": 1768445707,
+  "generated_at": 1768532123,
   "stats": {
-    "products_count": 30,
-    "raw_reviews_in_feed": 30,
-    "saved_reviews": 30,
+    "products_count": 31,
+    "raw_reviews_in_feed": 31,
+    "saved_reviews": 31,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 1
+    "cross_product_duplicates_count": 2
   },
   "cross_product_duplicates": {
     "6f8b417cc31f89b40133ccd7ae09c42bd076d84d": [
@@ -18,6 +18,18 @@
         "ean": "8596311249754",
         "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-black-1?utm_source=heureka",
         "product_name": "LCD Displej + Dotyk + Přední kryt Samsung G986/G985 Galaxy S20+"
+      }
+    ],
+    "3a7749b04f9a0c626379ea05f65d5a3e1681195d": [
+      {
+        "ean": "8596311204555",
+        "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-pro-huawei-3340mah-li-pol-oem?utm_source=heureka",
+        "product_name": "Huawei HB356687ECW"
+      },
+      {
+        "ean": "8596311110603",
+        "url": "https://www.express-servis.cz/p/hb356687ecw-huawei-baterie-3340mah-li-pol-service-pack?utm_source=heureka",
+        "product_name": "Huawei HB356687ECW"
       }
     ]
   },
@@ -39,6 +51,26 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "bb1aee98f57453485b98fd9054dfc6fa476e8ee0"
+        }
+      ]
+    },
+    {
+      "product_name": "Apple iPhone 17 Pro 256 GB MG8J4SX/A Modrá",
+      "url": "https://www.express-servis.cz/p/apple-iphone-17-pro-256gb-temne-modry?utm_source=heureka",
+      "price": 32575.0,
+      "ean": "195950627596",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21509023",
+          "rating_id_type": "product",
+          "unix_timestamp": 1767203324,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "e985b475d4a8e00bfd5d23431c0cad7b14eedd6e"
         }
       ]
     },
@@ -247,6 +279,26 @@
       "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-pro-huawei-3340mah-li-pol-oem?utm_source=heureka",
       "price": 132.0,
       "ean": "8596311204555",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21336718",
+          "rating_id_type": "product",
+          "unix_timestamp": 1765100449,
+          "rating": 5.0,
+          "pros": "Cena",
+          "cons": "Asi malinko kratší flex než na originální takže se musí popotáhnout a ohnout v jiném místě než je továrně ohnuto a trochu se to pne. (Po přišroubování jisticího plechu to ale nevypadne. \nNemá na sobě vyndavací samolepky jako originál.",
+          "summary": "Originál to není ale za tu cenu slušná baterie.",
+          "recommends": "1",
+          "fingerprint": "3a7749b04f9a0c626379ea05f65d5a3e1681195d"
+        }
+      ]
+    },
+    {
+      "product_name": "Huawei HB356687ECW",
+      "url": "https://www.express-servis.cz/p/hb356687ecw-huawei-baterie-3340mah-li-pol-service-pack?utm_source=heureka",
+      "price": 340.0,
+      "ean": "8596311110603",
       "reviews_count": 1,
       "reviews": [
         {
@@ -519,26 +571,6 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "1736f721d07235da8f64421468d6fc615f6f13cc"
-        }
-      ]
-    },
-    {
-      "product_name": "Therabody Theragun Prime Plus TG0004116-3A10",
-      "url": "https://www.express-servis.cz/p/therabody-theragun-prime-plus?utm_source=heureka",
-      "price": 11413.0,
-      "ean": "840295405490",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20545079",
-          "rating_id_type": "product",
-          "unix_timestamp": 1754892332,
-          "rating": 5.0,
-          "pros": "Spolehlivý, výkonný,jednoduché ovládání",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "3c6f842e7d7ce667e8763dc8ea33dcbec4afa1a9"
         }
       ]
     },
