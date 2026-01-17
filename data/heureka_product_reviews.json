@@ -1,9 +1,9 @@
 {
-  "generated_at": 1768532123,
+  "generated_at": 1768618376,
   "stats": {
-    "products_count": 31,
-    "raw_reviews_in_feed": 31,
-    "saved_reviews": 31,
+    "products_count": 30,
+    "raw_reviews_in_feed": 30,
+    "saved_reviews": 30,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -231,26 +231,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "2a8861842adf6e7ffe18ac8f87675583583e250e"
-        }
-      ]
-    },
-    {
-      "product_name": "Swissten power line power bank 50000 mah pro notebooky 100w power delivery black 22013942",
-      "url": "https://www.express-servis.cz/p/swissten-power-line-power-bank-50000-mah-pro-notebooky-100w-power-delivery-black?utm_source=heureka",
-      "price": 1659.0,
-      "ean": "8595217481282",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21338155",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765114363,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "40263bc558c78d96016860644f8af585c896d169"
         }
       ]
     },
