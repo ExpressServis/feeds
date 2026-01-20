@@ -1,9 +1,9 @@
 {
-  "generated_at": 1768791498,
+  "generated_at": 1768877758,
   "stats": {
-    "products_count": 30,
-    "raw_reviews_in_feed": 30,
-    "saved_reviews": 30,
+    "products_count": 31,
+    "raw_reviews_in_feed": 31,
+    "saved_reviews": 31,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -34,6 +34,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "LCD displej iPhone 13 Pro - Soft OLED Aftermarket Pro XO7 120 Hz IPH1639",
+      "url": "https://www.express-servis.cz/p/lcd-displej-iphone-13-pro-soft-oled-aftermarket-pro-xo7-120-hz?utm_source=heureka",
+      "price": 1995.0,
+      "ean": "8597593021038",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "15830434",
+          "rating_id_type": "offer",
+          "unix_timestamp": 1768825300,
+          "rating": 1.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "74a76c7426f7501eabd127293fe1d3e1f47cff8f"
+        }
+      ]
+    },
     {
       "product_name": "Spigen Rugged Armor Pro - ochranný kryt pro Apple Watch 41mm/40mm, černý ACS00546",
       "url": "https://www.express-servis.cz/p/spigen-rugged-armor-pro-ochranny-kryt-pro-apple-watch-41mm-40mm-cerny?utm_source=heureka",
