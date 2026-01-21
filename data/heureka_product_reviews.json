@@ -1,5 +1,5 @@
 {
-  "generated_at": 1768877758,
+  "generated_at": 1768964131,
   "stats": {
     "products_count": 31,
     "raw_reviews_in_feed": 31,
@@ -34,6 +34,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Swissten 5000 mAh 22013975 černá",
+      "url": "https://www.express-servis.cz/p/swissten-power-bank-pd-20w-5000-mah-kompatibilni-s-magsafe?utm_source=heureka",
+      "price": 486.0,
+      "ean": "8595217484740",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21620791",
+          "rating_id_type": "product",
+          "unix_timestamp": 1768909306,
+          "rating": 4.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "37aa6f4ddb8e0209aaa32258bbc9b481ee4b3591"
+        }
+      ]
+    },
     {
       "product_name": "LCD displej iPhone 13 Pro - Soft OLED Aftermarket Pro XO7 120 Hz IPH1639",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-13-pro-soft-oled-aftermarket-pro-xo7-120-hz?utm_source=heureka",
@@ -471,26 +491,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "da9890988a23baef0f05a4b31c991c5231cf6352"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD Display + Dotyková Deska pro OnePlus Nord 3 57983117780",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotykova-deska-pro-oneplus-nord-3?utm_source=heureka",
-      "price": 1475.0,
-      "ean": "8596311231292",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20868032",
-          "rating_id_type": "product",
-          "unix_timestamp": 1759226022,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "e41c84be4f23567a8dbaad35768ec1e5092118e0"
         }
       ]
     },
