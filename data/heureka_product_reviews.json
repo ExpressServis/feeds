@@ -1,9 +1,9 @@
 {
-  "generated_at": 1769136946,
+  "generated_at": 1769223250,
   "stats": {
-    "products_count": 28,
-    "raw_reviews_in_feed": 28,
-    "saved_reviews": 28,
+    "products_count": 29,
+    "raw_reviews_in_feed": 29,
+    "saved_reviews": 29,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -179,6 +179,26 @@
           "summary": "Již druhá, na té první prasknul silikonový držák za ucho.\nStále funguje, jen ji není možné dál nosit.",
           "recommends": "1",
           "fingerprint": "9044707eb9045f9939b671723fd3811cab3e3351"
+        }
+      ]
+    },
+    {
+      "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box na baterii HB-04-102B",
+      "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-vyhrivany-box?utm_source=heureka",
+      "price": 3322.0,
+      "ean": "7649994336097",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21417148",
+          "rating_id_type": "product",
+          "unix_timestamp": 1766046707,
+          "rating": 5.0,
+          "pros": "Super , nádherně ohřívá",
+          "cons": "Telefon s aplikací musí být poblíž.",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "ce031dd61058a7d6880112a7173d129dfea119c7"
         }
       ]
     },
