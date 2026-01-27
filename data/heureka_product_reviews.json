@@ -1,9 +1,9 @@
 {
-  "generated_at": 1769396598,
+  "generated_at": 1769482673,
   "stats": {
-    "products_count": 29,
-    "raw_reviews_in_feed": 29,
-    "saved_reviews": 29,
+    "products_count": 28,
+    "raw_reviews_in_feed": 28,
+    "saved_reviews": 28,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -239,26 +239,6 @@
           "summary": "",
           "recommends": "0",
           "fingerprint": "6f8b417cc31f89b40133ccd7ae09c42bd076d84d"
-        }
-      ]
-    },
-    {
-      "product_name": "Swissten síťový adaptér GaN 2x USB-C 65W PD + 1x USB-A 18W QC černý 22071410",
-      "url": "https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-2x-usb-c-65w-pd-1x-usb-a-18w-qc-cerny?utm_source=heureka",
-      "price": 376.0,
-      "ean": "8595217484535",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21377752",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765523932,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Příjemně kompaktní rozměry, vzhledem k výkonu, kdy je možné nabíjet i notebook (65W) a ani se přehnaně nezahřívá.",
-          "recommends": "1",
-          "fingerprint": "14b5a3fa36ae77cde9ae8dc17f01519603f67d55"
         }
       ]
     },
