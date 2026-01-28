@@ -1,11 +1,11 @@
 {
-  "generated_at": 1769482673,
+  "generated_at": 1769568970,
   "stats": {
-    "products_count": 28,
-    "raw_reviews_in_feed": 28,
-    "saved_reviews": 28,
+    "products_count": 31,
+    "raw_reviews_in_feed": 31,
+    "saved_reviews": 31,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 1
+    "cross_product_duplicates_count": 2
   },
   "cross_product_duplicates": {
     "6f8b417cc31f89b40133ccd7ae09c42bd076d84d": [
@@ -19,9 +19,41 @@
         "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-black-1?utm_source=heureka",
         "product_name": "LCD Displej + Dotyk + Přední kryt Samsung G986/G985 Galaxy S20+"
       }
+    ],
+    "88e2ad68d568f82a49cac72f1f52a34cc5b091cf": [
+      {
+        "ean": "8596311243332",
+        "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-gray-service-pack?utm_source=heureka",
+        "product_name": "LCD display + Dotyk + Přední Kryt Samsung F731 Galaxy Z Flip 5 5G Gray (Service Pack) GH82-31828E"
+      },
+      {
+        "ean": "8596311243295",
+        "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-cream-service-pack?utm_source=heureka",
+        "product_name": "LCD display + Dotyk + Přední Kryt Samsung F731 Galaxy Z Flip 5 5G Cream (Service Pack) GH82-31828B"
+      }
     ]
   },
   "products": [
+    {
+      "product_name": "Swissten 20000 mAh 22013934 černá",
+      "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-pd-22-5w-s-integrovanymi-kabely-usb-c-a-lightning-kompatibilni-s-m?utm_source=heureka",
+      "price": 697.0,
+      "ean": "8595217484795",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21668309",
+          "rating_id_type": "product",
+          "unix_timestamp": 1769510497,
+          "rating": 4.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "daf339193b4915a467c7e6ec107352da4a86b082"
+        }
+      ]
+    },
     {
       "product_name": "Swissten 5000 mAh 22013975 černá",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-pd-20w-5000-mah-kompatibilni-s-magsafe?utm_source=heureka",
@@ -243,6 +275,26 @@
       ]
     },
     {
+      "product_name": "Swissten síťový adaptér GaN 2x USB-C 65W PD + 1x USB-A 18W QC černý 22071410",
+      "url": "https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-2x-usb-c-65w-pd-1x-usb-a-18w-qc-cerny?utm_source=heureka",
+      "price": 376.0,
+      "ean": "8595217484535",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21377752",
+          "rating_id_type": "product",
+          "unix_timestamp": 1765523932,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Příjemně kompaktní rozměry, vzhledem k výkonu, kdy je možné nabíjet i notebook (65W) a ani se přehnaně nezahřívá.",
+          "recommends": "1",
+          "fingerprint": "14b5a3fa36ae77cde9ae8dc17f01519603f67d55"
+        }
+      ]
+    },
+    {
       "product_name": "EB-BG903BBE Baterie pro Samsung Li-Ion 2800mAh (OEM) 57983110807",
       "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-li-ion-2800mah-oem?utm_source=heureka",
       "price": 132.0,
@@ -325,7 +377,7 @@
     {
       "product_name": "Proximity Flex senzor iPhone 14 Pro Max IPH0489",
       "url": "https://www.express-servis.cz/p/proximity-flex-senzor-pro-apple-iphone-14-pro-max?utm_source=heureka",
-      "price": 575.0,
+      "price": 565.0,
       "ean": "8597593004895",
       "reviews_count": 1,
       "reviews": [
@@ -483,6 +535,26 @@
       ]
     },
     {
+      "product_name": "LCD display + Dotyk + Přední Kryt Samsung F731 Galaxy Z Flip 5 5G Gray (Service Pack) GH82-31828E",
+      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-gray-service-pack?utm_source=heureka",
+      "price": 6755.0,
+      "ean": "8596311243332",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "20683694",
+          "rating_id_type": "product",
+          "unix_timestamp": 1756738990,
+          "rating": 5.0,
+          "pros": "Prostě originální díl..",
+          "cons": "",
+          "summary": "Funkční dle předpokladu - orig. díl, takže bez problémů..",
+          "recommends": "1",
+          "fingerprint": "88e2ad68d568f82a49cac72f1f52a34cc5b091cf"
+        }
+      ]
+    },
+    {
       "product_name": "LCD display + Dotyk + Přední Kryt Samsung F731 Galaxy Z Flip 5 5G Cream (Service Pack) GH82-31828B",
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-cream-service-pack?utm_source=heureka",
       "price": 6305.0,
@@ -505,7 +577,7 @@
     {
       "product_name": "Apple A1382 - originální",
       "url": "https://www.express-servis.cz/p/baterie-macbook-pro-15-2011-2012-a1382?utm_source=heureka",
-      "price": 1335.0,
+      "price": 1255.0,
       "ean": "8596115568228",
       "reviews_count": 1,
       "reviews": [
