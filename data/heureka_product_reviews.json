@@ -1,9 +1,9 @@
 {
-  "generated_at": 1769568970,
+  "generated_at": 1769656187,
   "stats": {
-    "products_count": 31,
-    "raw_reviews_in_feed": 31,
-    "saved_reviews": 31,
+    "products_count": 32,
+    "raw_reviews_in_feed": 32,
+    "saved_reviews": 32,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -34,6 +34,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Pouzdro SWISSTEN BLACK-ROCK 6,4\"",
+      "url": "https://www.express-servis.cz/p/pouzdro-swissten-black-rock-6-4?utm_source=heureka",
+      "price": 183.0,
+      "ean": "8595217477056",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21676099",
+          "rating_id_type": "product",
+          "unix_timestamp": 1769602693,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "83dab3d290a9e79d72a0bb96d707cf2a78b03fd5"
+        }
+      ]
+    },
     {
       "product_name": "Swissten 20000 mAh 22013934 černá",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-pd-22-5w-s-integrovanymi-kabely-usb-c-a-lightning-kompatibilni-s-m?utm_source=heureka",
