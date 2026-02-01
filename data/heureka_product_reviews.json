@@ -1,9 +1,9 @@
 {
-  "generated_at": 1769828848,
+  "generated_at": 1769916160,
   "stats": {
-    "products_count": 32,
-    "raw_reviews_in_feed": 32,
-    "saved_reviews": 32,
+    "products_count": 30,
+    "raw_reviews_in_feed": 30,
+    "saved_reviews": 30,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -435,26 +435,6 @@
       ]
     },
     {
-      "product_name": "BAKU B-7000 Lepidlo 50g",
-      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml?utm_source=heureka",
-      "price": 33.0,
-      "ean": "8596115571044",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21198566",
-          "rating_id_type": "product",
-          "unix_timestamp": 1763553004,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "d43fc406ec1d116948391fd521b8064c5fcca117"
-        }
-      ]
-    },
-    {
       "product_name": "Mobile Origin Screen Guard, ochranné sklo s aplikátorem pro iPhone 15 Pro SGZ-i15Pro",
       "url": "https://www.express-servis.cz/p/mobile-origin-screen-guard-ochranne-sklo-s-aplikatorem-pro-iphone-15-pro?utm_source=heureka",
       "price": 236.0,
@@ -631,26 +611,6 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "522e0d75f632d6bfa8dd0808edc716f8ffb142ac"
-        }
-      ]
-    },
-    {
-      "product_name": "BAKU B-7000 Lepidlo 50g",
-      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml?utm_source=heureka",
-      "price": 33.0,
-      "ean": "8596115571044",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20493259",
-          "rating_id_type": "product",
-          "unix_timestamp": 1754382795,
-          "rating": 5.0,
-          "pros": "Perfektní lepidlo\nSpojí téměř vše \nJe pružné a není agresivní",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "c8ee00ba4d1be77c6242002909758c2b591e0e03"
         }
       ]
     },
