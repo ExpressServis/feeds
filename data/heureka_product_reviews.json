@@ -1,9 +1,9 @@
 {
-  "generated_at": 1770002292,
+  "generated_at": 1770088479,
   "stats": {
-    "products_count": 30,
-    "raw_reviews_in_feed": 30,
-    "saved_reviews": 30,
+    "products_count": 29,
+    "raw_reviews_in_feed": 29,
+    "saved_reviews": 29,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -295,26 +295,6 @@
       ]
     },
     {
-      "product_name": "Swissten síťový adaptér GaN 2x USB-C 65W PD + 1x USB-A 18W QC černý 22071410",
-      "url": "https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-2x-usb-c-65w-pd-1x-usb-a-18w-qc-cerny?utm_source=heureka",
-      "price": 414.0,
-      "ean": "8595217484535",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21377752",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765523932,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Příjemně kompaktní rozměry, vzhledem k výkonu, kdy je možné nabíjet i notebook (65W) a ani se přehnaně nezahřívá.",
-          "recommends": "1",
-          "fingerprint": "14b5a3fa36ae77cde9ae8dc17f01519603f67d55"
-        }
-      ]
-    },
-    {
       "product_name": "EB-BG903BBE Baterie pro Samsung Li-Ion 2800mAh (OEM) 57983110807",
       "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-li-ion-2800mah-oem?utm_source=heureka",
       "price": 132.0,
@@ -595,6 +575,26 @@
       ]
     },
     {
+      "product_name": "Therabody Theragun Prime Plus TG0004116-3A10",
+      "url": "https://www.express-servis.cz/p/therabody-theragun-prime-plus?utm_source=heureka",
+      "price": 11413.0,
+      "ean": "840295405490",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "20545079",
+          "rating_id_type": "product",
+          "unix_timestamp": 1754892332,
+          "rating": 5.0,
+          "pros": "Spolehlivý, výkonný,jednoduché ovládání",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "3c6f842e7d7ce667e8763dc8ea33dcbec4afa1a9"
+        }
+      ]
+    },
+    {
       "product_name": "Baterie A1953 pro Apple Macbook Pro 15 A1990 2018 - 2019 8596115580060",
       "url": "https://www.express-servis.cz/p/baterie-macbook-pro-15-2018-2019-a1953?utm_source=heureka",
       "price": 1775.0,
@@ -611,26 +611,6 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "522e0d75f632d6bfa8dd0808edc716f8ffb142ac"
-        }
-      ]
-    },
-    {
-      "product_name": "Spigen Thin Fit, - ochranný kryt pro Apple Watch 9/8/7 45mm, čirý ACS04179",
-      "url": "https://www.express-servis.cz/p/spigen-thin-fit-ochranny-kryt-pro-apple-watch-9-8-7-45mm-ciry?utm_source=heureka",
-      "price": 341.0,
-      "ean": "8809811857641",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20471412",
-          "rating_id_type": "product",
-          "unix_timestamp": 1754107355,
-          "rating": 5.0,
-          "pros": "Používám pouze tento\nHezky vypadá\nVelmi dobré ovládání hodinek\nUž několikrát zabránil poškození mých hodinek",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "f04a35ade402599ae67eff12ec687635e1fe842e"
         }
       ]
     }
