@@ -1,9 +1,9 @@
 {
-  "generated_at": 1770174720,
+  "generated_at": 1770261209,
   "stats": {
-    "products_count": 31,
-    "raw_reviews_in_feed": 31,
-    "saved_reviews": 31,
+    "products_count": 32,
+    "raw_reviews_in_feed": 32,
+    "saved_reviews": 32,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -47,6 +47,46 @@
   },
   "products": [
     {
+      "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
+      "url": "https://www.express-servis.cz/p/b-7000-lepidlo-na-instalaci-displeje-15-ml-transparent?utm_source=heureka",
+      "price": 31.0,
+      "ean": "8596311211164",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21724893",
+          "rating_id_type": "product",
+          "unix_timestamp": 1770197009,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Lepí dobře,dle mého  požadavku.",
+          "recommends": "1",
+          "fingerprint": "16bc88b546fb18209dd2c1812d8378991209e59d"
+        }
+      ]
+    },
+    {
+      "product_name": "Plastová pružinová svěrka TL0008",
+      "url": "https://www.express-servis.cz/p/plastova-pruzinova-sverka?utm_source=heureka",
+      "price": 12.0,
+      "ean": "8597593008367",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21729304",
+          "rating_id_type": "product",
+          "unix_timestamp": 1770196975,
+          "rating": 4.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Plní funkci se",
+          "recommends": "1",
+          "fingerprint": "65f76d81406585e2f41618e346c0c41ea0751b4c"
+        }
+      ]
+    },
+    {
       "product_name": "Pouzdro SWISSTEN BLACK-ROCK 6,4\"",
       "url": "https://www.express-servis.cz/p/pouzdro-swissten-black-rock-6-4?utm_source=heureka",
       "price": 183.0,
@@ -69,7 +109,7 @@
     {
       "product_name": "Swissten 20000 mAh 22013934 černá",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-pd-22-5w-s-integrovanymi-kabely-usb-c-a-lightning-kompatibilni-s-m?utm_source=heureka",
-      "price": 858.0,
+      "price": 769.0,
       "ean": "8595217484795",
       "reviews_count": 1,
       "reviews": [
@@ -109,7 +149,7 @@
     {
       "product_name": "LCD displej iPhone 13 Pro - Soft OLED Aftermarket Pro XO7 120 Hz IPH1639",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-13-pro-soft-oled-aftermarket-pro-xo7-120-hz?utm_source=heureka",
-      "price": 1995.0,
+      "price": 1855.0,
       "ean": "8597593021038",
       "reviews_count": 1,
       "reviews": [
@@ -129,7 +169,7 @@
     {
       "product_name": "Spigen Rugged Armor Pro - ochranný kryt pro Apple Watch 41mm/40mm, černý ACS00546",
       "url": "https://www.express-servis.cz/p/spigen-rugged-armor-pro-ochranny-kryt-pro-apple-watch-41mm-40mm-cerny?utm_source=heureka",
-      "price": 519.0,
+      "price": 506.0,
       "ean": "8809685624080",
       "reviews_count": 1,
       "reviews": [
@@ -149,7 +189,7 @@
     {
       "product_name": "Guess 4G Script PC/PU Pouzdro pro Airpods Pro, hnědý GUAP4GSMW",
       "url": "https://www.express-servis.cz/p/guess-4g-script-pc-pu-pouzdro-pro-airpods-pro-brown?utm_source=heureka",
-      "price": 363.0,
+      "price": 368.0,
       "ean": "3666339009731",
       "reviews_count": 1,
       "reviews": [
@@ -209,7 +249,7 @@
     {
       "product_name": "Swissten power bank 20000 mAh 45W s integrovaným kabelem USB-C vesmírně stříbrná 22013976",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-45w-s-integrovanym-kabelem-usb-c-vesmirne-stribrna?utm_source=heureka",
-      "price": 834.0,
+      "price": 749.0,
       "ean": "8595217490833",
       "reviews_count": 1,
       "reviews": [
@@ -429,7 +469,7 @@
     {
       "product_name": "Proximity Flex senzor iPhone 14 Pro Max IPH0489",
       "url": "https://www.express-servis.cz/p/proximity-flex-senzor-pro-apple-iphone-14-pro-max?utm_source=heureka",
-      "price": 565.0,
+      "price": 495.0,
       "ean": "8597593004895",
       "reviews_count": 1,
       "reviews": [
@@ -449,7 +489,7 @@
     {
       "product_name": "iOttie Sticky Gel Dashboard Pad for Car Mounts - podložka pod držák do auta ACDPIO301",
       "url": "https://www.express-servis.cz/p/iottie-sticky-gel-dashboard-pad-for-car-mounts-podlozka-pod-drzak-do-auta?utm_source=heureka",
-      "price": 227.0,
+      "price": 261.0,
       "ean": "857199008092",
       "reviews_count": 1,
       "reviews": [
@@ -549,7 +589,7 @@
     {
       "product_name": "Danalock V3 - univerzální modul - Bluetooth DL-02031304",
       "url": "https://www.express-servis.cz/p/danalock-v3-univerzalni-modul-bluetooth-1?utm_source=heureka",
-      "price": 3566.0,
+      "price": 3486.0,
       "ean": "5712560000547",
       "reviews_count": 1,
       "reviews": [
@@ -627,29 +667,9 @@
       ]
     },
     {
-      "product_name": "Therabody Theragun Prime Plus TG0004116-3A10",
-      "url": "https://www.express-servis.cz/p/therabody-theragun-prime-plus?utm_source=heureka",
-      "price": 11413.0,
-      "ean": "840295405490",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20545079",
-          "rating_id_type": "product",
-          "unix_timestamp": 1754892332,
-          "rating": 5.0,
-          "pros": "Spolehlivý, výkonný,jednoduché ovládání",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "3c6f842e7d7ce667e8763dc8ea33dcbec4afa1a9"
-        }
-      ]
-    },
-    {
       "product_name": "Baterie A1953 pro Apple Macbook Pro 15 A1990 2018 - 2019 8596115580060",
       "url": "https://www.express-servis.cz/p/baterie-macbook-pro-15-2018-2019-a1953?utm_source=heureka",
-      "price": 1775.0,
+      "price": 1745.0,
       "ean": "8596115580060",
       "reviews_count": 1,
       "reviews": [
