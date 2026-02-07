@@ -1,9 +1,9 @@
 {
-  "generated_at": 1770347540,
+  "generated_at": 1770433738,
   "stats": {
-    "products_count": 32,
-    "raw_reviews_in_feed": 32,
-    "saved_reviews": 32,
+    "products_count": 34,
+    "raw_reviews_in_feed": 34,
+    "saved_reviews": 34,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -46,6 +46,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "iFixit Precision Screw Extractor Set – sada pro vytažení stržených šroubů TL0067",
+      "url": "https://www.express-servis.cz/p/ifixit-precision-screw-extractor-set-sada-pro-vytazeni-strzenych-sroubu?utm_source=heureka",
+      "price": 658.0,
+      "ean": "8597593018823",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21742218",
+          "rating_id_type": "product",
+          "unix_timestamp": 1770383418,
+          "rating": 5.0,
+          "pros": "výborné na zaseklé šroubky nebo ty se strženým závitem\nna malé šroubky hlavně u notebooků to opravdu funguje\nkvalita výrobku (mám od výrobce víc takového nářadí k opravě notebooků)",
+          "cons": "vyšší cena, ale to je věc výrobce",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "2dee424493c7efaffc0a418d9bf0742fa3f8d9fa"
+        }
+      ]
+    },
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/b-7000-lepidlo-na-instalaci-displeje-15-ml-transparent?utm_source=heureka",
@@ -169,7 +189,7 @@
     {
       "product_name": "Spigen Rugged Armor Pro - ochranný kryt pro Apple Watch 41mm/40mm, černý ACS00546",
       "url": "https://www.express-servis.cz/p/spigen-rugged-armor-pro-ochranny-kryt-pro-apple-watch-41mm-40mm-cerny?utm_source=heureka",
-      "price": 489.0,
+      "price": 500.0,
       "ean": "8809685624080",
       "reviews_count": 1,
       "reviews": [
@@ -189,7 +209,7 @@
     {
       "product_name": "Guess 4G Script PC/PU Pouzdro pro Airpods Pro, hnědý GUAP4GSMW",
       "url": "https://www.express-servis.cz/p/guess-4g-script-pc-pu-pouzdro-pro-airpods-pro-brown?utm_source=heureka",
-      "price": 368.0,
+      "price": 359.0,
       "ean": "3666339009731",
       "reviews_count": 1,
       "reviews": [
@@ -249,7 +269,7 @@
     {
       "product_name": "Swissten power bank 20000 mAh 45W s integrovaným kabelem USB-C vesmírně stříbrná 22013976",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-45w-s-integrovanym-kabelem-usb-c-vesmirne-stribrna?utm_source=heureka",
-      "price": 834.0,
+      "price": 749.0,
       "ean": "8595217490833",
       "reviews_count": 1,
       "reviews": [
@@ -489,7 +509,7 @@
     {
       "product_name": "iOttie Sticky Gel Dashboard Pad for Car Mounts - podložka pod držák do auta ACDPIO301",
       "url": "https://www.express-servis.cz/p/iottie-sticky-gel-dashboard-pad-for-car-mounts-podlozka-pod-drzak-do-auta?utm_source=heureka",
-      "price": 261.0,
+      "price": 242.0,
       "ean": "857199008092",
       "reviews_count": 1,
       "reviews": [
@@ -503,6 +523,26 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "668c1359890629630d7b5f1a9d710db966657df5"
+        }
+      ]
+    },
+    {
+      "product_name": "BAKU B-7000 Lepidlo 50g",
+      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml?utm_source=heureka",
+      "price": 25.0,
+      "ean": "8596115571044",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21198566",
+          "rating_id_type": "product",
+          "unix_timestamp": 1763553004,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "d43fc406ec1d116948391fd521b8064c5fcca117"
         }
       ]
     },
@@ -589,7 +629,7 @@
     {
       "product_name": "Danalock V3 - univerzální modul - Bluetooth DL-02031304",
       "url": "https://www.express-servis.cz/p/danalock-v3-univerzalni-modul-bluetooth-1?utm_source=heureka",
-      "price": 3486.0,
+      "price": 3566.0,
       "ean": "5712560000547",
       "reviews_count": 1,
       "reviews": [
