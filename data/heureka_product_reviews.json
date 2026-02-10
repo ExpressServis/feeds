@@ -1,9 +1,9 @@
 {
-  "generated_at": 1770607146,
+  "generated_at": 1770693728,
   "stats": {
-    "products_count": 34,
-    "raw_reviews_in_feed": 34,
-    "saved_reviews": 34,
+    "products_count": 35,
+    "raw_reviews_in_feed": 35,
+    "saved_reviews": 35,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -603,6 +603,26 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "da9890988a23baef0f05a4b31c991c5231cf6352"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD Display + Dotyková Deska pro OnePlus Nord 3 57983117780",
+      "url": "https://www.express-servis.cz/p/lcd-display-dotykova-deska-pro-oneplus-nord-3?utm_source=heureka",
+      "price": 1475.0,
+      "ean": "8596311231292",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "20868032",
+          "rating_id_type": "product",
+          "unix_timestamp": 1759226022,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "e41c84be4f23567a8dbaad35768ec1e5092118e0"
         }
       ]
     },
