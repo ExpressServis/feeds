@@ -1,9 +1,9 @@
 {
-  "generated_at": 1770693728,
+  "generated_at": 1770780062,
   "stats": {
-    "products_count": 35,
-    "raw_reviews_in_feed": 35,
-    "saved_reviews": 35,
+    "products_count": 34,
+    "raw_reviews_in_feed": 34,
+    "saved_reviews": 34,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -189,7 +189,7 @@
     {
       "product_name": "Spigen Rugged Armor Pro - ochranný kryt pro Apple Watch 41mm/40mm, černý ACS00546",
       "url": "https://www.express-servis.cz/p/spigen-rugged-armor-pro-ochranny-kryt-pro-apple-watch-41mm-40mm-cerny?utm_source=heureka",
-      "price": 500.0,
+      "price": 489.0,
       "ean": "8809685624080",
       "reviews_count": 1,
       "reviews": [
@@ -209,7 +209,7 @@
     {
       "product_name": "Guess 4G Script PC/PU Pouzdro pro Airpods Pro, hnědý GUAP4GSMW",
       "url": "https://www.express-servis.cz/p/guess-4g-script-pc-pu-pouzdro-pro-airpods-pro-brown?utm_source=heureka",
-      "price": 359.0,
+      "price": 368.0,
       "ean": "3666339009731",
       "reviews_count": 1,
       "reviews": [
@@ -269,7 +269,7 @@
     {
       "product_name": "Swissten power bank 20000 mAh 45W s integrovaným kabelem USB-C vesmírně stříbrná 22013976",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-45w-s-integrovanym-kabelem-usb-c-vesmirne-stribrna?utm_source=heureka",
-      "price": 749.0,
+      "price": 731.0,
       "ean": "8595217490833",
       "reviews_count": 1,
       "reviews": [
@@ -509,7 +509,7 @@
     {
       "product_name": "iOttie Sticky Gel Dashboard Pad for Car Mounts - podložka pod držák do auta ACDPIO301",
       "url": "https://www.express-servis.cz/p/iottie-sticky-gel-dashboard-pad-for-car-mounts-podlozka-pod-drzak-do-auta?utm_source=heureka",
-      "price": 242.0,
+      "price": 286.0,
       "ean": "857199008092",
       "reviews_count": 1,
       "reviews": [
@@ -609,7 +609,7 @@
     {
       "product_name": "LCD Display + Dotyková Deska pro OnePlus Nord 3 57983117780",
       "url": "https://www.express-servis.cz/p/lcd-display-dotykova-deska-pro-oneplus-nord-3?utm_source=heureka",
-      "price": 1475.0,
+      "price": 1385.0,
       "ean": "8596311231292",
       "reviews_count": 1,
       "reviews": [
@@ -649,7 +649,7 @@
     {
       "product_name": "Danalock V3 - univerzální modul - Bluetooth DL-02031304",
       "url": "https://www.express-servis.cz/p/danalock-v3-univerzalni-modul-bluetooth-1?utm_source=heureka",
-      "price": 3566.0,
+      "price": 3486.0,
       "ean": "5712560000547",
       "reviews_count": 1,
       "reviews": [
@@ -723,26 +723,6 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "1736f721d07235da8f64421468d6fc615f6f13cc"
-        }
-      ]
-    },
-    {
-      "product_name": "Baterie A1953 pro Apple Macbook Pro 15 A1990 2018 - 2019 8596115580060",
-      "url": "https://www.express-servis.cz/p/baterie-macbook-pro-15-2018-2019-a1953?utm_source=heureka",
-      "price": 1745.0,
-      "ean": "8596115580060",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20539377",
-          "rating_id_type": "product",
-          "unix_timestamp": 1754802313,
-          "rating": 5.0,
-          "pros": "Balíček obsahuje veškeré nářadí potřebné k výměně baterie, včetně obrazového postupu\nBaterie po instalaci funguje\nPro výměnu baterie volte raději videonávod na youtube, je “čitelnějši” a srozumitelnější",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "522e0d75f632d6bfa8dd0808edc716f8ffb142ac"
         }
       ]
     }
