@@ -1,9 +1,9 @@
 {
-  "generated_at": 1770952747,
+  "generated_at": 1771038649,
   "stats": {
-    "products_count": 34,
-    "raw_reviews_in_feed": 34,
-    "saved_reviews": 34,
+    "products_count": 35,
+    "raw_reviews_in_feed": 35,
+    "saved_reviews": 35,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -46,6 +46,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
+      "url": "https://www.express-servis.cz/p/b-7000-lepidlo-na-instalaci-displeje-15-ml-transparent?utm_source=heureka",
+      "price": 31.0,
+      "ean": "8596311211164",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21777693",
+          "rating_id_type": "product",
+          "unix_timestamp": 1770964337,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Splnilo to očekávaný požadavek.",
+          "recommends": "1",
+          "fingerprint": "41d6bd618e969c9236918781a38b8782d8630731"
+        }
+      ]
+    },
     {
       "product_name": "iFixit Precision Screw Extractor Set – sada pro vytažení stržených šroubů TL0067",
       "url": "https://www.express-servis.cz/p/ifixit-precision-screw-extractor-set-sada-pro-vytazeni-strzenych-sroubu?utm_source=heureka",
@@ -269,7 +289,7 @@
     {
       "product_name": "Swissten power bank 20000 mAh 45W s integrovaným kabelem USB-C vesmírně stříbrná 22013976",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-45w-s-integrovanym-kabelem-usb-c-vesmirne-stribrna?utm_source=heureka",
-      "price": 731.0,
+      "price": 749.0,
       "ean": "8595217490833",
       "reviews_count": 1,
       "reviews": [
@@ -509,7 +529,7 @@
     {
       "product_name": "iOttie Sticky Gel Dashboard Pad for Car Mounts - podložka pod držák do auta ACDPIO301",
       "url": "https://www.express-servis.cz/p/iottie-sticky-gel-dashboard-pad-for-car-mounts-podlozka-pod-drzak-do-auta?utm_source=heureka",
-      "price": 253.0,
+      "price": 233.0,
       "ean": "857199008092",
       "reviews_count": 1,
       "reviews": [
@@ -649,7 +669,7 @@
     {
       "product_name": "Danalock V3 - univerzální modul - Bluetooth DL-02031304",
       "url": "https://www.express-servis.cz/p/danalock-v3-univerzalni-modul-bluetooth-1?utm_source=heureka",
-      "price": 3566.0,
+      "price": 3486.0,
       "ean": "5712560000547",
       "reviews_count": 1,
       "reviews": [
