@@ -1,11 +1,11 @@
 {
-  "generated_at": 1771211876,
+  "generated_at": 1771298109,
   "stats": {
-    "products_count": 35,
-    "raw_reviews_in_feed": 35,
-    "saved_reviews": 35,
+    "products_count": 34,
+    "raw_reviews_in_feed": 34,
+    "saved_reviews": 34,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 3
+    "cross_product_duplicates_count": 2
   },
   "cross_product_duplicates": {
     "6f8b417cc31f89b40133ccd7ae09c42bd076d84d": [
@@ -31,18 +31,6 @@
         "url": "https://www.express-servis.cz/p/hb356687ecw-huawei-baterie-3340mah-li-pol-service-pack?utm_source=heureka",
         "product_name": "Huawei HB356687ECW"
       }
-    ],
-    "88e2ad68d568f82a49cac72f1f52a34cc5b091cf": [
-      {
-        "ean": "8596311243332",
-        "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-gray-service-pack?utm_source=heureka",
-        "product_name": "LCD display + Dotyk + Přední Kryt Samsung F731 Galaxy Z Flip 5 5G Gray (Service Pack) GH82-31828E"
-      },
-      {
-        "ean": "8596311243295",
-        "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-cream-service-pack?utm_source=heureka",
-        "product_name": "LCD display + Dotyk + Přední Kryt Samsung F731 Galaxy Z Flip 5 5G Cream (Service Pack) GH82-31828B"
-      }
     ]
   },
   "products": [
@@ -63,26 +51,6 @@
           "summary": "Splnilo to očekávaný požadavek.",
           "recommends": "1",
           "fingerprint": "41d6bd618e969c9236918781a38b8782d8630731"
-        }
-      ]
-    },
-    {
-      "product_name": "iFixit Precision Screw Extractor Set – sada pro vytažení stržených šroubů TL0067",
-      "url": "https://www.express-servis.cz/p/ifixit-precision-screw-extractor-set-sada-pro-vytazeni-strzenych-sroubu?utm_source=heureka",
-      "price": 658.0,
-      "ean": "8597593018823",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21742218",
-          "rating_id_type": "product",
-          "unix_timestamp": 1770383418,
-          "rating": 5.0,
-          "pros": "výborné na zaseklé šroubky nebo ty se strženým závitem\nna malé šroubky hlavně u notebooků to opravdu funguje\nkvalita výrobku (mám od výrobce víc takového nářadí k opravě notebooků)",
-          "cons": "vyšší cena, ale to je věc výrobce",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "2dee424493c7efaffc0a418d9bf0742fa3f8d9fa"
         }
       ]
     },
@@ -223,6 +191,26 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "bb1aee98f57453485b98fd9054dfc6fa476e8ee0"
+        }
+      ]
+    },
+    {
+      "product_name": "Karl Lagerfeld 3D Logo NFT Karl and Choupette, silikonové Pouzdro pro AirPods 4, černé KLA4RUNKC",
+      "url": "https://www.express-servis.cz/p/karl-lagerfeld-3d-logo-nft-karl-and-choupette-silikonove-pouzdro-pro-airpods-4-black?utm_source=heureka",
+      "price": 357.0,
+      "ean": "3666339448684",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21527925",
+          "rating_id_type": "product",
+          "unix_timestamp": 1767472228,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "f1df40a3acea05aebf8fe3086dbe46017959d483"
         }
       ]
     },
@@ -691,26 +679,6 @@
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-gray-service-pack?utm_source=heureka",
       "price": 6755.0,
       "ean": "8596311243332",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20683694",
-          "rating_id_type": "product",
-          "unix_timestamp": 1756738990,
-          "rating": 5.0,
-          "pros": "Prostě originální díl..",
-          "cons": "",
-          "summary": "Funkční dle předpokladu - orig. díl, takže bez problémů..",
-          "recommends": "1",
-          "fingerprint": "88e2ad68d568f82a49cac72f1f52a34cc5b091cf"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD display + Dotyk + Přední Kryt Samsung F731 Galaxy Z Flip 5 5G Cream (Service Pack) GH82-31828B",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-cream-service-pack?utm_source=heureka",
-      "price": 6305.0,
-      "ean": "8596311243295",
       "reviews_count": 1,
       "reviews": [
         {
