@@ -1,9 +1,9 @@
 {
-  "generated_at": 1771470965,
+  "generated_at": 1771557206,
   "stats": {
-    "products_count": 34,
-    "raw_reviews_in_feed": 34,
-    "saved_reviews": 34,
+    "products_count": 37,
+    "raw_reviews_in_feed": 37,
+    "saved_reviews": 37,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -35,6 +35,46 @@
   },
   "products": [
     {
+      "product_name": "LCD display + Dotyk Samsung A135F Galaxy A13 Black 57983112979",
+      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-samsung-a135f-galaxy-a13-black-1?utm_source=heureka",
+      "price": 565.0,
+      "ean": "8596311201707",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21817333",
+          "rating_id_type": "product",
+          "unix_timestamp": 1771507004,
+          "rating": 1.0,
+          "pros": "",
+          "cons": "Dorazilo prasknuté",
+          "summary": "Dorazilo prasknuté, zjištěno při testu. Při vizuální kontrole nezjistitelné. Prodejce reklamaci neuznal.",
+          "recommends": "0",
+          "fingerprint": "fb99f639e0c99e3da990a09ca680e18b8b995966"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD display + Dotyk + Přední Kryt Samsung A135F Galaxy A13 Black 57983112985",
+      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-a135f-galaxy-a13-black?utm_source=heureka",
+      "price": 605.0,
+      "ean": "8596311201769",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21817323",
+          "rating_id_type": "product",
+          "unix_timestamp": 1771506844,
+          "rating": 1.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "3fb8ef02d8f1dd3882bcb445e3e65163015e4f85"
+        }
+      ]
+    },
+    {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/b-7000-lepidlo-na-instalaci-displeje-15-ml-transparent?utm_source=heureka",
       "price": 31.0,
@@ -51,6 +91,26 @@
           "summary": "Splnilo to očekávaný požadavek.",
           "recommends": "1",
           "fingerprint": "41d6bd618e969c9236918781a38b8782d8630731"
+        }
+      ]
+    },
+    {
+      "product_name": "iFixit Precision Screw Extractor Set – sada pro vytažení stržených šroubů TL0067",
+      "url": "https://www.express-servis.cz/p/ifixit-precision-screw-extractor-set-sada-pro-vytazeni-strzenych-sroubu?utm_source=heureka",
+      "price": 658.0,
+      "ean": "8597593018823",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21742218",
+          "rating_id_type": "product",
+          "unix_timestamp": 1770383418,
+          "rating": 5.0,
+          "pros": "výborné na zaseklé šroubky nebo ty se strženým závitem\nna malé šroubky hlavně u notebooků to opravdu funguje\nkvalita výrobku (mám od výrobce víc takového nářadí k opravě notebooků)",
+          "cons": "vyšší cena, ale to je věc výrobce",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "2dee424493c7efaffc0a418d9bf0742fa3f8d9fa"
         }
       ]
     },
@@ -177,7 +237,7 @@
     {
       "product_name": "Spigen Rugged Armor Pro - ochranný kryt pro Apple Watch 41mm/40mm, černý ACS00546",
       "url": "https://www.express-servis.cz/p/spigen-rugged-armor-pro-ochranny-kryt-pro-apple-watch-41mm-40mm-cerny?utm_source=heureka",
-      "price": 489.0,
+      "price": 500.0,
       "ean": "8809685624080",
       "reviews_count": 1,
       "reviews": [
@@ -337,7 +397,7 @@
     {
       "product_name": "LCD display + Dotyk + Přední Kryt Samsung G986/G985 Galaxy S20+ Cosmic Gray 57983118630",
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-gray?utm_source=heureka",
-      "price": 1755.0,
+      "price": 1735.0,
       "ean": "8596311237195",
       "reviews_count": 1,
       "reviews": [
@@ -517,7 +577,7 @@
     {
       "product_name": "iOttie Sticky Gel Dashboard Pad for Car Mounts - podložka pod držák do auta ACDPIO301",
       "url": "https://www.express-servis.cz/p/iottie-sticky-gel-dashboard-pad-for-car-mounts-podlozka-pod-drzak-do-auta?utm_source=heureka",
-      "price": 286.0,
+      "price": 269.0,
       "ean": "857199008092",
       "reviews_count": 1,
       "reviews": [
@@ -637,7 +697,7 @@
     {
       "product_name": "Ozobot Evo – školní sada, 12 ks OZO-051210-01-03",
       "url": "https://www.express-servis.cz/p/ozobot-evo-skolni-sada-12-ks-2?utm_source=heureka",
-      "price": 56563.0,
+      "price": 55949.0,
       "ean": "8718858916009",
       "reviews_count": 1,
       "reviews": [
@@ -657,7 +717,7 @@
     {
       "product_name": "Danalock V3 - univerzální modul - Bluetooth DL-02031304",
       "url": "https://www.express-servis.cz/p/danalock-v3-univerzalni-modul-bluetooth-1?utm_source=heureka",
-      "price": 3486.0,
+      "price": 3566.0,
       "ean": "5712560000547",
       "reviews_count": 1,
       "reviews": [
@@ -675,10 +735,10 @@
       ]
     },
     {
-      "product_name": "LCD display + Dotyk + Přední Kryt Samsung F731 Galaxy Z Flip 5 5G Gray (Service Pack) GH82-31828E",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-gray-service-pack?utm_source=heureka",
-      "price": 6755.0,
-      "ean": "8596311243332",
+      "product_name": "LCD display + Dotyk + Přední Kryt Samsung F731 Galaxy Z Flip 5 5G Cream (Service Pack) GH82-31828B",
+      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-cream-service-pack?utm_source=heureka",
+      "price": 6305.0,
+      "ean": "8596311243295",
       "reviews_count": 1,
       "reviews": [
         {
