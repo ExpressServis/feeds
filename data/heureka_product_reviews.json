@@ -1,9 +1,9 @@
 {
-  "generated_at": 1771816684,
+  "generated_at": 1771902926,
   "stats": {
-    "products_count": 37,
-    "raw_reviews_in_feed": 37,
-    "saved_reviews": 37,
+    "products_count": 38,
+    "raw_reviews_in_feed": 38,
+    "saved_reviews": 38,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -34,6 +34,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
+      "url": "https://www.express-servis.cz/p/b-7000-lepidlo-na-instalaci-displeje-15-ml-transparent?utm_source=heureka",
+      "price": 31.0,
+      "ean": "8596311211164",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21845099",
+          "rating_id_type": "product",
+          "unix_timestamp": 1771864122,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Splňuje vše co jsem očekával",
+          "recommends": "1",
+          "fingerprint": "f1eb50f8d35a0bb3293b87d3cab6965972bb0478"
+        }
+      ]
+    },
     {
       "product_name": "LCD display + Dotyk Samsung A135F Galaxy A13 Black 57983112979",
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-samsung-a135f-galaxy-a13-black-1?utm_source=heureka",
