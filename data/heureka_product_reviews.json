@@ -1,5 +1,5 @@
 {
-  "generated_at": 1771902926,
+  "generated_at": 1771989345,
   "stats": {
     "products_count": 38,
     "raw_reviews_in_feed": 38,
@@ -34,6 +34,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Swissten power bank cestovní 25000 mAh (96.25Wh) 100W s integrovaným kabelem USB-C šedá 22013977",
+      "url": "https://www.express-servis.cz/p/swissten-power-bank-cestovni-25000-mah-96-25wh-100w-s-integrovanym-kabelem-usb-c-seda?utm_source=heureka",
+      "price": 988.0,
+      "ean": "8595217493346",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21848966",
+          "rating_id_type": "product",
+          "unix_timestamp": 1771920145,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "77008f34cfe06af374bb9eac3fc3e9e6e2cb911b"
+        }
+      ]
+    },
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/b-7000-lepidlo-na-instalaci-displeje-15-ml-transparent?utm_source=heureka",
@@ -257,7 +277,7 @@
     {
       "product_name": "Spigen Rugged Armor Pro - ochranný kryt pro Apple Watch 41mm/40mm, černý ACS00546",
       "url": "https://www.express-servis.cz/p/spigen-rugged-armor-pro-ochranny-kryt-pro-apple-watch-41mm-40mm-cerny?utm_source=heureka",
-      "price": 489.0,
+      "price": 500.0,
       "ean": "8809685624080",
       "reviews_count": 1,
       "reviews": [
@@ -277,7 +297,7 @@
     {
       "product_name": "Karl Lagerfeld 3D Logo NFT Karl and Choupette, silikonové Pouzdro pro AirPods 4, černé KLA4RUNKC",
       "url": "https://www.express-servis.cz/p/karl-lagerfeld-3d-logo-nft-karl-and-choupette-silikonove-pouzdro-pro-airpods-4-black?utm_source=heureka",
-      "price": 286.0,
+      "price": 294.0,
       "ean": "3666339448684",
       "reviews_count": 1,
       "reviews": [
@@ -397,7 +417,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box na baterii HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-vyhrivany-box?utm_source=heureka",
-      "price": 3178.0,
+      "price": 4237.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -477,7 +497,7 @@
     {
       "product_name": "EB-BG903BBE Baterie pro Samsung Li-Ion 2800mAh (OEM) 57983110807",
       "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-li-ion-2800mah-oem?utm_source=heureka",
-      "price": 132.0,
+      "price": 121.0,
       "ean": "8596311193330",
       "reviews_count": 1,
       "reviews": [
@@ -597,7 +617,7 @@
     {
       "product_name": "iOttie Sticky Gel Dashboard Pad for Car Mounts - podložka pod držák do auta ACDPIO301",
       "url": "https://www.express-servis.cz/p/iottie-sticky-gel-dashboard-pad-for-car-mounts-podlozka-pod-drzak-do-auta?utm_source=heureka",
-      "price": 249.0,
+      "price": 286.0,
       "ean": "857199008092",
       "reviews_count": 1,
       "reviews": [
@@ -717,7 +737,7 @@
     {
       "product_name": "Ozobot Evo – školní sada, 12 ks OZO-051210-01-03",
       "url": "https://www.express-servis.cz/p/ozobot-evo-skolni-sada-12-ks-2?utm_source=heureka",
-      "price": 56563.0,
+      "price": 55949.0,
       "ean": "8718858916009",
       "reviews_count": 1,
       "reviews": [
@@ -737,7 +757,7 @@
     {
       "product_name": "Danalock V3 - univerzální modul - Bluetooth DL-02031304",
       "url": "https://www.express-servis.cz/p/danalock-v3-univerzalni-modul-bluetooth-1?utm_source=heureka",
-      "price": 3486.0,
+      "price": 3566.0,
       "ean": "5712560000547",
       "reviews_count": 1,
       "reviews": [
@@ -751,26 +771,6 @@
           "summary": "Bluetoth ovládání zámku",
           "recommends": "1",
           "fingerprint": "c68eaf3f807f1f81db4507a5672b804085ac9934"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD display + Dotyk + Přední Kryt Samsung F731 Galaxy Z Flip 5 5G Cream (Service Pack) GH82-31828B",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-f731-galaxy-z-flip-5-5g-cream-service-pack?utm_source=heureka",
-      "price": 6305.0,
-      "ean": "8596311243295",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20683694",
-          "rating_id_type": "product",
-          "unix_timestamp": 1756738990,
-          "rating": 5.0,
-          "pros": "Prostě originální díl..",
-          "cons": "",
-          "summary": "Funkční dle předpokladu - orig. díl, takže bez problémů..",
-          "recommends": "1",
-          "fingerprint": "88e2ad68d568f82a49cac72f1f52a34cc5b091cf"
         }
       ]
     },
