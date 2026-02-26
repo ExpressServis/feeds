@@ -1,9 +1,9 @@
 {
-  "generated_at": 1771989345,
+  "generated_at": 1772075616,
   "stats": {
-    "products_count": 38,
-    "raw_reviews_in_feed": 38,
-    "saved_reviews": 38,
+    "products_count": 37,
+    "raw_reviews_in_feed": 37,
+    "saved_reviews": 37,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -37,7 +37,7 @@
     {
       "product_name": "Swissten power bank cestovní 25000 mAh (96.25Wh) 100W s integrovaným kabelem USB-C šedá 22013977",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-cestovni-25000-mah-96-25wh-100w-s-integrovanym-kabelem-usb-c-seda?utm_source=heureka",
-      "price": 988.0,
+      "price": 1588.0,
       "ean": "8595217493346",
       "reviews_count": 1,
       "reviews": [
@@ -197,7 +197,7 @@
     {
       "product_name": "Pouzdro SWISSTEN BLACK-ROCK 6,4\"",
       "url": "https://www.express-servis.cz/p/pouzdro-swissten-black-rock-6-4?utm_source=heureka",
-      "price": 183.0,
+      "price": 257.0,
       "ean": "8595217477056",
       "reviews_count": 1,
       "reviews": [
@@ -217,7 +217,7 @@
     {
       "product_name": "Swissten 20000 mAh 22013934 černá",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-pd-22-5w-s-integrovanymi-kabely-usb-c-a-lightning-kompatibilni-s-m?utm_source=heureka",
-      "price": 769.0,
+      "price": 1287.0,
       "ean": "8595217484795",
       "reviews_count": 1,
       "reviews": [
@@ -237,7 +237,7 @@
     {
       "product_name": "Swissten 5000 mAh 22013975 černá",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-pd-20w-5000-mah-kompatibilni-s-magsafe?utm_source=heureka",
-      "price": 387.0,
+      "price": 698.0,
       "ean": "8595217484740",
       "reviews_count": 1,
       "reviews": [
@@ -251,26 +251,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "37aa6f4ddb8e0209aaa32258bbc9b481ee4b3591"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD displej iPhone 13 Pro - Soft OLED Aftermarket Pro XO7 120 Hz IPH1639",
-      "url": "https://www.express-servis.cz/p/lcd-displej-iphone-13-pro-soft-oled-aftermarket-pro-xo7-120-hz?utm_source=heureka",
-      "price": 1855.0,
-      "ean": "8597593021038",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "15830434",
-          "rating_id_type": "offer",
-          "unix_timestamp": 1768825300,
-          "rating": 1.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "74a76c7426f7501eabd127293fe1d3e1f47cff8f"
         }
       ]
     },
@@ -377,7 +357,7 @@
     {
       "product_name": "Swissten power bank 20000 mAh 45W s integrovaným kabelem USB-C vesmírně stříbrná 22013976",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-45w-s-integrovanym-kabelem-usb-c-vesmirne-stribrna?utm_source=heureka",
-      "price": 749.0,
+      "price": 1208.0,
       "ean": "8595217490833",
       "reviews_count": 1,
       "reviews": [
@@ -397,7 +377,7 @@
     {
       "product_name": "Bluetooth headset swissten dock earpiece 51204000",
       "url": "https://www.express-servis.cz/p/bluetooth-headset-swissten-dock-earpiece?utm_source=heureka",
-      "price": 381.0,
+      "price": 557.0,
       "ean": "8595217481411",
       "reviews_count": 1,
       "reviews": [
