@@ -1,13 +1,25 @@
 {
-  "generated_at": 1772075616,
+  "generated_at": 1772161887,
   "stats": {
-    "products_count": 37,
-    "raw_reviews_in_feed": 37,
-    "saved_reviews": 37,
+    "products_count": 42,
+    "raw_reviews_in_feed": 42,
+    "saved_reviews": 42,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 2
+    "cross_product_duplicates_count": 3
   },
   "cross_product_duplicates": {
+    "7dafec11248c236eb0abac10e8b2f7f475f8276f": [
+      {
+        "ean": "8597593010452",
+        "url": "https://www.express-servis.cz/p/sklo-zadniho-krytu-s-vetsim-otvorem-na-kameru-pro-apple-iphone-xs-max-bile?utm_source=heureka",
+        "product_name": "Kryt Apple iPhone XS Max Zadní bílý"
+      },
+      {
+        "ean": "8597593009616",
+        "url": "https://www.express-servis.cz/p/zadni-kryt-pro-apple-iphone-xs-max-bily-kopie?utm_source=heureka",
+        "product_name": "Apple iPhone XS Max Zadní kryt bílý"
+      }
+    ],
     "6f8b417cc31f89b40133ccd7ae09c42bd076d84d": [
       {
         "ean": "8596311237195",
@@ -34,6 +46,106 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Swissten Raptor Diamond Ultra Clear 3D temperované sklo pro Apple iPhone XS Max černé 84501718",
+      "url": "https://www.express-servis.cz/p/swissten-raptor-diamond-ultra-clear-3d-temperovane-sklo-pro-apple-iphone-xs-max-cerne?utm_source=heureka",
+      "price": 92.0,
+      "ean": "8595217481725",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21864032",
+          "rating_id_type": "product",
+          "unix_timestamp": 1772095858,
+          "rating": 4.5,
+          "pros": "4",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "9f18aa029a3a068060198dcab87b36a78eb54639"
+        }
+      ]
+    },
+    {
+      "product_name": "Lepení baterie pro Apple iPhone XS Max 8596115546790",
+      "url": "https://www.express-servis.cz/p/adhesivni-paska-pro-prilepeni-baterie-pro-apple-iphone-xs-max?utm_source=heureka",
+      "price": 52.0,
+      "ean": "8596115546790",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21864023",
+          "rating_id_type": "product",
+          "unix_timestamp": 1772095811,
+          "rating": 5.0,
+          "pros": "4+",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "8aaf06bf38ab80625cdb62cc3a74c5686f575b04"
+        }
+      ]
+    },
+    {
+      "product_name": "Kryt Apple iPhone XS Max Zadní bílý",
+      "url": "https://www.express-servis.cz/p/sklo-zadniho-krytu-s-vetsim-otvorem-na-kameru-pro-apple-iphone-xs-max-bile?utm_source=heureka",
+      "price": 110.0,
+      "ean": "8597593010452",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21864016",
+          "rating_id_type": "product",
+          "unix_timestamp": 1772095733,
+          "rating": 3.5,
+          "pros": "Kvalita 4",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "7dafec11248c236eb0abac10e8b2f7f475f8276f"
+        }
+      ]
+    },
+    {
+      "product_name": "Apple iPhone XS Max Zadní kryt bílý",
+      "url": "https://www.express-servis.cz/p/zadni-kryt-pro-apple-iphone-xs-max-bily-kopie?utm_source=heureka",
+      "price": 895.0,
+      "ean": "8597593009616",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21864016",
+          "rating_id_type": "product",
+          "unix_timestamp": 1772095733,
+          "rating": 3.5,
+          "pros": "Kvalita 4",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "7dafec11248c236eb0abac10e8b2f7f475f8276f"
+        }
+      ]
+    },
+    {
+      "product_name": "Swissten pouzdro Black-Rock 7″ 65400300",
+      "url": "https://www.express-servis.cz/p/pouzdro-swissten-black-rock-7-1?utm_source=heureka",
+      "price": 257.0,
+      "ean": "8595217477063",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21863033",
+          "rating_id_type": "product",
+          "unix_timestamp": 1772089333,
+          "rating": 4.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "2c7e1658e66a6789557b99649bef0772539e04b3"
+        }
+      ]
+    },
     {
       "product_name": "Swissten power bank cestovní 25000 mAh (96.25Wh) 100W s integrovaným kabelem USB-C šedá 22013977",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-cestovni-25000-mah-96-25wh-100w-s-integrovanym-kabelem-usb-c-seda?utm_source=heureka",
@@ -257,7 +369,7 @@
     {
       "product_name": "Spigen Rugged Armor Pro - ochranný kryt pro Apple Watch 41mm/40mm, černý ACS00546",
       "url": "https://www.express-servis.cz/p/spigen-rugged-armor-pro-ochranny-kryt-pro-apple-watch-41mm-40mm-cerny?utm_source=heureka",
-      "price": 500.0,
+      "price": 489.0,
       "ean": "8809685624080",
       "reviews_count": 1,
       "reviews": [
@@ -277,7 +389,7 @@
     {
       "product_name": "Karl Lagerfeld 3D Logo NFT Karl and Choupette, silikonové Pouzdro pro AirPods 4, černé KLA4RUNKC",
       "url": "https://www.express-servis.cz/p/karl-lagerfeld-3d-logo-nft-karl-and-choupette-silikonove-pouzdro-pro-airpods-4-black?utm_source=heureka",
-      "price": 294.0,
+      "price": 286.0,
       "ean": "3666339448684",
       "reviews_count": 1,
       "reviews": [
@@ -597,7 +709,7 @@
     {
       "product_name": "iOttie Sticky Gel Dashboard Pad for Car Mounts - podložka pod držák do auta ACDPIO301",
       "url": "https://www.express-servis.cz/p/iottie-sticky-gel-dashboard-pad-for-car-mounts-podlozka-pod-drzak-do-auta?utm_source=heureka",
-      "price": 286.0,
+      "price": 265.0,
       "ean": "857199008092",
       "reviews_count": 1,
       "reviews": [
@@ -717,7 +829,7 @@
     {
       "product_name": "Ozobot Evo – školní sada, 12 ks OZO-051210-01-03",
       "url": "https://www.express-servis.cz/p/ozobot-evo-skolni-sada-12-ks-2?utm_source=heureka",
-      "price": 55949.0,
+      "price": 56563.0,
       "ean": "8718858916009",
       "reviews_count": 1,
       "reviews": [
@@ -737,7 +849,7 @@
     {
       "product_name": "Danalock V3 - univerzální modul - Bluetooth DL-02031304",
       "url": "https://www.express-servis.cz/p/danalock-v3-univerzalni-modul-bluetooth-1?utm_source=heureka",
-      "price": 3566.0,
+      "price": 3486.0,
       "ean": "5712560000547",
       "reviews_count": 1,
       "reviews": [
