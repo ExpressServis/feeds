@@ -1,9 +1,9 @@
 {
-  "generated_at": 1772247648,
+  "generated_at": 1772335237,
   "stats": {
-    "products_count": 42,
-    "raw_reviews_in_feed": 42,
-    "saved_reviews": 42,
+    "products_count": 41,
+    "raw_reviews_in_feed": 41,
+    "saved_reviews": 41,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -309,7 +309,7 @@
     {
       "product_name": "Pouzdro SWISSTEN BLACK-ROCK 6,4\"",
       "url": "https://www.express-servis.cz/p/pouzdro-swissten-black-rock-6-4?utm_source=heureka",
-      "price": 174.0,
+      "price": 183.0,
       "ean": "8595217477056",
       "reviews_count": 1,
       "reviews": [
@@ -369,7 +369,7 @@
     {
       "product_name": "Spigen Rugged Armor Pro - ochranný kryt pro Apple Watch 41mm/40mm, černý ACS00546",
       "url": "https://www.express-servis.cz/p/spigen-rugged-armor-pro-ochranny-kryt-pro-apple-watch-41mm-40mm-cerny?utm_source=heureka",
-      "price": 489.0,
+      "price": 500.0,
       "ean": "8809685624080",
       "reviews_count": 1,
       "reviews": [
@@ -509,7 +509,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box na baterii HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-vyhrivany-box?utm_source=heureka",
-      "price": 4237.0,
+      "price": 3178.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -709,7 +709,7 @@
     {
       "product_name": "iOttie Sticky Gel Dashboard Pad for Car Mounts - podložka pod držák do auta ACDPIO301",
       "url": "https://www.express-servis.cz/p/iottie-sticky-gel-dashboard-pad-for-car-mounts-podlozka-pod-drzak-do-auta?utm_source=heureka",
-      "price": 265.0,
+      "price": 246.0,
       "ean": "857199008092",
       "reviews_count": 1,
       "reviews": [
@@ -829,7 +829,7 @@
     {
       "product_name": "Ozobot Evo – školní sada, 12 ks OZO-051210-01-03",
       "url": "https://www.express-servis.cz/p/ozobot-evo-skolni-sada-12-ks-2?utm_source=heureka",
-      "price": 56563.0,
+      "price": 55949.0,
       "ean": "8718858916009",
       "reviews_count": 1,
       "reviews": [
@@ -849,7 +849,7 @@
     {
       "product_name": "Danalock V3 - univerzální modul - Bluetooth DL-02031304",
       "url": "https://www.express-servis.cz/p/danalock-v3-univerzalni-modul-bluetooth-1?utm_source=heureka",
-      "price": 3486.0,
+      "price": 3566.0,
       "ean": "5712560000547",
       "reviews_count": 1,
       "reviews": [
@@ -863,26 +863,6 @@
           "summary": "Bluetoth ovládání zámku",
           "recommends": "1",
           "fingerprint": "c68eaf3f807f1f81db4507a5672b804085ac9934"
-        }
-      ]
-    },
-    {
-      "product_name": "Apple A1382 - originální",
-      "url": "https://www.express-servis.cz/p/baterie-macbook-pro-15-2011-2012-a1382?utm_source=heureka",
-      "price": 1255.0,
-      "ean": "8596115568228",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20665470",
-          "rating_id_type": "product",
-          "unix_timestamp": 1756457766,
-          "rating": 5.0,
-          "pros": "bezproblémová instalce\nfunguje",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "1736f721d07235da8f64421468d6fc615f6f13cc"
         }
       ]
     }
