@@ -1,9 +1,9 @@
 {
-  "generated_at": 1772335237,
+  "generated_at": 1772421165,
   "stats": {
-    "products_count": 41,
-    "raw_reviews_in_feed": 41,
-    "saved_reviews": 41,
+    "products_count": 40,
+    "raw_reviews_in_feed": 40,
+    "saved_reviews": 40,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -143,26 +143,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "2c7e1658e66a6789557b99649bef0772539e04b3"
-        }
-      ]
-    },
-    {
-      "product_name": "Swissten power bank cestovní 25000 mAh (96.25Wh) 100W s integrovaným kabelem USB-C šedá 22013977",
-      "url": "https://www.express-servis.cz/p/swissten-power-bank-cestovni-25000-mah-96-25wh-100w-s-integrovanym-kabelem-usb-c-seda?utm_source=heureka",
-      "price": 1038.0,
-      "ean": "8595217493346",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21848966",
-          "rating_id_type": "product",
-          "unix_timestamp": 1771920145,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "77008f34cfe06af374bb9eac3fc3e9e6e2cb911b"
         }
       ]
     },
