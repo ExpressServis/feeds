@@ -1,9 +1,9 @@
 {
-  "generated_at": 1772680283,
+  "generated_at": 1772766659,
   "stats": {
-    "products_count": 46,
-    "raw_reviews_in_feed": 46,
-    "saved_reviews": 46,
+    "products_count": 48,
+    "raw_reviews_in_feed": 48,
+    "saved_reviews": 48,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 4
   },
@@ -66,7 +66,7 @@
     {
       "product_name": "Swissten síťový adaptér GaN 2× USB-C 65W PD + 1× USB-A 18W QC bílý 22071400",
       "url": "https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-2x-usb-c-65w-pd-1x-usb-a-18w-qc-bily?utm_source=heureka",
-      "price": 376.0,
+      "price": 699.0,
       "ean": "8595217484528",
       "reviews_count": 1,
       "reviews": [
@@ -86,7 +86,7 @@
     {
       "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Stříbrno / Šedá 52510501",
       "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-stribrno-seda?utm_source=heureka",
-      "price": 467.0,
+      "price": 499.0,
       "ean": "8595217465183",
       "reviews_count": 1,
       "reviews": [
@@ -106,7 +106,7 @@
     {
       "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Růžová 52510502",
       "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-ruzova?utm_source=heureka",
-      "price": 323.0,
+      "price": 499.0,
       "ean": "8595217465190",
       "reviews_count": 1,
       "reviews": [
@@ -126,7 +126,7 @@
     {
       "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Černá 52510500",
       "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-cerna?utm_source=heureka",
-      "price": 323.0,
+      "price": 499.0,
       "ean": "8595217465176",
       "reviews_count": 1,
       "reviews": [
@@ -146,7 +146,7 @@
     {
       "product_name": "Swissten Raptor Diamond Ultra Clear 3D temperované sklo pro Apple iPhone XS Max černé 84501718",
       "url": "https://www.express-servis.cz/p/swissten-raptor-diamond-ultra-clear-3d-temperovane-sklo-pro-apple-iphone-xs-max-cerne?utm_source=heureka",
-      "price": 92.0,
+      "price": 100.0,
       "ean": "8595217481725",
       "reviews_count": 1,
       "reviews": [
@@ -226,7 +226,7 @@
     {
       "product_name": "Swissten pouzdro Black-Rock 7″ 65400300",
       "url": "https://www.express-servis.cz/p/pouzdro-swissten-black-rock-7-1?utm_source=heureka",
-      "price": 257.0,
+      "price": 279.0,
       "ean": "8595217477063",
       "reviews_count": 1,
       "reviews": [
@@ -246,7 +246,7 @@
     {
       "product_name": "Swissten power bank cestovní 25000 mAh (96.25Wh) 100W s integrovaným kabelem USB-C šedá 22013977",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-cestovni-25000-mah-96-25wh-100w-s-integrovanym-kabelem-usb-c-seda?utm_source=heureka",
-      "price": 1038.0,
+      "price": 1699.0,
       "ean": "8595217493346",
       "reviews_count": 1,
       "reviews": [
@@ -406,7 +406,7 @@
     {
       "product_name": "Pouzdro SWISSTEN BLACK-ROCK 6,4\"",
       "url": "https://www.express-servis.cz/p/pouzdro-swissten-black-rock-6-4?utm_source=heureka",
-      "price": 183.0,
+      "price": 279.0,
       "ean": "8595217477056",
       "reviews_count": 1,
       "reviews": [
@@ -426,7 +426,7 @@
     {
       "product_name": "Swissten 20000 mAh 22013934 černá",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-pd-22-5w-s-integrovanymi-kabely-usb-c-a-lightning-kompatibilni-s-m?utm_source=heureka",
-      "price": 1287.0,
+      "price": 1398.0,
       "ean": "8595217484795",
       "reviews_count": 1,
       "reviews": [
@@ -446,7 +446,7 @@
     {
       "product_name": "Swissten power line power bank 50000 mah pro notebooky 100w power delivery black 22013942",
       "url": "https://www.express-servis.cz/p/swissten-power-line-power-bank-50000-mah-pro-notebooky-100w-power-delivery-black?utm_source=heureka",
-      "price": 2587.0,
+      "price": 2798.0,
       "ean": "8595217481282",
       "reviews_count": 1,
       "reviews": [
@@ -466,7 +466,7 @@
     {
       "product_name": "Swissten 5000 mAh 22013975 černá",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-pd-20w-5000-mah-kompatibilni-s-magsafe?utm_source=heureka",
-      "price": 698.0,
+      "price": 749.0,
       "ean": "8595217484740",
       "reviews_count": 1,
       "reviews": [
@@ -480,6 +480,26 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "37aa6f4ddb8e0209aaa32258bbc9b481ee4b3591"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD displej iPhone 13 Pro - Soft OLED Aftermarket Pro XO7 120 Hz IPH1639",
+      "url": "https://www.express-servis.cz/p/lcd-displej-iphone-13-pro-soft-oled-aftermarket-pro-xo7-120-hz?utm_source=heureka",
+      "price": 1975.0,
+      "ean": "8597593021038",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "15830434",
+          "rating_id_type": "offer",
+          "unix_timestamp": 1768825300,
+          "rating": 1.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "74a76c7426f7501eabd127293fe1d3e1f47cff8f"
         }
       ]
     },
@@ -506,7 +526,7 @@
     {
       "product_name": "Karl Lagerfeld 3D Logo NFT Karl and Choupette, silikonové Pouzdro pro AirPods 4, černé KLA4RUNKC",
       "url": "https://www.express-servis.cz/p/karl-lagerfeld-3d-logo-nft-karl-and-choupette-silikonove-pouzdro-pro-airpods-4-black?utm_source=heureka",
-      "price": 286.0,
+      "price": 294.0,
       "ean": "3666339448684",
       "reviews_count": 1,
       "reviews": [
@@ -586,7 +606,7 @@
     {
       "product_name": "Swissten power bank 20000 mAh 45W s integrovaným kabelem USB-C vesmírně stříbrná 22013976",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-45w-s-integrovanym-kabelem-usb-c-vesmirne-stribrna?utm_source=heureka",
-      "price": 1208.0,
+      "price": 1299.0,
       "ean": "8595217490833",
       "reviews_count": 1,
       "reviews": [
@@ -606,7 +626,7 @@
     {
       "product_name": "Bluetooth headset swissten dock earpiece 51204000",
       "url": "https://www.express-servis.cz/p/bluetooth-headset-swissten-dock-earpiece?utm_source=heureka",
-      "price": 452.0,
+      "price": 599.0,
       "ean": "8595217481411",
       "reviews_count": 1,
       "reviews": [
@@ -726,7 +746,7 @@
     {
       "product_name": "Swissten power line power bank 50000 mah pro notebooky 100w power delivery black 22013942",
       "url": "https://www.express-servis.cz/p/swissten-power-line-power-bank-50000-mah-pro-notebooky-100w-power-delivery-black?utm_source=heureka",
-      "price": 2587.0,
+      "price": 2798.0,
       "ean": "8595217481282",
       "reviews_count": 1,
       "reviews": [
@@ -846,7 +866,7 @@
     {
       "product_name": "iOttie Sticky Gel Dashboard Pad for Car Mounts - podložka pod držák do auta ACDPIO301",
       "url": "https://www.express-servis.cz/p/iottie-sticky-gel-dashboard-pad-for-car-mounts-podlozka-pod-drzak-do-auta?utm_source=heureka",
-      "price": 286.0,
+      "price": 265.0,
       "ean": "857199008092",
       "reviews_count": 1,
       "reviews": [
@@ -860,6 +880,26 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "668c1359890629630d7b5f1a9d710db966657df5"
+        }
+      ]
+    },
+    {
+      "product_name": "BAKU B-7000 Lepidlo 50g",
+      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml?utm_source=heureka",
+      "price": 25.0,
+      "ean": "8596115571044",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21198566",
+          "rating_id_type": "product",
+          "unix_timestamp": 1763553004,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "d43fc406ec1d116948391fd521b8064c5fcca117"
         }
       ]
     },
@@ -946,7 +986,7 @@
     {
       "product_name": "Ozobot Evo – školní sada, 12 ks OZO-051210-01-03",
       "url": "https://www.express-servis.cz/p/ozobot-evo-skolni-sada-12-ks-2?utm_source=heureka",
-      "price": 56563.0,
+      "price": 55949.0,
       "ean": "8718858916009",
       "reviews_count": 1,
       "reviews": [
