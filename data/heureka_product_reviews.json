@@ -1,9 +1,9 @@
 {
-  "generated_at": 1773026130,
+  "generated_at": 1773112203,
   "stats": {
-    "products_count": 48,
-    "raw_reviews_in_feed": 48,
-    "saved_reviews": 48,
+    "products_count": 49,
+    "raw_reviews_in_feed": 49,
+    "saved_reviews": 49,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 4
   },
@@ -63,6 +63,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box na baterii HB-04-102B",
+      "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-vyhrivany-box?utm_source=heureka",
+      "price": 3178.0,
+      "ean": "7649994336097",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21935643",
+          "rating_id_type": "product",
+          "unix_timestamp": 1773056179,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Ideální do práce. Denně teplý oběd.",
+          "recommends": "1",
+          "fingerprint": "ceffd8162a28ab67c436386aaa177c454925d584"
+        }
+      ]
+    },
     {
       "product_name": "Swissten síťový adaptér GaN 2× USB-C 65W PD + 1× USB-A 18W QC bílý 22071400",
       "url": "https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-2x-usb-c-65w-pd-1x-usb-a-18w-qc-bily?utm_source=heureka",
