@@ -1,5 +1,5 @@
 {
-  "generated_at": 1773112203,
+  "generated_at": 1773198576,
   "stats": {
     "products_count": 49,
     "raw_reviews_in_feed": 49,
@@ -13,11 +13,6 @@
         "ean": "8595217465183",
         "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-stribrno-seda?utm_source=heureka",
         "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Stříbrno / Šedá 52510501"
-      },
-      {
-        "ean": "8595217465190",
-        "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-ruzova?utm_source=heureka",
-        "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Růžová 52510502"
       },
       {
         "ean": "8595217465176",
@@ -84,6 +79,26 @@
       ]
     },
     {
+      "product_name": "WD Elements Portable - 1TB, externí disk WDBUZG0010BBK-WESN",
+      "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk?utm_source=heureka",
+      "price": 2200.0,
+      "ean": "718037855448",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21913253",
+          "rating_id_type": "product",
+          "unix_timestamp": 1772716664,
+          "rating": 5.0,
+          "pros": "přesně takový, jaký potřebuju :-)",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "600ee6f000d1f29d4911d11ac1415b36c1205bd6"
+        }
+      ]
+    },
+    {
       "product_name": "Swissten síťový adaptér GaN 2× USB-C 65W PD + 1× USB-A 18W QC bílý 22071400",
       "url": "https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-2x-usb-c-65w-pd-1x-usb-a-18w-qc-bily?utm_source=heureka",
       "price": 699.0,
@@ -108,26 +123,6 @@
       "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-stribrno-seda?utm_source=heureka",
       "price": 499.0,
       "ean": "8595217465183",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21897634",
-          "rating_id_type": "product",
-          "unix_timestamp": 1772545125,
-          "rating": 4.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "78dfcf43a1ad74a7876c16b02f1de2c23f65fce8"
-        }
-      ]
-    },
-    {
-      "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Růžová 52510502",
-      "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-ruzova?utm_source=heureka",
-      "price": 499.0,
-      "ean": "8595217465190",
       "reviews_count": 1,
       "reviews": [
         {
