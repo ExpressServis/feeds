@@ -1,11 +1,11 @@
 {
-  "generated_at": 1773371484,
+  "generated_at": 1773457811,
   "stats": {
     "products_count": 49,
     "raw_reviews_in_feed": 49,
     "saved_reviews": 49,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 4
+    "cross_product_duplicates_count": 3
   },
   "cross_product_duplicates": {
     "78dfcf43a1ad74a7876c16b02f1de2c23f65fce8": [
@@ -13,6 +13,11 @@
         "ean": "8595217465183",
         "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-stribrno-seda?utm_source=heureka",
         "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Stříbrno / Šedá 52510501"
+      },
+      {
+        "ean": "8595217465190",
+        "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-ruzova?utm_source=heureka",
+        "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Růžová 52510502"
       },
       {
         "ean": "8595217465176",
@@ -43,18 +48,6 @@
         "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-black-1?utm_source=heureka",
         "product_name": "LCD Displej + Dotyk + Přední kryt Samsung G986/G985 Galaxy S20+"
       }
-    ],
-    "3a7749b04f9a0c626379ea05f65d5a3e1681195d": [
-      {
-        "ean": "8596311204555",
-        "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-pro-huawei-3340mah-li-pol-oem?utm_source=heureka",
-        "product_name": "Huawei HB356687ECW"
-      },
-      {
-        "ean": "8596311110603",
-        "url": "https://www.express-servis.cz/p/hb356687ecw-huawei-baterie-3340mah-li-pol-service-pack?utm_source=heureka",
-        "product_name": "Huawei HB356687ECW"
-      }
     ]
   },
   "products": [
@@ -81,7 +74,7 @@
     {
       "product_name": "WD Elements Portable - 1TB, externí disk WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk?utm_source=heureka",
-      "price": 2196.0,
+      "price": 2206.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -123,6 +116,26 @@
       "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-stribrno-seda?utm_source=heureka",
       "price": 499.0,
       "ean": "8595217465183",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21897634",
+          "rating_id_type": "product",
+          "unix_timestamp": 1772545125,
+          "rating": 4.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "78dfcf43a1ad74a7876c16b02f1de2c23f65fce8"
+        }
+      ]
+    },
+    {
+      "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Růžová 52510502",
+      "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-ruzova?utm_source=heureka",
+      "price": 499.0,
+      "ean": "8595217465190",
       "reviews_count": 1,
       "reviews": [
         {
@@ -803,26 +816,6 @@
       "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-pro-huawei-3340mah-li-pol-oem?utm_source=heureka",
       "price": 132.0,
       "ean": "8596311204555",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21336718",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765100449,
-          "rating": 5.0,
-          "pros": "Cena",
-          "cons": "Asi malinko kratší flex než na originální takže se musí popotáhnout a ohnout v jiném místě než je továrně ohnuto a trochu se to pne. (Po přišroubování jisticího plechu to ale nevypadne. \nNemá na sobě vyndavací samolepky jako originál.",
-          "summary": "Originál to není ale za tu cenu slušná baterie.",
-          "recommends": "1",
-          "fingerprint": "3a7749b04f9a0c626379ea05f65d5a3e1681195d"
-        }
-      ]
-    },
-    {
-      "product_name": "Huawei HB356687ECW",
-      "url": "https://www.express-servis.cz/p/hb356687ecw-huawei-baterie-3340mah-li-pol-service-pack?utm_source=heureka",
-      "price": 340.0,
-      "ean": "8596311110603",
       "reviews_count": 1,
       "reviews": [
         {
