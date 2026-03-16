@@ -1,9 +1,9 @@
 {
-  "generated_at": 1773544950,
+  "generated_at": 1773631351,
   "stats": {
-    "products_count": 49,
-    "raw_reviews_in_feed": 49,
-    "saved_reviews": 49,
+    "products_count": 47,
+    "raw_reviews_in_feed": 47,
+    "saved_reviews": 47,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -368,26 +368,6 @@
           "summary": "Splnilo to očekávaný požadavek.",
           "recommends": "1",
           "fingerprint": "41d6bd618e969c9236918781a38b8782d8630731"
-        }
-      ]
-    },
-    {
-      "product_name": "iFixit Precision Screw Extractor Set – sada pro vytažení stržených šroubů TL0067",
-      "url": "https://www.express-servis.cz/p/ifixit-precision-screw-extractor-set-sada-pro-vytazeni-strzenych-sroubu?utm_source=heureka",
-      "price": 658.0,
-      "ean": "8597593018823",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21742218",
-          "rating_id_type": "product",
-          "unix_timestamp": 1770383418,
-          "rating": 5.0,
-          "pros": "výborné na zaseklé šroubky nebo ty se strženým závitem\nna malé šroubky hlavně u notebooků to opravdu funguje\nkvalita výrobku (mám od výrobce víc takového nářadí k opravě notebooků)",
-          "cons": "vyšší cena, ale to je věc výrobce",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "2dee424493c7efaffc0a418d9bf0742fa3f8d9fa"
         }
       ]
     },
@@ -1008,26 +988,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "bde6f41bd694e3ed355c055d2fb11dd375b10f6d"
-        }
-      ]
-    },
-    {
-      "product_name": "Danalock V3 - univerzální modul - Bluetooth DL-02031304",
-      "url": "https://www.express-servis.cz/p/danalock-v3-univerzalni-modul-bluetooth-1?utm_source=heureka",
-      "price": 3486.0,
-      "ean": "5712560000547",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20774821",
-          "rating_id_type": "product",
-          "unix_timestamp": 1757930303,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Bluetoth ovládání zámku",
-          "recommends": "1",
-          "fingerprint": "c68eaf3f807f1f81db4507a5672b804085ac9934"
         }
       ]
     }
