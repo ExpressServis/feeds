@@ -1,9 +1,9 @@
 {
-  "generated_at": 1773803896,
+  "generated_at": 1773890311,
   "stats": {
-    "products_count": 48,
-    "raw_reviews_in_feed": 48,
-    "saved_reviews": 48,
+    "products_count": 46,
+    "raw_reviews_in_feed": 46,
+    "saved_reviews": 46,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -52,26 +52,6 @@
   },
   "products": [
     {
-      "product_name": "Kryt Samsung A356 Galaxy A35 5G, A556 Galaxy A55 5G sklíčko zadní hlavní kamery - set 3ks",
-      "url": "https://www.express-servis.cz/p/samsung-a356-a556-galaxy-a35-a55-5g-sklicko-kamer?utm_source=heureka",
-      "price": 29.0,
-      "ean": "8596311254161",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21993992",
-          "rating_id_type": "product",
-          "unix_timestamp": 1773734062,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Náhradní součástka plně nahrazuje\noriginál. Cena nízká.",
-          "recommends": "1",
-          "fingerprint": "ed641111a427c97e5fc91cad93f913d62d076888"
-        }
-      ]
-    },
-    {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box na baterii HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-vyhrivany-box?utm_source=heureka",
       "price": 3178.0,
@@ -94,7 +74,7 @@
     {
       "product_name": "WD Elements Portable - 1TB, externí disk WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk?utm_source=heureka",
-      "price": 2219.0,
+      "price": 2209.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -988,26 +968,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "e41c84be4f23567a8dbaad35768ec1e5092118e0"
-        }
-      ]
-    },
-    {
-      "product_name": "Ozobot Evo – školní sada, 12 ks OZO-051210-01-03",
-      "url": "https://www.express-servis.cz/p/ozobot-evo-skolni-sada-12-ks-2?utm_source=heureka",
-      "price": 55949.0,
-      "ean": "8718858916009",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20789764",
-          "rating_id_type": "product",
-          "unix_timestamp": 1758174844,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "bde6f41bd694e3ed355c055d2fb11dd375b10f6d"
         }
       ]
     }
