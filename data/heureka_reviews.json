@@ -1,7 +1,22 @@
 {
-  "generated_at": 1773976341,
-  "count": 161,
+  "generated_at": 1774062461,
+  "count": 162,
   "reviews": [
+    {
+      "rating_id": "909987272",
+      "ordered": 1773420273,
+      "unix_timestamp": 1773995414,
+      "total_rating": 4.5,
+      "delivery_time": 4.5,
+      "transport_quality": 5.0,
+      "web_usability": null,
+      "communication": 5.0,
+      "pros": "Objednával jsem displej s rámečkem na Samsung Z Flip 4. Cena o 2000 Kč nižší než v jiných obchodech",
+      "cons": "",
+      "summary": "",
+      "reaction": "",
+      "recommends": "1"
+    },
     {
       "rating_id": "905312118",
       "ordered": 1771493686,
