@@ -1,11 +1,11 @@
 {
-  "generated_at": 1774062462,
+  "generated_at": 1774149538,
   "stats": {
-    "products_count": 46,
-    "raw_reviews_in_feed": 46,
-    "saved_reviews": 46,
+    "products_count": 47,
+    "raw_reviews_in_feed": 47,
+    "saved_reviews": 47,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 3
+    "cross_product_duplicates_count": 4
   },
   "cross_product_duplicates": {
     "78dfcf43a1ad74a7876c16b02f1de2c23f65fce8": [
@@ -48,6 +48,18 @@
         "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-black-1?utm_source=heureka",
         "product_name": "LCD Displej + Dotyk + Přední kryt Samsung G986/G985 Galaxy S20+"
       }
+    ],
+    "3a7749b04f9a0c626379ea05f65d5a3e1681195d": [
+      {
+        "ean": "8596311204555",
+        "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-pro-huawei-3340mah-li-pol-oem?utm_source=heureka",
+        "product_name": "Huawei HB356687ECW"
+      },
+      {
+        "ean": "8596311110603",
+        "url": "https://www.express-servis.cz/p/hb356687ecw-huawei-baterie-3340mah-li-pol-service-pack?utm_source=heureka",
+        "product_name": "Huawei HB356687ECW"
+      }
     ]
   },
   "products": [
@@ -74,7 +86,7 @@
     {
       "product_name": "WD Elements Portable - 1TB, externí disk WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk?utm_source=heureka",
-      "price": 3265.0,
+      "price": 2535.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -214,7 +226,7 @@
     {
       "product_name": "Kryt Apple iPhone XS Max Zadní bílý",
       "url": "https://www.express-servis.cz/p/sklo-zadniho-krytu-s-vetsim-otvorem-na-kameru-pro-apple-iphone-xs-max-bile?utm_source=heureka",
-      "price": 87.0,
+      "price": 102.0,
       "ean": "8597593010452",
       "reviews_count": 1,
       "reviews": [
@@ -234,7 +246,7 @@
     {
       "product_name": "Apple iPhone XS Max Zadní kryt bílý",
       "url": "https://www.express-servis.cz/p/zadni-kryt-pro-apple-iphone-xs-max-bily-kopie?utm_source=heureka",
-      "price": 841.0,
+      "price": 833.0,
       "ean": "8597593009616",
       "reviews_count": 1,
       "reviews": [
@@ -294,7 +306,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/b-7000-lepidlo-na-instalaci-displeje-15-ml-transparent?utm_source=heureka",
-      "price": 50.0,
+      "price": 66.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -354,7 +366,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/b-7000-lepidlo-na-instalaci-displeje-15-ml-transparent?utm_source=heureka",
-      "price": 50.0,
+      "price": 66.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -394,7 +406,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/b-7000-lepidlo-na-instalaci-displeje-15-ml-transparent?utm_source=heureka",
-      "price": 50.0,
+      "price": 66.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -414,7 +426,7 @@
     {
       "product_name": "Plastová pružinová svěrka TL0008",
       "url": "https://www.express-servis.cz/p/plastova-pruzinova-sverka?utm_source=heureka",
-      "price": 35.0,
+      "price": 32.0,
       "ean": "8597593008367",
       "reviews_count": 1,
       "reviews": [
@@ -534,7 +546,7 @@
     {
       "product_name": "Spigen Rugged Armor Pro - ochranný kryt pro Apple Watch 41mm/40mm, černý ACS00546",
       "url": "https://www.express-servis.cz/p/spigen-rugged-armor-pro-ochranny-kryt-pro-apple-watch-41mm-40mm-cerny?utm_source=heureka",
-      "price": 724.0,
+      "price": 500.0,
       "ean": "8809685624080",
       "reviews_count": 1,
       "reviews": [
@@ -554,7 +566,7 @@
     {
       "product_name": "Karl Lagerfeld 3D Logo NFT Karl and Choupette, silikonové Pouzdro pro AirPods 4, černé KLA4RUNKC",
       "url": "https://www.express-servis.cz/p/karl-lagerfeld-3d-logo-nft-karl-and-choupette-silikonove-pouzdro-pro-airpods-4-black?utm_source=heureka",
-      "price": 282.0,
+      "price": 294.0,
       "ean": "3666339448684",
       "reviews_count": 1,
       "reviews": [
@@ -816,6 +828,26 @@
       "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-pro-huawei-3340mah-li-pol-oem?utm_source=heureka",
       "price": 132.0,
       "ean": "8596311204555",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21336718",
+          "rating_id_type": "product",
+          "unix_timestamp": 1765100449,
+          "rating": 5.0,
+          "pros": "Cena",
+          "cons": "Asi malinko kratší flex než na originální takže se musí popotáhnout a ohnout v jiném místě než je továrně ohnuto a trochu se to pne. (Po přišroubování jisticího plechu to ale nevypadne. \nNemá na sobě vyndavací samolepky jako originál.",
+          "summary": "Originál to není ale za tu cenu slušná baterie.",
+          "recommends": "1",
+          "fingerprint": "3a7749b04f9a0c626379ea05f65d5a3e1681195d"
+        }
+      ]
+    },
+    {
+      "product_name": "Huawei HB356687ECW",
+      "url": "https://www.express-servis.cz/p/hb356687ecw-huawei-baterie-3340mah-li-pol-service-pack?utm_source=heureka",
+      "price": 340.0,
+      "ean": "8596311110603",
       "reviews_count": 1,
       "reviews": [
         {
