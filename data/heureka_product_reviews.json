@@ -1,9 +1,9 @@
 {
-  "generated_at": 1774581751,
+  "generated_at": 1774667760,
   "stats": {
-    "products_count": 46,
-    "raw_reviews_in_feed": 46,
-    "saved_reviews": 46,
+    "products_count": 44,
+    "raw_reviews_in_feed": 44,
+    "saved_reviews": 44,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -28,12 +28,12 @@
     "7dafec11248c236eb0abac10e8b2f7f475f8276f": [
       {
         "ean": "8597593010452",
-        "url": "https://www.express-servis.cz/p/sklo-zadniho-krytu-s-vetsim-otvorem-na-kameru-pro-apple-iphone-xs-max-bile?utm_source=heureka",
+        "url": "https://www.express-servis.cz/p/zadni-sklo-iphone-xs-max-bile?utm_source=heureka",
         "product_name": "Kryt Apple iPhone XS Max Zadní bílý"
       },
       {
         "ean": "8597593009616",
-        "url": "https://www.express-servis.cz/p/zadni-kryt-pro-apple-iphone-xs-max-bily-kopie?utm_source=heureka",
+        "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
         "product_name": "Apple iPhone XS Max Zadní kryt bílý"
       }
     ],
@@ -74,7 +74,7 @@
     {
       "product_name": "WD Elements Portable - 1TB, externí disk WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk?utm_source=heureka",
-      "price": 3231.0,
+      "price": 3248.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -193,7 +193,7 @@
     },
     {
       "product_name": "Lepení baterie pro Apple iPhone XS Max 8596115546790",
-      "url": "https://www.express-servis.cz/p/adhesivni-paska-pro-prilepeni-baterie-pro-apple-iphone-xs-max?utm_source=heureka",
+      "url": "https://www.express-servis.cz/p/podlepeni-baterie-iphone-xs-max?utm_source=heureka",
       "price": 13.0,
       "ean": "8596115546790",
       "reviews_count": 1,
@@ -213,7 +213,7 @@
     },
     {
       "product_name": "Kryt Apple iPhone XS Max Zadní bílý",
-      "url": "https://www.express-servis.cz/p/sklo-zadniho-krytu-s-vetsim-otvorem-na-kameru-pro-apple-iphone-xs-max-bile?utm_source=heureka",
+      "url": "https://www.express-servis.cz/p/zadni-sklo-iphone-xs-max-bile?utm_source=heureka",
       "price": 47.0,
       "ean": "8597593010452",
       "reviews_count": 1,
@@ -233,7 +233,7 @@
     },
     {
       "product_name": "Apple iPhone XS Max Zadní kryt bílý",
-      "url": "https://www.express-servis.cz/p/zadni-kryt-pro-apple-iphone-xs-max-bily-kopie?utm_source=heureka",
+      "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
       "price": 718.0,
       "ean": "8597593009616",
       "reviews_count": 1,
@@ -293,7 +293,7 @@
     },
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
-      "url": "https://www.express-servis.cz/p/b-7000-lepidlo-na-instalaci-displeje-15-ml-transparent?utm_source=heureka",
+      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
       "price": 50.0,
       "ean": "8596311211164",
       "reviews_count": 1,
@@ -353,7 +353,7 @@
     },
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
-      "url": "https://www.express-servis.cz/p/b-7000-lepidlo-na-instalaci-displeje-15-ml-transparent?utm_source=heureka",
+      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
       "price": 50.0,
       "ean": "8596311211164",
       "reviews_count": 1,
@@ -372,7 +372,7 @@
       ]
     },
     {
-      "product_name": "iFixit Precision Screw Extractor Set – sada pro vytažení stržených šroubů TL0067",
+      "product_name": "iFixit Precision Screw Extractor Set - sada pro vytažení stržených šroubů TL0067",
       "url": "https://www.express-servis.cz/p/ifixit-precision-screw-extractor-set-sada-pro-vytazeni-strzenych-sroubu?utm_source=heureka",
       "price": 775.0,
       "ean": "8597593018823",
@@ -393,7 +393,7 @@
     },
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
-      "url": "https://www.express-servis.cz/p/b-7000-lepidlo-na-instalaci-displeje-15-ml-transparent?utm_source=heureka",
+      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
       "price": 50.0,
       "ean": "8596311211164",
       "reviews_count": 1,
@@ -508,26 +508,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "37aa6f4ddb8e0209aaa32258bbc9b481ee4b3591"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD displej iPhone 13 Pro - Soft OLED Aftermarket Pro XO7 120 Hz IPH1639",
-      "url": "https://www.express-servis.cz/p/lcd-displej-iphone-13-pro-soft-oled-aftermarket-pro-xo7-120-hz?utm_source=heureka",
-      "price": 1639.0,
-      "ean": "8597593021038",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "15830434",
-          "rating_id_type": "offer",
-          "unix_timestamp": 1768825300,
-          "rating": 1.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "74a76c7426f7501eabd127293fe1d3e1f47cff8f"
         }
       ]
     },
@@ -792,26 +772,6 @@
       ]
     },
     {
-      "product_name": "Mijing TG650 - tepelná pasta TL0036",
-      "url": "https://www.express-servis.cz/p/mijing-tg650-tepelna-pasta?utm_source=heureka",
-      "price": 157.0,
-      "ean": "8597593008640",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21341680",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765100715,
-          "rating": 2.0,
-          "pros": "Levné a průměrné ale doporučit jen pro tam kde přenos tepla není krytický. Kvalita podobná HY510",
-          "cons": "Čekal sem lepší odvod tepla ale možná jsem rozmlsaný tekutým kovem. Ten kdo chce kvalitu si raději má koupit něco pořádného.",
-          "summary": "Vodivost 6 W (mk) se mi zdá přestřelená a odhaduji tak na 2,5 max.",
-          "recommends": "0",
-          "fingerprint": "aee045e10355aa483daddc0750abf652420693f0"
-        }
-      ]
-    },
-    {
       "product_name": "Huawei HB356687ECW",
       "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-pro-huawei-3340mah-li-pol-oem?utm_source=heureka",
       "price": 132.0,
@@ -873,7 +833,7 @@
     },
     {
       "product_name": "BAKU B-7000 Lepidlo 50g",
-      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml?utm_source=heureka",
+      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
       "price": 78.0,
       "ean": "8596115571044",
       "reviews_count": 1,
