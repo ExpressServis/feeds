@@ -1,9 +1,9 @@
 {
-  "generated_at": 1774840965,
+  "generated_at": 1774927332,
   "stats": {
-    "products_count": 44,
-    "raw_reviews_in_feed": 44,
-    "saved_reviews": 44,
+    "products_count": 43,
+    "raw_reviews_in_feed": 43,
+    "saved_reviews": 43,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -51,6 +51,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
+      "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
+      "price": 66.0,
+      "ean": "8597593012036",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22078660",
+          "rating_id_type": "product",
+          "unix_timestamp": 1774904643,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "2620720676cb3e17bafb20bc832e4db3b4ddd351"
+        }
+      ]
+    },
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box na baterii HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-vyhrivany-box?utm_source=heureka",
@@ -512,26 +532,6 @@
       ]
     },
     {
-      "product_name": "Spigen Rugged Armor Pro - ochranný kryt pro Apple Watch 41mm/40mm, černý ACS00546",
-      "url": "https://www.express-servis.cz/p/spigen-rugged-armor-pro-ochranny-kryt-pro-apple-watch-41mm-40mm-cerny?utm_source=heureka",
-      "price": 489.0,
-      "ean": "8809685624080",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21551653",
-          "rating_id_type": "product",
-          "unix_timestamp": 1767793849,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "Nic",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "bb1aee98f57453485b98fd9054dfc6fa476e8ee0"
-        }
-      ]
-    },
-    {
       "product_name": "Karl Lagerfeld 3D Logo NFT Karl and Choupette, silikonové Pouzdro pro AirPods 4, černé KLA4RUNKC",
       "url": "https://www.express-servis.cz/p/karl-lagerfeld-3d-logo-nft-karl-and-choupette-silikonove-pouzdro-pro-airpods-4-black?utm_source=heureka",
       "price": 286.0,
@@ -908,26 +908,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "da9890988a23baef0f05a4b31c991c5231cf6352"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD Display + Dotyková Deska pro OnePlus Nord 3 57983117780",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotykova-deska-pro-oneplus-nord-3?utm_source=heureka",
-      "price": 1315.0,
-      "ean": "8596311231292",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "20868032",
-          "rating_id_type": "product",
-          "unix_timestamp": 1759226022,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "e41c84be4f23567a8dbaad35768ec1e5092118e0"
         }
       ]
     }
