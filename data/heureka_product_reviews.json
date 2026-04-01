@@ -1,9 +1,9 @@
 {
-  "generated_at": 1774927332,
+  "generated_at": 1775013772,
   "stats": {
-    "products_count": 43,
-    "raw_reviews_in_feed": 43,
-    "saved_reviews": 43,
+    "products_count": 42,
+    "raw_reviews_in_feed": 42,
+    "saved_reviews": 42,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -52,6 +52,26 @@
   },
   "products": [
     {
+      "product_name": "Samsung AB553446BU",
+      "url": "https://www.express-servis.cz/p/ab553446bu-baterie-pro-samsung-li-ion-1000mah-oem?utm_source=heureka",
+      "price": 70.0,
+      "ean": "8596311244513",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22079872",
+          "rating_id_type": "product",
+          "unix_timestamp": 1774936387,
+          "rating": 4.5,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "7a277353011d0cc6c09ea3e2004838270bd574ca"
+        }
+      ]
+    },
+    {
       "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
       "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
       "price": 66.0,
@@ -72,29 +92,9 @@
       ]
     },
     {
-      "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box na baterii HB-04-102B",
-      "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-vyhrivany-box?utm_source=heureka",
-      "price": 3178.0,
-      "ean": "7649994336097",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21935643",
-          "rating_id_type": "product",
-          "unix_timestamp": 1773056179,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Ideální do práce. Denně teplý oběd.",
-          "recommends": "1",
-          "fingerprint": "ceffd8162a28ab67c436386aaa177c454925d584"
-        }
-      ]
-    },
-    {
       "product_name": "WD Elements Portable - 1TB, externí disk WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk?utm_source=heureka",
-      "price": 3263.0,
+      "price": 3274.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -534,7 +534,7 @@
     {
       "product_name": "Karl Lagerfeld 3D Logo NFT Karl and Choupette, silikonové Pouzdro pro AirPods 4, černé KLA4RUNKC",
       "url": "https://www.express-servis.cz/p/karl-lagerfeld-3d-logo-nft-karl-and-choupette-silikonove-pouzdro-pro-airpods-4-black?utm_source=heureka",
-      "price": 286.0,
+      "price": 282.0,
       "ean": "3666339448684",
       "reviews_count": 1,
       "reviews": [
@@ -554,7 +554,7 @@
     {
       "product_name": "Guess 4G Script PC/PU Pouzdro pro Airpods Pro, hnědý GUAP4GSMW",
       "url": "https://www.express-servis.cz/p/guess-4g-script-pc-pu-pouzdro-pro-airpods-pro-brown?utm_source=heureka",
-      "price": 368.0,
+      "price": 355.0,
       "ean": "3666339009731",
       "reviews_count": 1,
       "reviews": [
@@ -652,26 +652,6 @@
       ]
     },
     {
-      "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box na baterii HB-04-102B",
-      "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-vyhrivany-box?utm_source=heureka",
-      "price": 3178.0,
-      "ean": "7649994336097",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21417148",
-          "rating_id_type": "product",
-          "unix_timestamp": 1766046707,
-          "rating": 5.0,
-          "pros": "Super , nádherně ohřívá",
-          "cons": "Telefon s aplikací musí být poblíž.",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "ce031dd61058a7d6880112a7173d129dfea119c7"
-        }
-      ]
-    },
-    {
       "product_name": "LCD display + Dotyk + Přední Kryt Samsung G986/G985 Galaxy S20+ Cosmic Gray 57983118630",
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-gray?utm_source=heureka",
       "price": 1735.0,
@@ -714,7 +694,7 @@
     {
       "product_name": "Swissten síťový adaptér GaN 2x USB-C 65W PD + 1x USB-A 18W QC černý 22071410",
       "url": "https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-2x-usb-c-65w-pd-1x-usb-a-18w-qc-cerny?utm_source=heureka",
-      "price": 699.0,
+      "price": 497.0,
       "ean": "8595217484535",
       "reviews_count": 1,
       "reviews": [
