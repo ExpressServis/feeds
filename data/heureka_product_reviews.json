@@ -1,9 +1,9 @@
 {
-  "generated_at": 1775013772,
+  "generated_at": 1775100043,
   "stats": {
-    "products_count": 42,
-    "raw_reviews_in_feed": 42,
-    "saved_reviews": 42,
+    "products_count": 39,
+    "raw_reviews_in_feed": 39,
+    "saved_reviews": 39,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -92,9 +92,29 @@
       ]
     },
     {
+      "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
+      "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
+      "price": 4498.0,
+      "ean": "7649994336097",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21935643",
+          "rating_id_type": "product",
+          "unix_timestamp": 1773056179,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Ideální do práce. Denně teplý oběd.",
+          "recommends": "1",
+          "fingerprint": "ceffd8162a28ab67c436386aaa177c454925d584"
+        }
+      ]
+    },
+    {
       "product_name": "WD Elements Portable - 1TB, externí disk WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk?utm_source=heureka",
-      "price": 3274.0,
+      "price": 3265.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -274,7 +294,7 @@
     {
       "product_name": "Swissten pouzdro Black-Rock 7″ 65400300",
       "url": "https://www.express-servis.cz/p/pouzdro-swissten-black-rock-7-1?utm_source=heureka",
-      "price": 279.0,
+      "price": 280.0,
       "ean": "8595217477063",
       "reviews_count": 1,
       "reviews": [
@@ -392,26 +412,6 @@
       ]
     },
     {
-      "product_name": "iFixit Precision Screw Extractor Set - sada pro vytažení stržených šroubů TL0067",
-      "url": "https://www.express-servis.cz/p/ifixit-precision-screw-extractor-set-sada-pro-vytazeni-strzenych-sroubu?utm_source=heureka",
-      "price": 775.0,
-      "ean": "8597593018823",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21742218",
-          "rating_id_type": "product",
-          "unix_timestamp": 1770383418,
-          "rating": 5.0,
-          "pros": "výborné na zaseklé šroubky nebo ty se strženým závitem\nna malé šroubky hlavně u notebooků to opravdu funguje\nkvalita výrobku (mám od výrobce víc takového nářadí k opravě notebooků)",
-          "cons": "vyšší cena, ale to je věc výrobce",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "2dee424493c7efaffc0a418d9bf0742fa3f8d9fa"
-        }
-      ]
-    },
-    {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
       "price": 50.0,
@@ -432,29 +432,9 @@
       ]
     },
     {
-      "product_name": "Plastová pružinová svěrka TL0008",
-      "url": "https://www.express-servis.cz/p/plastova-pruzinova-sverka?utm_source=heureka",
-      "price": 23.0,
-      "ean": "8597593008367",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21729304",
-          "rating_id_type": "product",
-          "unix_timestamp": 1770196975,
-          "rating": 4.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Plní funkci se",
-          "recommends": "1",
-          "fingerprint": "65f76d81406585e2f41618e346c0c41ea0751b4c"
-        }
-      ]
-    },
-    {
       "product_name": "Pouzdro SWISSTEN BLACK-ROCK 6,4\"",
       "url": "https://www.express-servis.cz/p/pouzdro-swissten-black-rock-6-4?utm_source=heureka",
-      "price": 279.0,
+      "price": 280.0,
       "ean": "8595217477056",
       "reviews_count": 1,
       "reviews": [
@@ -474,7 +454,7 @@
     {
       "product_name": "Swissten 20000 mAh 22013934 černá",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-pd-22-5w-s-integrovanymi-kabely-usb-c-a-lightning-kompatibilni-s-m?utm_source=heureka",
-      "price": 1398.0,
+      "price": 1399.0,
       "ean": "8595217484795",
       "reviews_count": 1,
       "reviews": [
@@ -514,7 +494,7 @@
     {
       "product_name": "Swissten 5000 mAh 22013975 černá",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-pd-20w-5000-mah-kompatibilni-s-magsafe?utm_source=heureka",
-      "price": 749.0,
+      "price": 572.0,
       "ean": "8595217484740",
       "reviews_count": 1,
       "reviews": [
@@ -652,6 +632,26 @@
       ]
     },
     {
+      "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
+      "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
+      "price": 4498.0,
+      "ean": "7649994336097",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21417148",
+          "rating_id_type": "product",
+          "unix_timestamp": 1766046707,
+          "rating": 5.0,
+          "pros": "Super , nádherně ohřívá",
+          "cons": "Telefon s aplikací musí být poblíž.",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "ce031dd61058a7d6880112a7173d129dfea119c7"
+        }
+      ]
+    },
+    {
       "product_name": "LCD display + Dotyk + Přední Kryt Samsung G986/G985 Galaxy S20+ Cosmic Gray 57983118630",
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-gray?utm_source=heureka",
       "price": 1735.0,
@@ -694,7 +694,7 @@
     {
       "product_name": "Swissten síťový adaptér GaN 2x USB-C 65W PD + 1x USB-A 18W QC černý 22071410",
       "url": "https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-2x-usb-c-65w-pd-1x-usb-a-18w-qc-cerny?utm_source=heureka",
-      "price": 497.0,
+      "price": 699.0,
       "ean": "8595217484535",
       "reviews_count": 1,
       "reviews": [
@@ -772,26 +772,6 @@
       ]
     },
     {
-      "product_name": "RELIFE RL-062A Ruční lepicí pistole TL0023",
-      "url": "https://www.express-servis.cz/p/relife-rl-062a-rucni-lepici-pistole?utm_source=heureka",
-      "price": 157.0,
-      "ean": "8597593008510",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21336659",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765100079,
-          "rating": 3.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Vcelku průměrné plastové zpracování které funguje na řidší věci (flux a podobně) ale při hustších už je znát pružení plastů a obávám se že moc dlouho nevydrží při větším tlaku nebo třeba pádu na zem. Patrona která se nasazuje je standardizovaná a  nasadíte Amtech nebo Polské průměrné či Čínské šmejdy a funguje to. U patron s pájkou je to podle její hustoty. Rozměr taky je docela velký ale chtěl sem vyzkoušet jiný dávkovač než kroužek s pantem a závitovou tyčí s pákou a když to srovnám tak je asi kroužek lepší volba.",
-          "recommends": "0",
-          "fingerprint": "f2e74253eabdbb2af155425d872f213593e9c269"
-        }
-      ]
-    },
-    {
       "product_name": "iOttie Sticky Gel Dashboard Pad for Car Mounts - podložka pod držák do auta ACDPIO301",
       "url": "https://www.express-servis.cz/p/iottie-sticky-gel-dashboard-pad-for-car-mounts-podlozka-pod-drzak-do-auta?utm_source=heureka",
       "price": 349.0,
@@ -828,46 +808,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "d43fc406ec1d116948391fd521b8064c5fcca117"
-        }
-      ]
-    },
-    {
-      "product_name": "Mobile Origin Screen Guard, ochranné sklo s aplikátorem pro iPhone 15 Pro SGZ-i15Pro",
-      "url": "https://www.express-servis.cz/p/mobile-origin-screen-guard-ochranne-sklo-s-aplikatorem-pro-iphone-15-pro?utm_source=heureka",
-      "price": 177.0,
-      "ean": "8594215990413",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21108151",
-          "rating_id_type": "product",
-          "unix_timestamp": 1762417350,
-          "rating": 4.0,
-          "pros": "Snadná instalace",
-          "cons": "Mobil překvapivě ztěžkne, přesto, že je sklíčko tenké",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "751bc128c31f282e54abeae39eec91559ffec1ae"
-        }
-      ]
-    },
-    {
-      "product_name": "Quad Lock Case - iPhone 16 Pro Max - Kryt mobilního telefonu - černý QLC-IP16XL",
-      "url": "https://www.express-servis.cz/p/quad-lock-case-iphone-16-pro-max-kryt-mobilniho-telefonu-cerny-kopie?utm_source=heureka",
-      "price": 978.0,
-      "ean": "9348943102803",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21099182",
-          "rating_id_type": "product",
-          "unix_timestamp": 1762320671,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Kdybych vedel, jaky pekny a precizni kryt obdrzim, o tyden drive bych si nekupoval jiny - tento je fakt dobry, krasne se drzi a je vice safety, nez bezne ty ,ktere muzete prikoupit k telefonu - samozrejme cena vyssi, ale to je hned upozaděno, kdyz viditě kvalitu zpracovani a hlavne i pouzitelnost - moznost pripnout si na ruku, na kolo, na motorku atd atd",
-          "recommends": "1",
-          "fingerprint": "4b58016b858abbbe6fe2db4c4da09cc2ab6233ed"
         }
       ]
     },
