@@ -1,9 +1,9 @@
 {
-  "generated_at": 1775618549,
+  "generated_at": 1775704882,
   "stats": {
-    "products_count": 44,
-    "raw_reviews_in_feed": 44,
-    "saved_reviews": 44,
+    "products_count": 46,
+    "raw_reviews_in_feed": 46,
+    "saved_reviews": 46,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -52,6 +52,46 @@
   },
   "products": [
     {
+      "product_name": "Samsung EB-BJ510CBE",
+      "url": "https://www.express-servis.cz/p/eb-bj510cbe-baterie-pro-samsung-li-ion-3100mah-oem?utm_source=heureka",
+      "price": 115.0,
+      "ean": "8596311193293",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22120591",
+          "rating_id_type": "product",
+          "unix_timestamp": 1775622052,
+          "rating": 5.0,
+          "pros": "Plnohodnotné baterie",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "6a066e8662d3312b72f044bd586a6aabad90e82f"
+        }
+      ]
+    },
+    {
+      "product_name": "EB-BG903BBE Baterie pro Samsung Li-Ion 2800mAh (OEM) 57983110807",
+      "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-li-ion-2800mah-oem?utm_source=heureka",
+      "price": 103.0,
+      "ean": "8596311193330",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22120581",
+          "rating_id_type": "product",
+          "unix_timestamp": 1775621914,
+          "rating": 5.0,
+          "pros": "Plnohodnotná baterie.",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "a01c97de3b07f098e3f758f75ef29bf5f4ceffb7"
+        }
+      ]
+    },
+    {
       "product_name": "Samsung AB553446BU",
       "url": "https://www.express-servis.cz/p/ab553446bu-baterie-pro-samsung-li-ion-1000mah-oem?utm_source=heureka",
       "price": 70.0,
@@ -94,7 +134,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
-      "price": 3178.0,
+      "price": 4498.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -114,7 +154,7 @@
     {
       "product_name": "WD Elements Portable - 1TB, externí disk WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk?utm_source=heureka",
-      "price": 2344.0,
+      "price": 3486.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -134,7 +174,7 @@
     {
       "product_name": "Swissten síťový adaptér GaN 2× USB-C 65W PD + 1× USB-A 18W QC bílý 22071400",
       "url": "https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-2x-usb-c-65w-pd-1x-usb-a-18w-qc-bily?utm_source=heureka",
-      "price": 699.0,
+      "price": 436.0,
       "ean": "8595217484528",
       "reviews_count": 1,
       "reviews": [
@@ -154,7 +194,7 @@
     {
       "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Stříbrno / Šedá 52510501",
       "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-stribrno-seda?utm_source=heureka",
-      "price": 499.0,
+      "price": 373.0,
       "ean": "8595217465183",
       "reviews_count": 1,
       "reviews": [
@@ -214,7 +254,7 @@
     {
       "product_name": "Swissten Raptor Diamond Ultra Clear 3D temperované sklo pro Apple iPhone XS Max černé 84501718",
       "url": "https://www.express-servis.cz/p/swissten-raptor-diamond-ultra-clear-3d-temperovane-sklo-pro-apple-iphone-xs-max-cerne?utm_source=heureka",
-      "price": 140.0,
+      "price": 100.0,
       "ean": "8595217481725",
       "reviews_count": 1,
       "reviews": [
@@ -494,7 +534,7 @@
     {
       "product_name": "Swissten 20000 mAh 22013934 černá",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-pd-22-5w-s-integrovanymi-kabely-usb-c-a-lightning-kompatibilni-s-m?utm_source=heureka",
-      "price": 973.0,
+      "price": 1399.0,
       "ean": "8595217484795",
       "reviews_count": 1,
       "reviews": [
@@ -514,7 +554,7 @@
     {
       "product_name": "Swissten power line power bank 50000 mah pro notebooky 100w power delivery black 22013942",
       "url": "https://www.express-servis.cz/p/swissten-power-line-power-bank-50000-mah-pro-notebooky-100w-power-delivery-black?utm_source=heureka",
-      "price": 1841.0,
+      "price": 2798.0,
       "ean": "8595217481282",
       "reviews_count": 1,
       "reviews": [
@@ -634,7 +674,7 @@
     {
       "product_name": "Swissten power bank 20000 mAh 45W s integrovaným kabelem USB-C vesmírně stříbrná 22013976",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-45w-s-integrovanym-kabelem-usb-c-vesmirne-stribrna?utm_source=heureka",
-      "price": 1299.0,
+      "price": 854.0,
       "ean": "8595217490833",
       "reviews_count": 1,
       "reviews": [
@@ -674,7 +714,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
-      "price": 3178.0,
+      "price": 4498.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -734,7 +774,7 @@
     {
       "product_name": "Swissten síťový adaptér GaN 2x USB-C 65W PD + 1x USB-A 18W QC černý 22071410",
       "url": "https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-2x-usb-c-65w-pd-1x-usb-a-18w-qc-cerny?utm_source=heureka",
-      "price": 699.0,
+      "price": 436.0,
       "ean": "8595217484535",
       "reviews_count": 1,
       "reviews": [
@@ -774,7 +814,7 @@
     {
       "product_name": "Swissten power line power bank 50000 mah pro notebooky 100w power delivery black 22013942",
       "url": "https://www.express-servis.cz/p/swissten-power-line-power-bank-50000-mah-pro-notebooky-100w-power-delivery-black?utm_source=heureka",
-      "price": 1841.0,
+      "price": 2798.0,
       "ean": "8595217481282",
       "reviews_count": 1,
       "reviews": [
@@ -834,7 +874,7 @@
     {
       "product_name": "iOttie Sticky Gel Dashboard Pad for Car Mounts - podložka pod držák do auta ACDPIO301",
       "url": "https://www.express-servis.cz/p/iottie-sticky-gel-dashboard-pad-for-car-mounts-podlozka-pod-drzak-do-auta?utm_source=heureka",
-      "price": 349.0,
+      "price": 323.0,
       "ean": "857199008092",
       "reviews_count": 1,
       "reviews": [
