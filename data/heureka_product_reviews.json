@@ -1,9 +1,9 @@
 {
-  "generated_at": 1775791368,
+  "generated_at": 1775877478,
   "stats": {
-    "products_count": 47,
-    "raw_reviews_in_feed": 47,
-    "saved_reviews": 47,
+    "products_count": 46,
+    "raw_reviews_in_feed": 46,
+    "saved_reviews": 46,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 4
   },
@@ -160,26 +160,6 @@
           "summary": "Ideální do práce. Denně teplý oběd.",
           "recommends": "1",
           "fingerprint": "ceffd8162a28ab67c436386aaa177c454925d584"
-        }
-      ]
-    },
-    {
-      "product_name": "WD Elements Portable - 1TB, externí disk WDBUZG0010BBK-WESN",
-      "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk?utm_source=heureka",
-      "price": 2546.0,
-      "ean": "718037855448",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21913253",
-          "rating_id_type": "product",
-          "unix_timestamp": 1772716664,
-          "rating": 5.0,
-          "pros": "přesně takový, jaký potřebuju :-)",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "600ee6f000d1f29d4911d11ac1415b36c1205bd6"
         }
       ]
     },
@@ -386,7 +366,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 38.0,
+      "price": 50.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -446,7 +426,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 38.0,
+      "price": 50.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -486,7 +466,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 38.0,
+      "price": 50.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -526,7 +506,7 @@
     {
       "product_name": "Pouzdro SWISSTEN BLACK-ROCK 6,4\"",
       "url": "https://www.express-servis.cz/p/pouzdro-swissten-black-rock-6-4?utm_source=heureka",
-      "price": 268.0,
+      "price": 238.0,
       "ean": "8595217477056",
       "reviews_count": 1,
       "reviews": [
@@ -546,7 +526,7 @@
     {
       "product_name": "Swissten 20000 mAh 22013934 černá",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-pd-22-5w-s-integrovanymi-kabely-usb-c-a-lightning-kompatibilni-s-m?utm_source=heureka",
-      "price": 1399.0,
+      "price": 854.0,
       "ean": "8595217484795",
       "reviews_count": 1,
       "reviews": [
@@ -566,7 +546,7 @@
     {
       "product_name": "Swissten power line power bank 50000 mah pro notebooky 100w power delivery black 22013942",
       "url": "https://www.express-servis.cz/p/swissten-power-line-power-bank-50000-mah-pro-notebooky-100w-power-delivery-black?utm_source=heureka",
-      "price": 1841.0,
+      "price": 1803.0,
       "ean": "8595217481282",
       "reviews_count": 1,
       "reviews": [
@@ -646,7 +626,7 @@
     {
       "product_name": "UAG Pathfinder - ochranný kryt s MagSafe pro iPhone 15 Pro, černá/šedá 114281113131",
       "url": "https://www.express-servis.cz/p/uag-pathfinder-ochranny-kryt-s-magsafe-pro-iphone-15-pro-cerna-seda?utm_source=heureka",
-      "price": 888.0,
+      "price": 899.0,
       "ean": "840283909405",
       "reviews_count": 1,
       "reviews": [
@@ -686,7 +666,7 @@
     {
       "product_name": "Swissten power bank 20000 mAh 45W s integrovaným kabelem USB-C vesmírně stříbrná 22013976",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-45w-s-integrovanym-kabelem-usb-c-vesmirne-stribrna?utm_source=heureka",
-      "price": 854.0,
+      "price": 845.0,
       "ean": "8595217490833",
       "reviews_count": 1,
       "reviews": [
@@ -826,7 +806,7 @@
     {
       "product_name": "Swissten power line power bank 50000 mah pro notebooky 100w power delivery black 22013942",
       "url": "https://www.express-servis.cz/p/swissten-power-line-power-bank-50000-mah-pro-notebooky-100w-power-delivery-black?utm_source=heureka",
-      "price": 1841.0,
+      "price": 1803.0,
       "ean": "8595217481282",
       "reviews_count": 1,
       "reviews": [
@@ -906,7 +886,7 @@
     {
       "product_name": "iOttie Sticky Gel Dashboard Pad for Car Mounts - podložka pod držák do auta ACDPIO301",
       "url": "https://www.express-servis.cz/p/iottie-sticky-gel-dashboard-pad-for-car-mounts-podlozka-pod-drzak-do-auta?utm_source=heureka",
-      "price": 349.0,
+      "price": 271.0,
       "ean": "857199008092",
       "reviews_count": 1,
       "reviews": [
