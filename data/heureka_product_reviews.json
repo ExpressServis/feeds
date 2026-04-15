@@ -1,9 +1,9 @@
 {
-  "generated_at": 1776136973,
+  "generated_at": 1776223366,
   "stats": {
-    "products_count": 46,
-    "raw_reviews_in_feed": 46,
-    "saved_reviews": 46,
+    "products_count": 45,
+    "raw_reviews_in_feed": 45,
+    "saved_reviews": 45,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 4
   },
@@ -146,7 +146,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
-      "price": 4430.0,
+      "price": 4364.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -246,7 +246,7 @@
     {
       "product_name": "Swissten Raptor Diamond Ultra Clear 3D temperované sklo pro Apple iPhone XS Max černé 84501718",
       "url": "https://www.express-servis.cz/p/swissten-raptor-diamond-ultra-clear-3d-temperovane-sklo-pro-apple-iphone-xs-max-cerne?utm_source=heureka",
-      "price": 100.0,
+      "price": 140.0,
       "ean": "8595217481725",
       "reviews_count": 1,
       "reviews": [
@@ -306,7 +306,7 @@
     {
       "product_name": "Apple iPhone XS Max Zadní kryt bílý",
       "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
-      "price": 701.0,
+      "price": 718.0,
       "ean": "8597593009616",
       "reviews_count": 1,
       "reviews": [
@@ -346,7 +346,7 @@
     {
       "product_name": "Swissten power bank cestovní 25000 mAh (96.25Wh) 100W s integrovaným kabelem USB-C šedá 22013977",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-cestovni-25000-mah-96-25wh-100w-s-integrovanym-kabelem-usb-c-seda?utm_source=heureka",
-      "price": 1699.0,
+      "price": 1264.0,
       "ean": "8595217493346",
       "reviews_count": 1,
       "reviews": [
@@ -366,7 +366,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 25.0,
+      "price": 50.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -426,7 +426,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 25.0,
+      "price": 50.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -466,7 +466,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 25.0,
+      "price": 50.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -586,7 +586,7 @@
     {
       "product_name": "Karl Lagerfeld 3D Logo NFT Karl and Choupette, silikonové Pouzdro pro AirPods 4, černé KLA4RUNKC",
       "url": "https://www.express-servis.cz/p/karl-lagerfeld-3d-logo-nft-karl-and-choupette-silikonove-pouzdro-pro-airpods-4-black?utm_source=heureka",
-      "price": 412.0,
+      "price": 315.0,
       "ean": "3666339448684",
       "reviews_count": 1,
       "reviews": [
@@ -606,7 +606,7 @@
     {
       "product_name": "Guess 4G Script PC/PU Pouzdro pro Airpods Pro, hnědý GUAP4GSMW",
       "url": "https://www.express-servis.cz/p/guess-4g-script-pc-pu-pouzdro-pro-airpods-pro-brown?utm_source=heureka",
-      "price": 528.0,
+      "price": 368.0,
       "ean": "3666339009731",
       "reviews_count": 1,
       "reviews": [
@@ -626,7 +626,7 @@
     {
       "product_name": "UAG Pathfinder - ochranný kryt s MagSafe pro iPhone 15 Pro, černá/šedá 114281113131",
       "url": "https://www.express-servis.cz/p/uag-pathfinder-ochranny-kryt-s-magsafe-pro-iphone-15-pro-cerna-seda?utm_source=heureka",
-      "price": 495.0,
+      "price": 900.0,
       "ean": "840283909405",
       "reviews_count": 1,
       "reviews": [
@@ -646,7 +646,7 @@
     {
       "product_name": "Tactical Mine MagForce 57983106500",
       "url": "https://www.express-servis.cz/p/tactical-mine-magforce?utm_source=heureka",
-      "price": 541.0,
+      "price": 379.0,
       "ean": "8596311164354",
       "reviews_count": 1,
       "reviews": [
@@ -666,7 +666,7 @@
     {
       "product_name": "Swissten power bank 20000 mAh 45W s integrovaným kabelem USB-C vesmírně stříbrná 22013976",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-45w-s-integrovanym-kabelem-usb-c-vesmirne-stribrna?utm_source=heureka",
-      "price": 1239.0,
+      "price": 854.0,
       "ean": "8595217490833",
       "reviews_count": 1,
       "reviews": [
@@ -706,7 +706,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
-      "price": 4430.0,
+      "price": 4364.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -884,26 +884,6 @@
       ]
     },
     {
-      "product_name": "iOttie Sticky Gel Dashboard Pad for Car Mounts - podložka pod držák do auta ACDPIO301",
-      "url": "https://www.express-servis.cz/p/iottie-sticky-gel-dashboard-pad-for-car-mounts-podlozka-pod-drzak-do-auta?utm_source=heureka",
-      "price": 325.0,
-      "ean": "857199008092",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21280434",
-          "rating_id_type": "product",
-          "unix_timestamp": 1764460584,
-          "rating": 5.0,
-          "pros": "Opravdu drží",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "668c1359890629630d7b5f1a9d710db966657df5"
-        }
-      ]
-    },
-    {
       "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
       "price": 78.0,
@@ -926,7 +906,7 @@
     {
       "product_name": "Mobile Origin Screen Guard, ochranné sklo s aplikátorem pro iPhone 15 Pro SGZ-i15Pro",
       "url": "https://www.express-servis.cz/p/mobile-origin-screen-guard-ochranne-sklo-s-aplikatorem-pro-iphone-15-pro?utm_source=heureka",
-      "price": 187.0,
+      "price": 177.0,
       "ean": "8594215990413",
       "reviews_count": 1,
       "reviews": [
@@ -946,7 +926,7 @@
     {
       "product_name": "Quad Lock Case - iPhone 16 Pro Max - Kryt mobilního telefonu - černý QLC-IP16XL",
       "url": "https://www.express-servis.cz/p/quad-lock-case-iphone-16-pro-max-kryt-mobilniho-telefonu-cerny-kopie?utm_source=heureka",
-      "price": 1183.0,
+      "price": 978.0,
       "ean": "9348943102803",
       "reviews_count": 1,
       "reviews": [
@@ -966,7 +946,7 @@
     {
       "product_name": "Epico Slim Shell for Macbook Air 15\" M2/M3/M4, transparentní 82110101000005",
       "url": "https://www.express-servis.cz/p/epico-slim-shell-for-macbook-air-15-m2-m3-m4-a2941-a3114-matna-transparentni?utm_source=heureka",
-      "price": 412.0,
+      "price": 401.0,
       "ean": "8596049197235",
       "reviews_count": 1,
       "reviews": [
