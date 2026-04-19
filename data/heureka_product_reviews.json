@@ -1,11 +1,11 @@
 {
-  "generated_at": 1776482544,
+  "generated_at": 1776568980,
   "stats": {
-    "products_count": 43,
-    "raw_reviews_in_feed": 43,
-    "saved_reviews": 43,
+    "products_count": 42,
+    "raw_reviews_in_feed": 42,
+    "saved_reviews": 42,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 3
+    "cross_product_duplicates_count": 2
   },
   "cross_product_duplicates": {
     "78dfcf43a1ad74a7876c16b02f1de2c23f65fce8": [
@@ -35,18 +35,6 @@
         "ean": "8597593009616",
         "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
         "product_name": "Apple iPhone XS Max Zadní kryt bílý"
-      }
-    ],
-    "6f8b417cc31f89b40133ccd7ae09c42bd076d84d": [
-      {
-        "ean": "8596311237195",
-        "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-gray?utm_source=heureka",
-        "product_name": "LCD display + Dotyk + Přední Kryt Samsung G986/G985 Galaxy S20+ Cosmic Gray 57983118630"
-      },
-      {
-        "ean": "8596311249754",
-        "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-black-1?utm_source=heureka",
-        "product_name": "LCD Displej + Dotyk + Přední kryt Samsung G986/G985 Galaxy S20+"
       }
     ]
   },
@@ -114,7 +102,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
-      "price": 4364.0,
+      "price": 3178.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -674,7 +662,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
-      "price": 4364.0,
+      "price": 3178.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -696,26 +684,6 @@
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-gray?utm_source=heureka",
       "price": 1735.0,
       "ean": "8596311237195",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21386725",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765647457,
-          "rating": 2.0,
-          "pros": "",
-          "cons": "Prave dnes prestal fungovat.",
-          "summary": "",
-          "recommends": "0",
-          "fingerprint": "6f8b417cc31f89b40133ccd7ae09c42bd076d84d"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD Displej + Dotyk + Přední kryt Samsung G986/G985 Galaxy S20+",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-black-1?utm_source=heureka",
-      "price": 1755.0,
-      "ean": "8596311249754",
       "reviews_count": 1,
       "reviews": [
         {
