@@ -1,9 +1,9 @@
 {
-  "generated_at": 1776655391,
+  "generated_at": 1776741765,
   "stats": {
-    "products_count": 42,
-    "raw_reviews_in_feed": 42,
-    "saved_reviews": 42,
+    "products_count": 41,
+    "raw_reviews_in_feed": 41,
+    "saved_reviews": 41,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -102,7 +102,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
-      "price": 3178.0,
+      "price": 3285.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -242,7 +242,7 @@
     {
       "product_name": "Kryt Apple iPhone XS Max Zadní bílý",
       "url": "https://www.express-servis.cz/p/zadni-sklo-iphone-xs-max-bile?utm_source=heureka",
-      "price": 90.0,
+      "price": 44.0,
       "ean": "8597593010452",
       "reviews_count": 1,
       "reviews": [
@@ -262,7 +262,7 @@
     {
       "product_name": "Apple iPhone XS Max Zadní kryt bílý",
       "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
-      "price": 508.0,
+      "price": 718.0,
       "ean": "8597593009616",
       "reviews_count": 1,
       "reviews": [
@@ -600,26 +600,6 @@
       ]
     },
     {
-      "product_name": "Tactical Mine MagForce 57983106500",
-      "url": "https://www.express-servis.cz/p/tactical-mine-magforce?utm_source=heureka",
-      "price": 379.0,
-      "ean": "8596311164354",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21490007",
-          "rating_id_type": "product",
-          "unix_timestamp": 1767002824,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Nedrží na některé silikonové obaly bez přilepení magnetického proužku, ale s ním drží telefon jako přikovaný. Jednoduchá aplikace, nepřekáží. Nenápadný, vkusný.",
-          "recommends": "1",
-          "fingerprint": "6bba139987f47841ede8c3a1d4a1333b093fe66d"
-        }
-      ]
-    },
-    {
       "product_name": "Swissten power bank 20000 mAh 45W s integrovaným kabelem USB-C vesmírně stříbrná 22013976",
       "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-45w-s-integrovanym-kabelem-usb-c-vesmirne-stribrna?utm_source=heureka",
       "price": 1299.0,
@@ -662,7 +642,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
-      "price": 3178.0,
+      "price": 3285.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
