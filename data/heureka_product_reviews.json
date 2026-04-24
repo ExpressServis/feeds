@@ -1,9 +1,9 @@
 {
-  "generated_at": 1776914577,
+  "generated_at": 1777000961,
   "stats": {
-    "products_count": 39,
-    "raw_reviews_in_feed": 39,
-    "saved_reviews": 39,
+    "products_count": 40,
+    "raw_reviews_in_feed": 40,
+    "saved_reviews": 40,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -96,6 +96,26 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "7a277353011d0cc6c09ea3e2004838270bd574ca"
+        }
+      ]
+    },
+    {
+      "product_name": "Kryt Samsung A356 Galaxy A35 5G, A556 Galaxy A55 5G sklíčko zadní hlavní kamery - set 3ks",
+      "url": "https://www.express-servis.cz/p/samsung-a356-a556-galaxy-a35-a55-5g-sklicko-kamer?utm_source=heureka",
+      "price": 29.0,
+      "ean": "8596311254161",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21993992",
+          "rating_id_type": "product",
+          "unix_timestamp": 1773734062,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Náhradní součástka plně nahrazuje\noriginál. Cena nízká.",
+          "recommends": "1",
+          "fingerprint": "ed641111a427c97e5fc91cad93f913d62d076888"
         }
       ]
     },
@@ -742,7 +762,7 @@
     {
       "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
-      "price": 78.0,
+      "price": 72.0,
       "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
