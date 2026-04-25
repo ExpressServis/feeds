@@ -1,9 +1,9 @@
 {
-  "generated_at": 1777000961,
+  "generated_at": 1777087342,
   "stats": {
-    "products_count": 40,
-    "raw_reviews_in_feed": 40,
-    "saved_reviews": 40,
+    "products_count": 39,
+    "raw_reviews_in_feed": 39,
+    "saved_reviews": 39,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -42,7 +42,7 @@
     {
       "product_name": "Samsung EB-BJ510CBE",
       "url": "https://www.express-servis.cz/p/eb-bj510cbe-baterie-pro-samsung-li-ion-3100mah-oem?utm_source=heureka",
-      "price": 115.0,
+      "price": 126.0,
       "ean": "8596311193293",
       "reviews_count": 1,
       "reviews": [
@@ -62,7 +62,7 @@
     {
       "product_name": "EB-BG903BBE Baterie pro Samsung Li-Ion 2800mAh (OEM) 57983110807",
       "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-li-ion-2800mah-oem?utm_source=heureka",
-      "price": 103.0,
+      "price": 113.0,
       "ean": "8596311193330",
       "reviews_count": 1,
       "reviews": [
@@ -342,7 +342,7 @@
     {
       "product_name": "LCD display + Dotyk Samsung A135F Galaxy A13 Black 57983112979",
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-samsung-a135f-galaxy-a13-black-1?utm_source=heureka",
-      "price": 565.0,
+      "price": 312.0,
       "ean": "8596311201707",
       "reviews_count": 1,
       "reviews": [
@@ -362,7 +362,7 @@
     {
       "product_name": "LCD display + Dotyk + Přední Kryt Samsung A135F Galaxy A13 Black 57983112985",
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-a135f-galaxy-a13-black?utm_source=heureka",
-      "price": 605.0,
+      "price": 363.0,
       "ean": "8596311201769",
       "reviews_count": 1,
       "reviews": [
@@ -642,7 +642,7 @@
     {
       "product_name": "LCD display + Dotyk + Přední Kryt Samsung G986/G985 Galaxy S20+ Cosmic Gray 57983118630",
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-gray?utm_source=heureka",
-      "price": 1735.0,
+      "price": 1971.0,
       "ean": "8596311237195",
       "reviews_count": 1,
       "reviews": [
@@ -682,7 +682,7 @@
     {
       "product_name": "EB-BG903BBE Baterie pro Samsung Li-Ion 2800mAh (OEM) 57983110807",
       "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-li-ion-2800mah-oem?utm_source=heureka",
-      "price": 103.0,
+      "price": 113.0,
       "ean": "8596311193330",
       "reviews_count": 1,
       "reviews": [
@@ -722,7 +722,7 @@
     {
       "product_name": "Huawei HB356687ECW",
       "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-pro-huawei-3340mah-li-pol-oem?utm_source=heureka",
-      "price": 132.0,
+      "price": 144.0,
       "ean": "8596311204555",
       "reviews_count": 1,
       "reviews": [
@@ -816,26 +816,6 @@
           "summary": "Kdybych vedel, jaky pekny a precizni kryt obdrzim, o tyden drive bych si nekupoval jiny - tento je fakt dobry, krasne se drzi a je vice safety, nez bezne ty ,ktere muzete prikoupit k telefonu - samozrejme cena vyssi, ale to je hned upozaděno, kdyz viditě kvalitu zpracovani a hlavne i pouzitelnost - moznost pripnout si na ruku, na kolo, na motorku atd atd",
           "recommends": "1",
           "fingerprint": "4b58016b858abbbe6fe2db4c4da09cc2ab6233ed"
-        }
-      ]
-    },
-    {
-      "product_name": "Epico Slim Shell for Macbook Air 15\" M2/M3/M4, transparentní 82110101000005",
-      "url": "https://www.express-servis.cz/p/epico-slim-shell-for-macbook-air-15-m2-m3-m4-a2941-a3114-matna-transparentni?utm_source=heureka",
-      "price": 401.0,
-      "ean": "8596049197235",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21023362",
-          "rating_id_type": "product",
-          "unix_timestamp": 1761323786,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "da9890988a23baef0f05a4b31c991c5231cf6352"
         }
       ]
     }
