@@ -1,9 +1,9 @@
 {
-  "generated_at": 1777260208,
+  "generated_at": 1777346618,
   "stats": {
-    "products_count": 38,
-    "raw_reviews_in_feed": 38,
-    "saved_reviews": 38,
+    "products_count": 39,
+    "raw_reviews_in_feed": 39,
+    "saved_reviews": 39,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -242,7 +242,7 @@
     {
       "product_name": "Apple iPhone XS Max Zadní kryt bílý",
       "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
-      "price": 718.0,
+      "price": 661.0,
       "ean": "8597593009616",
       "reviews_count": 1,
       "reviews": [
@@ -520,6 +520,26 @@
       ]
     },
     {
+      "product_name": "Spigen Rugged Armor Pro - ochranný kryt pro Apple Watch 41mm/40mm, černý ACS00546",
+      "url": "https://www.express-servis.cz/p/spigen-rugged-armor-pro-ochranny-kryt-pro-apple-watch-41mm-40mm-cerny?utm_source=heureka",
+      "price": 553.0,
+      "ean": "8809685624080",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21551653",
+          "rating_id_type": "product",
+          "unix_timestamp": 1767793849,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "Nic",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "bb1aee98f57453485b98fd9054dfc6fa476e8ee0"
+        }
+      ]
+    },
+    {
       "product_name": "Karl Lagerfeld 3D Logo NFT Karl and Choupette, silikonové Pouzdro pro AirPods 4, černé KLA4RUNKC",
       "url": "https://www.express-servis.cz/p/karl-lagerfeld-3d-logo-nft-karl-and-choupette-silikonove-pouzdro-pro-airpods-4-black?utm_source=heureka",
       "price": 315.0,
@@ -742,7 +762,7 @@
     {
       "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
-      "price": 72.0,
+      "price": 78.0,
       "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
