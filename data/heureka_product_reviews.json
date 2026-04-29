@@ -1,11 +1,11 @@
 {
-  "generated_at": 1777346618,
+  "generated_at": 1777433020,
   "stats": {
-    "products_count": 39,
-    "raw_reviews_in_feed": 39,
-    "saved_reviews": 39,
+    "products_count": 40,
+    "raw_reviews_in_feed": 40,
+    "saved_reviews": 40,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 2
+    "cross_product_duplicates_count": 3
   },
   "cross_product_duplicates": {
     "78dfcf43a1ad74a7876c16b02f1de2c23f65fce8": [
@@ -35,6 +35,18 @@
         "ean": "8597593009616",
         "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
         "product_name": "Apple iPhone XS Max Zadní kryt bílý"
+      }
+    ],
+    "3a7749b04f9a0c626379ea05f65d5a3e1681195d": [
+      {
+        "ean": "8596311204555",
+        "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-pro-huawei-3340mah-li-pol-oem?utm_source=heureka",
+        "product_name": "Huawei HB356687ECW"
+      },
+      {
+        "ean": "8596311110603",
+        "url": "https://www.express-servis.cz/p/hb356687ecw-huawei-baterie-3340mah-li-pol-service-pack?utm_source=heureka",
+        "product_name": "Huawei HB356687ECW"
       }
     ]
   },
@@ -740,6 +752,26 @@
       ]
     },
     {
+      "product_name": "Huawei HB356687ECW",
+      "url": "https://www.express-servis.cz/p/hb356687ecw-huawei-baterie-3340mah-li-pol-service-pack?utm_source=heureka",
+      "price": 373.0,
+      "ean": "8596311110603",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21336718",
+          "rating_id_type": "product",
+          "unix_timestamp": 1765100449,
+          "rating": 5.0,
+          "pros": "Cena",
+          "cons": "Asi malinko kratší flex než na originální takže se musí popotáhnout a ohnout v jiném místě než je továrně ohnuto a trochu se to pne. (Po přišroubování jisticího plechu to ale nevypadne. \nNemá na sobě vyndavací samolepky jako originál.",
+          "summary": "Originál to není ale za tu cenu slušná baterie.",
+          "recommends": "1",
+          "fingerprint": "3a7749b04f9a0c626379ea05f65d5a3e1681195d"
+        }
+      ]
+    },
+    {
       "product_name": "RELIFE RL-062A Ruční lepicí pistole TL0023",
       "url": "https://www.express-servis.cz/p/relife-rl-062a-rucni-lepici-pistole?utm_source=heureka",
       "price": 157.0,
@@ -762,7 +794,7 @@
     {
       "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
-      "price": 78.0,
+      "price": 72.0,
       "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
