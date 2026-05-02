@@ -1,9 +1,9 @@
 {
-  "generated_at": 1777605827,
+  "generated_at": 1777692196,
   "stats": {
-    "products_count": 39,
-    "raw_reviews_in_feed": 39,
-    "saved_reviews": 39,
+    "products_count": 40,
+    "raw_reviews_in_feed": 40,
+    "saved_reviews": 40,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -648,6 +648,26 @@
           "summary": "Již druhá, na té první prasknul silikonový držák za ucho.\nStále funguje, jen ji není možné dál nosit.",
           "recommends": "1",
           "fingerprint": "9044707eb9045f9939b671723fd3811cab3e3351"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD display + Dotyk + Přední Kryt Samsung G986/G985 Galaxy S20+ Cosmic Gray 57983118630",
+      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-gray?utm_source=heureka",
+      "price": 1500.0,
+      "ean": "8596311237195",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21386725",
+          "rating_id_type": "product",
+          "unix_timestamp": 1765647457,
+          "rating": 2.0,
+          "pros": "",
+          "cons": "Prave dnes prestal fungovat.",
+          "summary": "",
+          "recommends": "0",
+          "fingerprint": "6f8b417cc31f89b40133ccd7ae09c42bd076d84d"
         }
       ]
     },
