@@ -1,30 +1,13 @@
 {
-  "generated_at": 1777951392,
+  "generated_at": 1778037808,
   "stats": {
-    "products_count": 40,
-    "raw_reviews_in_feed": 40,
-    "saved_reviews": 40,
+    "products_count": 24,
+    "raw_reviews_in_feed": 24,
+    "saved_reviews": 24,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 3
+    "cross_product_duplicates_count": 2
   },
   "cross_product_duplicates": {
-    "78dfcf43a1ad74a7876c16b02f1de2c23f65fce8": [
-      {
-        "ean": "8595217465183",
-        "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-stribrno-seda?utm_source=heureka",
-        "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Stříbrno / Šedá 52510501"
-      },
-      {
-        "ean": "8595217465190",
-        "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-ruzova?utm_source=heureka",
-        "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Růžová 52510502"
-      },
-      {
-        "ean": "8595217465176",
-        "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-cerna?utm_source=heureka",
-        "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Černá 52510500"
-      }
-    ],
     "7dafec11248c236eb0abac10e8b2f7f475f8276f": [
       {
         "ean": "8597593010452",
@@ -94,7 +77,7 @@
     {
       "product_name": "Kryt Samsung A356 Galaxy A35 5G, A556 Galaxy A55 5G sklíčko zadní hlavní kamery - set 3ks",
       "url": "https://www.express-servis.cz/p/samsung-a356-a556-galaxy-a35-a55-5g-sklicko-kamer?utm_source=heureka",
-      "price": 89.0,
+      "price": 126.0,
       "ean": "8596311254161",
       "reviews_count": 1,
       "reviews": [
@@ -108,106 +91,6 @@
           "summary": "Náhradní součástka plně nahrazuje\noriginál. Cena nízká.",
           "recommends": "1",
           "fingerprint": "ed641111a427c97e5fc91cad93f913d62d076888"
-        }
-      ]
-    },
-    {
-      "product_name": "Swissten síťový adaptér GaN 2× USB-C 65W PD + 1× USB-A 18W QC bílý 22071400",
-      "url": "https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-2x-usb-c-65w-pd-1x-usb-a-18w-qc-bily?utm_source=heureka",
-      "price": 699.0,
-      "ean": "8595217484528",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21897879",
-          "rating_id_type": "product",
-          "unix_timestamp": 1772548178,
-          "rating": 5.0,
-          "pros": "funguje dobře, rychlé nabíjení",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "f1f586279bda1b80d7e8f16bdea5af4e9f9dd832"
-        }
-      ]
-    },
-    {
-      "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Stříbrno / Šedá 52510501",
-      "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-stribrno-seda?utm_source=heureka",
-      "price": 499.0,
-      "ean": "8595217465183",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21897634",
-          "rating_id_type": "product",
-          "unix_timestamp": 1772545125,
-          "rating": 4.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "78dfcf43a1ad74a7876c16b02f1de2c23f65fce8"
-        }
-      ]
-    },
-    {
-      "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Růžová 52510502",
-      "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-ruzova?utm_source=heureka",
-      "price": 499.0,
-      "ean": "8595217465190",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21897634",
-          "rating_id_type": "product",
-          "unix_timestamp": 1772545125,
-          "rating": 4.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "78dfcf43a1ad74a7876c16b02f1de2c23f65fce8"
-        }
-      ]
-    },
-    {
-      "product_name": "Bluetooth Stereo Sluchátka Swissten Trix Černá 52510500",
-      "url": "https://www.express-servis.cz/p/bluetooth-stereo-sluchatka-swissten-trix-cerna?utm_source=heureka",
-      "price": 499.0,
-      "ean": "8595217465176",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21897634",
-          "rating_id_type": "product",
-          "unix_timestamp": 1772545125,
-          "rating": 4.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "78dfcf43a1ad74a7876c16b02f1de2c23f65fce8"
-        }
-      ]
-    },
-    {
-      "product_name": "Swissten Raptor Diamond Ultra Clear 3D temperované sklo pro Apple iPhone XS Max černé 84501718",
-      "url": "https://www.express-servis.cz/p/swissten-raptor-diamond-ultra-clear-3d-temperovane-sklo-pro-apple-iphone-xs-max-cerne?utm_source=heureka",
-      "price": 100.0,
-      "ean": "8595217481725",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21864032",
-          "rating_id_type": "product",
-          "unix_timestamp": 1772095858,
-          "rating": 4.5,
-          "pros": "4",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "9f18aa029a3a068060198dcab87b36a78eb54639"
         }
       ]
     },
@@ -268,46 +151,6 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "7dafec11248c236eb0abac10e8b2f7f475f8276f"
-        }
-      ]
-    },
-    {
-      "product_name": "Swissten pouzdro Black-Rock 7″ 65400300",
-      "url": "https://www.express-servis.cz/p/pouzdro-swissten-black-rock-7-1?utm_source=heureka",
-      "price": 280.0,
-      "ean": "8595217477063",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21863033",
-          "rating_id_type": "product",
-          "unix_timestamp": 1772089333,
-          "rating": 4.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "2c7e1658e66a6789557b99649bef0772539e04b3"
-        }
-      ]
-    },
-    {
-      "product_name": "Swissten power bank cestovní 25000 mAh (96.25Wh) 100W s integrovaným kabelem USB-C šedá 22013977",
-      "url": "https://www.express-servis.cz/p/swissten-power-bank-cestovni-25000-mah-96-25wh-100w-s-integrovanym-kabelem-usb-c-seda?utm_source=heureka",
-      "price": 1699.0,
-      "ean": "8595217493346",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21848966",
-          "rating_id_type": "product",
-          "unix_timestamp": 1771920145,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "77008f34cfe06af374bb9eac3fc3e9e6e2cb911b"
         }
       ]
     },
@@ -452,86 +295,6 @@
       ]
     },
     {
-      "product_name": "Pouzdro SWISSTEN BLACK-ROCK 6,4\"",
-      "url": "https://www.express-servis.cz/p/pouzdro-swissten-black-rock-6-4?utm_source=heureka",
-      "price": 280.0,
-      "ean": "8595217477056",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21676099",
-          "rating_id_type": "product",
-          "unix_timestamp": 1769602693,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "83dab3d290a9e79d72a0bb96d707cf2a78b03fd5"
-        }
-      ]
-    },
-    {
-      "product_name": "Swissten 20000 mAh 22013934 černá",
-      "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-pd-22-5w-s-integrovanymi-kabely-usb-c-a-lightning-kompatibilni-s-m?utm_source=heureka",
-      "price": 1399.0,
-      "ean": "8595217484795",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21668309",
-          "rating_id_type": "product",
-          "unix_timestamp": 1769510497,
-          "rating": 4.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "daf339193b4915a467c7e6ec107352da4a86b082"
-        }
-      ]
-    },
-    {
-      "product_name": "Swissten power line power bank 50000 mah pro notebooky 100w power delivery black 22013942",
-      "url": "https://www.express-servis.cz/p/swissten-power-line-power-bank-50000-mah-pro-notebooky-100w-power-delivery-black?utm_source=heureka",
-      "price": 2798.0,
-      "ean": "8595217481282",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21663789",
-          "rating_id_type": "product",
-          "unix_timestamp": 1769472160,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Dobré univerzální zařízení pro cestování nebo v případě závažné situace.",
-          "recommends": "1",
-          "fingerprint": "24077a89dab773eeb4b7cfbe585662999be8cdc5"
-        }
-      ]
-    },
-    {
-      "product_name": "Swissten 5000 mAh 22013975 černá",
-      "url": "https://www.express-servis.cz/p/swissten-power-bank-pd-20w-5000-mah-kompatibilni-s-magsafe?utm_source=heureka",
-      "price": 572.0,
-      "ean": "8595217484740",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21620791",
-          "rating_id_type": "product",
-          "unix_timestamp": 1768909306,
-          "rating": 4.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "37aa6f4ddb8e0209aaa32258bbc9b481ee4b3591"
-        }
-      ]
-    },
-    {
       "product_name": "Spigen Rugged Armor Pro - ochranný kryt pro Apple Watch 41mm/40mm, černý ACS00546",
       "url": "https://www.express-servis.cz/p/spigen-rugged-armor-pro-ochranny-kryt-pro-apple-watch-41mm-40mm-cerny?utm_source=heureka",
       "price": 489.0,
@@ -612,46 +375,6 @@
       ]
     },
     {
-      "product_name": "Swissten power bank 20000 mAh 45W s integrovaným kabelem USB-C vesmírně stříbrná 22013976",
-      "url": "https://www.express-servis.cz/p/swissten-power-bank-20000-mah-45w-s-integrovanym-kabelem-usb-c-vesmirne-stribrna?utm_source=heureka",
-      "price": 1299.0,
-      "ean": "8595217490833",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21488575",
-          "rating_id_type": "product",
-          "unix_timestamp": 1766995620,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "1531d68aca49d1d351882b9fe5c524ed38631125"
-        }
-      ]
-    },
-    {
-      "product_name": "Bluetooth headset swissten dock earpiece 51204000",
-      "url": "https://www.express-servis.cz/p/bluetooth-headset-swissten-dock-earpiece?utm_source=heureka",
-      "price": 599.0,
-      "ean": "8595217481411",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21450452",
-          "rating_id_type": "product",
-          "unix_timestamp": 1766512053,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Již druhá, na té první prasknul silikonový držák za ucho.\nStále funguje, jen ji není možné dál nosit.",
-          "recommends": "1",
-          "fingerprint": "9044707eb9045f9939b671723fd3811cab3e3351"
-        }
-      ]
-    },
-    {
       "product_name": "LCD display + Dotyk + Přední Kryt Samsung G986/G985 Galaxy S20+ Cosmic Gray 57983118630",
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-gray?utm_source=heureka",
       "price": 1500.0,
@@ -672,26 +395,6 @@
       ]
     },
     {
-      "product_name": "Swissten síťový adaptér GaN 2x USB-C 65W PD + 1x USB-A 18W QC černý 22071410",
-      "url": "https://www.express-servis.cz/p/swissten-sitovy-adapter-gan-2x-usb-c-65w-pd-1x-usb-a-18w-qc-cerny?utm_source=heureka",
-      "price": 699.0,
-      "ean": "8595217484535",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21377752",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765523932,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Příjemně kompaktní rozměry, vzhledem k výkonu, kdy je možné nabíjet i notebook (65W) a ani se přehnaně nezahřívá.",
-          "recommends": "1",
-          "fingerprint": "14b5a3fa36ae77cde9ae8dc17f01519603f67d55"
-        }
-      ]
-    },
-    {
       "product_name": "EB-BG903BBE Baterie pro Samsung Li-Ion 2800mAh (OEM) 57983110807",
       "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-li-ion-2800mah-oem?utm_source=heureka",
       "price": 113.0,
@@ -708,26 +411,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "2a8861842adf6e7ffe18ac8f87675583583e250e"
-        }
-      ]
-    },
-    {
-      "product_name": "Swissten power line power bank 50000 mah pro notebooky 100w power delivery black 22013942",
-      "url": "https://www.express-servis.cz/p/swissten-power-line-power-bank-50000-mah-pro-notebooky-100w-power-delivery-black?utm_source=heureka",
-      "price": 2798.0,
-      "ean": "8595217481282",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21338155",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765114363,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "40263bc558c78d96016860644f8af585c896d169"
         }
       ]
     },
@@ -828,26 +511,6 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "751bc128c31f282e54abeae39eec91559ffec1ae"
-        }
-      ]
-    },
-    {
-      "product_name": "Quad Lock Case - iPhone 16 Pro Max - Kryt mobilního telefonu - černý QLC-IP16XL",
-      "url": "https://www.express-servis.cz/p/quad-lock-case-iphone-16-pro-max-kryt-mobilniho-telefonu-cerny-kopie?utm_source=heureka",
-      "price": 978.0,
-      "ean": "9348943102803",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21099182",
-          "rating_id_type": "product",
-          "unix_timestamp": 1762320671,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Kdybych vedel, jaky pekny a precizni kryt obdrzim, o tyden drive bych si nekupoval jiny - tento je fakt dobry, krasne se drzi a je vice safety, nez bezne ty ,ktere muzete prikoupit k telefonu - samozrejme cena vyssi, ale to je hned upozaděno, kdyz viditě kvalitu zpracovani a hlavne i pouzitelnost - moznost pripnout si na ruku, na kolo, na motorku atd atd",
-          "recommends": "1",
-          "fingerprint": "4b58016b858abbbe6fe2db4c4da09cc2ab6233ed"
         }
       ]
     }
