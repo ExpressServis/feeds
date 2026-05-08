@@ -1,9 +1,9 @@
 {
-  "generated_at": 1778124210,
+  "generated_at": 1778210599,
   "stats": {
-    "products_count": 24,
-    "raw_reviews_in_feed": 24,
-    "saved_reviews": 24,
+    "products_count": 26,
+    "raw_reviews_in_feed": 26,
+    "saved_reviews": 26,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -111,6 +111,26 @@
           "summary": "Náhradní součástka plně nahrazuje\noriginál. Cena nízká.",
           "recommends": "1",
           "fingerprint": "ed641111a427c97e5fc91cad93f913d62d076888"
+        }
+      ]
+    },
+    {
+      "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
+      "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
+      "price": 3144.0,
+      "ean": "7649994336097",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21935643",
+          "rating_id_type": "product",
+          "unix_timestamp": 1773056179,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Ideální do práce. Denně teplý oběd.",
+          "recommends": "1",
+          "fingerprint": "ceffd8162a28ab67c436386aaa177c454925d584"
         }
       ]
     },
@@ -337,7 +357,7 @@
     {
       "product_name": "Karl Lagerfeld 3D Logo NFT Karl and Choupette, silikonové Pouzdro pro AirPods 4, černé KLA4RUNKC",
       "url": "https://www.express-servis.cz/p/karl-lagerfeld-3d-logo-nft-karl-and-choupette-silikonove-pouzdro-pro-airpods-4-black?utm_source=heureka",
-      "price": 306.0,
+      "price": 315.0,
       "ean": "3666339448684",
       "reviews_count": 1,
       "reviews": [
@@ -391,6 +411,26 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "ea96b51f515cb6cc86641d3e5a70800d429dd803"
+        }
+      ]
+    },
+    {
+      "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
+      "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
+      "price": 3144.0,
+      "ean": "7649994336097",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21417148",
+          "rating_id_type": "product",
+          "unix_timestamp": 1766046707,
+          "rating": 5.0,
+          "pros": "Super , nádherně ohřívá",
+          "cons": "Telefon s aplikací musí být poblíž.",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "ce031dd61058a7d6880112a7173d129dfea119c7"
         }
       ]
     },
@@ -457,7 +497,7 @@
     {
       "product_name": "Huawei HB356687ECW",
       "url": "https://www.express-servis.cz/p/hb356687ecw-huawei-baterie-3340mah-li-pol-service-pack?utm_source=heureka",
-      "price": 327.0,
+      "price": 323.0,
       "ean": "8596311110603",
       "reviews_count": 1,
       "reviews": [
