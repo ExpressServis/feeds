@@ -1,9 +1,9 @@
 {
-  "generated_at": 1778642631,
+  "generated_at": 1778729033,
   "stats": {
-    "products_count": 26,
-    "raw_reviews_in_feed": 26,
-    "saved_reviews": 26,
+    "products_count": 25,
+    "raw_reviews_in_feed": 25,
+    "saved_reviews": 25,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -391,26 +391,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "c6f332549488ce1f3e6e2f73e4763714dba1177f"
-        }
-      ]
-    },
-    {
-      "product_name": "UAG Pathfinder - ochranný kryt s MagSafe pro iPhone 15 Pro, černá/šedá 114281113131",
-      "url": "https://www.express-servis.cz/p/uag-pathfinder-ochranny-kryt-s-magsafe-pro-iphone-15-pro-cerna-seda?utm_source=heureka",
-      "price": 489.0,
-      "ean": "840283909405",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21490128",
-          "rating_id_type": "product",
-          "unix_timestamp": 1767003437,
-          "rating": 5.0,
-          "pros": "Lehký \nSkvěle chrání telefon \nNeotřelý vzhled",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "ea96b51f515cb6cc86641d3e5a70800d429dd803"
         }
       ]
     },
