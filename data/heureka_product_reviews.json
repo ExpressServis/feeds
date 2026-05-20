@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779161053,
+  "generated_at": 1779247457,
   "stats": {
-    "products_count": 25,
-    "raw_reviews_in_feed": 25,
-    "saved_reviews": 25,
+    "products_count": 24,
+    "raw_reviews_in_feed": 24,
+    "saved_reviews": 24,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -357,7 +357,7 @@
     {
       "product_name": "Karl Lagerfeld 3D Logo NFT pouzdro pro AirPods 4, černé KLA4RUNKC",
       "url": "https://www.express-servis.cz/p/karl-lagerfeld-pouzdro-airpods-4-cerne-styl-a-ochrana?utm_source=heureka",
-      "price": 279.0,
+      "price": 311.0,
       "ean": "3666339448684",
       "reviews_count": 1,
       "reviews": [
@@ -511,26 +511,6 @@
           "summary": "Vcelku průměrné plastové zpracování které funguje na řidší věci (flux a podobně) ale při hustších už je znát pružení plastů a obávám se že moc dlouho nevydrží při větším tlaku nebo třeba pádu na zem. Patrona která se nasazuje je standardizovaná a  nasadíte Amtech nebo Polské průměrné či Čínské šmejdy a funguje to. U patron s pájkou je to podle její hustoty. Rozměr taky je docela velký ale chtěl sem vyzkoušet jiný dávkovač než kroužek s pantem a závitovou tyčí s pákou a když to srovnám tak je asi kroužek lepší volba.",
           "recommends": "0",
           "fingerprint": "f2e74253eabdbb2af155425d872f213593e9c269"
-        }
-      ]
-    },
-    {
-      "product_name": "BAKU B-7000 Lepidlo 50g",
-      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
-      "price": 20.0,
-      "ean": "8596115571044",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21198566",
-          "rating_id_type": "product",
-          "unix_timestamp": 1763553004,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "d43fc406ec1d116948391fd521b8064c5fcca117"
         }
       ]
     }
