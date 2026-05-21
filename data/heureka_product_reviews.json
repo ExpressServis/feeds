@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779247457,
+  "generated_at": 1779333860,
   "stats": {
-    "products_count": 24,
-    "raw_reviews_in_feed": 24,
-    "saved_reviews": 24,
+    "products_count": 25,
+    "raw_reviews_in_feed": 25,
+    "saved_reviews": 25,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -91,6 +91,26 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "a01c97de3b07f098e3f758f75ef29bf5f4ceffb7"
+        }
+      ]
+    },
+    {
+      "product_name": "Samsung AB553446BU",
+      "url": "https://www.express-servis.cz/p/ab553446bu-baterie-pro-samsung-li-ion-1000mah-oem?utm_source=heureka",
+      "price": 173.0,
+      "ean": "8596311244513",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22079872",
+          "rating_id_type": "product",
+          "unix_timestamp": 1774936387,
+          "rating": 4.5,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "7a277353011d0cc6c09ea3e2004838270bd574ca"
         }
       ]
     },
@@ -277,7 +297,7 @@
     {
       "product_name": "iFixit Precision Screw Extractor Set - sada pro vytažení stržených šroubů TL0067",
       "url": "https://www.express-servis.cz/p/ifixit-precision-screw-extractor-set-sada-pro-vytazeni-strzenych-sroubu?utm_source=heureka",
-      "price": 756.0,
+      "price": 775.0,
       "ean": "8597593018823",
       "reviews_count": 1,
       "reviews": [
