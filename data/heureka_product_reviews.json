@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779333860,
+  "generated_at": 1779420267,
   "stats": {
-    "products_count": 25,
-    "raw_reviews_in_feed": 25,
-    "saved_reviews": 25,
+    "products_count": 26,
+    "raw_reviews_in_feed": 26,
+    "saved_reviews": 26,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -37,7 +37,7 @@
     {
       "product_name": "Apple 96W USB-C Power Adapter MX0J2ZM/A - originální",
       "url": "https://www.express-servis.cz/p/napajeci-adapter-usb-c-apple-macbook-96w-bulk?utm_source=heureka",
-      "price": 820.0,
+      "price": 955.0,
       "ean": "8597593007469",
       "reviews_count": 1,
       "reviews": [
@@ -155,9 +155,29 @@
       ]
     },
     {
+      "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
+      "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
+      "price": 2624.0,
+      "ean": "718037855448",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21913253",
+          "rating_id_type": "product",
+          "unix_timestamp": 1772716664,
+          "rating": 5.0,
+          "pros": "přesně takový, jaký potřebuju :-)",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "600ee6f000d1f29d4911d11ac1415b36c1205bd6"
+        }
+      ]
+    },
+    {
       "product_name": "Lepení baterie pro Apple iPhone XS Max 8596115546790",
       "url": "https://www.express-servis.cz/p/podlepeni-baterie-iphone-xs-max?utm_source=heureka",
-      "price": 11.0,
+      "price": 16.0,
       "ean": "8596115546790",
       "reviews_count": 1,
       "reviews": [
@@ -177,7 +197,7 @@
     {
       "product_name": "Kryt Apple iPhone XS Max Zadní bílý",
       "url": "https://www.express-servis.cz/p/zadni-sklo-iphone-xs-max-bile?utm_source=heureka",
-      "price": 29.0,
+      "price": 44.0,
       "ean": "8597593010452",
       "reviews_count": 1,
       "reviews": [
@@ -197,7 +217,7 @@
     {
       "product_name": "Apple iPhone XS Max Zadní kryt bílý",
       "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
-      "price": 442.0,
+      "price": 661.0,
       "ean": "8597593009616",
       "reviews_count": 1,
       "reviews": [
@@ -217,7 +237,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 50.0,
+      "price": 110.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -277,7 +297,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 50.0,
+      "price": 110.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -317,7 +337,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 50.0,
+      "price": 110.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -337,7 +357,7 @@
     {
       "product_name": "Plastová pružinová svěrka TL0008",
       "url": "https://www.express-servis.cz/p/plastova-pruzinova-sverka?utm_source=heureka",
-      "price": 10.0,
+      "price": 37.0,
       "ean": "8597593008367",
       "reviews_count": 1,
       "reviews": [
@@ -395,8 +415,8 @@
       ]
     },
     {
-      "product_name": "Guess 4G Script PC/PU Pouzdro pro Airpods Pro, hnědý GUAP4GSMW",
-      "url": "https://www.express-servis.cz/p/guess-4g-script-pc-pu-pouzdro-pro-airpods-pro-brown?utm_source=heureka",
+      "product_name": "Guess 4G Script PC/PU pouzdro pro Airpods Pro hnědé GUAP4GSMW",
+      "url": "https://www.express-servis.cz/p/guess-4g-pcpu-pouzdro-pro-airpods-pro-hnede?utm_source=heureka",
       "price": 368.0,
       "ean": "3666339009731",
       "reviews_count": 1,
