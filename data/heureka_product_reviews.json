@@ -1,5 +1,5 @@
 {
-  "generated_at": 1779420267,
+  "generated_at": 1779938794,
   "stats": {
     "products_count": 26,
     "raw_reviews_in_feed": 26,
@@ -34,6 +34,46 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Epico UltraBoard klávesnice EK40 - iPad 10,9\" /11\" CZ, černá 73711101300024",
+      "url": "https://www.express-servis.cz/p/epico-ultraboard-ek40-klavesnice-pro-ipad-s-trackpadem?utm_source=heureka",
+      "price": 2995.0,
+      "ean": "8596049201376",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22427518",
+          "rating_id_type": "product",
+          "unix_timestamp": 1779870999,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Zatím ještě nevyzkoušeno, čekáme na IPAD, ale líbí se mi u produktu hlavně česká klávesnice.",
+          "recommends": "1",
+          "fingerprint": "94b933e2a2c6f4a394aa760181f15569ca4a539c"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD Displej + Dotyk Google Pixel 8",
+      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-google-pixel-8-service-pack?utm_source=heureka",
+      "price": 2860.0,
+      "ean": "8596311252105",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22396303",
+          "rating_id_type": "product",
+          "unix_timestamp": 1779426850,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "2af548f78e4b8181212b2d5102977d05ce89107e"
+        }
+      ]
+    },
     {
       "product_name": "Apple 96W USB-C Power Adapter MX0J2ZM/A - originální",
       "url": "https://www.express-servis.cz/p/napajeci-adapter-usb-c-apple-macbook-96w-bulk?utm_source=heureka",
@@ -97,7 +137,7 @@
     {
       "product_name": "Samsung AB553446BU",
       "url": "https://www.express-servis.cz/p/ab553446bu-baterie-pro-samsung-li-ion-1000mah-oem?utm_source=heureka",
-      "price": 173.0,
+      "price": 137.0,
       "ean": "8596311244513",
       "reviews_count": 1,
       "reviews": [
@@ -137,7 +177,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
-      "price": 3285.0,
+      "price": 3322.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -157,7 +197,7 @@
     {
       "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
-      "price": 2624.0,
+      "price": 2612.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -375,29 +415,9 @@
       ]
     },
     {
-      "product_name": "Spigen Rugged Armor Pro - ochranný kryt pro Apple Watch 41mm/40mm, černý ACS00546",
-      "url": "https://www.express-servis.cz/p/spigen-rugged-armor-pro-ochranny-kryt-pro-apple-watch-41mm-40mm-cerny?utm_source=heureka",
-      "price": 489.0,
-      "ean": "8809685624080",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21551653",
-          "rating_id_type": "product",
-          "unix_timestamp": 1767793849,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "Nic",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "bb1aee98f57453485b98fd9054dfc6fa476e8ee0"
-        }
-      ]
-    },
-    {
       "product_name": "Karl Lagerfeld 3D Logo NFT pouzdro pro AirPods 4, černé KLA4RUNKC",
       "url": "https://www.express-servis.cz/p/karl-lagerfeld-pouzdro-airpods-4-cerne-styl-a-ochrana?utm_source=heureka",
-      "price": 311.0,
+      "price": 320.0,
       "ean": "3666339448684",
       "reviews_count": 1,
       "reviews": [
@@ -437,7 +457,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
-      "price": 3285.0,
+      "price": 3322.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -451,26 +471,6 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "ce031dd61058a7d6880112a7173d129dfea119c7"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD display + Dotyk + Přední Kryt Samsung G986/G985 Galaxy S20+ Cosmic Gray 57983118630",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-gray?utm_source=heureka",
-      "price": 1500.0,
-      "ean": "8596311237195",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21386725",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765647457,
-          "rating": 2.0,
-          "pros": "",
-          "cons": "Prave dnes prestal fungovat.",
-          "summary": "",
-          "recommends": "0",
-          "fingerprint": "6f8b417cc31f89b40133ccd7ae09c42bd076d84d"
         }
       ]
     },
