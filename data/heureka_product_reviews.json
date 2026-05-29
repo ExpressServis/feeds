@@ -1,9 +1,9 @@
 {
-  "generated_at": 1779938794,
+  "generated_at": 1780025049,
   "stats": {
-    "products_count": 26,
-    "raw_reviews_in_feed": 26,
-    "saved_reviews": 26,
+    "products_count": 25,
+    "raw_reviews_in_feed": 25,
+    "saved_reviews": 25,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -34,26 +34,6 @@
     ]
   },
   "products": [
-    {
-      "product_name": "Epico UltraBoard klávesnice EK40 - iPad 10,9\" /11\" CZ, černá 73711101300024",
-      "url": "https://www.express-servis.cz/p/epico-ultraboard-ek40-klavesnice-pro-ipad-s-trackpadem?utm_source=heureka",
-      "price": 2995.0,
-      "ean": "8596049201376",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22427518",
-          "rating_id_type": "product",
-          "unix_timestamp": 1779870999,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Zatím ještě nevyzkoušeno, čekáme na IPAD, ale líbí se mi u produktu hlavně česká klávesnice.",
-          "recommends": "1",
-          "fingerprint": "94b933e2a2c6f4a394aa760181f15569ca4a539c"
-        }
-      ]
-    },
     {
       "product_name": "LCD Displej + Dotyk Google Pixel 8",
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-google-pixel-8-service-pack?utm_source=heureka",
@@ -197,7 +177,7 @@
     {
       "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
-      "price": 2612.0,
+      "price": 2613.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
