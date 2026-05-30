@@ -1,9 +1,9 @@
 {
-  "generated_at": 1780025049,
+  "generated_at": 1780111422,
   "stats": {
-    "products_count": 25,
-    "raw_reviews_in_feed": 25,
-    "saved_reviews": 25,
+    "products_count": 26,
+    "raw_reviews_in_feed": 26,
+    "saved_reviews": 26,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -177,7 +177,7 @@
     {
       "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
-      "price": 2613.0,
+      "price": 2617.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -451,6 +451,26 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "ce031dd61058a7d6880112a7173d129dfea119c7"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD Displej + Dotyk + Přední kryt Samsung G986/G985 Galaxy S20+",
+      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-black-1?utm_source=heureka",
+      "price": 1543.0,
+      "ean": "8596311249754",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21386725",
+          "rating_id_type": "product",
+          "unix_timestamp": 1765647457,
+          "rating": 2.0,
+          "pros": "",
+          "cons": "Prave dnes prestal fungovat.",
+          "summary": "",
+          "recommends": "0",
+          "fingerprint": "6f8b417cc31f89b40133ccd7ae09c42bd076d84d"
         }
       ]
     },
