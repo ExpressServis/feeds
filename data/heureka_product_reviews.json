@@ -1,9 +1,9 @@
 {
-  "generated_at": 1780457122,
+  "generated_at": 1780543512,
   "stats": {
-    "products_count": 26,
-    "raw_reviews_in_feed": 26,
-    "saved_reviews": 26,
+    "products_count": 27,
+    "raw_reviews_in_feed": 27,
+    "saved_reviews": 27,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -34,6 +34,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Epico UltraBoard klávesnice EK40 - iPad 10,9\" /11\" CZ, černá 73711101300024",
+      "url": "https://www.express-servis.cz/p/epico-ultraboard-ek40-klavesnice-pro-ipad-s-trackpadem?utm_source=heureka",
+      "price": 2995.0,
+      "ean": "8596049201376",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22474390",
+          "rating_id_type": "product",
+          "unix_timestamp": 1780496424,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Vybrala jsem Epico UltraBoard EK40 pro iPad 10,9 nejen z důvodu, že má českou klávesnici. Klávesnice není naštěstí z PVC, ale kovová. Takže super.",
+          "recommends": "1",
+          "fingerprint": "2606a0321006b85e460544fb6d3f62c15586e26d"
+        }
+      ]
+    },
     {
       "product_name": "LCD Displej + Dotyk Google Pixel 8",
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-google-pixel-8-service-pack?utm_source=heureka",
@@ -137,7 +157,7 @@
     {
       "product_name": "Kryt Samsung A356 Galaxy A35 5G, A556 Galaxy A55 5G sklíčko zadní hlavní kamery - set 3ks",
       "url": "https://www.express-servis.cz/p/samsung-a356-a556-galaxy-a35-a55-5g-sklicko-kamer?utm_source=heureka",
-      "price": 126.0,
+      "price": 89.0,
       "ean": "8596311254161",
       "reviews_count": 1,
       "reviews": [
@@ -177,7 +197,7 @@
     {
       "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
-      "price": 2612.0,
+      "price": 2862.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -237,7 +257,7 @@
     {
       "product_name": "Apple iPhone XS Max Zadní kryt bílý",
       "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
-      "price": 651.0,
+      "price": 640.0,
       "ean": "8597593009616",
       "reviews_count": 1,
       "reviews": [
