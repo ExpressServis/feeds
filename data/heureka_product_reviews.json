@@ -1,9 +1,9 @@
 {
-  "generated_at": 1780543512,
+  "generated_at": 1780629866,
   "stats": {
-    "products_count": 27,
-    "raw_reviews_in_feed": 27,
-    "saved_reviews": 27,
+    "products_count": 24,
+    "raw_reviews_in_feed": 24,
+    "saved_reviews": 24,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -197,7 +197,7 @@
     {
       "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
-      "price": 2862.0,
+      "price": 2865.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -355,26 +355,6 @@
       ]
     },
     {
-      "product_name": "iFixit Precision Screw Extractor Set - sada pro vytažení stržených šroubů TL0067",
-      "url": "https://www.express-servis.cz/p/ifixit-precision-screw-extractor-set-sada-pro-vytazeni-strzenych-sroubu?utm_source=heureka",
-      "price": 775.0,
-      "ean": "8597593018823",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21742218",
-          "rating_id_type": "product",
-          "unix_timestamp": 1770383418,
-          "rating": 5.0,
-          "pros": "výborné na zaseklé šroubky nebo ty se strženým závitem\nna malé šroubky hlavně u notebooků to opravdu funguje\nkvalita výrobku (mám od výrobce víc takového nářadí k opravě notebooků)",
-          "cons": "vyšší cena, ale to je věc výrobce",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "2dee424493c7efaffc0a418d9bf0742fa3f8d9fa"
-        }
-      ]
-    },
-    {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
       "price": 110.0,
@@ -395,29 +375,9 @@
       ]
     },
     {
-      "product_name": "Plastová pružinová svěrka TL0008",
-      "url": "https://www.express-servis.cz/p/plastova-pruzinova-sverka?utm_source=heureka",
-      "price": 37.0,
-      "ean": "8597593008367",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21729304",
-          "rating_id_type": "product",
-          "unix_timestamp": 1770196975,
-          "rating": 4.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Plní funkci se",
-          "recommends": "1",
-          "fingerprint": "65f76d81406585e2f41618e346c0c41ea0751b4c"
-        }
-      ]
-    },
-    {
       "product_name": "Karl Lagerfeld 3D Logo NFT pouzdro pro AirPods 4, černé KLA4RUNKC",
       "url": "https://www.express-servis.cz/p/karl-lagerfeld-pouzdro-airpods-4-cerne-styl-a-ochrana?utm_source=heureka",
-      "price": 294.0,
+      "price": 286.0,
       "ean": "3666339448684",
       "reviews_count": 1,
       "reviews": [
@@ -551,26 +511,6 @@
           "summary": "Originál to není ale za tu cenu slušná baterie.",
           "recommends": "1",
           "fingerprint": "3a7749b04f9a0c626379ea05f65d5a3e1681195d"
-        }
-      ]
-    },
-    {
-      "product_name": "RELIFE RL-062A Ruční lepicí pistole TL0023",
-      "url": "https://www.express-servis.cz/p/relife-rl-062a-rucni-lepici-pistole?utm_source=heureka",
-      "price": 157.0,
-      "ean": "8597593008510",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21336659",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765100079,
-          "rating": 3.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Vcelku průměrné plastové zpracování které funguje na řidší věci (flux a podobně) ale při hustších už je znát pružení plastů a obávám se že moc dlouho nevydrží při větším tlaku nebo třeba pádu na zem. Patrona která se nasazuje je standardizovaná a  nasadíte Amtech nebo Polské průměrné či Čínské šmejdy a funguje to. U patron s pájkou je to podle její hustoty. Rozměr taky je docela velký ale chtěl sem vyzkoušet jiný dávkovač než kroužek s pantem a závitovou tyčí s pákou a když to srovnám tak je asi kroužek lepší volba.",
-          "recommends": "0",
-          "fingerprint": "f2e74253eabdbb2af155425d872f213593e9c269"
         }
       ]
     }
