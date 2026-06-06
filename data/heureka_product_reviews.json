@@ -1,5 +1,5 @@
 {
-  "generated_at": 1780629866,
+  "generated_at": 1780716232,
   "stats": {
     "products_count": 24,
     "raw_reviews_in_feed": 24,
@@ -23,12 +23,12 @@
     "3a7749b04f9a0c626379ea05f65d5a3e1681195d": [
       {
         "ean": "8596311204555",
-        "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-pro-huawei-3340mah-li-pol-oem?utm_source=heureka",
+        "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-huawei-3340mah?utm_source=heureka",
         "product_name": "Huawei HB356687ECW"
       },
       {
         "ean": "8596311110603",
-        "url": "https://www.express-servis.cz/p/hb356687ecw-huawei-baterie-3340mah-li-pol-service-pack?utm_source=heureka",
+        "url": "https://www.express-servis.cz/p/huawei-baterie-hb356687ecw-3340mah-li-pol?utm_source=heureka",
         "product_name": "Huawei HB356687ECW"
       }
     ]
@@ -197,7 +197,7 @@
     {
       "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
-      "price": 2865.0,
+      "price": 2862.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -257,7 +257,7 @@
     {
       "product_name": "Apple iPhone XS Max Zadní kryt bílý",
       "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
-      "price": 640.0,
+      "price": 651.0,
       "ean": "8597593009616",
       "reviews_count": 1,
       "reviews": [
@@ -476,7 +476,7 @@
     },
     {
       "product_name": "Huawei HB356687ECW",
-      "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-pro-huawei-3340mah-li-pol-oem?utm_source=heureka",
+      "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-huawei-3340mah?utm_source=heureka",
       "price": 144.0,
       "ean": "8596311204555",
       "reviews_count": 1,
@@ -496,7 +496,7 @@
     },
     {
       "product_name": "Huawei HB356687ECW",
-      "url": "https://www.express-servis.cz/p/hb356687ecw-huawei-baterie-3340mah-li-pol-service-pack?utm_source=heureka",
+      "url": "https://www.express-servis.cz/p/huawei-baterie-hb356687ecw-3340mah-li-pol?utm_source=heureka",
       "price": 327.0,
       "ean": "8596311110603",
       "reviews_count": 1,
