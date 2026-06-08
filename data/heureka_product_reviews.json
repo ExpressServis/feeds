@@ -1,11 +1,11 @@
 {
-  "generated_at": 1780802682,
+  "generated_at": 1780889113,
   "stats": {
-    "products_count": 24,
-    "raw_reviews_in_feed": 24,
-    "saved_reviews": 24,
+    "products_count": 22,
+    "raw_reviews_in_feed": 22,
+    "saved_reviews": 22,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 2
+    "cross_product_duplicates_count": 1
   },
   "cross_product_duplicates": {
     "7dafec11248c236eb0abac10e8b2f7f475f8276f": [
@@ -18,18 +18,6 @@
         "ean": "8597593009616",
         "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
         "product_name": "Apple iPhone XS Max Zadní kryt bílý"
-      }
-    ],
-    "3a7749b04f9a0c626379ea05f65d5a3e1681195d": [
-      {
-        "ean": "8596311204555",
-        "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-huawei-3340mah?utm_source=heureka",
-        "product_name": "Huawei HB356687ECW"
-      },
-      {
-        "ean": "8596311110603",
-        "url": "https://www.express-servis.cz/p/huawei-baterie-hb356687ecw-3340mah-li-pol?utm_source=heureka",
-        "product_name": "Huawei HB356687ECW"
       }
     ]
   },
@@ -471,46 +459,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "2a8861842adf6e7ffe18ac8f87675583583e250e"
-        }
-      ]
-    },
-    {
-      "product_name": "Huawei HB356687ECW",
-      "url": "https://www.express-servis.cz/p/hb356687ecw-baterie-huawei-3340mah?utm_source=heureka",
-      "price": 144.0,
-      "ean": "8596311204555",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21336718",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765100449,
-          "rating": 5.0,
-          "pros": "Cena",
-          "cons": "Asi malinko kratší flex než na originální takže se musí popotáhnout a ohnout v jiném místě než je továrně ohnuto a trochu se to pne. (Po přišroubování jisticího plechu to ale nevypadne. \nNemá na sobě vyndavací samolepky jako originál.",
-          "summary": "Originál to není ale za tu cenu slušná baterie.",
-          "recommends": "1",
-          "fingerprint": "3a7749b04f9a0c626379ea05f65d5a3e1681195d"
-        }
-      ]
-    },
-    {
-      "product_name": "Huawei HB356687ECW",
-      "url": "https://www.express-servis.cz/p/huawei-baterie-hb356687ecw-3340mah-li-pol?utm_source=heureka",
-      "price": 327.0,
-      "ean": "8596311110603",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21336718",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765100449,
-          "rating": 5.0,
-          "pros": "Cena",
-          "cons": "Asi malinko kratší flex než na originální takže se musí popotáhnout a ohnout v jiném místě než je továrně ohnuto a trochu se to pne. (Po přišroubování jisticího plechu to ale nevypadne. \nNemá na sobě vyndavací samolepky jako originál.",
-          "summary": "Originál to není ale za tu cenu slušná baterie.",
-          "recommends": "1",
-          "fingerprint": "3a7749b04f9a0c626379ea05f65d5a3e1681195d"
         }
       ]
     }
