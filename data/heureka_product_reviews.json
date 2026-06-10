@@ -1,9 +1,9 @@
 {
-  "generated_at": 1780975446,
+  "generated_at": 1781061858,
   "stats": {
-    "products_count": 22,
-    "raw_reviews_in_feed": 22,
-    "saved_reviews": 22,
+    "products_count": 20,
+    "raw_reviews_in_feed": 20,
+    "saved_reviews": 20,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -143,26 +143,6 @@
       ]
     },
     {
-      "product_name": "Kryt Samsung A356 Galaxy A35 5G, A556 Galaxy A55 5G sklíčko zadní hlavní kamery - set 3ks",
-      "url": "https://www.express-servis.cz/p/samsung-a356-a556-galaxy-a35-a55-5g-sklicko-kamer?utm_source=heureka",
-      "price": 89.0,
-      "ean": "8596311254161",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21993992",
-          "rating_id_type": "product",
-          "unix_timestamp": 1773734062,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Náhradní součástka plně nahrazuje\noriginál. Cena nízká.",
-          "recommends": "1",
-          "fingerprint": "ed641111a427c97e5fc91cad93f913d62d076888"
-        }
-      ]
-    },
-    {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
       "price": 3322.0,
@@ -185,7 +165,7 @@
     {
       "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
-      "price": 2855.0,
+      "price": 2887.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -283,46 +263,6 @@
       ]
     },
     {
-      "product_name": "LCD display + Dotyk Samsung A135F Galaxy A13 Black 57983112979",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-samsung-a135f-galaxy-a13-black-1?utm_source=heureka",
-      "price": 312.0,
-      "ean": "8596311201707",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21817333",
-          "rating_id_type": "product",
-          "unix_timestamp": 1771507004,
-          "rating": 1.0,
-          "pros": "",
-          "cons": "Dorazilo prasknuté",
-          "summary": "Dorazilo prasknuté, zjištěno při testu. Při vizuální kontrole nezjistitelné. Prodejce reklamaci neuznal.",
-          "recommends": "0",
-          "fingerprint": "fb99f639e0c99e3da990a09ca680e18b8b995966"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD display + Dotyk + Přední Kryt Samsung A135F Galaxy A13 Black 57983112985",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-a135f-galaxy-a13-black?utm_source=heureka",
-      "price": 363.0,
-      "ean": "8596311201769",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21817323",
-          "rating_id_type": "product",
-          "unix_timestamp": 1771506844,
-          "rating": 1.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "3fb8ef02d8f1dd3882bcb445e3e65163015e4f85"
-        }
-      ]
-    },
-    {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
       "price": 110.0,
@@ -365,7 +305,7 @@
     {
       "product_name": "Karl Lagerfeld 3D Logo NFT pouzdro pro AirPods 4, černé KLA4RUNKC",
       "url": "https://www.express-servis.cz/p/karl-lagerfeld-pouzdro-airpods-4-cerne-styl-a-ochrana?utm_source=heureka",
-      "price": 286.0,
+      "price": 290.0,
       "ean": "3666339448684",
       "reviews_count": 1,
       "reviews": [
@@ -383,9 +323,29 @@
       ]
     },
     {
+      "product_name": "Apple iPhone 17 Pro 256 GB MG8J4SX/A Modrá",
+      "url": "https://www.express-servis.cz/p/apple-iphone-17-pro-256gb-temne-modry?utm_source=heureka",
+      "price": 32575.0,
+      "ean": "195950627596",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21509023",
+          "rating_id_type": "product",
+          "unix_timestamp": 1767203324,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "e985b475d4a8e00bfd5d23431c0cad7b14eedd6e"
+        }
+      ]
+    },
+    {
       "product_name": "Guess 4G Script PC/PU pouzdro pro Airpods Pro hnědé GUAP4GSMW",
       "url": "https://www.express-servis.cz/p/guess-4g-pcpu-pouzdro-pro-airpods-pro-hnede?utm_source=heureka",
-      "price": 368.0,
+      "price": 359.0,
       "ean": "3666339009731",
       "reviews_count": 1,
       "reviews": [
