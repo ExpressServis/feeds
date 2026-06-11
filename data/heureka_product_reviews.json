@@ -1,9 +1,9 @@
 {
-  "generated_at": 1781061858,
+  "generated_at": 1781148290,
   "stats": {
-    "products_count": 20,
-    "raw_reviews_in_feed": 20,
-    "saved_reviews": 20,
+    "products_count": 19,
+    "raw_reviews_in_feed": 19,
+    "saved_reviews": 19,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -84,7 +84,7 @@
     },
     {
       "product_name": "Samsung EB-BJ510CBE",
-      "url": "https://www.express-servis.cz/p/eb-bj510cbe-baterie-pro-samsung-li-ion-3100mah-oem?utm_source=heureka",
+      "url": "https://www.express-servis.cz/p/eb-bj510cbe-baterie-samsung-3100mah?utm_source=heureka",
       "price": 126.0,
       "ean": "8596311193293",
       "reviews_count": 1,
@@ -103,28 +103,8 @@
       ]
     },
     {
-      "product_name": "EB-BG903BBE Baterie pro Samsung Li-Ion 2800mAh (OEM) 57983110807",
-      "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-li-ion-2800mah-oem?utm_source=heureka",
-      "price": 113.0,
-      "ean": "8596311193330",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22120581",
-          "rating_id_type": "product",
-          "unix_timestamp": 1775621914,
-          "rating": 5.0,
-          "pros": "Plnohodnotná baterie.",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "a01c97de3b07f098e3f758f75ef29bf5f4ceffb7"
-        }
-      ]
-    },
-    {
       "product_name": "Samsung AB553446BU",
-      "url": "https://www.express-servis.cz/p/ab553446bu-baterie-pro-samsung-li-ion-1000mah-oem?utm_source=heureka",
+      "url": "https://www.express-servis.cz/p/ab553446bu-baterie-samsung-1000mah-oem?utm_source=heureka",
       "price": 137.0,
       "ean": "8596311244513",
       "reviews_count": 1,
@@ -139,6 +119,26 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "7a277353011d0cc6c09ea3e2004838270bd574ca"
+        }
+      ]
+    },
+    {
+      "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
+      "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
+      "price": 66.0,
+      "ean": "8597593012036",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22078660",
+          "rating_id_type": "product",
+          "unix_timestamp": 1774904643,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "2620720676cb3e17bafb20bc832e4db3b4ddd351"
         }
       ]
     },
@@ -165,7 +165,7 @@
     {
       "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
-      "price": 2887.0,
+      "price": 2872.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -399,26 +399,6 @@
           "summary": "",
           "recommends": "0",
           "fingerprint": "6f8b417cc31f89b40133ccd7ae09c42bd076d84d"
-        }
-      ]
-    },
-    {
-      "product_name": "EB-BG903BBE Baterie pro Samsung Li-Ion 2800mAh (OEM) 57983110807",
-      "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-li-ion-2800mah-oem?utm_source=heureka",
-      "price": 113.0,
-      "ean": "8596311193330",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21362671",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765356498,
-          "rating": 4.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "2a8861842adf6e7ffe18ac8f87675583583e250e"
         }
       ]
     }
