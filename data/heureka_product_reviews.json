@@ -1,9 +1,9 @@
 {
-  "generated_at": 1781148290,
+  "generated_at": 1781234685,
   "stats": {
-    "products_count": 19,
-    "raw_reviews_in_feed": 19,
-    "saved_reviews": 19,
+    "products_count": 11,
+    "raw_reviews_in_feed": 11,
+    "saved_reviews": 11,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -23,46 +23,6 @@
   },
   "products": [
     {
-      "product_name": "Epico UltraBoard klávesnice EK40 - iPad 10,9\" /11\" CZ, černá 73711101300024",
-      "url": "https://www.express-servis.cz/p/epico-ultraboard-ek40-klavesnice-pro-ipad-s-trackpadem?utm_source=heureka",
-      "price": 2995.0,
-      "ean": "8596049201376",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22474390",
-          "rating_id_type": "product",
-          "unix_timestamp": 1780496424,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Vybrala jsem Epico UltraBoard EK40 pro iPad 10,9 nejen z důvodu, že má českou klávesnici. Klávesnice není naštěstí z PVC, ale kovová. Takže super.",
-          "recommends": "1",
-          "fingerprint": "2606a0321006b85e460544fb6d3f62c15586e26d"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD Displej + Dotyk Google Pixel 8",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-google-pixel-8-service-pack?utm_source=heureka",
-      "price": 2860.0,
-      "ean": "8596311252105",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22396303",
-          "rating_id_type": "product",
-          "unix_timestamp": 1779426850,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "2af548f78e4b8181212b2d5102977d05ce89107e"
-        }
-      ]
-    },
-    {
       "product_name": "Apple 96W USB-C Power Adapter MX0J2ZM/A - originální",
       "url": "https://www.express-servis.cz/p/napajeci-adapter-usb-c-apple-macbook-96w-bulk?utm_source=heureka",
       "price": 955.0,
@@ -79,46 +39,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "87222a609df3067e8dd5dc4bca2a7f0daa3e952c"
-        }
-      ]
-    },
-    {
-      "product_name": "Samsung EB-BJ510CBE",
-      "url": "https://www.express-servis.cz/p/eb-bj510cbe-baterie-samsung-3100mah?utm_source=heureka",
-      "price": 126.0,
-      "ean": "8596311193293",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22120591",
-          "rating_id_type": "product",
-          "unix_timestamp": 1775622052,
-          "rating": 5.0,
-          "pros": "Plnohodnotné baterie",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "6a066e8662d3312b72f044bd586a6aabad90e82f"
-        }
-      ]
-    },
-    {
-      "product_name": "Samsung AB553446BU",
-      "url": "https://www.express-servis.cz/p/ab553446bu-baterie-samsung-1000mah-oem?utm_source=heureka",
-      "price": 137.0,
-      "ean": "8596311244513",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22079872",
-          "rating_id_type": "product",
-          "unix_timestamp": 1774936387,
-          "rating": 4.5,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "7a277353011d0cc6c09ea3e2004838270bd574ca"
         }
       ]
     },
@@ -165,7 +85,7 @@
     {
       "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
-      "price": 2872.0,
+      "price": 2883.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -303,66 +223,6 @@
       ]
     },
     {
-      "product_name": "Karl Lagerfeld 3D Logo NFT pouzdro pro AirPods 4, černé KLA4RUNKC",
-      "url": "https://www.express-servis.cz/p/karl-lagerfeld-pouzdro-airpods-4-cerne-styl-a-ochrana?utm_source=heureka",
-      "price": 290.0,
-      "ean": "3666339448684",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21527925",
-          "rating_id_type": "product",
-          "unix_timestamp": 1767472228,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "f1df40a3acea05aebf8fe3086dbe46017959d483"
-        }
-      ]
-    },
-    {
-      "product_name": "Apple iPhone 17 Pro 256 GB MG8J4SX/A Modrá",
-      "url": "https://www.express-servis.cz/p/apple-iphone-17-pro-256gb-temne-modry?utm_source=heureka",
-      "price": 32575.0,
-      "ean": "195950627596",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21509023",
-          "rating_id_type": "product",
-          "unix_timestamp": 1767203324,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "e985b475d4a8e00bfd5d23431c0cad7b14eedd6e"
-        }
-      ]
-    },
-    {
-      "product_name": "Guess 4G Script PC/PU pouzdro pro Airpods Pro hnědé GUAP4GSMW",
-      "url": "https://www.express-servis.cz/p/guess-4g-pcpu-pouzdro-pro-airpods-pro-hnede?utm_source=heureka",
-      "price": 359.0,
-      "ean": "3666339009731",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21492107",
-          "rating_id_type": "product",
-          "unix_timestamp": 1767017541,
-          "rating": 4.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "c6f332549488ce1f3e6e2f73e4763714dba1177f"
-        }
-      ]
-    },
-    {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
       "price": 3322.0,
@@ -379,26 +239,6 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "ce031dd61058a7d6880112a7173d129dfea119c7"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD Displej + Dotyk + Přední kryt Samsung G986/G985 Galaxy S20+",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-black-1?utm_source=heureka",
-      "price": 1633.0,
-      "ean": "8596311249754",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21386725",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765647457,
-          "rating": 2.0,
-          "pros": "",
-          "cons": "Prave dnes prestal fungovat.",
-          "summary": "",
-          "recommends": "0",
-          "fingerprint": "6f8b417cc31f89b40133ccd7ae09c42bd076d84d"
         }
       ]
     }
