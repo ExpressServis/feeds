@@ -1,9 +1,9 @@
 {
-  "generated_at": 1781321075,
+  "generated_at": 1781407483,
   "stats": {
-    "products_count": 20,
-    "raw_reviews_in_feed": 20,
-    "saved_reviews": 20,
+    "products_count": 19,
+    "raw_reviews_in_feed": 19,
+    "saved_reviews": 19,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -145,7 +145,7 @@
     {
       "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
       "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
-      "price": 66.0,
+      "price": 60.0,
       "ean": "8597593012036",
       "reviews_count": 1,
       "reviews": [
@@ -185,7 +185,7 @@
     {
       "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
-      "price": 2883.0,
+      "price": 2873.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -265,7 +265,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 111.0,
+      "price": 110.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -285,7 +285,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 111.0,
+      "price": 110.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -305,7 +305,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 111.0,
+      "price": 110.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -399,26 +399,6 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "ce031dd61058a7d6880112a7173d129dfea119c7"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD Displej + Dotyk + Přední kryt Samsung G986/G985 Galaxy S20+",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-g986-g985-galaxy-s20-cosmic-black-1?utm_source=heureka",
-      "price": 1633.0,
-      "ean": "8596311249754",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21386725",
-          "rating_id_type": "product",
-          "unix_timestamp": 1765647457,
-          "rating": 2.0,
-          "pros": "",
-          "cons": "Prave dnes prestal fungovat.",
-          "summary": "",
-          "recommends": "0",
-          "fingerprint": "6f8b417cc31f89b40133ccd7ae09c42bd076d84d"
         }
       ]
     }
