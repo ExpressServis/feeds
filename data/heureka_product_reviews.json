@@ -1,9 +1,9 @@
 {
-  "generated_at": 1781666702,
+  "generated_at": 1781753089,
   "stats": {
-    "products_count": 19,
-    "raw_reviews_in_feed": 19,
-    "saved_reviews": 19,
+    "products_count": 16,
+    "raw_reviews_in_feed": 16,
+    "saved_reviews": 16,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -99,46 +99,6 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "6a066e8662d3312b72f044bd586a6aabad90e82f"
-        }
-      ]
-    },
-    {
-      "product_name": "EB-BG903BBE baterie pro Samsung Li-Ion 2800mAh OEM 57983110807",
-      "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-2800mah?utm_source=heureka",
-      "price": 113.0,
-      "ean": "8596311193330",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22120581",
-          "rating_id_type": "product",
-          "unix_timestamp": 1775621914,
-          "rating": 5.0,
-          "pros": "Plnohodnotná baterie.",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "a01c97de3b07f098e3f758f75ef29bf5f4ceffb7"
-        }
-      ]
-    },
-    {
-      "product_name": "Samsung AB553446BU",
-      "url": "https://www.express-servis.cz/p/ab553446bu-baterie-samsung-1000mah-oem?utm_source=heureka",
-      "price": 137.0,
-      "ean": "8596311244513",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22079872",
-          "rating_id_type": "product",
-          "unix_timestamp": 1774936387,
-          "rating": 4.5,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "7a277353011d0cc6c09ea3e2004838270bd574ca"
         }
       ]
     },
@@ -319,26 +279,6 @@
           "summary": "Lepí dobře,dle mého  požadavku.",
           "recommends": "1",
           "fingerprint": "16bc88b546fb18209dd2c1812d8378991209e59d"
-        }
-      ]
-    },
-    {
-      "product_name": "Karl Lagerfeld 3D Logo NFT pouzdro pro AirPods 4, černé KLA4RUNKC",
-      "url": "https://www.express-servis.cz/p/karl-lagerfeld-pouzdro-airpods-4-cerne-styl-a-ochrana?utm_source=heureka",
-      "price": 290.0,
-      "ean": "3666339448684",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21527925",
-          "rating_id_type": "product",
-          "unix_timestamp": 1767472228,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "f1df40a3acea05aebf8fe3086dbe46017959d483"
         }
       ]
     },
