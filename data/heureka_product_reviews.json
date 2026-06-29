@@ -1,9 +1,9 @@
 {
-  "generated_at": 1782617063,
+  "generated_at": 1782703531,
   "stats": {
-    "products_count": 15,
-    "raw_reviews_in_feed": 15,
-    "saved_reviews": 15,
+    "products_count": 16,
+    "raw_reviews_in_feed": 16,
+    "saved_reviews": 16,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -22,6 +22,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "BAKU B-7000 Lepidlo 50g",
+      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
+      "price": 70.0,
+      "ean": "8596115571044",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22609923",
+          "rating_id_type": "product",
+          "unix_timestamp": 1782647263,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "6f177d79e0f4bb1861da359ab5d1f5def5e2c15f"
+        }
+      ]
+    },
     {
       "product_name": "Podlepení displeje iPhone 13 Mini - Originál Apple IPH1092",
       "url": "https://www.express-servis.cz/p/podlepeni-displeje-iphone-13-mini-original-apple?utm_source=heureka",
