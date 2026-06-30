@@ -1,9 +1,9 @@
 {
-  "generated_at": 1782703531,
+  "generated_at": 1782789846,
   "stats": {
-    "products_count": 16,
-    "raw_reviews_in_feed": 16,
-    "saved_reviews": 16,
+    "products_count": 15,
+    "raw_reviews_in_feed": 15,
+    "saved_reviews": 15,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -319,26 +319,6 @@
           "summary": "Lepí dobře,dle mého  požadavku.",
           "recommends": "1",
           "fingerprint": "16bc88b546fb18209dd2c1812d8378991209e59d"
-        }
-      ]
-    },
-    {
-      "product_name": "Guess 4G Script PC/PU pouzdro pro Airpods Pro hnědé GUAP4GSMW",
-      "url": "https://www.express-servis.cz/p/guess-4g-pcpu-pouzdro-pro-airpods-pro-hnede?utm_source=heureka",
-      "price": 359.0,
-      "ean": "3666339009731",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21492107",
-          "rating_id_type": "product",
-          "unix_timestamp": 1767017541,
-          "rating": 4.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "c6f332549488ce1f3e6e2f73e4763714dba1177f"
         }
       ]
     }
