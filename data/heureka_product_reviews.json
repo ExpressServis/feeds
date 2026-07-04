@@ -1,9 +1,9 @@
 {
-  "generated_at": 1783049010,
+  "generated_at": 1783135385,
   "stats": {
-    "products_count": 15,
-    "raw_reviews_in_feed": 15,
-    "saved_reviews": 15,
+    "products_count": 12,
+    "raw_reviews_in_feed": 12,
+    "saved_reviews": 12,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -25,7 +25,7 @@
     {
       "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
-      "price": 70.0,
+      "price": 105.0,
       "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
@@ -45,7 +45,7 @@
     {
       "product_name": "Podlepení displeje iPhone 13 Mini - Originál Apple IPH1092",
       "url": "https://www.express-servis.cz/p/podlepeni-displeje-iphone-13-mini-original-apple?utm_source=heureka",
-      "price": 100.0,
+      "price": 91.0,
       "ean": "8597593015167",
       "reviews_count": 1,
       "reviews": [
@@ -145,7 +145,7 @@
     {
       "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
       "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
-      "price": 63.0,
+      "price": 94.0,
       "ean": "8597593012036",
       "reviews_count": 1,
       "reviews": [
@@ -185,7 +185,7 @@
     {
       "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
-      "price": 2925.0,
+      "price": 2918.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -205,7 +205,7 @@
     {
       "product_name": "Lepení baterie pro Apple iPhone XS Max 8596115546790",
       "url": "https://www.express-servis.cz/p/podlepeni-baterie-iphone-xs-max?utm_source=heureka",
-      "price": 22.0,
+      "price": 66.0,
       "ean": "8596115546790",
       "reviews_count": 1,
       "reviews": [
@@ -259,66 +259,6 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "7dafec11248c236eb0abac10e8b2f7f475f8276f"
-        }
-      ]
-    },
-    {
-      "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
-      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 26.0,
-      "ean": "8596311211164",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21845099",
-          "rating_id_type": "product",
-          "unix_timestamp": 1771864122,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Splňuje vše co jsem očekával",
-          "recommends": "1",
-          "fingerprint": "f1eb50f8d35a0bb3293b87d3cab6965972bb0478"
-        }
-      ]
-    },
-    {
-      "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
-      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 26.0,
-      "ean": "8596311211164",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21777693",
-          "rating_id_type": "product",
-          "unix_timestamp": 1770964337,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Splnilo to očekávaný požadavek.",
-          "recommends": "1",
-          "fingerprint": "41d6bd618e969c9236918781a38b8782d8630731"
-        }
-      ]
-    },
-    {
-      "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
-      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 26.0,
-      "ean": "8596311211164",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21724893",
-          "rating_id_type": "product",
-          "unix_timestamp": 1770197009,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Lepí dobře,dle mého  požadavku.",
-          "recommends": "1",
-          "fingerprint": "16bc88b546fb18209dd2c1812d8378991209e59d"
         }
       ]
     }
