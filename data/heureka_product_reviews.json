@@ -1,14 +1,47 @@
 {
-  "generated_at": 1783221821,
+  "generated_at": 1783308232,
   "stats": {
-    "products_count": 6,
-    "raw_reviews_in_feed": 6,
-    "saved_reviews": 6,
+    "products_count": 13,
+    "raw_reviews_in_feed": 13,
+    "saved_reviews": 13,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 0
+    "cross_product_duplicates_count": 1
   },
-  "cross_product_duplicates": {},
+  "cross_product_duplicates": {
+    "7dafec11248c236eb0abac10e8b2f7f475f8276f": [
+      {
+        "ean": "8597593010452",
+        "url": "https://www.express-servis.cz/p/zadni-sklo-iphone-xs-max-bile?utm_source=heureka",
+        "product_name": "Kryt Apple iPhone XS Max Zadní bílý"
+      },
+      {
+        "ean": "8597593009616",
+        "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
+        "product_name": "Apple iPhone XS Max Zadní kryt bílý"
+      }
+    ]
+  },
   "products": [
+    {
+      "product_name": "Epico UltraBoost Micro AVS GaN 100W adaptér EA100b bílá 9915101100238",
+      "url": "https://www.express-servis.cz/p/epico-ultraboost-gan-100w-adapter-bila?utm_source=heureka",
+      "price": 665.0,
+      "ean": "8596049208016",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22645451",
+          "rating_id_type": "product",
+          "unix_timestamp": 1783234951,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "d96b758e2945c81ce8555e8e0007d7ad1845cac9"
+        }
+      ]
+    },
     {
       "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
@@ -90,6 +123,26 @@
       ]
     },
     {
+      "product_name": "Apple 96W USB-C Power Adapter MX0J2ZM/A - originální",
+      "url": "https://www.express-servis.cz/p/napajeci-adapter-usb-c-apple-macbook-96w-bulk?utm_source=heureka",
+      "price": 957.0,
+      "ean": "8597593007469",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22300099",
+          "rating_id_type": "product",
+          "unix_timestamp": 1778064482,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "87222a609df3067e8dd5dc4bca2a7f0daa3e952c"
+        }
+      ]
+    },
+    {
       "product_name": "Samsung EB-BJ510CBE",
       "url": "https://www.express-servis.cz/p/eb-bj510cbe-baterie-samsung-3100mah?utm_source=heureka",
       "price": 151.0,
@@ -110,6 +163,26 @@
       ]
     },
     {
+      "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
+      "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
+      "price": 94.0,
+      "ean": "8597593012036",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22078660",
+          "rating_id_type": "product",
+          "unix_timestamp": 1774904643,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "2620720676cb3e17bafb20bc832e4db3b4ddd351"
+        }
+      ]
+    },
+    {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
       "price": 3341.0,
@@ -126,6 +199,86 @@
           "summary": "Ideální do práce. Denně teplý oběd.",
           "recommends": "1",
           "fingerprint": "ceffd8162a28ab67c436386aaa177c454925d584"
+        }
+      ]
+    },
+    {
+      "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
+      "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
+      "price": 2902.0,
+      "ean": "718037855448",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21913253",
+          "rating_id_type": "product",
+          "unix_timestamp": 1772716664,
+          "rating": 5.0,
+          "pros": "přesně takový, jaký potřebuju :-)",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "600ee6f000d1f29d4911d11ac1415b36c1205bd6"
+        }
+      ]
+    },
+    {
+      "product_name": "Lepení baterie pro Apple iPhone XS Max 8596115546790",
+      "url": "https://www.express-servis.cz/p/podlepeni-baterie-iphone-xs-max?utm_source=heureka",
+      "price": 75.0,
+      "ean": "8596115546790",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21864023",
+          "rating_id_type": "product",
+          "unix_timestamp": 1772095811,
+          "rating": 5.0,
+          "pros": "4+",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "8aaf06bf38ab80625cdb62cc3a74c5686f575b04"
+        }
+      ]
+    },
+    {
+      "product_name": "Kryt Apple iPhone XS Max Zadní bílý",
+      "url": "https://www.express-servis.cz/p/zadni-sklo-iphone-xs-max-bile?utm_source=heureka",
+      "price": 91.0,
+      "ean": "8597593010452",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21864016",
+          "rating_id_type": "product",
+          "unix_timestamp": 1772095733,
+          "rating": 3.5,
+          "pros": "Kvalita 4",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "7dafec11248c236eb0abac10e8b2f7f475f8276f"
+        }
+      ]
+    },
+    {
+      "product_name": "Apple iPhone XS Max Zadní kryt bílý",
+      "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
+      "price": 507.0,
+      "ean": "8597593009616",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21864016",
+          "rating_id_type": "product",
+          "unix_timestamp": 1772095733,
+          "rating": 3.5,
+          "pros": "Kvalita 4",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "7dafec11248c236eb0abac10e8b2f7f475f8276f"
         }
       ]
     }
