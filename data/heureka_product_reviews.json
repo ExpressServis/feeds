@@ -1,9 +1,9 @@
 {
-  "generated_at": 1783480954,
+  "generated_at": 1783567410,
   "stats": {
-    "products_count": 13,
-    "raw_reviews_in_feed": 13,
-    "saved_reviews": 13,
+    "products_count": 12,
+    "raw_reviews_in_feed": 12,
+    "saved_reviews": 12,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -25,7 +25,7 @@
     {
       "product_name": "Epico UltraBoost Micro AVS GaN 100W adaptér EA100b bílá 9915101100238",
       "url": "https://www.express-servis.cz/p/epico-ultraboost-gan-100w-adapter-bila?utm_source=heureka",
-      "price": 932.0,
+      "price": 665.0,
       "ean": "8596049208016",
       "reviews_count": 1,
       "reviews": [
@@ -45,7 +45,7 @@
     {
       "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
-      "price": 70.0,
+      "price": 72.0,
       "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
@@ -59,26 +59,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "6f177d79e0f4bb1861da359ab5d1f5def5e2c15f"
-        }
-      ]
-    },
-    {
-      "product_name": "Podlepení displeje iPhone 13 Mini - Originál Apple IPH1092",
-      "url": "https://www.express-servis.cz/p/podlepeni-displeje-iphone-13-mini-original-apple?utm_source=heureka",
-      "price": 100.0,
-      "ean": "8597593015167",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22599485",
-          "rating_id_type": "product",
-          "unix_timestamp": 1782376815,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "a5f12fb92d7b877fecf8d05bf1be16cc9a79ebf8"
         }
       ]
     },
@@ -205,7 +185,7 @@
     {
       "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
-      "price": 2902.0,
+      "price": 2911.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -225,7 +205,7 @@
     {
       "product_name": "Lepení baterie pro Apple iPhone XS Max 8596115546790",
       "url": "https://www.express-servis.cz/p/podlepeni-baterie-iphone-xs-max?utm_source=heureka",
-      "price": 22.0,
+      "price": 10.0,
       "ean": "8596115546790",
       "reviews_count": 1,
       "reviews": [
@@ -245,7 +225,7 @@
     {
       "product_name": "Kryt Apple iPhone XS Max Zadní bílý",
       "url": "https://www.express-servis.cz/p/zadni-sklo-iphone-xs-max-bile?utm_source=heureka",
-      "price": 77.0,
+      "price": 59.0,
       "ean": "8597593010452",
       "reviews_count": 1,
       "reviews": [
@@ -265,7 +245,7 @@
     {
       "product_name": "Apple iPhone XS Max Zadní kryt bílý",
       "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
-      "price": 651.0,
+      "price": 593.0,
       "ean": "8597593009616",
       "reviews_count": 1,
       "reviews": [
