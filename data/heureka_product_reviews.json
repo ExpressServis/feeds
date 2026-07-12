@@ -1,9 +1,9 @@
 {
-  "generated_at": 1783740145,
+  "generated_at": 1783826565,
   "stats": {
-    "products_count": 15,
-    "raw_reviews_in_feed": 15,
-    "saved_reviews": 15,
+    "products_count": 20,
+    "raw_reviews_in_feed": 20,
+    "saved_reviews": 20,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -105,7 +105,7 @@
     {
       "product_name": "Apple 96W USB-C Power Adapter MX0J2ZM/A - originální",
       "url": "https://www.express-servis.cz/p/napajeci-adapter-usb-c-apple-macbook-96w-bulk?utm_source=heureka",
-      "price": 956.0,
+      "price": 957.0,
       "ean": "8597593007469",
       "reviews_count": 1,
       "reviews": [
@@ -143,6 +143,46 @@
       ]
     },
     {
+      "product_name": "EB-BG903BBE baterie pro Samsung Li-Ion 2800mAh OEM 57983110807",
+      "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-2800mah?utm_source=heureka",
+      "price": 140.0,
+      "ean": "8596311193330",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22120581",
+          "rating_id_type": "product",
+          "unix_timestamp": 1775621914,
+          "rating": 5.0,
+          "pros": "Plnohodnotná baterie.",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "a01c97de3b07f098e3f758f75ef29bf5f4ceffb7"
+        }
+      ]
+    },
+    {
+      "product_name": "Samsung AB553446BU",
+      "url": "https://www.express-servis.cz/p/ab553446bu-baterie-samsung-1000mah-oem?utm_source=heureka",
+      "price": 114.0,
+      "ean": "8596311244513",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22079872",
+          "rating_id_type": "product",
+          "unix_timestamp": 1774936387,
+          "rating": 4.5,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "7a277353011d0cc6c09ea3e2004838270bd574ca"
+        }
+      ]
+    },
+    {
       "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
       "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
       "price": 94.0,
@@ -159,6 +199,26 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "2620720676cb3e17bafb20bc832e4db3b4ddd351"
+        }
+      ]
+    },
+    {
+      "product_name": "Kryt Samsung A356 Galaxy A35 5G, A556 Galaxy A55 5G sklíčko zadní hlavní kamery - set 3ks",
+      "url": "https://www.express-servis.cz/p/samsung-a356-a556-galaxy-a35-a55-5g-sklicko-kamer?utm_source=heureka",
+      "price": 82.0,
+      "ean": "8596311254161",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21993992",
+          "rating_id_type": "product",
+          "unix_timestamp": 1773734062,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Náhradní součástka plně nahrazuje\noriginál. Cena nízká.",
+          "recommends": "1",
+          "fingerprint": "ed641111a427c97e5fc91cad93f913d62d076888"
         }
       ]
     },
@@ -185,7 +245,7 @@
     {
       "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
       "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
-      "price": 2914.0,
+      "price": 2912.0,
       "ean": "718037855448",
       "reviews_count": 1,
       "reviews": [
@@ -205,7 +265,7 @@
     {
       "product_name": "Lepení baterie pro Apple iPhone XS Max 8596115546790",
       "url": "https://www.express-servis.cz/p/podlepeni-baterie-iphone-xs-max?utm_source=heureka",
-      "price": 66.0,
+      "price": 75.0,
       "ean": "8596115546790",
       "reviews_count": 1,
       "reviews": [
@@ -245,7 +305,7 @@
     {
       "product_name": "Apple iPhone XS Max Zadní kryt bílý",
       "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
-      "price": 651.0,
+      "price": 555.0,
       "ean": "8597593009616",
       "reviews_count": 1,
       "reviews": [
@@ -265,7 +325,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 143.0,
+      "price": 149.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -283,9 +343,49 @@
       ]
     },
     {
+      "product_name": "LCD display + Dotyk Samsung A135F Galaxy A13 Black 57983112979",
+      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-samsung-a135f-galaxy-a13-black-1?utm_source=heureka",
+      "price": 357.0,
+      "ean": "8596311201707",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21817333",
+          "rating_id_type": "product",
+          "unix_timestamp": 1771507004,
+          "rating": 1.0,
+          "pros": "",
+          "cons": "Dorazilo prasknuté",
+          "summary": "Dorazilo prasknuté, zjištěno při testu. Při vizuální kontrole nezjistitelné. Prodejce reklamaci neuznal.",
+          "recommends": "0",
+          "fingerprint": "fb99f639e0c99e3da990a09ca680e18b8b995966"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD display + Dotyk + Přední Kryt Samsung A135F Galaxy A13 Black 57983112985",
+      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-a135f-galaxy-a13-black?utm_source=heureka",
+      "price": 395.0,
+      "ean": "8596311201769",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21817323",
+          "rating_id_type": "product",
+          "unix_timestamp": 1771506844,
+          "rating": 1.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "3fb8ef02d8f1dd3882bcb445e3e65163015e4f85"
+        }
+      ]
+    },
+    {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 143.0,
+      "price": 149.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -305,7 +405,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 143.0,
+      "price": 149.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
