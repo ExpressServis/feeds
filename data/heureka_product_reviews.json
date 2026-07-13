@@ -1,26 +1,13 @@
 {
-  "generated_at": 1783826565,
+  "generated_at": 1783912969,
   "stats": {
-    "products_count": 20,
-    "raw_reviews_in_feed": 20,
-    "saved_reviews": 20,
+    "products_count": 15,
+    "raw_reviews_in_feed": 15,
+    "saved_reviews": 15,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 1
+    "cross_product_duplicates_count": 0
   },
-  "cross_product_duplicates": {
-    "7dafec11248c236eb0abac10e8b2f7f475f8276f": [
-      {
-        "ean": "8597593010452",
-        "url": "https://www.express-servis.cz/p/zadni-sklo-iphone-xs-max-bile?utm_source=heureka",
-        "product_name": "Kryt Apple iPhone XS Max Zadní bílý"
-      },
-      {
-        "ean": "8597593009616",
-        "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
-        "product_name": "Apple iPhone XS Max Zadní kryt bílý"
-      }
-    ]
-  },
+  "cross_product_duplicates": {},
   "products": [
     {
       "product_name": "Epico UltraBoost Micro AVS GaN 100W adaptér EA100b bílá 9915101100238",
@@ -103,26 +90,6 @@
       ]
     },
     {
-      "product_name": "Apple 96W USB-C Power Adapter MX0J2ZM/A - originální",
-      "url": "https://www.express-servis.cz/p/napajeci-adapter-usb-c-apple-macbook-96w-bulk?utm_source=heureka",
-      "price": 957.0,
-      "ean": "8597593007469",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22300099",
-          "rating_id_type": "product",
-          "unix_timestamp": 1778064482,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "87222a609df3067e8dd5dc4bca2a7f0daa3e952c"
-        }
-      ]
-    },
-    {
       "product_name": "Samsung EB-BJ510CBE",
       "url": "https://www.express-servis.cz/p/eb-bj510cbe-baterie-samsung-3100mah?utm_source=heureka",
       "price": 151.0,
@@ -183,26 +150,6 @@
       ]
     },
     {
-      "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
-      "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
-      "price": 94.0,
-      "ean": "8597593012036",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22078660",
-          "rating_id_type": "product",
-          "unix_timestamp": 1774904643,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "2620720676cb3e17bafb20bc832e4db3b4ddd351"
-        }
-      ]
-    },
-    {
       "product_name": "Kryt Samsung A356 Galaxy A35 5G, A556 Galaxy A55 5G sklíčko zadní hlavní kamery - set 3ks",
       "url": "https://www.express-servis.cz/p/samsung-a356-a556-galaxy-a35-a55-5g-sklicko-kamer?utm_source=heureka",
       "price": 82.0,
@@ -259,66 +206,6 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "600ee6f000d1f29d4911d11ac1415b36c1205bd6"
-        }
-      ]
-    },
-    {
-      "product_name": "Lepení baterie pro Apple iPhone XS Max 8596115546790",
-      "url": "https://www.express-servis.cz/p/podlepeni-baterie-iphone-xs-max?utm_source=heureka",
-      "price": 75.0,
-      "ean": "8596115546790",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21864023",
-          "rating_id_type": "product",
-          "unix_timestamp": 1772095811,
-          "rating": 5.0,
-          "pros": "4+",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "8aaf06bf38ab80625cdb62cc3a74c5686f575b04"
-        }
-      ]
-    },
-    {
-      "product_name": "Kryt Apple iPhone XS Max Zadní bílý",
-      "url": "https://www.express-servis.cz/p/zadni-sklo-iphone-xs-max-bile?utm_source=heureka",
-      "price": 91.0,
-      "ean": "8597593010452",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21864016",
-          "rating_id_type": "product",
-          "unix_timestamp": 1772095733,
-          "rating": 3.5,
-          "pros": "Kvalita 4",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "7dafec11248c236eb0abac10e8b2f7f475f8276f"
-        }
-      ]
-    },
-    {
-      "product_name": "Apple iPhone XS Max Zadní kryt bílý",
-      "url": "https://www.express-servis.cz/p/zadni-kryt-iphone-xs-max-bily?utm_source=heureka",
-      "price": 555.0,
-      "ean": "8597593009616",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21864016",
-          "rating_id_type": "product",
-          "unix_timestamp": 1772095733,
-          "rating": 3.5,
-          "pros": "Kvalita 4",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "7dafec11248c236eb0abac10e8b2f7f475f8276f"
         }
       ]
     },
