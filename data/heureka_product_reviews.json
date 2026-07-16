@@ -1,5 +1,5 @@
 {
-  "generated_at": 1784085670,
+  "generated_at": 1784172128,
   "stats": {
     "products_count": 20,
     "raw_reviews_in_feed": 20,
@@ -45,7 +45,7 @@
     {
       "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
-      "price": 105.0,
+      "price": 80.0,
       "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
@@ -65,7 +65,7 @@
     {
       "product_name": "Epico UltraBoard klávesnice EK40 - iPad 10,9\" /11\" CZ, černá 73711101300024",
       "url": "https://www.express-servis.cz/p/epico-ultraboard-ek40-klavesnice-pro-ipad-s-trackpadem?utm_source=heureka",
-      "price": 2636.0,
+      "price": 3324.0,
       "ean": "8596049201376",
       "reviews_count": 1,
       "reviews": [
@@ -105,7 +105,7 @@
     {
       "product_name": "Apple 96W USB-C Power Adapter MX0J2ZM/A - originální",
       "url": "https://www.express-servis.cz/p/napajeci-adapter-usb-c-apple-macbook-96w-bulk?utm_source=heureka",
-      "price": 959.0,
+      "price": 960.0,
       "ean": "8597593007469",
       "reviews_count": 1,
       "reviews": [
@@ -125,7 +125,7 @@
     {
       "product_name": "Samsung EB-BJ510CBE",
       "url": "https://www.express-servis.cz/p/eb-bj510cbe-baterie-samsung-3100mah?utm_source=heureka",
-      "price": 115.0,
+      "price": 106.0,
       "ean": "8596311193293",
       "reviews_count": 1,
       "reviews": [
@@ -145,7 +145,7 @@
     {
       "product_name": "EB-BG903BBE baterie pro Samsung Li-Ion 2800mAh OEM 57983110807",
       "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-2800mah?utm_source=heureka",
-      "price": 83.0,
+      "price": 98.0,
       "ean": "8596311193330",
       "reviews_count": 1,
       "reviews": [
@@ -165,7 +165,7 @@
     {
       "product_name": "Samsung AB553446BU",
       "url": "https://www.express-servis.cz/p/ab553446bu-baterie-samsung-1000mah-oem?utm_source=heureka",
-      "price": 70.0,
+      "price": 64.0,
       "ean": "8596311244513",
       "reviews_count": 1,
       "reviews": [
@@ -185,7 +185,7 @@
     {
       "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
       "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
-      "price": 94.0,
+      "price": 63.0,
       "ean": "8597593012036",
       "reviews_count": 1,
       "reviews": [
@@ -225,7 +225,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
-      "price": 3341.0,
+      "price": 3105.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -325,7 +325,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 149.0,
+      "price": 102.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -385,7 +385,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 149.0,
+      "price": 102.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -405,7 +405,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 149.0,
+      "price": 102.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
