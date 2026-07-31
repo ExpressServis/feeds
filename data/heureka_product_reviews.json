@@ -1,9 +1,9 @@
 {
-  "generated_at": 1785295343,
+  "generated_at": 1785468163,
   "stats": {
-    "products_count": 20,
-    "raw_reviews_in_feed": 20,
-    "saved_reviews": 20,
+    "products_count": 19,
+    "raw_reviews_in_feed": 19,
+    "saved_reviews": 19,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -65,7 +65,7 @@
     {
       "product_name": "Epico UltraBoard klávesnice EK40 - iPad 10,9\" /11\" CZ, černá 73711101300024",
       "url": "https://www.express-servis.cz/p/epico-ultraboard-ek40-klavesnice-pro-ipad-s-trackpadem?utm_source=heureka",
-      "price": 2546.0,
+      "price": 2618.0,
       "ean": "8596049201376",
       "reviews_count": 1,
       "reviews": [
@@ -123,26 +123,6 @@
       ]
     },
     {
-      "product_name": "Samsung EB-BJ510CBE",
-      "url": "https://www.express-servis.cz/p/eb-bj510cbe-baterie-samsung-3100mah?utm_source=heureka",
-      "price": 151.0,
-      "ean": "8596311193293",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22120591",
-          "rating_id_type": "product",
-          "unix_timestamp": 1775622052,
-          "rating": 5.0,
-          "pros": "Plnohodnotné baterie",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "6a066e8662d3312b72f044bd586a6aabad90e82f"
-        }
-      ]
-    },
-    {
       "product_name": "EB-BG903BBE baterie pro Samsung Li-Ion 2800mAh OEM 57983110807",
       "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-2800mah?utm_source=heureka",
       "price": 142.0,
@@ -185,7 +165,7 @@
     {
       "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
       "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
-      "price": 62.0,
+      "price": 63.0,
       "ean": "8597593012036",
       "reviews_count": 1,
       "reviews": [
@@ -285,7 +265,7 @@
     {
       "product_name": "Kryt Apple iPhone XS Max Zadní bílý",
       "url": "https://www.express-servis.cz/p/zadni-sklo-iphone-xs-max-bile?utm_source=heureka",
-      "price": 59.0,
+      "price": 60.0,
       "ean": "8597593010452",
       "reviews_count": 1,
       "reviews": [
@@ -325,7 +305,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 97.0,
+      "price": 102.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -385,7 +365,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 97.0,
+      "price": 102.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
@@ -405,7 +385,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 97.0,
+      "price": 102.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
