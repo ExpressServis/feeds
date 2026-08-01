@@ -1,9 +1,9 @@
 {
-  "generated_at": 1785468163,
+  "generated_at": 1785554569,
   "stats": {
-    "products_count": 19,
-    "raw_reviews_in_feed": 19,
-    "saved_reviews": 19,
+    "products_count": 21,
+    "raw_reviews_in_feed": 21,
+    "saved_reviews": 21,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -22,6 +22,46 @@
     ]
   },
   "products": [
+    {
+      "product_name": "LCD displej iPhone 11 - Refurbished IPH0989",
+      "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
+      "price": 663.0,
+      "ean": "8597593014085",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22876725",
+          "rating_id_type": "product",
+          "unix_timestamp": 1785500481,
+          "rating": 5.0,
+          "pros": "funguje jako originál doporučuji\ncenově dostupný",
+          "cons": "",
+          "summary": "Myslím že je to dobrá náhrada za originál doporučuji .",
+          "recommends": "1",
+          "fingerprint": "0caa8a9dfba7ef21218b771f97ff0c3e6f9569e4"
+        }
+      ]
+    },
+    {
+      "product_name": "Flex kabel MagSafe napájecího konektoru MacBook Air 13\" (A2681 / 2022) MAC0060",
+      "url": "https://www.express-servis.cz/p/flex-kabel-magsafe-napajeciho-konektoru-macbook-air-13-a2681-2022?utm_source=heureka",
+      "price": 154.0,
+      "ean": "8597593012333",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "16259197",
+          "rating_id_type": "offer",
+          "unix_timestamp": 1785480459,
+          "rating": 5.0,
+          "pros": "funguje",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "e808fc463a99d50773c62c837cac5bdd0c900e1c"
+        }
+      ]
+    },
     {
       "product_name": "Epico UltraBoost Micro AVS GaN 100W adaptér EA100b bílá 9915101100238",
       "url": "https://www.express-servis.cz/p/epico-ultraboost-gan-100w-adapter-bila?utm_source=heureka",
@@ -125,7 +165,7 @@
     {
       "product_name": "EB-BG903BBE baterie pro Samsung Li-Ion 2800mAh OEM 57983110807",
       "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-2800mah?utm_source=heureka",
-      "price": 142.0,
+      "price": 141.0,
       "ean": "8596311193330",
       "reviews_count": 1,
       "reviews": [
@@ -185,7 +225,7 @@
     {
       "product_name": "Kryt Samsung A356 Galaxy A35 5G, A556 Galaxy A55 5G sklíčko zadní hlavní kamery - set 3ks",
       "url": "https://www.express-servis.cz/p/samsung-a356-a556-galaxy-a35-a55-5g-sklicko-kamer?utm_source=heureka",
-      "price": 84.0,
+      "price": 83.0,
       "ean": "8596311254161",
       "reviews_count": 1,
       "reviews": [
