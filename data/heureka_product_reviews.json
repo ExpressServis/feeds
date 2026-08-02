@@ -1,13 +1,25 @@
 {
-  "generated_at": 1785554569,
+  "generated_at": 1785640961,
   "stats": {
-    "products_count": 21,
-    "raw_reviews_in_feed": 21,
-    "saved_reviews": 21,
+    "products_count": 22,
+    "raw_reviews_in_feed": 22,
+    "saved_reviews": 22,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 1
+    "cross_product_duplicates_count": 2
   },
   "cross_product_duplicates": {
+    "0caa8a9dfba7ef21218b771f97ff0c3e6f9569e4": [
+      {
+        "ean": "8597593075345",
+        "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-aftermarket-aq7-incell?utm_source=heureka",
+        "product_name": "LCD displej iPhone 11 – Aftermarket AQ7 Incell IPH2476"
+      },
+      {
+        "ean": "8597593014085",
+        "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
+        "product_name": "LCD displej iPhone 11 - Refurbished IPH0989"
+      }
+    ],
     "7dafec11248c236eb0abac10e8b2f7f475f8276f": [
       {
         "ean": "8597593010452",
@@ -22,6 +34,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "LCD displej iPhone 11 – Aftermarket AQ7 Incell IPH2476",
+      "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-aftermarket-aq7-incell?utm_source=heureka",
+      "price": 412.0,
+      "ean": "8597593075345",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22876725",
+          "rating_id_type": "product",
+          "unix_timestamp": 1785500481,
+          "rating": 5.0,
+          "pros": "funguje jako originál doporučuji\ncenově dostupný",
+          "cons": "",
+          "summary": "Myslím že je to dobrá náhrada za originál doporučuji .",
+          "recommends": "1",
+          "fingerprint": "0caa8a9dfba7ef21218b771f97ff0c3e6f9569e4"
+        }
+      ]
+    },
     {
       "product_name": "LCD displej iPhone 11 - Refurbished IPH0989",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
@@ -165,7 +197,7 @@
     {
       "product_name": "EB-BG903BBE baterie pro Samsung Li-Ion 2800mAh OEM 57983110807",
       "url": "https://www.express-servis.cz/p/eb-bg903bbe-baterie-pro-samsung-2800mah?utm_source=heureka",
-      "price": 141.0,
+      "price": 142.0,
       "ean": "8596311193330",
       "reviews_count": 1,
       "reviews": [
@@ -225,7 +257,7 @@
     {
       "product_name": "Kryt Samsung A356 Galaxy A35 5G, A556 Galaxy A55 5G sklíčko zadní hlavní kamery - set 3ks",
       "url": "https://www.express-servis.cz/p/samsung-a356-a556-galaxy-a35-a55-5g-sklicko-kamer?utm_source=heureka",
-      "price": 83.0,
+      "price": 84.0,
       "ean": "8596311254161",
       "reviews_count": 1,
       "reviews": [
@@ -285,7 +317,7 @@
     {
       "product_name": "Lepení baterie pro Apple iPhone XS Max 8596115546790",
       "url": "https://www.express-servis.cz/p/podlepeni-baterie-iphone-xs-max?utm_source=heureka",
-      "price": 12.0,
+      "price": 11.0,
       "ean": "8596115546790",
       "reviews_count": 1,
       "reviews": [
