@@ -1,9 +1,9 @@
 {
-  "generated_at": 1785813737,
+  "generated_at": 1785900125,
   "stats": {
-    "products_count": 21,
-    "raw_reviews_in_feed": 21,
-    "saved_reviews": 21,
+    "products_count": 20,
+    "raw_reviews_in_feed": 20,
+    "saved_reviews": 20,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -57,7 +57,7 @@
     {
       "product_name": "LCD displej iPhone 11 - Refurbished IPH0989",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
-      "price": 680.0,
+      "price": 688.0,
       "ean": "8597593014085",
       "reviews_count": 1,
       "reviews": [
@@ -237,7 +237,7 @@
     {
       "product_name": "Kryt Samsung A356 Galaxy A35 5G, A556 Galaxy A55 5G sklíčko zadní hlavní kamery - set 3ks",
       "url": "https://www.express-servis.cz/p/samsung-a356-a556-galaxy-a35-a55-5g-sklicko-kamer?utm_source=heureka",
-      "price": 83.0,
+      "price": 84.0,
       "ean": "8596311254161",
       "reviews_count": 1,
       "reviews": [
@@ -257,7 +257,7 @@
     {
       "product_name": "Faitron HeatsBox GO chytrý vyhřívaný obědový box - Černá HB-04-102B",
       "url": "https://www.express-servis.cz/p/faitron-heatsbox-go-chytry-ohrivac-jidel?utm_source=heureka",
-      "price": 4080.0,
+      "price": 3287.0,
       "ean": "7649994336097",
       "reviews_count": 1,
       "reviews": [
@@ -431,26 +431,6 @@
           "summary": "Splnilo to očekávaný požadavek.",
           "recommends": "1",
           "fingerprint": "41d6bd618e969c9236918781a38b8782d8630731"
-        }
-      ]
-    },
-    {
-      "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
-      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 102.0,
-      "ean": "8596311211164",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21724893",
-          "rating_id_type": "product",
-          "unix_timestamp": 1770197009,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Lepí dobře,dle mého  požadavku.",
-          "recommends": "1",
-          "fingerprint": "16bc88b546fb18209dd2c1812d8378991209e59d"
         }
       ]
     }
