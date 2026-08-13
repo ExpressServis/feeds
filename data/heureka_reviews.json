@@ -1,7 +1,22 @@
 {
-  "generated_at": 1786503967,
-  "count": 167,
+  "generated_at": 1786590466,
+  "count": 168,
   "reviews": [
+    {
+      "rating_id": "939910368",
+      "ordered": 1785926336,
+      "unix_timestamp": 1786540004,
+      "total_rating": 5.0,
+      "delivery_time": 5.0,
+      "transport_quality": 5.0,
+      "web_usability": null,
+      "communication": 5.0,
+      "pros": "",
+      "cons": "",
+      "summary": "S obchodem jsem spokojený a rád bych doporučil ostatním klientům.",
+      "reaction": "",
+      "recommends": "1"
+    },
     {
       "rating_id": "938187180",
       "ordered": 1785141539,

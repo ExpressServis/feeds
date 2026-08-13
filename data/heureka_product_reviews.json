@@ -1,9 +1,9 @@
 {
-  "generated_at": 1786503968,
+  "generated_at": 1786590467,
   "stats": {
-    "products_count": 20,
-    "raw_reviews_in_feed": 20,
-    "saved_reviews": 20,
+    "products_count": 22,
+    "raw_reviews_in_feed": 22,
+    "saved_reviews": 22,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -22,6 +22,46 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Baterie iPhone SE 2016 BT0001",
+      "url": "https://www.express-servis.cz/p/baterie-iphone-se-2016?utm_source=heureka",
+      "price": 155.0,
+      "ean": "8597593010803",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22966570",
+          "rating_id_type": "product",
+          "unix_timestamp": 1786540145,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Baterie se chová korektně.",
+          "recommends": "1",
+          "fingerprint": "5d58edae30277ecda165f8ef5c8df970860e6b15"
+        }
+      ]
+    },
+    {
+      "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
+      "url": "https://www.express-servis.cz/p/baterie-iphone-13-pro-podpora-konfigurace?utm_source=heureka",
+      "price": 395.0,
+      "ean": "8597593013187",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22966569",
+          "rating_id_type": "product",
+          "unix_timestamp": 1786540027,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Baterie vyhodnocena zařízením jako originál a schvalování pres Apple servery v pořádku. Hodnocení kvality jako originál. Mohu doporučit.",
+          "recommends": "1",
+          "fingerprint": "33b729f987a5666df1d9578d0a34c8b3d7e1ba52"
+        }
+      ]
+    },
     {
       "product_name": "Epico UltraPack Qi2 Slim 5000mAh powerbanka - temně modrá 9915113400004",
       "url": "https://www.express-servis.cz/p/epico-ultrapack-qi2-slim-5000mah-temne-modra?utm_source=heureka",
@@ -45,7 +85,7 @@
     {
       "product_name": "LCD displej iPhone 11 – Aftermarket AQ7 Incell IPH2476",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-aftermarket-aq7-incell?utm_source=heureka",
-      "price": 412.0,
+      "price": 426.0,
       "ean": "8597593075345",
       "reviews_count": 1,
       "reviews": [
@@ -65,7 +105,7 @@
     {
       "product_name": "LCD displej iPhone 11 - Refurbished IPH0989",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
-      "price": 689.0,
+      "price": 698.0,
       "ean": "8597593014085",
       "reviews_count": 1,
       "reviews": [
@@ -85,7 +125,7 @@
     {
       "product_name": "Flex kabel MagSafe napájecího konektoru MacBook Air 13\" (A2681 / 2022) MAC0060",
       "url": "https://www.express-servis.cz/p/flex-kabel-magsafe-napajeciho-konektoru-macbook-air-13-a2681-2022?utm_source=heureka",
-      "price": 152.0,
+      "price": 151.0,
       "ean": "8597593012333",
       "reviews_count": 1,
       "reviews": [
@@ -245,7 +285,7 @@
     {
       "product_name": "Kryt Samsung A356 Galaxy A35 5G, A556 Galaxy A55 5G sklíčko zadní hlavní kamery - set 3ks",
       "url": "https://www.express-servis.cz/p/samsung-a356-a556-galaxy-a35-a55-5g-sklicko-kamer?utm_source=heureka",
-      "price": 84.0,
+      "price": 83.0,
       "ean": "8596311254161",
       "reviews_count": 1,
       "reviews": [
@@ -305,7 +345,7 @@
     {
       "product_name": "Lepení baterie pro Apple iPhone XS Max 8596115546790",
       "url": "https://www.express-servis.cz/p/podlepeni-baterie-iphone-xs-max?utm_source=heureka",
-      "price": 12.0,
+      "price": 11.0,
       "ean": "8596115546790",
       "reviews_count": 1,
       "reviews": [
