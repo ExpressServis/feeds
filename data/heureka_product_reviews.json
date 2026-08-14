@@ -1,9 +1,9 @@
 {
-  "generated_at": 1786590467,
+  "generated_at": 1786676833,
   "stats": {
-    "products_count": 22,
-    "raw_reviews_in_feed": 22,
-    "saved_reviews": 22,
+    "products_count": 21,
+    "raw_reviews_in_feed": 21,
+    "saved_reviews": 21,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -25,7 +25,7 @@
     {
       "product_name": "Baterie iPhone SE 2016 BT0001",
       "url": "https://www.express-servis.cz/p/baterie-iphone-se-2016?utm_source=heureka",
-      "price": 155.0,
+      "price": 133.0,
       "ean": "8597593010803",
       "reviews_count": 1,
       "reviews": [
@@ -45,7 +45,7 @@
     {
       "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
       "url": "https://www.express-servis.cz/p/baterie-iphone-13-pro-podpora-konfigurace?utm_source=heureka",
-      "price": 395.0,
+      "price": 407.0,
       "ean": "8597593013187",
       "reviews_count": 1,
       "reviews": [
@@ -105,7 +105,7 @@
     {
       "product_name": "LCD displej iPhone 11 - Refurbished IPH0989",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
-      "price": 698.0,
+      "price": 670.0,
       "ean": "8597593014085",
       "reviews_count": 1,
       "reviews": [
@@ -165,7 +165,7 @@
     {
       "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
-      "price": 107.0,
+      "price": 96.0,
       "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
@@ -205,7 +205,7 @@
     {
       "product_name": "LCD Displej + Dotyk Google Pixel 8",
       "url": "https://www.express-servis.cz/p/lcd-display-dotyk-google-pixel-8-service-pack?utm_source=heureka",
-      "price": 2860.0,
+      "price": 2864.0,
       "ean": "8596311252105",
       "reviews_count": 1,
       "reviews": [
@@ -245,7 +245,7 @@
     {
       "product_name": "Samsung AB553446BU",
       "url": "https://www.express-servis.cz/p/ab553446bu-baterie-samsung-1000mah-oem?utm_source=heureka",
-      "price": 116.0,
+      "price": 136.0,
       "ean": "8596311244513",
       "reviews_count": 1,
       "reviews": [
@@ -265,7 +265,7 @@
     {
       "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
       "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
-      "price": 63.0,
+      "price": 62.0,
       "ean": "8597593012036",
       "reviews_count": 1,
       "reviews": [
@@ -285,7 +285,7 @@
     {
       "product_name": "Kryt Samsung A356 Galaxy A35 5G, A556 Galaxy A55 5G sklíčko zadní hlavní kamery - set 3ks",
       "url": "https://www.express-servis.cz/p/samsung-a356-a556-galaxy-a35-a55-5g-sklicko-kamer?utm_source=heureka",
-      "price": 83.0,
+      "price": 89.0,
       "ean": "8596311254161",
       "reviews_count": 1,
       "reviews": [
@@ -439,26 +439,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "3fb8ef02d8f1dd3882bcb445e3e65163015e4f85"
-        }
-      ]
-    },
-    {
-      "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
-      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 102.0,
-      "ean": "8596311211164",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21777693",
-          "rating_id_type": "product",
-          "unix_timestamp": 1770964337,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Splnilo to očekávaný požadavek.",
-          "recommends": "1",
-          "fingerprint": "41d6bd618e969c9236918781a38b8782d8630731"
         }
       ]
     }
