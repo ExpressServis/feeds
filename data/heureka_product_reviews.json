@@ -1,26 +1,13 @@
 {
-  "generated_at": 1786676833,
+  "generated_at": 1786761354,
   "stats": {
-    "products_count": 21,
-    "raw_reviews_in_feed": 21,
-    "saved_reviews": 21,
+    "products_count": 20,
+    "raw_reviews_in_feed": 20,
+    "saved_reviews": 20,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 1
+    "cross_product_duplicates_count": 0
   },
-  "cross_product_duplicates": {
-    "0caa8a9dfba7ef21218b771f97ff0c3e6f9569e4": [
-      {
-        "ean": "8597593075345",
-        "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-aftermarket-aq7-incell?utm_source=heureka",
-        "product_name": "LCD displej iPhone 11 – Aftermarket AQ7 Incell IPH2476"
-      },
-      {
-        "ean": "8597593014085",
-        "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
-        "product_name": "LCD displej iPhone 11 - Refurbished IPH0989"
-      }
-    ]
-  },
+  "cross_product_duplicates": {},
   "products": [
     {
       "product_name": "Baterie iPhone SE 2016 BT0001",
@@ -45,7 +32,7 @@
     {
       "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
       "url": "https://www.express-servis.cz/p/baterie-iphone-13-pro-podpora-konfigurace?utm_source=heureka",
-      "price": 407.0,
+      "price": 406.0,
       "ean": "8597593013187",
       "reviews_count": 1,
       "reviews": [
@@ -65,7 +52,7 @@
     {
       "product_name": "Epico UltraPack Qi2 Slim 5000mAh powerbanka - temně modrá 9915113400004",
       "url": "https://www.express-servis.cz/p/epico-ultrapack-qi2-slim-5000mah-temne-modra?utm_source=heureka",
-      "price": 953.0,
+      "price": 1005.0,
       "ean": "8596049208214",
       "reviews_count": 1,
       "reviews": [
@@ -79,26 +66,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "f3b3f081d4a187ee081bada37603f532be978804"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD displej iPhone 11 – Aftermarket AQ7 Incell IPH2476",
-      "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-aftermarket-aq7-incell?utm_source=heureka",
-      "price": 426.0,
-      "ean": "8597593075345",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22876725",
-          "rating_id_type": "product",
-          "unix_timestamp": 1785500481,
-          "rating": 5.0,
-          "pros": "funguje jako originál doporučuji\ncenově dostupný",
-          "cons": "",
-          "summary": "Myslím že je to dobrá náhrada za originál doporučuji .",
-          "recommends": "1",
-          "fingerprint": "0caa8a9dfba7ef21218b771f97ff0c3e6f9569e4"
         }
       ]
     },
@@ -145,7 +112,7 @@
     {
       "product_name": "Epico UltraBoost Micro AVS GaN 100W adaptér EA100b bílá 9915101100238",
       "url": "https://www.express-servis.cz/p/epico-ultraboost-gan-100w-adapter-bila?utm_source=heureka",
-      "price": 710.0,
+      "price": 770.0,
       "ean": "8596049208016",
       "reviews_count": 1,
       "reviews": [
@@ -265,7 +232,7 @@
     {
       "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
       "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
-      "price": 62.0,
+      "price": 63.0,
       "ean": "8597593012036",
       "reviews_count": 1,
       "reviews": [
@@ -285,7 +252,7 @@
     {
       "product_name": "Kryt Samsung A356 Galaxy A35 5G, A556 Galaxy A55 5G sklíčko zadní hlavní kamery - set 3ks",
       "url": "https://www.express-servis.cz/p/samsung-a356-a556-galaxy-a35-a55-5g-sklicko-kamer?utm_source=heureka",
-      "price": 89.0,
+      "price": 88.0,
       "ean": "8596311254161",
       "reviews_count": 1,
       "reviews": [
