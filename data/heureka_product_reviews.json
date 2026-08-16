@@ -1,13 +1,26 @@
 {
-  "generated_at": 1786761354,
+  "generated_at": 1786847950,
   "stats": {
-    "products_count": 20,
-    "raw_reviews_in_feed": 20,
-    "saved_reviews": 20,
+    "products_count": 21,
+    "raw_reviews_in_feed": 21,
+    "saved_reviews": 21,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 0
+    "cross_product_duplicates_count": 1
   },
-  "cross_product_duplicates": {},
+  "cross_product_duplicates": {
+    "0caa8a9dfba7ef21218b771f97ff0c3e6f9569e4": [
+      {
+        "ean": "8597593075345",
+        "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-aftermarket-aq7-incell?utm_source=heureka",
+        "product_name": "LCD displej iPhone 11 – Aftermarket AQ7 Incell IPH2476"
+      },
+      {
+        "ean": "8597593014085",
+        "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
+        "product_name": "LCD displej iPhone 11 - Refurbished IPH0989"
+      }
+    ]
+  },
   "products": [
     {
       "product_name": "Baterie iPhone SE 2016 BT0001",
@@ -66,6 +79,26 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "f3b3f081d4a187ee081bada37603f532be978804"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD displej iPhone 11 – Aftermarket AQ7 Incell IPH2476",
+      "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-aftermarket-aq7-incell?utm_source=heureka",
+      "price": 426.0,
+      "ean": "8597593075345",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22876725",
+          "rating_id_type": "product",
+          "unix_timestamp": 1785500481,
+          "rating": 5.0,
+          "pros": "funguje jako originál doporučuji\ncenově dostupný",
+          "cons": "",
+          "summary": "Myslím že je to dobrá náhrada za originál doporučuji .",
+          "recommends": "1",
+          "fingerprint": "0caa8a9dfba7ef21218b771f97ff0c3e6f9569e4"
         }
       ]
     },
