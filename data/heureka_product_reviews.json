@@ -1,9 +1,9 @@
 {
-  "generated_at": 1786934333,
+  "generated_at": 1787020655,
   "stats": {
-    "products_count": 21,
-    "raw_reviews_in_feed": 21,
-    "saved_reviews": 21,
+    "products_count": 20,
+    "raw_reviews_in_feed": 20,
+    "saved_reviews": 20,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -45,7 +45,7 @@
     {
       "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
       "url": "https://www.express-servis.cz/p/baterie-iphone-13-pro-podpora-konfigurace?utm_source=heureka",
-      "price": 407.0,
+      "price": 406.0,
       "ean": "8597593013187",
       "reviews_count": 1,
       "reviews": [
@@ -265,7 +265,7 @@
     {
       "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
       "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
-      "price": 63.0,
+      "price": 62.0,
       "ean": "8597593012036",
       "reviews_count": 1,
       "reviews": [
@@ -279,26 +279,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "2620720676cb3e17bafb20bc832e4db3b4ddd351"
-        }
-      ]
-    },
-    {
-      "product_name": "Kryt Samsung A356 Galaxy A35 5G, A556 Galaxy A55 5G sklíčko zadní hlavní kamery - set 3ks",
-      "url": "https://www.express-servis.cz/p/samsung-a356-a556-galaxy-a35-a55-5g-sklicko-kamer?utm_source=heureka",
-      "price": 89.0,
-      "ean": "8596311254161",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21993992",
-          "rating_id_type": "product",
-          "unix_timestamp": 1773734062,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Náhradní součástka plně nahrazuje\noriginál. Cena nízká.",
-          "recommends": "1",
-          "fingerprint": "ed641111a427c97e5fc91cad93f913d62d076888"
         }
       ]
     },
@@ -345,7 +325,7 @@
     {
       "product_name": "Lepení baterie pro Apple iPhone XS Max 8596115546790",
       "url": "https://www.express-servis.cz/p/podlepeni-baterie-iphone-xs-max?utm_source=heureka",
-      "price": 11.0,
+      "price": 12.0,
       "ean": "8596115546790",
       "reviews_count": 1,
       "reviews": [
