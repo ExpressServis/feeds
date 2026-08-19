@@ -1,9 +1,9 @@
 {
-  "generated_at": 1787020655,
+  "generated_at": 1787107103,
   "stats": {
-    "products_count": 20,
-    "raw_reviews_in_feed": 20,
-    "saved_reviews": 20,
+    "products_count": 19,
+    "raw_reviews_in_feed": 19,
+    "saved_reviews": 19,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -25,7 +25,7 @@
     {
       "product_name": "Baterie iPhone SE 2016 BT0001",
       "url": "https://www.express-servis.cz/p/baterie-iphone-se-2016?utm_source=heureka",
-      "price": 133.0,
+      "price": 131.0,
       "ean": "8597593010803",
       "reviews_count": 1,
       "reviews": [
@@ -105,7 +105,7 @@
     {
       "product_name": "LCD displej iPhone 11 - Refurbished IPH0989",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
-      "price": 670.0,
+      "price": 630.0,
       "ean": "8597593014085",
       "reviews_count": 1,
       "reviews": [
@@ -265,7 +265,7 @@
     {
       "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
       "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
-      "price": 62.0,
+      "price": 63.0,
       "ean": "8597593012036",
       "reviews_count": 1,
       "reviews": [
@@ -303,29 +303,9 @@
       ]
     },
     {
-      "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
-      "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
-      "price": 2395.0,
-      "ean": "718037855448",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21913253",
-          "rating_id_type": "product",
-          "unix_timestamp": 1772716664,
-          "rating": 5.0,
-          "pros": "přesně takový, jaký potřebuju :-)",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "600ee6f000d1f29d4911d11ac1415b36c1205bd6"
-        }
-      ]
-    },
-    {
       "product_name": "Lepení baterie pro Apple iPhone XS Max 8596115546790",
       "url": "https://www.express-servis.cz/p/podlepeni-baterie-iphone-xs-max?utm_source=heureka",
-      "price": 12.0,
+      "price": 11.0,
       "ean": "8596115546790",
       "reviews_count": 1,
       "reviews": [
@@ -365,7 +345,7 @@
     {
       "product_name": "Zhanlida B-7000 lepidlo na telefony 15g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-15ml-transparentni?utm_source=heureka",
-      "price": 102.0,
+      "price": 100.0,
       "ean": "8596311211164",
       "reviews_count": 1,
       "reviews": [
