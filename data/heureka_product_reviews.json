@@ -1,9 +1,9 @@
 {
-  "generated_at": 1787107103,
+  "generated_at": 1787193483,
   "stats": {
-    "products_count": 19,
-    "raw_reviews_in_feed": 19,
-    "saved_reviews": 19,
+    "products_count": 18,
+    "raw_reviews_in_feed": 18,
+    "saved_reviews": 18,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -45,7 +45,7 @@
     {
       "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
       "url": "https://www.express-servis.cz/p/baterie-iphone-13-pro-podpora-konfigurace?utm_source=heureka",
-      "price": 406.0,
+      "price": 405.0,
       "ean": "8597593013187",
       "reviews_count": 1,
       "reviews": [
@@ -303,9 +303,29 @@
       ]
     },
     {
+      "product_name": "WD Elements Portable 1TB externí disk Černá WDBUZG0010BBK-WESN",
+      "url": "https://www.express-servis.cz/p/wd-elements-portable-1tb-externi-disk-usb-30?utm_source=heureka",
+      "price": 2395.0,
+      "ean": "718037855448",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "21913253",
+          "rating_id_type": "product",
+          "unix_timestamp": 1772716664,
+          "rating": 5.0,
+          "pros": "přesně takový, jaký potřebuju :-)",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "600ee6f000d1f29d4911d11ac1415b36c1205bd6"
+        }
+      ]
+    },
+    {
       "product_name": "Lepení baterie pro Apple iPhone XS Max 8596115546790",
       "url": "https://www.express-servis.cz/p/podlepeni-baterie-iphone-xs-max?utm_source=heureka",
-      "price": 11.0,
+      "price": 12.0,
       "ean": "8596115546790",
       "reviews_count": 1,
       "reviews": [
@@ -359,46 +379,6 @@
           "summary": "Splňuje vše co jsem očekával",
           "recommends": "1",
           "fingerprint": "f1eb50f8d35a0bb3293b87d3cab6965972bb0478"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD display + Dotyk Samsung A135F Galaxy A13 Black 57983112979",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-samsung-a135f-galaxy-a13-black-1?utm_source=heureka",
-      "price": 289.0,
-      "ean": "8596311201707",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21817333",
-          "rating_id_type": "product",
-          "unix_timestamp": 1771507004,
-          "rating": 1.0,
-          "pros": "",
-          "cons": "Dorazilo prasknuté",
-          "summary": "Dorazilo prasknuté, zjištěno při testu. Při vizuální kontrole nezjistitelné. Prodejce reklamaci neuznal.",
-          "recommends": "0",
-          "fingerprint": "fb99f639e0c99e3da990a09ca680e18b8b995966"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD display + Dotyk + Přední Kryt Samsung A135F Galaxy A13 Black 57983112985",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-predni-kryt-samsung-a135f-galaxy-a13-black?utm_source=heureka",
-      "price": 332.0,
-      "ean": "8596311201769",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "21817323",
-          "rating_id_type": "product",
-          "unix_timestamp": 1771506844,
-          "rating": 1.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "3fb8ef02d8f1dd3882bcb445e3e65163015e4f85"
         }
       ]
     }
