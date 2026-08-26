@@ -1,9 +1,9 @@
 {
-  "generated_at": 1787625501,
+  "generated_at": 1787712055,
   "stats": {
-    "products_count": 17,
-    "raw_reviews_in_feed": 17,
-    "saved_reviews": 17,
+    "products_count": 16,
+    "raw_reviews_in_feed": 16,
+    "saved_reviews": 16,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -23,29 +23,9 @@
   },
   "products": [
     {
-      "product_name": "Baterie iPhone SE 2016 BT0001",
-      "url": "https://www.express-servis.cz/p/baterie-iphone-se-2016?utm_source=heureka",
-      "price": 131.0,
-      "ean": "8597593010803",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22966570",
-          "rating_id_type": "product",
-          "unix_timestamp": 1786540145,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Baterie se chová korektně.",
-          "recommends": "1",
-          "fingerprint": "5d58edae30277ecda165f8ef5c8df970860e6b15"
-        }
-      ]
-    },
-    {
       "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
       "url": "https://www.express-servis.cz/p/baterie-iphone-13-pro-podpora-konfigurace?utm_source=heureka",
-      "price": 405.0,
+      "price": 404.0,
       "ean": "8597593013187",
       "reviews_count": 1,
       "reviews": [
@@ -265,7 +245,7 @@
     {
       "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
       "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
-      "price": 62.0,
+      "price": 63.0,
       "ean": "8597593012036",
       "reviews_count": 1,
       "reviews": [
