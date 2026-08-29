@@ -1,13 +1,26 @@
 {
-  "generated_at": 1787892972,
+  "generated_at": 1787970474,
   "stats": {
-    "products_count": 11,
-    "raw_reviews_in_feed": 11,
-    "saved_reviews": 11,
+    "products_count": 14,
+    "raw_reviews_in_feed": 14,
+    "saved_reviews": 14,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 0
+    "cross_product_duplicates_count": 1
   },
-  "cross_product_duplicates": {},
+  "cross_product_duplicates": {
+    "0caa8a9dfba7ef21218b771f97ff0c3e6f9569e4": [
+      {
+        "ean": "8597593075345",
+        "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-aftermarket-aq7-incell?utm_source=heureka",
+        "product_name": "LCD displej iPhone 11 – Aftermarket AQ7 Incell IPH2476"
+      },
+      {
+        "ean": "8597593014085",
+        "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
+        "product_name": "LCD displej iPhone 11 - Refurbished IPH0989"
+      }
+    ]
+  },
   "products": [
     {
       "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
@@ -26,6 +39,46 @@
           "summary": "Baterie vyhodnocena zařízením jako originál a schvalování pres Apple servery v pořádku. Hodnocení kvality jako originál. Mohu doporučit.",
           "recommends": "1",
           "fingerprint": "33b729f987a5666df1d9578d0a34c8b3d7e1ba52"
+        }
+      ]
+    },
+    {
+      "product_name": "Epico UltraPack Qi2 Slim 5000mAh powerbanka - temně modrá 9915113400004",
+      "url": "https://www.express-servis.cz/p/epico-ultrapack-qi2-slim-5000mah-temne-modra?utm_source=heureka",
+      "price": 1005.0,
+      "ean": "8596049208214",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22951597",
+          "rating_id_type": "product",
+          "unix_timestamp": 1786381648,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "f3b3f081d4a187ee081bada37603f532be978804"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD displej iPhone 11 – Aftermarket AQ7 Incell IPH2476",
+      "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-aftermarket-aq7-incell?utm_source=heureka",
+      "price": 426.0,
+      "ean": "8597593075345",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22876725",
+          "rating_id_type": "product",
+          "unix_timestamp": 1785500481,
+          "rating": 5.0,
+          "pros": "funguje jako originál doporučuji\ncenově dostupný",
+          "cons": "",
+          "summary": "Myslím že je to dobrá náhrada za originál doporučuji .",
+          "recommends": "1",
+          "fingerprint": "0caa8a9dfba7ef21218b771f97ff0c3e6f9569e4"
         }
       ]
     },
@@ -106,6 +159,26 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "6f177d79e0f4bb1861da359ab5d1f5def5e2c15f"
+        }
+      ]
+    },
+    {
+      "product_name": "Epico UltraBoard klávesnice EK40 - iPad 10,9\" /11\" CZ, černá 73711101300024",
+      "url": "https://www.express-servis.cz/p/epico-ultraboard-ek40-klavesnice-pro-ipad-s-trackpadem?utm_source=heureka",
+      "price": 2589.0,
+      "ean": "8596049201376",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22474390",
+          "rating_id_type": "product",
+          "unix_timestamp": 1780496424,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Vybrala jsem Epico UltraBoard EK40 pro iPad 10,9 nejen z důvodu, že má českou klávesnici. Klávesnice není naštěstí z PVC, ale kovová. Takže super.",
+          "recommends": "1",
+          "fingerprint": "2606a0321006b85e460544fb6d3f62c15586e26d"
         }
       ]
     },
