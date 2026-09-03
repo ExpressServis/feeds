@@ -1,9 +1,9 @@
 {
-  "generated_at": 1788317276,
+  "generated_at": 1788405769,
   "stats": {
-    "products_count": 14,
-    "raw_reviews_in_feed": 14,
-    "saved_reviews": 14,
+    "products_count": 17,
+    "raw_reviews_in_feed": 17,
+    "saved_reviews": 17,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -23,9 +23,69 @@
   },
   "products": [
     {
+      "product_name": "Baterie iPhone 11 BT0013",
+      "url": "https://www.express-servis.cz/p/baterie-iphone-11?utm_source=heureka",
+      "price": 275.0,
+      "ean": "8597593010926",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23081168",
+          "rating_id_type": "product",
+          "unix_timestamp": 1788179236,
+          "rating": 5.0,
+          "pros": "Fajn cena za náhradní baterku\nMají i další díly",
+          "cons": "Kvalitu baterky zjistím až za rok/dva ale zatím kapacita souhlasí.\nBlbý pulltabs na starý baterce",
+          "summary": "Náhradní baterka prostě. Po instalaci změřena usb testerem nabití z 0 na 100 a kapacita souhlasí. Dále rozhodne čas.",
+          "recommends": "1",
+          "fingerprint": "ed65f4905b89b4ea34c3f6e3c2f31c5f8feccd06"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD Displej + Dotyková deska + Přední kryt Xiaomi Redmi 9T",
+      "url": "https://www.express-servis.cz/p/lcd-displej-a-deska-pro-xiaomi-redmi-9t?utm_source=heureka",
+      "price": 356.0,
+      "ean": "8596311206580",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23049429",
+          "rating_id_type": "product",
+          "unix_timestamp": 1787767679,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "6e27a25b84f89474e781d61529506e2882ba6bd0"
+        }
+      ]
+    },
+    {
+      "product_name": "Baterie iPhone SE 2016 BT0001",
+      "url": "https://www.express-servis.cz/p/baterie-iphone-se-2016?utm_source=heureka",
+      "price": 131.0,
+      "ean": "8597593010803",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22966570",
+          "rating_id_type": "product",
+          "unix_timestamp": 1786540145,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "Baterie se chová korektně.",
+          "recommends": "1",
+          "fingerprint": "5d58edae30277ecda165f8ef5c8df970860e6b15"
+        }
+      ]
+    },
+    {
       "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
       "url": "https://www.express-servis.cz/p/baterie-iphone-13-pro-podpora-konfigurace?utm_source=heureka",
-      "price": 404.0,
+      "price": 410.0,
       "ean": "8597593013187",
       "reviews_count": 1,
       "reviews": [
@@ -105,7 +165,7 @@
     {
       "product_name": "Flex kabel MagSafe napájecího konektoru MacBook Air 13\" (A2681 / 2022) MAC0060",
       "url": "https://www.express-servis.cz/p/flex-kabel-magsafe-napajeciho-konektoru-macbook-air-13-a2681-2022?utm_source=heureka",
-      "price": 151.0,
+      "price": 152.0,
       "ean": "8597593012333",
       "reviews_count": 1,
       "reviews": [
