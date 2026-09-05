@@ -1,9 +1,9 @@
 {
-  "generated_at": 1788489143,
+  "generated_at": 1788575459,
   "stats": {
-    "products_count": 17,
-    "raw_reviews_in_feed": 17,
-    "saved_reviews": 17,
+    "products_count": 18,
+    "raw_reviews_in_feed": 18,
+    "saved_reviews": 18,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -22,6 +22,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "iPEAX textilní kabel USB-C / lightning 1 m, USB 2.0, černý 90010102",
+      "url": "https://www.express-servis.cz/p/ipeax-textilni-usb-c-lightning-kabel-1m-cerny?utm_source=heureka",
+      "price": 119.0,
+      "ean": "8595217491762",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23105367",
+          "rating_id_type": "product",
+          "unix_timestamp": 1788492588,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "b956ce87247a3a98e24bb301c7960cf2a769e3a4"
+        }
+      ]
+    },
     {
       "product_name": "Baterie iPhone 11 BT0013",
       "url": "https://www.express-servis.cz/p/baterie-iphone-11?utm_source=heureka",
@@ -85,7 +105,7 @@
     {
       "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
       "url": "https://www.express-servis.cz/p/baterie-iphone-13-pro-podpora-konfigurace?utm_source=heureka",
-      "price": 410.0,
+      "price": 411.0,
       "ean": "8597593013187",
       "reviews_count": 1,
       "reviews": [
@@ -105,7 +125,7 @@
     {
       "product_name": "Epico UltraPack Qi2 Slim 5000mAh powerbanka - temně modrá 9915113400004",
       "url": "https://www.express-servis.cz/p/epico-ultrapack-qi2-slim-5000mah-temne-modra?utm_source=heureka",
-      "price": 1277.0,
+      "price": 1179.0,
       "ean": "8596049208214",
       "reviews_count": 1,
       "reviews": [
@@ -125,7 +145,7 @@
     {
       "product_name": "LCD displej iPhone 11 – Aftermarket AQ7 Incell IPH2476",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-aftermarket-aq7-incell?utm_source=heureka",
-      "price": 426.0,
+      "price": 476.0,
       "ean": "8597593075345",
       "reviews_count": 1,
       "reviews": [
@@ -145,7 +165,7 @@
     {
       "product_name": "LCD displej iPhone 11 - Refurbished IPH0989",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
-      "price": 630.0,
+      "price": 684.0,
       "ean": "8597593014085",
       "reviews_count": 1,
       "reviews": [
@@ -185,7 +205,7 @@
     {
       "product_name": "Epico UltraBoost Micro AVS GaN 100W adaptér EA100b bílá 9915101100238",
       "url": "https://www.express-servis.cz/p/epico-ultraboost-gan-100w-adapter-bila?utm_source=heureka",
-      "price": 770.0,
+      "price": 965.0,
       "ean": "8596049208016",
       "reviews_count": 1,
       "reviews": [
@@ -225,7 +245,7 @@
     {
       "product_name": "Epico UltraBoard klávesnice EK40 - iPad 10,9\" /11\" CZ, černá 73711101300024",
       "url": "https://www.express-servis.cz/p/epico-ultraboard-ek40-klavesnice-pro-ipad-s-trackpadem?utm_source=heureka",
-      "price": 2594.0,
+      "price": 2517.0,
       "ean": "8596049201376",
       "reviews_count": 1,
       "reviews": [
