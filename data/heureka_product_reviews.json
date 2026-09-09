@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788834731,
+  "generated_at": 1788921161,
   "stats": {
     "products_count": 20,
     "raw_reviews_in_feed": 20,
@@ -23,6 +23,26 @@
   },
   "products": [
     {
+      "product_name": "Therabody JetBoots PRO Plus - Small JB0004130-3A1S",
+      "url": "https://www.express-servis.cz/p/therabody-jetboots-pro-plus-regeneracni-boty-1?utm_source=heureka",
+      "price": 23180.0,
+      "ean": "840295409276",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23136911",
+          "rating_id_type": "product",
+          "unix_timestamp": 1788865055,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "98c006fc8febfeaa178dc4634715ae3b162afb49"
+        }
+      ]
+    },
+    {
       "product_name": "Selfie tyč - červená ACC Selfie tyč červe",
       "url": "https://www.express-servis.cz/p/selfie-tyc-cervena?utm_source=heureka",
       "price": 25.0,
@@ -43,29 +63,9 @@
       ]
     },
     {
-      "product_name": "Profesionální pinzeta z wolframové oceli TL0013",
-      "url": "https://www.express-servis.cz/p/profesionalni-pinzeta-z-wolframove-oceli-pro-opravy?utm_source=heureka",
-      "price": 182.0,
-      "ean": "8597593008411",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "23128992",
-          "rating_id_type": "product",
-          "unix_timestamp": 1788769395,
-          "rating": 4.0,
-          "pros": "ostrá špice\npůsobí přijatelně kvalitně\ndobře se drží",
-          "cons": "špičky nedoléhají zcela přesně\npodle hmotnosti tam toho wolframu moc nebude",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "5ba3688abedcf2716a224e3b8fe8e5384aebd681"
-        }
-      ]
-    },
-    {
       "product_name": "FD Blades Razor Blades - 5ks balení TL0073",
       "url": "https://www.express-servis.cz/p/fd-blades-razor-blades-5ks-kvalitni-cepele?utm_source=heureka",
-      "price": 5.0,
+      "price": 6.0,
       "ean": "8597593021137",
       "reviews_count": 1,
       "reviews": [
@@ -305,7 +305,7 @@
     {
       "product_name": "Epico UltraBoard klávesnice EK40 - iPad 10,9\" /11\" CZ, černá 73711101300024",
       "url": "https://www.express-servis.cz/p/epico-ultraboard-ek40-klavesnice-pro-ipad-s-trackpadem?utm_source=heureka",
-      "price": 2405.0,
+      "price": 2517.0,
       "ean": "8596049201376",
       "reviews_count": 1,
       "reviews": [
@@ -385,7 +385,7 @@
     {
       "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
       "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
-      "price": 62.0,
+      "price": 63.0,
       "ean": "8597593012036",
       "reviews_count": 1,
       "reviews": [
