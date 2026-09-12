@@ -1,9 +1,9 @@
 {
-  "generated_at": 1789093989,
+  "generated_at": 1789180309,
   "stats": {
-    "products_count": 19,
-    "raw_reviews_in_feed": 19,
-    "saved_reviews": 19,
+    "products_count": 20,
+    "raw_reviews_in_feed": 20,
+    "saved_reviews": 20,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 1
   },
@@ -23,9 +23,29 @@
   },
   "products": [
     {
+      "product_name": "EPICO 26800mAh multifunkční powerbanka - bílá 9915101100114",
+      "url": "https://www.express-servis.cz/p/epico-26800mah-multifunkcni-powerbanka-bila?utm_source=heureka",
+      "price": 993.0,
+      "ean": "8596049155099",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23161144",
+          "rating_id_type": "product",
+          "unix_timestamp": 1789140302,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "97564daed6d48ee7b26cf0f442ed94f31299dbdd"
+        }
+      ]
+    },
+    {
       "product_name": "Therabody JetBoots PRO Plus - Small JB0004130-3A1S",
       "url": "https://www.express-servis.cz/p/therabody-jetboots-pro-plus-regeneracni-boty-1?utm_source=heureka",
-      "price": 23920.0,
+      "price": 22599.0,
       "ean": "840295409276",
       "reviews_count": 1,
       "reviews": [
@@ -65,7 +85,7 @@
     {
       "product_name": "FD Blades Razor Blades - 5ks balení TL0073",
       "url": "https://www.express-servis.cz/p/fd-blades-razor-blades-5ks-kvalitni-cepele?utm_source=heureka",
-      "price": 6.0,
+      "price": 5.0,
       "ean": "8597593021137",
       "reviews_count": 1,
       "reviews": [
@@ -285,7 +305,7 @@
     {
       "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
-      "price": 95.0,
+      "price": 96.0,
       "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
@@ -385,7 +405,7 @@
     {
       "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
       "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
-      "price": 63.0,
+      "price": 62.0,
       "ean": "8597593012036",
       "reviews_count": 1,
       "reviews": [
