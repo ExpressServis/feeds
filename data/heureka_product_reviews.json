@@ -1,14 +1,14 @@
 {
-  "generated_at": 1789526003,
+  "generated_at": 1789612407,
   "stats": {
-    "products_count": 22,
-    "raw_reviews_in_feed": 22,
-    "saved_reviews": 22,
+    "products_count": 24,
+    "raw_reviews_in_feed": 24,
+    "saved_reviews": 24,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
   "cross_product_duplicates": {
-    "98c006fc8febfeaa178dc4634715ae3b162afb49": [
+    "b7369b9d05cbf910b7d41e9848cd75bb14f75e84": [
       {
         "ean": "840295409283",
         "url": "https://www.express-servis.cz/p/therabody-jetboots-pro-plus-regeneracni-boty-medium?utm_source=heureka",
@@ -34,6 +34,46 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Lepidlo T-7000 Suxun 15 ml černé TL0056",
+      "url": "https://www.express-servis.cz/p/lepidlo-t-7000-suxun-cerne-15-ml?utm_source=heureka",
+      "price": 80.0,
+      "ean": "8597593013675",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23198627",
+          "rating_id_type": "product",
+          "unix_timestamp": 1789550836,
+          "rating": 5.0,
+          "pros": "Dobrý poměr ceny a výkonu\nUniverzální použití",
+          "cons": "",
+          "summary": "S tímto produktem mám pouze pozitivní zkušenosti. Mohu vřele doporučit.",
+          "recommends": "1",
+          "fingerprint": "d4df896745be3b32eb1050670c87a50ad1651c60"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD Display + Dotyková Deska pro Realme 8 57983103156",
+      "url": "https://www.express-servis.cz/p/lcd-display-a-dotykova-deska-realme-8?utm_source=heureka",
+      "price": 1089.0,
+      "ean": "8596311146947",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23193066",
+          "rating_id_type": "product",
+          "unix_timestamp": 1789550737,
+          "rating": 5.0,
+          "pros": "Vzhled jako originál",
+          "cons": "Náchylný k poškození (prasklé krycí sklo)",
+          "summary": "Produkt sám o sobě neměl žádnou vadu, ale po nalepení se objevila prasklina skla ve spodní části. Nejspíš výrobní vada, i přes to produkt a tuto společnost mohu vřele doporučit.",
+          "recommends": "1",
+          "fingerprint": "19ac7fa90420458aff5ea874f6705615cf46fd28"
+        }
+      ]
+    },
     {
       "product_name": "Sklíčko zadní kamery s podlepením Samsung Galaxy A36 5G (A366 / 2025) SAM2367",
       "url": "https://www.express-servis.cz/p/sklicko-zadni-kamery-s-podlepenim-samsung-galaxy-a36-5g-a366-2025?utm_source=heureka",
@@ -86,11 +126,11 @@
           "rating_id_type": "product",
           "unix_timestamp": 1788865055,
           "rating": 5.0,
-          "pros": "",
+          "pros": "Nízká hlučnost (večer doma)\nDlouhá výdrž baterie (2–4 hodiny)",
           "cons": "",
           "summary": "",
-          "recommends": "",
-          "fingerprint": "98c006fc8febfeaa178dc4634715ae3b162afb49"
+          "recommends": "1",
+          "fingerprint": "b7369b9d05cbf910b7d41e9848cd75bb14f75e84"
         }
       ]
     },
@@ -106,11 +146,11 @@
           "rating_id_type": "product",
           "unix_timestamp": 1788865055,
           "rating": 5.0,
-          "pros": "",
+          "pros": "Nízká hlučnost (večer doma)\nDlouhá výdrž baterie (2–4 hodiny)",
           "cons": "",
           "summary": "",
-          "recommends": "",
-          "fingerprint": "98c006fc8febfeaa178dc4634715ae3b162afb49"
+          "recommends": "1",
+          "fingerprint": "b7369b9d05cbf910b7d41e9848cd75bb14f75e84"
         }
       ]
     },
