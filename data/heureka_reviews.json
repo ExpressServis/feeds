@@ -1,7 +1,22 @@
 {
-  "generated_at": 1789698834,
-  "count": 170,
+  "generated_at": 1789785081,
+  "count": 171,
   "reviews": [
+    {
+      "rating_id": "947561116",
+      "ordered": 1789141145,
+      "unix_timestamp": 1789718920,
+      "total_rating": 0.5,
+      "delivery_time": 3.0,
+      "transport_quality": 0.5,
+      "web_usability": null,
+      "communication": 0.5,
+      "pros": "",
+      "cons": "",
+      "summary": "Dorazil jsem do obchodu hned při otevření. Za pultem stál buď vožralej nebo vyhulenej týpek, co mi nebyl schopnej podat sebemenší info na moje dotazy ke zboží. Poté jsem chtěl platit v hotovosti. Neměl na vrácení, pak teda našel, ale že jako ty drobný ne, takže bych mu tam jako musel nechat “dýško” ten zbytek co nemá. Tak jsem zaplatil kartou. Dotaz jestli mi dá na zboží tašku, odpověď byla extra - tašky došly, sorry. Tak jsem vzal věci a šel pryč. Tohle už fakt ne, hroznej shit.",
+      "reaction": "",
+      "recommends": "0"
+    },
     {
       "rating_id": "945631895",
       "ordered": 1788292981,
@@ -29,7 +44,7 @@
       "pros": "sortiment\nfiltrování",
       "cons": "dlouhá doba doručení",
       "summary": "Nazvat se express servisem a potom doručovat celý týden nějak nejde dohromady.",
-      "reaction": "",
+      "reaction": "Dobrý den pane Matějko, děkujeme za Vaše pozitivní hodnocení šíře sortimentu a webu. Co se týče dodání - zásilka byla připravena k vyzvednutí v Z-Boxu za 71 hodin po vytvoření Vaší objednávky, což koresponduje s termíny expedice uvedenými na našem webu. To, že jste si ji následně vyzvedl až za další 2 dny, bohužel již nedovedeme nijak ovlivnit..",
       "recommends": "0"
     },
     {

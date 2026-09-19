@@ -1,9 +1,9 @@
 {
-  "generated_at": 1789698835,
+  "generated_at": 1789785082,
   "stats": {
-    "products_count": 24,
-    "raw_reviews_in_feed": 24,
-    "saved_reviews": 24,
+    "products_count": 25,
+    "raw_reviews_in_feed": 25,
+    "saved_reviews": 25,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 2
   },
@@ -34,6 +34,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Dotykový digitizér iPad 3 / iPad 4 – předinstalované tlačítko Home pro iPad 4 – Aftermarket Plus – černý IPD1467",
+      "url": "https://www.express-servis.cz/p/dotykovy-digitizer-ipad-3-ipad-4-cerny-aftermarket?utm_source=heureka",
+      "price": 174.0,
+      "ean": "8597593074638",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23211209",
+          "rating_id_type": "product",
+          "unix_timestamp": 1789754489,
+          "rating": 4.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "7695470c2c68849cc08ab8da9c902441020a941c"
+        }
+      ]
+    },
     {
       "product_name": "Lepidlo T-7000 Suxun 15 ml černé TL0056",
       "url": "https://www.express-servis.cz/p/lepidlo-t-7000-suxun-cerne-15-ml?utm_source=heureka",
@@ -337,7 +357,7 @@
     {
       "product_name": "LCD displej iPhone 11 - Refurbished IPH0989",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
-      "price": 743.0,
+      "price": 728.0,
       "ean": "8597593014085",
       "reviews_count": 1,
       "reviews": [
@@ -417,7 +437,7 @@
     {
       "product_name": "Epico UltraBoard klávesnice EK40 - iPad 10,9\" /11\" CZ, černá 73711101300024",
       "url": "https://www.express-servis.cz/p/epico-ultraboard-ek40-klavesnice-pro-ipad-s-trackpadem?utm_source=heureka",
-      "price": 2517.0,
+      "price": 2546.0,
       "ean": "8596049201376",
       "reviews_count": 1,
       "reviews": [
