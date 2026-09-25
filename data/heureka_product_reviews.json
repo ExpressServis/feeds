@@ -1,13 +1,40 @@
 {
-  "generated_at": 1790217247,
+  "generated_at": 1790303557,
   "stats": {
-    "products_count": 24,
-    "raw_reviews_in_feed": 24,
-    "saved_reviews": 24,
+    "products_count": 29,
+    "raw_reviews_in_feed": 29,
+    "saved_reviews": 29,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 2
+    "cross_product_duplicates_count": 3
   },
   "cross_product_duplicates": {
+    "f115d46f25216d2d0f7fe42bfe5d53279a67f382": [
+      {
+        "ean": "8597593186584",
+        "url": "https://www.express-servis.cz/p/oled-displej-samsung-galaxy-a55-a556-service-pack?utm_source=heureka",
+        "product_name": "OLED displej s rámečkem Samsung Galaxy A55 (A556 / 2024) - Service Pack - Lemon SAM8623"
+      },
+      {
+        "ean": "8597593137715",
+        "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-oled-refurbished-s-ramem-zluty?utm_source=heureka",
+        "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) – OLED Refurbished s rámem – žlutý SAM4381"
+      },
+      {
+        "ean": "8597593137708",
+        "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-oled-refurbished-s-ramem-namornicky-modry?utm_source=heureka",
+        "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) – OLED Refurbished – s rámem – námořnicky modrý SAM4380"
+      },
+      {
+        "ean": "8597593137722",
+        "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-oled-refurbished-s-ramem-ledove-modry?utm_source=heureka",
+        "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) – OLED Refurbished s rámem – ledově modrý SAM4382"
+      },
+      {
+        "ean": "8597593127181",
+        "url": "https://www.express-servis.cz/p/lcd-displej-samsung-galaxy-a55-a556-2024-incell-aftermarket-s-ramem-namornicky-modry?utm_source=heureka",
+        "product_name": "LCD displej Samsung Galaxy A55 (A556 / 2024) – Incell Aftermarket – s rámem – námořnicky modrý SAM3328"
+      }
+    ],
     "b7369b9d05cbf910b7d41e9848cd75bb14f75e84": [
       {
         "ean": "840295409283",
@@ -35,9 +62,109 @@
   },
   "products": [
     {
+      "product_name": "OLED displej s rámečkem Samsung Galaxy A55 (A556 / 2024) - Service Pack - Lemon SAM8623",
+      "url": "https://www.express-servis.cz/p/oled-displej-samsung-galaxy-a55-a556-service-pack?utm_source=heureka",
+      "price": 2216.0,
+      "ean": "8597593186584",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23251609",
+          "rating_id_type": "product",
+          "unix_timestamp": 1790238176,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "f115d46f25216d2d0f7fe42bfe5d53279a67f382"
+        }
+      ]
+    },
+    {
+      "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) – OLED Refurbished s rámem – žlutý SAM4381",
+      "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-oled-refurbished-s-ramem-zluty?utm_source=heureka",
+      "price": 2046.0,
+      "ean": "8597593137715",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23251609",
+          "rating_id_type": "product",
+          "unix_timestamp": 1790238176,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "f115d46f25216d2d0f7fe42bfe5d53279a67f382"
+        }
+      ]
+    },
+    {
+      "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) – OLED Refurbished – s rámem – námořnicky modrý SAM4380",
+      "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-oled-refurbished-s-ramem-namornicky-modry?utm_source=heureka",
+      "price": 2131.0,
+      "ean": "8597593137708",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23251609",
+          "rating_id_type": "product",
+          "unix_timestamp": 1790238176,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "f115d46f25216d2d0f7fe42bfe5d53279a67f382"
+        }
+      ]
+    },
+    {
+      "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) – OLED Refurbished s rámem – ledově modrý SAM4382",
+      "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-oled-refurbished-s-ramem-ledove-modry?utm_source=heureka",
+      "price": 2096.0,
+      "ean": "8597593137722",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23251609",
+          "rating_id_type": "product",
+          "unix_timestamp": 1790238176,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "f115d46f25216d2d0f7fe42bfe5d53279a67f382"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD displej Samsung Galaxy A55 (A556 / 2024) – Incell Aftermarket – s rámem – námořnicky modrý SAM3328",
+      "url": "https://www.express-servis.cz/p/lcd-displej-samsung-galaxy-a55-a556-2024-incell-aftermarket-s-ramem-namornicky-modry?utm_source=heureka",
+      "price": 481.0,
+      "ean": "8597593127181",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23251609",
+          "rating_id_type": "product",
+          "unix_timestamp": 1790238176,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "f115d46f25216d2d0f7fe42bfe5d53279a67f382"
+        }
+      ]
+    },
+    {
       "product_name": "Dotykový digitizér iPad 3 / iPad 4 – předinstalované tlačítko Home pro iPad 4 – Aftermarket Plus – černý IPD1467",
       "url": "https://www.express-servis.cz/p/dotykovy-digitizer-ipad-3-ipad-4-cerny-aftermarket?utm_source=heureka",
-      "price": 173.0,
+      "price": 174.0,
       "ean": "8597593074638",
       "reviews_count": 1,
       "reviews": [
@@ -57,7 +184,7 @@
     {
       "product_name": "Lepidlo T-7000 Suxun 15 ml černé TL0056",
       "url": "https://www.express-servis.cz/p/lepidlo-t-7000-suxun-cerne-15-ml?utm_source=heureka",
-      "price": 79.0,
+      "price": 80.0,
       "ean": "8597593013675",
       "reviews_count": 1,
       "reviews": [
@@ -157,7 +284,7 @@
     {
       "product_name": "Therabody JetBoots PRO Plus - Small JB0004130-3A1S",
       "url": "https://www.express-servis.cz/p/therabody-jetboots-pro-plus-regeneracni-boty-1?utm_source=heureka",
-      "price": 25078.0,
+      "price": 23685.0,
       "ean": "840295409276",
       "reviews_count": 1,
       "reviews": [
@@ -357,7 +484,7 @@
     {
       "product_name": "Flex kabel MagSafe napájecího konektoru MacBook Air 13\" (A2681 / 2022) MAC0060",
       "url": "https://www.express-servis.cz/p/flex-kabel-magsafe-napajeciho-konektoru-macbook-air-13-a2681-2022?utm_source=heureka",
-      "price": 151.0,
+      "price": 152.0,
       "ean": "8597593012333",
       "reviews_count": 1,
       "reviews": [
@@ -397,7 +524,7 @@
     {
       "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
-      "price": 93.0,
+      "price": 94.0,
       "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
