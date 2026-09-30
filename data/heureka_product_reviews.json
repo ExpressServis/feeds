@@ -1,9 +1,9 @@
 {
-  "generated_at": 1790649339,
+  "generated_at": 1790735967,
   "stats": {
-    "products_count": 29,
-    "raw_reviews_in_feed": 29,
-    "saved_reviews": 29,
+    "products_count": 31,
+    "raw_reviews_in_feed": 31,
+    "saved_reviews": 31,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -61,6 +61,46 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Baterie iPhone 11 BT0013",
+      "url": "https://www.express-servis.cz/p/baterie-iphone-11?utm_source=heureka",
+      "price": 275.0,
+      "ean": "8597593010926",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23291461",
+          "rating_id_type": "product",
+          "unix_timestamp": 1790670492,
+          "rating": 4.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "530eff34e0508e3ca90136acedf25093edc50a2a"
+        }
+      ]
+    },
+    {
+      "product_name": "Audio Board MacBook Air 13\" (A2337 / 2020) – Apple Genuine – stříbrné MAC0540",
+      "url": "https://www.express-servis.cz/p/audio-board-macbook-air-13-a2337-2020-apple-genuine-stribrne?utm_source=heureka",
+      "price": 331.0,
+      "ean": "8597593039774",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23292219",
+          "rating_id_type": "product",
+          "unix_timestamp": 1790670477,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "70bbd31ce7eae0557eefc74e978125e6ee2e4a60"
+        }
+      ]
+    },
     {
       "product_name": "OLED displej s rámečkem Samsung Galaxy A55 (A556 / 2024) - Service Pack - Lemon SAM8623",
       "url": "https://www.express-servis.cz/p/oled-displej-samsung-galaxy-a55-a556-service-pack?utm_source=heureka",
@@ -184,7 +224,7 @@
     {
       "product_name": "Lepidlo T-7000 Suxun 15 ml černé TL0056",
       "url": "https://www.express-servis.cz/p/lepidlo-t-7000-suxun-cerne-15-ml?utm_source=heureka",
-      "price": 79.0,
+      "price": 80.0,
       "ean": "8597593013675",
       "reviews_count": 1,
       "reviews": [
@@ -404,7 +444,7 @@
     {
       "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
       "url": "https://www.express-servis.cz/p/baterie-iphone-13-pro-podpora-konfigurace?utm_source=heureka",
-      "price": 412.0,
+      "price": 411.0,
       "ean": "8597593013187",
       "reviews_count": 1,
       "reviews": [
@@ -624,7 +664,7 @@
     {
       "product_name": "Kabel Lightning - USB-C 1m pro Apple - bulk AC0013",
       "url": "https://www.express-servis.cz/p/kabel-lightning-usb-c-1m-pro-apple-bulk?utm_source=heureka",
-      "price": 63.0,
+      "price": 62.0,
       "ean": "8597593012036",
       "reviews_count": 1,
       "reviews": [
