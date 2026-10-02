@@ -1,9 +1,9 @@
 {
-  "generated_at": 1790822593,
+  "generated_at": 1790908661,
   "stats": {
-    "products_count": 28,
-    "raw_reviews_in_feed": 28,
-    "saved_reviews": 28,
+    "products_count": 29,
+    "raw_reviews_in_feed": 29,
+    "saved_reviews": 29,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -544,7 +544,7 @@
     {
       "product_name": "Epico UltraBoost Micro AVS GaN 100W adaptér EA100b bílá 9915101100238",
       "url": "https://www.express-servis.cz/p/epico-ultraboost-gan-100w-adapter-bila?utm_source=heureka",
-      "price": 895.0,
+      "price": 1395.0,
       "ean": "8596049208016",
       "reviews_count": 1,
       "reviews": [
@@ -598,6 +598,26 @@
           "summary": "Vybrala jsem Epico UltraBoard EK40 pro iPad 10,9 nejen z důvodu, že má českou klávesnici. Klávesnice není naštěstí z PVC, ale kovová. Takže super.",
           "recommends": "1",
           "fingerprint": "2606a0321006b85e460544fb6d3f62c15586e26d"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD Displej + Dotyk Google Pixel 8",
+      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-google-pixel-8-service-pack?utm_source=heureka",
+      "price": 2864.0,
+      "ean": "8596311252105",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22396303",
+          "rating_id_type": "product",
+          "unix_timestamp": 1779426850,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "2af548f78e4b8181212b2d5102977d05ce89107e"
         }
       ]
     },
