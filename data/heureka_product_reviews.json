@@ -1,5 +1,5 @@
 {
-  "generated_at": 1790908661,
+  "generated_at": 1790995331,
   "stats": {
     "products_count": 29,
     "raw_reviews_in_feed": 29,
@@ -184,7 +184,7 @@
     {
       "product_name": "LCD displej Samsung Galaxy A55 (A556 / 2024) – Incell Aftermarket – s rámem – námořnicky modrý SAM3328",
       "url": "https://www.express-servis.cz/p/lcd-displej-samsung-galaxy-a55-a556-2024-incell-aftermarket-s-ramem-namornicky-modry?utm_source=heureka",
-      "price": 483.0,
+      "price": 488.0,
       "ean": "8597593127181",
       "reviews_count": 1,
       "reviews": [
@@ -204,7 +204,7 @@
     {
       "product_name": "Dotykový digitizér iPad 3 / iPad 4 – předinstalované tlačítko Home pro iPad 4 – Aftermarket Plus – černý IPD1467",
       "url": "https://www.express-servis.cz/p/dotykovy-digitizer-ipad-3-ipad-4-cerny-aftermarket?utm_source=heureka",
-      "price": 173.0,
+      "price": 174.0,
       "ean": "8597593074638",
       "reviews_count": 1,
       "reviews": [
@@ -264,7 +264,7 @@
     {
       "product_name": "Sklíčko zadní kamery s podlepením Samsung Galaxy A36 5G (A366 / 2025) SAM2367",
       "url": "https://www.express-servis.cz/p/sklicko-zadni-kamery-s-podlepenim-samsung-galaxy-a36-5g-a366-2025?utm_source=heureka",
-      "price": 54.0,
+      "price": 53.0,
       "ean": "8597593109064",
       "reviews_count": 1,
       "reviews": [
@@ -364,7 +364,7 @@
     {
       "product_name": "FD Blades Razor Blades - 5ks balení TL0073",
       "url": "https://www.express-servis.cz/p/fd-blades-razor-blades-5ks-kvalitni-cepele?utm_source=heureka",
-      "price": 5.0,
+      "price": 6.0,
       "ean": "8597593021137",
       "reviews_count": 1,
       "reviews": [
@@ -602,26 +602,6 @@
       ]
     },
     {
-      "product_name": "LCD Displej + Dotyk Google Pixel 8",
-      "url": "https://www.express-servis.cz/p/lcd-display-dotyk-google-pixel-8-service-pack?utm_source=heureka",
-      "price": 2864.0,
-      "ean": "8596311252105",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22396303",
-          "rating_id_type": "product",
-          "unix_timestamp": 1779426850,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "2af548f78e4b8181212b2d5102977d05ce89107e"
-        }
-      ]
-    },
-    {
       "product_name": "Apple 96W USB-C Power Adapter MX0J2ZM/A - originální",
       "url": "https://www.express-servis.cz/p/napajeci-adapter-usb-c-apple-macbook-96w-bulk?utm_source=heureka",
       "price": 960.0,
@@ -638,6 +618,26 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "87222a609df3067e8dd5dc4bca2a7f0daa3e952c"
+        }
+      ]
+    },
+    {
+      "product_name": "Samsung EB-BJ510CBE",
+      "url": "https://www.express-servis.cz/p/eb-bj510cbe-baterie-samsung-3100mah?utm_source=heureka",
+      "price": 155.0,
+      "ean": "8596311193293",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22120591",
+          "rating_id_type": "product",
+          "unix_timestamp": 1775622052,
+          "rating": 5.0,
+          "pros": "Plnohodnotné baterie",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "6a066e8662d3312b72f044bd586a6aabad90e82f"
         }
       ]
     }
