@@ -1,9 +1,9 @@
 {
-  "generated_at": 1790995331,
+  "generated_at": 1791083330,
   "stats": {
-    "products_count": 29,
-    "raw_reviews_in_feed": 29,
-    "saved_reviews": 29,
+    "products_count": 30,
+    "raw_reviews_in_feed": 30,
+    "saved_reviews": 30,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -28,6 +28,11 @@
         "ean": "8597593137722",
         "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-oled-refurbished-s-ramem-ledove-modry?utm_source=heureka",
         "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) – OLED Refurbished s rámem – ledově modrý SAM4382"
+      },
+      {
+        "ean": "8597593127174",
+        "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-6-62-oled-aftermarket-plus-s-ramem-modry?utm_source=heureka",
+        "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) 6,62\" – OLED Aftermarket Plus s rámem – modrý SAM3327"
       },
       {
         "ean": "8597593127181",
@@ -166,6 +171,26 @@
       "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-oled-refurbished-s-ramem-ledove-modry?utm_source=heureka",
       "price": 2096.0,
       "ean": "8597593137722",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23251609",
+          "rating_id_type": "product",
+          "unix_timestamp": 1790238176,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "f115d46f25216d2d0f7fe42bfe5d53279a67f382"
+        }
+      ]
+    },
+    {
+      "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) 6,62\" – OLED Aftermarket Plus s rámem – modrý SAM3327",
+      "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-6-62-oled-aftermarket-plus-s-ramem-modry?utm_source=heureka",
+      "price": 892.0,
+      "ean": "8597593127174",
       "reviews_count": 1,
       "reviews": [
         {
