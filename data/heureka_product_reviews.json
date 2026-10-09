@@ -1,9 +1,9 @@
 {
-  "generated_at": 1791427233,
+  "generated_at": 1791513668,
   "stats": {
-    "products_count": 30,
-    "raw_reviews_in_feed": 30,
-    "saved_reviews": 30,
+    "products_count": 29,
+    "raw_reviews_in_feed": 29,
+    "saved_reviews": 29,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -643,26 +643,6 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "87222a609df3067e8dd5dc4bca2a7f0daa3e952c"
-        }
-      ]
-    },
-    {
-      "product_name": "Samsung EB-BJ510CBE",
-      "url": "https://www.express-servis.cz/p/eb-bj510cbe-baterie-samsung-3100mah?utm_source=heureka",
-      "price": 151.0,
-      "ean": "8596311193293",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22120591",
-          "rating_id_type": "product",
-          "unix_timestamp": 1775622052,
-          "rating": 5.0,
-          "pros": "Plnohodnotné baterie",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "6a066e8662d3312b72f044bd586a6aabad90e82f"
         }
       ]
     }
