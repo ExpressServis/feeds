@@ -1,9 +1,9 @@
 {
-  "generated_at": 1791686588,
+  "generated_at": 1791773396,
   "stats": {
-    "products_count": 25,
-    "raw_reviews_in_feed": 25,
-    "saved_reviews": 25,
+    "products_count": 26,
+    "raw_reviews_in_feed": 26,
+    "saved_reviews": 26,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -66,6 +66,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Senzor úhlu víka MacBook Pro 14\" (A2442 / 2021) / (A2779 / 2023) MAC0074",
+      "url": "https://www.express-servis.cz/p/senzor-uhlu-vika-macbook-pro-14-a2442-2021-a2779-2023?utm_source=heureka",
+      "price": 292.0,
+      "ean": "8597593021755",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23378285",
+          "rating_id_type": "product",
+          "unix_timestamp": 1791746483,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "297b39693624a9ec75a5e652afd360b7eee53e93"
+        }
+      ]
+    },
     {
       "product_name": "Baterie iPhone 11 BT0013",
       "url": "https://www.express-servis.cz/p/baterie-iphone-11?utm_source=heureka",
@@ -289,7 +309,7 @@
     {
       "product_name": "Sklíčko zadní kamery s podlepením Samsung Galaxy A36 5G (A366 / 2025) SAM2367",
       "url": "https://www.express-servis.cz/p/sklicko-zadni-kamery-s-podlepenim-samsung-galaxy-a36-5g-a366-2025?utm_source=heureka",
-      "price": 54.0,
+      "price": 53.0,
       "ean": "8597593109064",
       "reviews_count": 1,
       "reviews": [
@@ -389,7 +409,7 @@
     {
       "product_name": "FD Blades Razor Blades - 5ks balení TL0073",
       "url": "https://www.express-servis.cz/p/fd-blades-razor-blades-5ks-kvalitni-cepele?utm_source=heureka",
-      "price": 5.0,
+      "price": 6.0,
       "ean": "8597593021137",
       "reviews_count": 1,
       "reviews": [
@@ -429,7 +449,7 @@
     {
       "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
       "url": "https://www.express-servis.cz/p/baterie-iphone-13-pro-podpora-konfigurace?utm_source=heureka",
-      "price": 412.0,
+      "price": 411.0,
       "ean": "8597593013187",
       "reviews_count": 1,
       "reviews": [
