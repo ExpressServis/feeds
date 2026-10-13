@@ -1,45 +1,13 @@
 {
-  "generated_at": 1791773396,
+  "generated_at": 1791859496,
   "stats": {
-    "products_count": 26,
-    "raw_reviews_in_feed": 26,
-    "saved_reviews": 26,
+    "products_count": 12,
+    "raw_reviews_in_feed": 12,
+    "saved_reviews": 12,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 3
+    "cross_product_duplicates_count": 1
   },
   "cross_product_duplicates": {
-    "f115d46f25216d2d0f7fe42bfe5d53279a67f382": [
-      {
-        "ean": "8597593186584",
-        "url": "https://www.express-servis.cz/p/oled-displej-samsung-galaxy-a55-a556-service-pack?utm_source=heureka",
-        "product_name": "OLED displej s rámečkem Samsung Galaxy A55 (A556 / 2024) - Service Pack - Lemon SAM8623"
-      },
-      {
-        "ean": "8597593137715",
-        "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-oled-refurbished-s-ramem-zluty?utm_source=heureka",
-        "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) – OLED Refurbished s rámem – žlutý SAM4381"
-      },
-      {
-        "ean": "8597593137708",
-        "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-oled-refurbished-s-ramem-namornicky-modry?utm_source=heureka",
-        "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) – OLED Refurbished – s rámem – námořnicky modrý SAM4380"
-      },
-      {
-        "ean": "8597593137722",
-        "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-oled-refurbished-s-ramem-ledove-modry?utm_source=heureka",
-        "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) – OLED Refurbished s rámem – ledově modrý SAM4382"
-      },
-      {
-        "ean": "8597593127174",
-        "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-6-62-oled-aftermarket-plus-s-ramem-modry?utm_source=heureka",
-        "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) 6,62\" – OLED Aftermarket Plus s rámem – modrý SAM3327"
-      },
-      {
-        "ean": "8597593127181",
-        "url": "https://www.express-servis.cz/p/lcd-displej-samsung-galaxy-a55-a556-2024-incell-aftermarket-s-ramem-namornicky-modry?utm_source=heureka",
-        "product_name": "LCD displej Samsung Galaxy A55 (A556 / 2024) – Incell Aftermarket – s rámem – námořnicky modrý SAM3328"
-      }
-    ],
     "b7369b9d05cbf910b7d41e9848cd75bb14f75e84": [
       {
         "ean": "840295409283",
@@ -51,41 +19,9 @@
         "url": "https://www.express-servis.cz/p/therabody-jetboots-pro-plus-regeneracni-boty-1?utm_source=heureka",
         "product_name": "Therabody JetBoots PRO Plus - Small JB0004130-3A1S"
       }
-    ],
-    "0caa8a9dfba7ef21218b771f97ff0c3e6f9569e4": [
-      {
-        "ean": "8597593075345",
-        "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-aftermarket-aq7-incell?utm_source=heureka",
-        "product_name": "LCD displej iPhone 11 – Aftermarket AQ7 Incell IPH2476"
-      },
-      {
-        "ean": "8597593014085",
-        "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
-        "product_name": "LCD displej iPhone 11 - Refurbished IPH0989"
-      }
     ]
   },
   "products": [
-    {
-      "product_name": "Senzor úhlu víka MacBook Pro 14\" (A2442 / 2021) / (A2779 / 2023) MAC0074",
-      "url": "https://www.express-servis.cz/p/senzor-uhlu-vika-macbook-pro-14-a2442-2021-a2779-2023?utm_source=heureka",
-      "price": 292.0,
-      "ean": "8597593021755",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "23378285",
-          "rating_id_type": "product",
-          "unix_timestamp": 1791746483,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "297b39693624a9ec75a5e652afd360b7eee53e93"
-        }
-      ]
-    },
     {
       "product_name": "Baterie iPhone 11 BT0013",
       "url": "https://www.express-servis.cz/p/baterie-iphone-11?utm_source=heureka",
@@ -107,169 +43,9 @@
       ]
     },
     {
-      "product_name": "Audio Board MacBook Air 13\" (A2337 / 2020) – Apple Genuine – stříbrné MAC0540",
-      "url": "https://www.express-servis.cz/p/audio-board-macbook-air-13-a2337-2020-apple-genuine-stribrne?utm_source=heureka",
-      "price": 331.0,
-      "ean": "8597593039774",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "23292219",
-          "rating_id_type": "product",
-          "unix_timestamp": 1790670477,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "70bbd31ce7eae0557eefc74e978125e6ee2e4a60"
-        }
-      ]
-    },
-    {
-      "product_name": "OLED displej s rámečkem Samsung Galaxy A55 (A556 / 2024) - Service Pack - Lemon SAM8623",
-      "url": "https://www.express-servis.cz/p/oled-displej-samsung-galaxy-a55-a556-service-pack?utm_source=heureka",
-      "price": 2216.0,
-      "ean": "8597593186584",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "23251609",
-          "rating_id_type": "product",
-          "unix_timestamp": 1790238176,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "f115d46f25216d2d0f7fe42bfe5d53279a67f382"
-        }
-      ]
-    },
-    {
-      "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) – OLED Refurbished s rámem – žlutý SAM4381",
-      "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-oled-refurbished-s-ramem-zluty?utm_source=heureka",
-      "price": 2046.0,
-      "ean": "8597593137715",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "23251609",
-          "rating_id_type": "product",
-          "unix_timestamp": 1790238176,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "f115d46f25216d2d0f7fe42bfe5d53279a67f382"
-        }
-      ]
-    },
-    {
-      "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) – OLED Refurbished – s rámem – námořnicky modrý SAM4380",
-      "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-oled-refurbished-s-ramem-namornicky-modry?utm_source=heureka",
-      "price": 2131.0,
-      "ean": "8597593137708",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "23251609",
-          "rating_id_type": "product",
-          "unix_timestamp": 1790238176,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "f115d46f25216d2d0f7fe42bfe5d53279a67f382"
-        }
-      ]
-    },
-    {
-      "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) – OLED Refurbished s rámem – ledově modrý SAM4382",
-      "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-oled-refurbished-s-ramem-ledove-modry?utm_source=heureka",
-      "price": 2096.0,
-      "ean": "8597593137722",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "23251609",
-          "rating_id_type": "product",
-          "unix_timestamp": 1790238176,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "f115d46f25216d2d0f7fe42bfe5d53279a67f382"
-        }
-      ]
-    },
-    {
-      "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) 6,62\" – OLED Aftermarket Plus s rámem – modrý SAM3327",
-      "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-6-62-oled-aftermarket-plus-s-ramem-modry?utm_source=heureka",
-      "price": 903.0,
-      "ean": "8597593127174",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "23251609",
-          "rating_id_type": "product",
-          "unix_timestamp": 1790238176,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "f115d46f25216d2d0f7fe42bfe5d53279a67f382"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD displej Samsung Galaxy A55 (A556 / 2024) – Incell Aftermarket – s rámem – námořnicky modrý SAM3328",
-      "url": "https://www.express-servis.cz/p/lcd-displej-samsung-galaxy-a55-a556-2024-incell-aftermarket-s-ramem-namornicky-modry?utm_source=heureka",
-      "price": 498.0,
-      "ean": "8597593127181",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "23251609",
-          "rating_id_type": "product",
-          "unix_timestamp": 1790238176,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "f115d46f25216d2d0f7fe42bfe5d53279a67f382"
-        }
-      ]
-    },
-    {
-      "product_name": "Dotykový digitizér iPad 3 / iPad 4 – předinstalované tlačítko Home pro iPad 4 – Aftermarket Plus – černý IPD1467",
-      "url": "https://www.express-servis.cz/p/dotykovy-digitizer-ipad-3-ipad-4-cerny-aftermarket?utm_source=heureka",
-      "price": 174.0,
-      "ean": "8597593074638",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "23211209",
-          "rating_id_type": "product",
-          "unix_timestamp": 1789754489,
-          "rating": 4.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "7695470c2c68849cc08ab8da9c902441020a941c"
-        }
-      ]
-    },
-    {
       "product_name": "Lepidlo T-7000 Suxun 15 ml černé TL0056",
       "url": "https://www.express-servis.cz/p/lepidlo-t-7000-suxun-cerne-15-ml?utm_source=heureka",
-      "price": 79.0,
+      "price": 76.0,
       "ean": "8597593013675",
       "reviews_count": 1,
       "reviews": [
@@ -303,26 +79,6 @@
           "summary": "Produkt sám o sobě neměl žádnou vadu, ale po nalepení se objevila prasklina skla ve spodní části. Nejspíš výrobní vada, i přes to produkt a tuto společnost mohu vřele doporučit.",
           "recommends": "1",
           "fingerprint": "19ac7fa90420458aff5ea874f6705615cf46fd28"
-        }
-      ]
-    },
-    {
-      "product_name": "Sklíčko zadní kamery s podlepením Samsung Galaxy A36 5G (A366 / 2025) SAM2367",
-      "url": "https://www.express-servis.cz/p/sklicko-zadni-kamery-s-podlepenim-samsung-galaxy-a36-5g-a366-2025?utm_source=heureka",
-      "price": 53.0,
-      "ean": "8597593109064",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "23166538",
-          "rating_id_type": "product",
-          "unix_timestamp": 1789224437,
-          "rating": 1.5,
-          "pros": "rozměrově sedí",
-          "cons": "zcela nedostatečné tři lepicí kroužky místo celoplošného nalepení\npodle popisu je lepení předinstalované - není",
-          "summary": "originál je na tlusté vrstvě celoplošného houževnatého lepidla. Tato chabá náhrada má jen minimální kroužky velmi tenké oboustrané lepicí pásky",
-          "recommends": "0",
-          "fingerprint": "1c48794c790d600ae56135dc83cbbcc9b0fd819f"
         }
       ]
     },
@@ -407,26 +163,6 @@
       ]
     },
     {
-      "product_name": "FD Blades Razor Blades - 5ks balení TL0073",
-      "url": "https://www.express-servis.cz/p/fd-blades-razor-blades-5ks-kvalitni-cepele?utm_source=heureka",
-      "price": 6.0,
-      "ean": "8597593021137",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "23128990",
-          "rating_id_type": "product",
-          "unix_timestamp": 1788769196,
-          "rating": 4.0,
-          "pros": "ostré\ndržátko\n5k za 6kč je přijatelná cena",
-          "cons": "",
-          "summary": "",
-          "recommends": "1",
-          "fingerprint": "d5561a3302cc97dc12d0a66a2b9e341a98a1170b"
-        }
-      ]
-    },
-    {
       "product_name": "Baterie iPhone 11 BT0013",
       "url": "https://www.express-servis.cz/p/baterie-iphone-11?utm_source=heureka",
       "price": 275.0,
@@ -443,6 +179,26 @@
           "summary": "Náhradní baterka prostě. Po instalaci změřena usb testerem nabití z 0 na 100 a kapacita souhlasí. Dále rozhodne čas.",
           "recommends": "1",
           "fingerprint": "ed65f4905b89b4ea34c3f6e3c2f31c5f8feccd06"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD displej a dotyková deska pro Xiaomi Redmi 9T 57983113705",
+      "url": "https://www.express-servis.cz/p/lcd-displej-a-deska-pro-xiaomi-redmi-9t?utm_source=heureka",
+      "price": 342.0,
+      "ean": "8596311206580",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23049429",
+          "rating_id_type": "product",
+          "unix_timestamp": 1787767679,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "6e27a25b84f89474e781d61529506e2882ba6bd0"
         }
       ]
     },
@@ -467,66 +223,6 @@
       ]
     },
     {
-      "product_name": "Epico UltraPack Qi2 Slim 5000mAh powerbanka - temně modrá 9915113400004",
-      "url": "https://www.express-servis.cz/p/epico-ultrapack-qi2-slim-5000mah-temne-modra?utm_source=heureka",
-      "price": 1186.0,
-      "ean": "8596049208214",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22951597",
-          "rating_id_type": "product",
-          "unix_timestamp": 1786381648,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "f3b3f081d4a187ee081bada37603f532be978804"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD displej iPhone 11 – Aftermarket AQ7 Incell IPH2476",
-      "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-aftermarket-aq7-incell?utm_source=heureka",
-      "price": 476.0,
-      "ean": "8597593075345",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22876725",
-          "rating_id_type": "product",
-          "unix_timestamp": 1785500481,
-          "rating": 5.0,
-          "pros": "funguje jako originál doporučuji\ncenově dostupný",
-          "cons": "",
-          "summary": "Myslím že je to dobrá náhrada za originál doporučuji .",
-          "recommends": "1",
-          "fingerprint": "0caa8a9dfba7ef21218b771f97ff0c3e6f9569e4"
-        }
-      ]
-    },
-    {
-      "product_name": "LCD displej iPhone 11 - Refurbished IPH0989",
-      "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
-      "price": 764.0,
-      "ean": "8597593014085",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22876725",
-          "rating_id_type": "product",
-          "unix_timestamp": 1785500481,
-          "rating": 5.0,
-          "pros": "funguje jako originál doporučuji\ncenově dostupný",
-          "cons": "",
-          "summary": "Myslím že je to dobrá náhrada za originál doporučuji .",
-          "recommends": "1",
-          "fingerprint": "0caa8a9dfba7ef21218b771f97ff0c3e6f9569e4"
-        }
-      ]
-    },
-    {
       "product_name": "Flex kabel MagSafe napájecího konektoru MacBook Air 13\" (A2681 / 2022) MAC0060",
       "url": "https://www.express-servis.cz/p/flex-kabel-magsafe-napajeciho-konektoru-macbook-air-13-a2681-2022?utm_source=heureka",
       "price": 151.0,
@@ -547,42 +243,22 @@
       ]
     },
     {
-      "product_name": "Epico UltraBoost Micro AVS GaN 100W adaptér EA100b bílá 9915101100238",
-      "url": "https://www.express-servis.cz/p/epico-ultraboost-gan-100w-adapter-bila?utm_source=heureka",
-      "price": 1395.0,
-      "ean": "8596049208016",
+      "product_name": "Lepidlo B-7000 50ml - transparentní TL0053",
+      "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
+      "price": 96.0,
+      "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
         {
-          "rating_id": "22645451",
+          "rating_id": "22609923",
           "rating_id_type": "product",
-          "unix_timestamp": 1783234951,
+          "unix_timestamp": 1782647263,
           "rating": 5.0,
           "pros": "",
           "cons": "",
           "summary": "",
           "recommends": "",
-          "fingerprint": "d96b758e2945c81ce8555e8e0007d7ad1845cac9"
-        }
-      ]
-    },
-    {
-      "product_name": "Epico UltraBoard klávesnice EK40 - iPad 10,9\" /11\" CZ, černá 73711101300024",
-      "url": "https://www.express-servis.cz/p/epico-ultraboard-ek40-klavesnice-pro-ipad-s-trackpadem?utm_source=heureka",
-      "price": 2517.0,
-      "ean": "8596049201376",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22474390",
-          "rating_id_type": "product",
-          "unix_timestamp": 1780496424,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "Vybrala jsem Epico UltraBoard EK40 pro iPad 10,9 nejen z důvodu, že má českou klávesnici. Klávesnice není naštěstí z PVC, ale kovová. Takže super.",
-          "recommends": "1",
-          "fingerprint": "2606a0321006b85e460544fb6d3f62c15586e26d"
+          "fingerprint": "6f177d79e0f4bb1861da359ab5d1f5def5e2c15f"
         }
       ]
     }
