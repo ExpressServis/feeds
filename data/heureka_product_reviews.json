@@ -1,9 +1,9 @@
 {
-  "generated_at": 1792117946,
+  "generated_at": 1792204268,
   "stats": {
-    "products_count": 28,
-    "raw_reviews_in_feed": 28,
-    "saved_reviews": 28,
+    "products_count": 31,
+    "raw_reviews_in_feed": 31,
+    "saved_reviews": 31,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -61,6 +61,66 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Epico Ochranné sklo zadní kamery pro iPhone 14 / 14 Plus 69412151000003",
+      "url": "https://www.express-servis.cz/p/epico-zadni-sklo-kamery-iphone-1414-plus?utm_source=heureka",
+      "price": 152.0,
+      "ean": "8596049169577",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23412367",
+          "rating_id_type": "product",
+          "unix_timestamp": 1792138547,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "OK",
+          "recommends": "1",
+          "fingerprint": "8f2cab4792fe7c116bdcb550698f20e0e0e041e9"
+        }
+      ]
+    },
+    {
+      "product_name": "Zadní sklo iPhone 14 Plus - fialové IPH0833",
+      "url": "https://www.express-servis.cz/p/zadni-sklo-iphone-14-plus-fialove?utm_source=heureka",
+      "price": 231.0,
+      "ean": "8596115631076",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23416240",
+          "rating_id_type": "product",
+          "unix_timestamp": 1792138513,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "OK",
+          "recommends": "1",
+          "fingerprint": "eec5ae63c72da82bb3b54bc61352494a1a0fd358"
+        }
+      ]
+    },
+    {
+      "product_name": "3D analogový kryt joysticku (thumbstick) Meta Quest 3 / Quest 3S GM0111",
+      "url": "https://www.express-servis.cz/p/3d-analogovy-kryt-joysticku-thumbstick-meta-quest-3-quest-3s?utm_source=heureka",
+      "price": 410.0,
+      "ean": "8597593041753",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23416404",
+          "rating_id_type": "product",
+          "unix_timestamp": 1792132902,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "1e3cb9e546775efecc213984b94bb40fb8329362"
+        }
+      ]
+    },
     {
       "product_name": "Senzor úhlu víka MacBook Pro 14\" (A2442 / 2021) / (A2779 / 2023) MAC0074",
       "url": "https://www.express-servis.cz/p/senzor-uhlu-vika-macbook-pro-14-a2442-2021-a2779-2023?utm_source=heureka",
