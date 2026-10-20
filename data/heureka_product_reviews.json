@@ -1,9 +1,9 @@
 {
-  "generated_at": 1792377364,
+  "generated_at": 1792463544,
   "stats": {
-    "products_count": 30,
-    "raw_reviews_in_feed": 30,
-    "saved_reviews": 30,
+    "products_count": 31,
+    "raw_reviews_in_feed": 31,
+    "saved_reviews": 31,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -104,7 +104,7 @@
     {
       "product_name": "3D analogový kryt joysticku (thumbstick) Meta Quest 3 / Quest 3S GM0111",
       "url": "https://www.express-servis.cz/p/3d-analogovy-kryt-joysticku-thumbstick-meta-quest-3-quest-3s?utm_source=heureka",
-      "price": 409.0,
+      "price": 410.0,
       "ean": "8597593041753",
       "reviews_count": 1,
       "reviews": [
@@ -144,7 +144,7 @@
     {
       "product_name": "Audio Board MacBook Air 13\" (A2337 / 2020) – Apple Genuine – stříbrné MAC0540",
       "url": "https://www.express-servis.cz/p/audio-board-macbook-air-13-a2337-2020-apple-genuine-stribrne?utm_source=heureka",
-      "price": 330.0,
+      "price": 331.0,
       "ean": "8597593039774",
       "reviews_count": 1,
       "reviews": [
@@ -384,7 +384,7 @@
     {
       "product_name": "Therabody JetBoots PRO Plus - Small JB0004130-3A1S",
       "url": "https://www.express-servis.cz/p/therabody-jetboots-pro-plus-regeneracni-boty-1?utm_source=heureka",
-      "price": 26177.0,
+      "price": 25333.0,
       "ean": "840295409276",
       "reviews_count": 1,
       "reviews": [
@@ -424,7 +424,7 @@
     {
       "product_name": "FD Blades Razor Blades - 5ks balení TL0073",
       "url": "https://www.express-servis.cz/p/fd-blades-razor-blades-5ks-kvalitni-cepele?utm_source=heureka",
-      "price": 5.0,
+      "price": 6.0,
       "ean": "8597593021137",
       "reviews_count": 1,
       "reviews": [
@@ -544,7 +544,7 @@
     {
       "product_name": "LCD displej iPhone 11 – Aftermarket AQ7 Incell IPH2476",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-aftermarket-aq7-incell?utm_source=heureka",
-      "price": 517.0,
+      "price": 518.0,
       "ean": "8597593075345",
       "reviews_count": 1,
       "reviews": [
@@ -638,6 +638,26 @@
           "summary": "",
           "recommends": "",
           "fingerprint": "6f177d79e0f4bb1861da359ab5d1f5def5e2c15f"
+        }
+      ]
+    },
+    {
+      "product_name": "Podlepení displeje iPhone 13 Mini - Originál Apple IPH1092",
+      "url": "https://www.express-servis.cz/p/podlepeni-displeje-iphone-13-mini-original-apple?utm_source=heureka",
+      "price": 49.0,
+      "ean": "8597593015167",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22599485",
+          "rating_id_type": "product",
+          "unix_timestamp": 1782376815,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "a5f12fb92d7b877fecf8d05bf1be16cc9a79ebf8"
         }
       ]
     },
