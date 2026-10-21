@@ -1,9 +1,9 @@
 {
-  "generated_at": 1792463544,
+  "generated_at": 1792550059,
   "stats": {
-    "products_count": 31,
-    "raw_reviews_in_feed": 31,
-    "saved_reviews": 31,
+    "products_count": 34,
+    "raw_reviews_in_feed": 34,
+    "saved_reviews": 34,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -62,6 +62,66 @@
   },
   "products": [
     {
+      "product_name": "IC čip správy napájení PMIC Nintendo Switch / Switch OLED (MAX77620AEWJ+T) GM0178",
+      "url": "https://www.express-servis.cz/p/ic-cip-spravy-napajeni-pmic-nintendo-switch-switch-oled-max77620aewj-t?utm_source=heureka",
+      "price": 138.0,
+      "ean": "8597593042507",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23449078",
+          "rating_id_type": "product",
+          "unix_timestamp": 1792508461,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "cfa93812db0acad45b548f75e9bca003eb5a3183"
+        }
+      ]
+    },
+    {
+      "product_name": "3D joystick Xbox One / Series X s Hall senzory - zelený GM0090",
+      "url": "https://www.express-servis.cz/p/3d-joystick-xbox-one-series-x-s-hall-senzory-zeleny?utm_source=heureka",
+      "price": 124.0,
+      "ean": "8597593022271",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23448977",
+          "rating_id_type": "product",
+          "unix_timestamp": 1792505875,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "d869250ccf3d614563d9d5a09792497b4906eb79"
+        }
+      ]
+    },
+    {
+      "product_name": "IC čip Buck regulátor MAX77812 Nintendo Switch Lite / Switch OLED GM0303",
+      "url": "https://www.express-servis.cz/p/ic-cip-buck-regulator-max77812-nintendo-switch-lite-switch-oled?utm_source=heureka",
+      "price": 144.0,
+      "ean": "8597593043757",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23449074",
+          "rating_id_type": "product",
+          "unix_timestamp": 1792505861,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "9a93f3fe5a0099856fa3e901594c8952e9daaab5"
+        }
+      ]
+    },
+    {
       "product_name": "Epico Ochranné sklo zadní kamery pro iPhone 14 / 14 Plus 69412151000003",
       "url": "https://www.express-servis.cz/p/epico-zadni-sklo-kamery-iphone-1414-plus?utm_source=heureka",
       "price": 152.0,
@@ -104,7 +164,7 @@
     {
       "product_name": "3D analogový kryt joysticku (thumbstick) Meta Quest 3 / Quest 3S GM0111",
       "url": "https://www.express-servis.cz/p/3d-analogovy-kryt-joysticku-thumbstick-meta-quest-3-quest-3s?utm_source=heureka",
-      "price": 410.0,
+      "price": 409.0,
       "ean": "8597593041753",
       "reviews_count": 1,
       "reviews": [
@@ -144,7 +204,7 @@
     {
       "product_name": "Audio Board MacBook Air 13\" (A2337 / 2020) – Apple Genuine – stříbrné MAC0540",
       "url": "https://www.express-servis.cz/p/audio-board-macbook-air-13-a2337-2020-apple-genuine-stribrne?utm_source=heureka",
-      "price": 331.0,
+      "price": 330.0,
       "ean": "8597593039774",
       "reviews_count": 1,
       "reviews": [
@@ -244,7 +304,7 @@
     {
       "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) 6,62\" – OLED Aftermarket Plus s rámem – modrý SAM3327",
       "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-6-62-oled-aftermarket-plus-s-ramem-modry?utm_source=heureka",
-      "price": 899.0,
+      "price": 900.0,
       "ean": "8597593127174",
       "reviews_count": 1,
       "reviews": [
@@ -384,7 +444,7 @@
     {
       "product_name": "Therabody JetBoots PRO Plus - Small JB0004130-3A1S",
       "url": "https://www.express-servis.cz/p/therabody-jetboots-pro-plus-regeneracni-boty-1?utm_source=heureka",
-      "price": 25333.0,
+      "price": 25357.0,
       "ean": "840295409276",
       "reviews_count": 1,
       "reviews": [
@@ -504,7 +564,7 @@
     {
       "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
       "url": "https://www.express-servis.cz/p/baterie-iphone-13-pro-podpora-konfigurace?utm_source=heureka",
-      "price": 411.0,
+      "price": 412.0,
       "ean": "8597593013187",
       "reviews_count": 1,
       "reviews": [
@@ -644,7 +704,7 @@
     {
       "product_name": "Podlepení displeje iPhone 13 Mini - Originál Apple IPH1092",
       "url": "https://www.express-servis.cz/p/podlepeni-displeje-iphone-13-mini-original-apple?utm_source=heureka",
-      "price": 49.0,
+      "price": 97.0,
       "ean": "8597593015167",
       "reviews_count": 1,
       "reviews": [
