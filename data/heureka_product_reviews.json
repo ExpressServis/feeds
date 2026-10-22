@@ -1,9 +1,9 @@
 {
-  "generated_at": 1792550059,
+  "generated_at": 1792636492,
   "stats": {
-    "products_count": 34,
-    "raw_reviews_in_feed": 34,
-    "saved_reviews": 34,
+    "products_count": 36,
+    "raw_reviews_in_feed": 36,
+    "saved_reviews": 36,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 3
   },
@@ -33,6 +33,11 @@
         "ean": "8597593127174",
         "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-6-62-oled-aftermarket-plus-s-ramem-modry?utm_source=heureka",
         "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) 6,62\" – OLED Aftermarket Plus s rámem – modrý SAM3327"
+      },
+      {
+        "ean": "8597593127181",
+        "url": "https://www.express-servis.cz/p/lcd-displej-samsung-galaxy-a55-a556-2024-incell-aftermarket-s-ramem-namornicky-modry?utm_source=heureka",
+        "product_name": "LCD displej Samsung Galaxy A55 (A556 / 2024) – Incell Aftermarket – s rámem – námořnicky modrý SAM3328"
       }
     ],
     "b7369b9d05cbf910b7d41e9848cd75bb14f75e84": [
@@ -62,6 +67,26 @@
   },
   "products": [
     {
+      "product_name": "Epico UNUM Aramid pouzdro pro AirPods Pro 3 - černá 94411191300001",
+      "url": "https://www.express-servis.cz/p/epico-unum-aramid-pouzdro-airpods-pro-3-cerna?utm_source=heureka",
+      "price": 884.0,
+      "ean": "8596049203301",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23452958",
+          "rating_id_type": "product",
+          "unix_timestamp": 1792573452,
+          "rating": 5.0,
+          "pros": "Dobrá ochrana (proti poškrábání)\nDobré zpracování",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "75e5070fd0aab90cd0373d99eaff8942f88abc63"
+        }
+      ]
+    },
+    {
       "product_name": "IC čip správy napájení PMIC Nintendo Switch / Switch OLED (MAX77620AEWJ+T) GM0178",
       "url": "https://www.express-servis.cz/p/ic-cip-spravy-napajeni-pmic-nintendo-switch-switch-oled-max77620aewj-t?utm_source=heureka",
       "price": 138.0,
@@ -84,7 +109,7 @@
     {
       "product_name": "3D joystick Xbox One / Series X s Hall senzory - zelený GM0090",
       "url": "https://www.express-servis.cz/p/3d-joystick-xbox-one-series-x-s-hall-senzory-zeleny?utm_source=heureka",
-      "price": 124.0,
+      "price": 123.0,
       "ean": "8597593022271",
       "reviews_count": 1,
       "reviews": [
@@ -104,7 +129,7 @@
     {
       "product_name": "IC čip Buck regulátor MAX77812 Nintendo Switch Lite / Switch OLED GM0303",
       "url": "https://www.express-servis.cz/p/ic-cip-buck-regulator-max77812-nintendo-switch-lite-switch-oled?utm_source=heureka",
-      "price": 144.0,
+      "price": 145.0,
       "ean": "8597593043757",
       "reviews_count": 1,
       "reviews": [
@@ -164,7 +189,7 @@
     {
       "product_name": "3D analogový kryt joysticku (thumbstick) Meta Quest 3 / Quest 3S GM0111",
       "url": "https://www.express-servis.cz/p/3d-analogovy-kryt-joysticku-thumbstick-meta-quest-3-quest-3s?utm_source=heureka",
-      "price": 409.0,
+      "price": 410.0,
       "ean": "8597593041753",
       "reviews_count": 1,
       "reviews": [
@@ -204,7 +229,7 @@
     {
       "product_name": "Audio Board MacBook Air 13\" (A2337 / 2020) – Apple Genuine – stříbrné MAC0540",
       "url": "https://www.express-servis.cz/p/audio-board-macbook-air-13-a2337-2020-apple-genuine-stribrne?utm_source=heureka",
-      "price": 330.0,
+      "price": 331.0,
       "ean": "8597593039774",
       "reviews_count": 1,
       "reviews": [
@@ -306,6 +331,26 @@
       "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-6-62-oled-aftermarket-plus-s-ramem-modry?utm_source=heureka",
       "price": 900.0,
       "ean": "8597593127174",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23251609",
+          "rating_id_type": "product",
+          "unix_timestamp": 1790238176,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "f115d46f25216d2d0f7fe42bfe5d53279a67f382"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD displej Samsung Galaxy A55 (A556 / 2024) – Incell Aftermarket – s rámem – námořnicky modrý SAM3328",
+      "url": "https://www.express-servis.cz/p/lcd-displej-samsung-galaxy-a55-a556-2024-incell-aftermarket-s-ramem-namornicky-modry?utm_source=heureka",
+      "price": 508.0,
+      "ean": "8597593127181",
       "reviews_count": 1,
       "reviews": [
         {
@@ -444,7 +489,7 @@
     {
       "product_name": "Therabody JetBoots PRO Plus - Small JB0004130-3A1S",
       "url": "https://www.express-servis.cz/p/therabody-jetboots-pro-plus-regeneracni-boty-1?utm_source=heureka",
-      "price": 25357.0,
+      "price": 26177.0,
       "ean": "840295409276",
       "reviews_count": 1,
       "reviews": [
@@ -564,7 +609,7 @@
     {
       "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
       "url": "https://www.express-servis.cz/p/baterie-iphone-13-pro-podpora-konfigurace?utm_source=heureka",
-      "price": 412.0,
+      "price": 411.0,
       "ean": "8597593013187",
       "reviews_count": 1,
       "reviews": [
@@ -604,7 +649,7 @@
     {
       "product_name": "LCD displej iPhone 11 – Aftermarket AQ7 Incell IPH2476",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-aftermarket-aq7-incell?utm_source=heureka",
-      "price": 518.0,
+      "price": 445.0,
       "ean": "8597593075345",
       "reviews_count": 1,
       "reviews": [
@@ -684,7 +729,7 @@
     {
       "product_name": "Lepidlo B-7000 50ml - transparentní TL0053",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
-      "price": 96.0,
+      "price": 95.0,
       "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
