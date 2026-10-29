@@ -1,7 +1,22 @@
 {
-  "generated_at": 1793154310,
-  "count": 174,
+  "generated_at": 1793240689,
+  "count": 175,
   "reviews": [
+    {
+      "rating_id": "954525361",
+      "ordered": 1791989556,
+      "unix_timestamp": 1793206939,
+      "total_rating": 5.0,
+      "delivery_time": 5.0,
+      "transport_quality": 5.0,
+      "web_usability": null,
+      "communication": 5.0,
+      "pros": "Rychlé dodání od objednání \nRychlé jednání v případě problém",
+      "cons": "Není",
+      "summary": "Dostál jsem jinou objednávku, stává se. Při komunikaci s obchodem rychlé to vyměnil za spravnou a za pár dní byl s novým displejem. Doporučuji.",
+      "reaction": "",
+      "recommends": "1"
+    },
     {
       "rating_id": "956026786",
       "ordered": 1792519443,

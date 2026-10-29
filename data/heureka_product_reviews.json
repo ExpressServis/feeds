@@ -1,13 +1,35 @@
 {
-  "generated_at": 1793154312,
+  "generated_at": 1793240690,
   "stats": {
-    "products_count": 36,
-    "raw_reviews_in_feed": 36,
-    "saved_reviews": 36,
+    "products_count": 40,
+    "raw_reviews_in_feed": 40,
+    "saved_reviews": 40,
     "duplicates_within_product_skipped": 0,
-    "cross_product_duplicates_count": 3
+    "cross_product_duplicates_count": 4
   },
   "cross_product_duplicates": {
+    "23df5f5b27f7fc3de09039aa909063be678379a8": [
+      {
+        "ean": "8597593084279",
+        "url": "https://www.express-servis.cz/p/displej-google-pixel-7-pro-oled-refurbished-bez-ramu?utm_source=heureka",
+        "product_name": "Displej Google Pixel 7 Pro – OLED Refurbished – se čtečkou otisku prstu – bez rámu PIX0780"
+      },
+      {
+        "ean": "8597593084453",
+        "url": "https://www.express-servis.cz/p/displej-google-pixel-7-pro-oled-refurbished-bez-ramecku?utm_source=heureka",
+        "product_name": "Displej Google Pixel 7 Pro – Refurbished OLED – bez rámečku, bez senzoru otisku prstu PIX0798"
+      },
+      {
+        "ean": "8597593083951",
+        "url": "https://www.express-servis.cz/p/displej-google-pixel-7-pro-refurbished-oled?utm_source=heureka",
+        "product_name": "Displej Google Pixel 7 Pro – Refurbished OLED – bez čtečky otisku prstu PIX0748"
+      },
+      {
+        "ean": "8596311231469",
+        "url": "https://www.express-servis.cz/p/lcd-displej-a-dotykova-deska-pixel-7?utm_source=heureka",
+        "product_name": "LCD Display + Dotyková Deska pro Google Pixel 7 57983117799"
+      }
+    ],
     "f115d46f25216d2d0f7fe42bfe5d53279a67f382": [
       {
         "ean": "8597593186584",
@@ -66,6 +88,86 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Displej Google Pixel 7 Pro – OLED Refurbished – se čtečkou otisku prstu – bez rámu PIX0780",
+      "url": "https://www.express-servis.cz/p/displej-google-pixel-7-pro-oled-refurbished-bez-ramu?utm_source=heureka",
+      "price": 4157.0,
+      "ean": "8597593084279",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23517724",
+          "rating_id_type": "product",
+          "unix_timestamp": 1793206373,
+          "rating": 4.0,
+          "pros": "Rovnoměrné podsvícení (po celé ploše, také u okrajů, i v rozích)\nVysoký jas\nRychlá odezva (při psaní, při posouvání)\nKompatibilní s telefonem",
+          "cons": "Jiný vzhled než originál (barvou krycího skla, tvarem výřezů, šířkou rámečků)",
+          "summary": "Dobrý repasovaný displej,jen hraný byly jiného tvaru. Čtečku otisku prstů jsem zmigroval ze starého displeje. Za svoji cenu dobrá volba.",
+          "recommends": "1",
+          "fingerprint": "23df5f5b27f7fc3de09039aa909063be678379a8"
+        }
+      ]
+    },
+    {
+      "product_name": "Displej Google Pixel 7 Pro – Refurbished OLED – bez rámečku, bez senzoru otisku prstu PIX0798",
+      "url": "https://www.express-servis.cz/p/displej-google-pixel-7-pro-oled-refurbished-bez-ramecku?utm_source=heureka",
+      "price": 3961.0,
+      "ean": "8597593084453",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23517724",
+          "rating_id_type": "product",
+          "unix_timestamp": 1793206373,
+          "rating": 4.0,
+          "pros": "Rovnoměrné podsvícení (po celé ploše, také u okrajů, i v rozích)\nVysoký jas\nRychlá odezva (při psaní, při posouvání)\nKompatibilní s telefonem",
+          "cons": "Jiný vzhled než originál (barvou krycího skla, tvarem výřezů, šířkou rámečků)",
+          "summary": "Dobrý repasovaný displej,jen hraný byly jiného tvaru. Čtečku otisku prstů jsem zmigroval ze starého displeje. Za svoji cenu dobrá volba.",
+          "recommends": "1",
+          "fingerprint": "23df5f5b27f7fc3de09039aa909063be678379a8"
+        }
+      ]
+    },
+    {
+      "product_name": "Displej Google Pixel 7 Pro – Refurbished OLED – bez čtečky otisku prstu PIX0748",
+      "url": "https://www.express-servis.cz/p/displej-google-pixel-7-pro-refurbished-oled?utm_source=heureka",
+      "price": 4248.0,
+      "ean": "8597593083951",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23517724",
+          "rating_id_type": "product",
+          "unix_timestamp": 1793206373,
+          "rating": 4.0,
+          "pros": "Rovnoměrné podsvícení (po celé ploše, také u okrajů, i v rozích)\nVysoký jas\nRychlá odezva (při psaní, při posouvání)\nKompatibilní s telefonem",
+          "cons": "Jiný vzhled než originál (barvou krycího skla, tvarem výřezů, šířkou rámečků)",
+          "summary": "Dobrý repasovaný displej,jen hraný byly jiného tvaru. Čtečku otisku prstů jsem zmigroval ze starého displeje. Za svoji cenu dobrá volba.",
+          "recommends": "1",
+          "fingerprint": "23df5f5b27f7fc3de09039aa909063be678379a8"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD Display + Dotyková Deska pro Google Pixel 7 57983117799",
+      "url": "https://www.express-servis.cz/p/lcd-displej-a-dotykova-deska-pixel-7?utm_source=heureka",
+      "price": 1024.0,
+      "ean": "8596311231469",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23517724",
+          "rating_id_type": "product",
+          "unix_timestamp": 1793206373,
+          "rating": 4.0,
+          "pros": "Rovnoměrné podsvícení (po celé ploše, také u okrajů, i v rozích)\nVysoký jas\nRychlá odezva (při psaní, při posouvání)\nKompatibilní s telefonem",
+          "cons": "Jiný vzhled než originál (barvou krycího skla, tvarem výřezů, šířkou rámečků)",
+          "summary": "Dobrý repasovaný displej,jen hraný byly jiného tvaru. Čtečku otisku prstů jsem zmigroval ze starého displeje. Za svoji cenu dobrá volba.",
+          "recommends": "1",
+          "fingerprint": "23df5f5b27f7fc3de09039aa909063be678379a8"
+        }
+      ]
+    },
     {
       "product_name": "Epico UNUM Aramid pouzdro pro AirPods Pro 3 - černá 94411191300001",
       "url": "https://www.express-servis.cz/p/epico-unum-aramid-pouzdro-airpods-pro-3-cerna?utm_source=heureka",
