@@ -1,9 +1,9 @@
 {
-  "generated_at": 1793240690,
+  "generated_at": 1793327123,
   "stats": {
-    "products_count": 40,
-    "raw_reviews_in_feed": 40,
-    "saved_reviews": 40,
+    "products_count": 42,
+    "raw_reviews_in_feed": 42,
+    "saved_reviews": 42,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 4
   },
@@ -291,7 +291,7 @@
     {
       "product_name": "3D analogový kryt joysticku (thumbstick) Meta Quest 3 / Quest 3S GM0111",
       "url": "https://www.express-servis.cz/p/3d-analogovy-kryt-joysticku-thumbstick-meta-quest-3-quest-3s?utm_source=heureka",
-      "price": 409.0,
+      "price": 410.0,
       "ean": "8597593041753",
       "reviews_count": 1,
       "reviews": [
@@ -329,9 +329,29 @@
       ]
     },
     {
+      "product_name": "Baterie iPhone 11 BT0013",
+      "url": "https://www.express-servis.cz/p/baterie-iphone-11?utm_source=heureka",
+      "price": 286.0,
+      "ean": "8597593010926",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23291461",
+          "rating_id_type": "product",
+          "unix_timestamp": 1790670492,
+          "rating": 4.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "530eff34e0508e3ca90136acedf25093edc50a2a"
+        }
+      ]
+    },
+    {
       "product_name": "Audio Board MacBook Air 13\" (A2337 / 2020) – Apple Genuine – stříbrné MAC0540",
       "url": "https://www.express-servis.cz/p/audio-board-macbook-air-13-a2337-2020-apple-genuine-stribrne?utm_source=heureka",
-      "price": 331.0,
+      "price": 330.0,
       "ean": "8597593039774",
       "reviews_count": 1,
       "reviews": [
@@ -431,7 +451,7 @@
     {
       "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) 6,62\" – OLED Aftermarket Plus s rámem – modrý SAM3327",
       "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-6-62-oled-aftermarket-plus-s-ramem-modry?utm_source=heureka",
-      "price": 907.0,
+      "price": 908.0,
       "ean": "8597593127174",
       "reviews_count": 1,
       "reviews": [
@@ -591,7 +611,7 @@
     {
       "product_name": "Therabody JetBoots PRO Plus - Small JB0004130-3A1S",
       "url": "https://www.express-servis.cz/p/therabody-jetboots-pro-plus-regeneracni-boty-1?utm_source=heureka",
-      "price": 24955.0,
+      "price": 23877.0,
       "ean": "840295409276",
       "reviews_count": 1,
       "reviews": [
@@ -669,6 +689,26 @@
       ]
     },
     {
+      "product_name": "Baterie iPhone 11 BT0013",
+      "url": "https://www.express-servis.cz/p/baterie-iphone-11?utm_source=heureka",
+      "price": 286.0,
+      "ean": "8597593010926",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23081168",
+          "rating_id_type": "product",
+          "unix_timestamp": 1788179236,
+          "rating": 5.0,
+          "pros": "Fajn cena za náhradní baterku\nMají i další díly",
+          "cons": "Kvalitu baterky zjistím až za rok/dva ale zatím kapacita souhlasí.\nBlbý pulltabs na starý baterce",
+          "summary": "Náhradní baterka prostě. Po instalaci změřena usb testerem nabití z 0 na 100 a kapacita souhlasí. Dále rozhodne čas.",
+          "recommends": "1",
+          "fingerprint": "ed65f4905b89b4ea34c3f6e3c2f31c5f8feccd06"
+        }
+      ]
+    },
+    {
       "product_name": "LCD displej a dotyková deska pro Xiaomi Redmi 9T 57983113705",
       "url": "https://www.express-servis.cz/p/lcd-displej-a-deska-pro-xiaomi-redmi-9t?utm_source=heureka",
       "price": 342.0,
@@ -711,7 +751,7 @@
     {
       "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
       "url": "https://www.express-servis.cz/p/baterie-iphone-13-pro-podpora-konfigurace?utm_source=heureka",
-      "price": 412.0,
+      "price": 500.0,
       "ean": "8597593013187",
       "reviews_count": 1,
       "reviews": [
