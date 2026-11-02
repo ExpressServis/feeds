@@ -1,9 +1,9 @@
 {
-  "generated_at": 1793499702,
+  "generated_at": 1793586126,
   "stats": {
-    "products_count": 43,
-    "raw_reviews_in_feed": 43,
-    "saved_reviews": 43,
+    "products_count": 44,
+    "raw_reviews_in_feed": 44,
+    "saved_reviews": 44,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 4
   },
@@ -211,7 +211,7 @@
     {
       "product_name": "IC čip správy napájení PMIC Nintendo Switch / Switch OLED (MAX77620AEWJ+T) GM0178",
       "url": "https://www.express-servis.cz/p/ic-cip-spravy-napajeni-pmic-nintendo-switch-switch-oled-max77620aewj-t?utm_source=heureka",
-      "price": 138.0,
+      "price": 137.0,
       "ean": "8597593042507",
       "reviews_count": 1,
       "reviews": [
@@ -231,7 +231,7 @@
     {
       "product_name": "3D joystick Xbox One / Series X s Hall senzory - zelený GM0090",
       "url": "https://www.express-servis.cz/p/3d-joystick-xbox-one-series-x-s-hall-senzory-zeleny?utm_source=heureka",
-      "price": 124.0,
+      "price": 123.0,
       "ean": "8597593022271",
       "reviews_count": 1,
       "reviews": [
@@ -251,7 +251,7 @@
     {
       "product_name": "IC čip Buck regulátor MAX77812 Nintendo Switch Lite / Switch OLED GM0303",
       "url": "https://www.express-servis.cz/p/ic-cip-buck-regulator-max77812-nintendo-switch-lite-switch-oled?utm_source=heureka",
-      "price": 144.0,
+      "price": 145.0,
       "ean": "8597593043757",
       "reviews_count": 1,
       "reviews": [
@@ -271,7 +271,7 @@
     {
       "product_name": "Epico Ochranné sklo zadní kamery pro iPhone 14 / 14 Plus 69412151000003",
       "url": "https://www.express-servis.cz/p/epico-zadni-sklo-kamery-iphone-1414-plus?utm_source=heureka",
-      "price": 280.0,
+      "price": 281.0,
       "ean": "8596049169577",
       "reviews_count": 1,
       "reviews": [
@@ -311,7 +311,7 @@
     {
       "product_name": "3D analogový kryt joysticku (thumbstick) Meta Quest 3 / Quest 3S GM0111",
       "url": "https://www.express-servis.cz/p/3d-analogovy-kryt-joysticku-thumbstick-meta-quest-3-quest-3s?utm_source=heureka",
-      "price": 410.0,
+      "price": 409.0,
       "ean": "8597593041753",
       "reviews_count": 1,
       "reviews": [
@@ -371,7 +371,7 @@
     {
       "product_name": "Audio Board MacBook Air 13\" (A2337 / 2020) – Apple Genuine – stříbrné MAC0540",
       "url": "https://www.express-servis.cz/p/audio-board-macbook-air-13-a2337-2020-apple-genuine-stribrne?utm_source=heureka",
-      "price": 330.0,
+      "price": 331.0,
       "ean": "8597593039774",
       "reviews_count": 1,
       "reviews": [
@@ -511,7 +511,7 @@
     {
       "product_name": "Dotykový digitizér iPad 3 / iPad 4 – předinstalované tlačítko Home pro iPad 4 – Aftermarket Plus – černý IPD1467",
       "url": "https://www.express-servis.cz/p/dotykovy-digitizer-ipad-3-ipad-4-cerny-aftermarket?utm_source=heureka",
-      "price": 173.0,
+      "price": 174.0,
       "ean": "8597593074638",
       "reviews_count": 1,
       "reviews": [
@@ -631,7 +631,7 @@
     {
       "product_name": "Therabody JetBoots PRO Plus - Small JB0004130-3A1S",
       "url": "https://www.express-servis.cz/p/therabody-jetboots-pro-plus-regeneracni-boty-1?utm_source=heureka",
-      "price": 23877.0,
+      "price": 26177.0,
       "ean": "840295409276",
       "reviews_count": 1,
       "reviews": [
@@ -945,6 +945,26 @@
           "summary": "Vybrala jsem Epico UltraBoard EK40 pro iPad 10,9 nejen z důvodu, že má českou klávesnici. Klávesnice není naštěstí z PVC, ale kovová. Takže super.",
           "recommends": "1",
           "fingerprint": "2606a0321006b85e460544fb6d3f62c15586e26d"
+        }
+      ]
+    },
+    {
+      "product_name": "Apple 96W USB-C Power Adapter MX0J2ZM/A - originální",
+      "url": "https://www.express-servis.cz/p/napajeci-adapter-usb-c-apple-macbook-96w-bulk?utm_source=heureka",
+      "price": 955.0,
+      "ean": "8597593007469",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "22300099",
+          "rating_id_type": "product",
+          "unix_timestamp": 1778064482,
+          "rating": 5.0,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "87222a609df3067e8dd5dc4bca2a7f0daa3e952c"
         }
       ]
     }
