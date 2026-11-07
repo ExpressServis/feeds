@@ -1,9 +1,9 @@
 {
-  "generated_at": 1793931716,
+  "generated_at": 1794018018,
   "stats": {
-    "products_count": 45,
-    "raw_reviews_in_feed": 45,
-    "saved_reviews": 45,
+    "products_count": 44,
+    "raw_reviews_in_feed": 44,
+    "saved_reviews": 44,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 4
   },
@@ -96,8 +96,8 @@
       "reviews_count": 1,
       "reviews": [
         {
-          "rating_id": "16483362",
-          "rating_id_type": "offer",
+          "rating_id": "23591342",
+          "rating_id_type": "product",
           "unix_timestamp": 1793870850,
           "rating": 4.0,
           "pros": "",
@@ -491,7 +491,7 @@
     {
       "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) 6,62\" – OLED Aftermarket Plus s rámem – modrý SAM3327",
       "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-6-62-oled-aftermarket-plus-s-ramem-modry?utm_source=heureka",
-      "price": 898.0,
+      "price": 905.0,
       "ean": "8597593127174",
       "reviews_count": 1,
       "reviews": [
@@ -511,7 +511,7 @@
     {
       "product_name": "LCD displej Samsung Galaxy A55 (A556 / 2024) – Incell Aftermarket – s rámem – námořnicky modrý SAM3328",
       "url": "https://www.express-servis.cz/p/lcd-displej-samsung-galaxy-a55-a556-2024-incell-aftermarket-s-ramem-namornicky-modry?utm_source=heureka",
-      "price": 509.0,
+      "price": 513.0,
       "ean": "8597593127181",
       "reviews_count": 1,
       "reviews": [
@@ -965,26 +965,6 @@
           "summary": "Vybrala jsem Epico UltraBoard EK40 pro iPad 10,9 nejen z důvodu, že má českou klávesnici. Klávesnice není naštěstí z PVC, ale kovová. Takže super.",
           "recommends": "1",
           "fingerprint": "2606a0321006b85e460544fb6d3f62c15586e26d"
-        }
-      ]
-    },
-    {
-      "product_name": "Apple 96W USB-C Power Adapter MX0J2ZM/A - originální",
-      "url": "https://www.express-servis.cz/p/napajeci-adapter-usb-c-apple-macbook-96w-bulk?utm_source=heureka",
-      "price": 955.0,
-      "ean": "8597593007469",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "22300099",
-          "rating_id_type": "product",
-          "unix_timestamp": 1778064482,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "",
-          "recommends": "",
-          "fingerprint": "87222a609df3067e8dd5dc4bca2a7f0daa3e952c"
         }
       ]
     }
