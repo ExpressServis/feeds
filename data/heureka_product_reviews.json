@@ -1,5 +1,5 @@
 {
-  "generated_at": 1794018018,
+  "generated_at": 1794104480,
   "stats": {
     "products_count": 44,
     "raw_reviews_in_feed": 44,
@@ -9,6 +9,11 @@
   },
   "cross_product_duplicates": {
     "23df5f5b27f7fc3de09039aa909063be678379a8": [
+      {
+        "ean": "8596311231469",
+        "url": "https://www.express-servis.cz/p/lcd-displej-a-dotykova-deska-pixel-7?utm_source=heureka",
+        "product_name": "LCD Displej + Dotyková deska Google Pixel 7"
+      },
       {
         "ean": "8597593084279",
         "url": "https://www.express-servis.cz/p/displej-google-pixel-7-pro-oled-refurbished-bez-ramu?utm_source=heureka",
@@ -23,11 +28,6 @@
         "ean": "8597593083951",
         "url": "https://www.express-servis.cz/p/displej-google-pixel-7-pro-refurbished-oled?utm_source=heureka",
         "product_name": "Displej Google Pixel 7 Pro – Refurbished OLED – bez čtečky otisku prstu PIX0748"
-      },
-      {
-        "ean": "8596311231469",
-        "url": "https://www.express-servis.cz/p/lcd-displej-a-dotykova-deska-pixel-7?utm_source=heureka",
-        "product_name": "LCD Display + Dotyková Deska pro Google Pixel 7 57983117799"
       }
     ],
     "f115d46f25216d2d0f7fe42bfe5d53279a67f382": [
@@ -91,7 +91,7 @@
     {
       "product_name": "Podlepení zadního krytu Xiaomi Redmi Note 13 Pro Plus 5G XIA1230",
       "url": "https://www.express-servis.cz/p/podlepeni-zadniho-krytu-xiaomi-redmi-note-13-pro-5g?utm_source=heureka",
-      "price": 62.0,
+      "price": 63.0,
       "ean": "8597593212986",
       "reviews_count": 1,
       "reviews": [
@@ -125,6 +125,26 @@
           "summary": "",
           "recommends": "1",
           "fingerprint": "4c6b86e6f4604ad0bdfba7b44063662cc97f377a"
+        }
+      ]
+    },
+    {
+      "product_name": "LCD Displej + Dotyková deska Google Pixel 7",
+      "url": "https://www.express-servis.cz/p/lcd-displej-a-dotykova-deska-pixel-7?utm_source=heureka",
+      "price": 1022.0,
+      "ean": "8596311231469",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23517724",
+          "rating_id_type": "product",
+          "unix_timestamp": 1793206373,
+          "rating": 4.0,
+          "pros": "Rovnoměrné podsvícení (po celé ploše, také u okrajů, i v rozích)\nVysoký jas\nRychlá odezva (při psaní, při posouvání)\nKompatibilní s telefonem",
+          "cons": "Jiný vzhled než originál (barvou krycího skla, tvarem výřezů, šířkou rámečků)",
+          "summary": "Dobrý repasovaný displej,jen hraný byly jiného tvaru. Čtečku otisku prstů jsem zmigroval ze starého displeje. Za svoji cenu dobrá volba.",
+          "recommends": "1",
+          "fingerprint": "23df5f5b27f7fc3de09039aa909063be678379a8"
         }
       ]
     },
@@ -189,26 +209,6 @@
       ]
     },
     {
-      "product_name": "LCD Display + Dotyková Deska pro Google Pixel 7 57983117799",
-      "url": "https://www.express-servis.cz/p/lcd-displej-a-dotykova-deska-pixel-7?utm_source=heureka",
-      "price": 1024.0,
-      "ean": "8596311231469",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "23517724",
-          "rating_id_type": "product",
-          "unix_timestamp": 1793206373,
-          "rating": 4.0,
-          "pros": "Rovnoměrné podsvícení (po celé ploše, také u okrajů, i v rozích)\nVysoký jas\nRychlá odezva (při psaní, při posouvání)\nKompatibilní s telefonem",
-          "cons": "Jiný vzhled než originál (barvou krycího skla, tvarem výřezů, šířkou rámečků)",
-          "summary": "Dobrý repasovaný displej,jen hraný byly jiného tvaru. Čtečku otisku prstů jsem zmigroval ze starého displeje. Za svoji cenu dobrá volba.",
-          "recommends": "1",
-          "fingerprint": "23df5f5b27f7fc3de09039aa909063be678379a8"
-        }
-      ]
-    },
-    {
       "product_name": "Epico UNUM Aramid pouzdro pro AirPods Pro 3 - černá 94411191300001",
       "url": "https://www.express-servis.cz/p/epico-unum-aramid-pouzdro-airpods-pro-3-cerna?utm_source=heureka",
       "price": 884.0,
@@ -231,7 +231,7 @@
     {
       "product_name": "IC čip správy napájení PMIC Nintendo Switch / Switch OLED (MAX77620AEWJ+T) GM0178",
       "url": "https://www.express-servis.cz/p/ic-cip-spravy-napajeni-pmic-nintendo-switch-switch-oled-max77620aewj-t?utm_source=heureka",
-      "price": 137.0,
+      "price": 138.0,
       "ean": "8597593042507",
       "reviews_count": 1,
       "reviews": [
@@ -251,7 +251,7 @@
     {
       "product_name": "3D joystick Xbox One / Series X s Hall senzory - zelený GM0090",
       "url": "https://www.express-servis.cz/p/3d-joystick-xbox-one-series-x-s-hall-senzory-zeleny?utm_source=heureka",
-      "price": 123.0,
+      "price": 124.0,
       "ean": "8597593022271",
       "reviews_count": 1,
       "reviews": [
@@ -271,7 +271,7 @@
     {
       "product_name": "IC čip Buck regulátor MAX77812 Nintendo Switch Lite / Switch OLED GM0303",
       "url": "https://www.express-servis.cz/p/ic-cip-buck-regulator-max77812-nintendo-switch-lite-switch-oled?utm_source=heureka",
-      "price": 144.0,
+      "price": 145.0,
       "ean": "8597593043757",
       "reviews_count": 1,
       "reviews": [
@@ -291,7 +291,7 @@
     {
       "product_name": "Epico Ochranné sklo zadní kamery pro iPhone 14 / 14 Plus 69412151000003",
       "url": "https://www.express-servis.cz/p/epico-zadni-sklo-kamery-iphone-1414-plus?utm_source=heureka",
-      "price": 281.0,
+      "price": 280.0,
       "ean": "8596049169577",
       "reviews_count": 1,
       "reviews": [
@@ -391,7 +391,7 @@
     {
       "product_name": "Audio Board MacBook Air 13\" (A2337 / 2020) – Apple Genuine – stříbrné MAC0540",
       "url": "https://www.express-servis.cz/p/audio-board-macbook-air-13-a2337-2020-apple-genuine-stribrne?utm_source=heureka",
-      "price": 330.0,
+      "price": 331.0,
       "ean": "8597593039774",
       "reviews_count": 1,
       "reviews": [
@@ -491,7 +491,7 @@
     {
       "product_name": "Displej Samsung Galaxy A55 (A556 / 2024) 6,62\" – OLED Aftermarket Plus s rámem – modrý SAM3327",
       "url": "https://www.express-servis.cz/p/displej-samsung-galaxy-a55-a556-2024-6-62-oled-aftermarket-plus-s-ramem-modry?utm_source=heureka",
-      "price": 905.0,
+      "price": 907.0,
       "ean": "8597593127174",
       "reviews_count": 1,
       "reviews": [
@@ -511,7 +511,7 @@
     {
       "product_name": "LCD displej Samsung Galaxy A55 (A556 / 2024) – Incell Aftermarket – s rámem – námořnicky modrý SAM3328",
       "url": "https://www.express-servis.cz/p/lcd-displej-samsung-galaxy-a55-a556-2024-incell-aftermarket-s-ramem-namornicky-modry?utm_source=heureka",
-      "price": 513.0,
+      "price": 510.0,
       "ean": "8597593127181",
       "reviews_count": 1,
       "reviews": [
@@ -551,7 +551,7 @@
     {
       "product_name": "Lepidlo T-7000 Suxun 15 ml černé TL0056",
       "url": "https://www.express-servis.cz/p/lepidlo-t-7000-suxun-cerne-15-ml?utm_source=heureka",
-      "price": 79.0,
+      "price": 78.0,
       "ean": "8597593013675",
       "reviews_count": 1,
       "reviews": [
@@ -651,7 +651,7 @@
     {
       "product_name": "Therabody JetBoots PRO Plus - Small JB0004130-3A1S",
       "url": "https://www.express-servis.cz/p/therabody-jetboots-pro-plus-regeneracni-boty-1?utm_source=heureka",
-      "price": 26439.0,
+      "price": 23920.0,
       "ean": "840295409276",
       "reviews_count": 1,
       "reviews": [
@@ -691,7 +691,7 @@
     {
       "product_name": "FD Blades Razor Blades - 5ks balení TL0073",
       "url": "https://www.express-servis.cz/p/fd-blades-razor-blades-5ks-kvalitni-cepele?utm_source=heureka",
-      "price": 6.0,
+      "price": 5.0,
       "ean": "8597593021137",
       "reviews_count": 1,
       "reviews": [
@@ -749,9 +749,9 @@
       ]
     },
     {
-      "product_name": "LCD displej a dotyková deska pro Xiaomi Redmi 9T 57983113705",
+      "product_name": "LCD Displej + Dotyková deska + Přední kryt Xiaomi Redmi 9T",
       "url": "https://www.express-servis.cz/p/lcd-displej-a-deska-pro-xiaomi-redmi-9t?utm_source=heureka",
-      "price": 342.0,
+      "price": 355.0,
       "ean": "8596311206580",
       "reviews_count": 1,
       "reviews": [
@@ -871,7 +871,7 @@
     {
       "product_name": "Flex kabel MagSafe napájecího konektoru MacBook Air 13\" (A2681 / 2022) MAC0060",
       "url": "https://www.express-servis.cz/p/flex-kabel-magsafe-napajeciho-konektoru-macbook-air-13-a2681-2022?utm_source=heureka",
-      "price": 151.0,
+      "price": 152.0,
       "ean": "8597593012333",
       "reviews_count": 1,
       "reviews": [
@@ -951,7 +951,7 @@
     {
       "product_name": "Epico UltraBoard klávesnice EK40 - iPad 10,9\" /11\" CZ, černá 73711101300024",
       "url": "https://www.express-servis.cz/p/epico-ultraboard-ek40-klavesnice-pro-ipad-s-trackpadem?utm_source=heureka",
-      "price": 2428.0,
+      "price": 2405.0,
       "ean": "8596049201376",
       "reviews_count": 1,
       "reviews": [
