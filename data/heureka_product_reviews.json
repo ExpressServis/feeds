@@ -1,9 +1,9 @@
 {
-  "generated_at": 1794190949,
+  "generated_at": 1794277272,
   "stats": {
-    "products_count": 44,
-    "raw_reviews_in_feed": 44,
-    "saved_reviews": 44,
+    "products_count": 46,
+    "raw_reviews_in_feed": 46,
+    "saved_reviews": 46,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 4
   },
@@ -89,6 +89,46 @@
   },
   "products": [
     {
+      "product_name": "Baterie PlayStation 5 (LIP1708) GM0554",
+      "url": "https://www.express-servis.cz/p/baterie-playstation-5-lip1708?utm_source=heureka",
+      "price": 187.0,
+      "ean": "8597593046260",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "16495256",
+          "rating_id_type": "offer",
+          "unix_timestamp": 1794247475,
+          "rating": 4.5,
+          "pros": "",
+          "cons": "",
+          "summary": "",
+          "recommends": "",
+          "fingerprint": "e743150a9a1fb8447ac1012d426fe560b1ecccbc"
+        }
+      ]
+    },
+    {
+      "product_name": "Sada pinzet Jakemy JM-T11 – antistatické, žáruvzdorné – rovná / špičatá / zahnutá – 3 ks TL0259",
+      "url": "https://www.express-servis.cz/p/sada-pinzet-jakemy-jm-t11-antistaticke-3-ks?utm_source=heureka",
+      "price": 116.0,
+      "ean": "8597593190963",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "16495251",
+          "rating_id_type": "offer",
+          "unix_timestamp": 1794247374,
+          "rating": 4.0,
+          "pros": "Přesné ovládání\nOstré čepele\nPohodlná rukojeť\nPečlivé zpracování\nUniverzální použití",
+          "cons": "Příliš tuhý chod (hned od začátku)",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "04132af8d53c70af5091f82c92b4989fad4e47e7"
+        }
+      ]
+    },
+    {
       "product_name": "Podlepení zadního krytu Xiaomi Redmi Note 13 Pro Plus 5G XIA1230",
       "url": "https://www.express-servis.cz/p/podlepeni-zadniho-krytu-xiaomi-redmi-note-13-pro-5g?utm_source=heureka",
       "price": 63.0,
@@ -111,7 +151,7 @@
     {
       "product_name": "Tactical MagForce Relief bezdrátová powerbanka 10000mAh 57983125419",
       "url": "https://www.express-servis.cz/p/tactical-magforce-relief-10000mah-bezdratova?utm_source=heureka",
-      "price": 657.0,
+      "price": 762.0,
       "ean": "8596311276873",
       "reviews_count": 1,
       "reviews": [
@@ -251,7 +291,7 @@
     {
       "product_name": "3D joystick Xbox One / Series X s Hall senzory - zelený GM0090",
       "url": "https://www.express-servis.cz/p/3d-joystick-xbox-one-series-x-s-hall-senzory-zeleny?utm_source=heureka",
-      "price": 123.0,
+      "price": 124.0,
       "ean": "8597593022271",
       "reviews_count": 1,
       "reviews": [
@@ -271,7 +311,7 @@
     {
       "product_name": "IC čip Buck regulátor MAX77812 Nintendo Switch Lite / Switch OLED GM0303",
       "url": "https://www.express-servis.cz/p/ic-cip-buck-regulator-max77812-nintendo-switch-lite-switch-oled?utm_source=heureka",
-      "price": 144.0,
+      "price": 145.0,
       "ean": "8597593043757",
       "reviews_count": 1,
       "reviews": [
@@ -331,7 +371,7 @@
     {
       "product_name": "3D analogový kryt joysticku (thumbstick) Meta Quest 3 / Quest 3S GM0111",
       "url": "https://www.express-servis.cz/p/3d-analogovy-kryt-joysticku-thumbstick-meta-quest-3-quest-3s?utm_source=heureka",
-      "price": 410.0,
+      "price": 409.0,
       "ean": "8597593041753",
       "reviews_count": 1,
       "reviews": [
@@ -391,7 +431,7 @@
     {
       "product_name": "Audio Board MacBook Air 13\" (A2337 / 2020) – Apple Genuine – stříbrné MAC0540",
       "url": "https://www.express-servis.cz/p/audio-board-macbook-air-13-a2337-2020-apple-genuine-stribrne?utm_source=heureka",
-      "price": 330.0,
+      "price": 331.0,
       "ean": "8597593039774",
       "reviews_count": 1,
       "reviews": [
@@ -531,7 +571,7 @@
     {
       "product_name": "Dotykový digitizér iPad 3 / iPad 4 – předinstalované tlačítko Home pro iPad 4 – Aftermarket Plus – černý IPD1467",
       "url": "https://www.express-servis.cz/p/dotykovy-digitizer-ipad-3-ipad-4-cerny-aftermarket?utm_source=heureka",
-      "price": 173.0,
+      "price": 174.0,
       "ean": "8597593074638",
       "reviews_count": 1,
       "reviews": [
@@ -591,7 +631,7 @@
     {
       "product_name": "Sklíčko zadní kamery s podlepením Samsung Galaxy A36 5G (A366 / 2025) SAM2367",
       "url": "https://www.express-servis.cz/p/sklicko-zadni-kamery-s-podlepenim-samsung-galaxy-a36-5g-a366-2025?utm_source=heureka",
-      "price": 54.0,
+      "price": 53.0,
       "ean": "8597593109064",
       "reviews_count": 1,
       "reviews": [
@@ -751,7 +791,7 @@
     {
       "product_name": "LCD Displej + Dotyková deska + Přední kryt Xiaomi Redmi 9T",
       "url": "https://www.express-servis.cz/p/lcd-displej-a-deska-pro-xiaomi-redmi-9t?utm_source=heureka",
-      "price": 355.0,
+      "price": 356.0,
       "ean": "8596311206580",
       "reviews_count": 1,
       "reviews": [
@@ -791,7 +831,7 @@
     {
       "product_name": "Baterie iPhone 13 Pro - podpora konfigurace BT0141",
       "url": "https://www.express-servis.cz/p/baterie-iphone-13-pro-podpora-konfigurace?utm_source=heureka",
-      "price": 471.0,
+      "price": 470.0,
       "ean": "8597593013187",
       "reviews_count": 1,
       "reviews": [
@@ -909,9 +949,9 @@
       ]
     },
     {
-      "product_name": "Lepidlo B-7000 50ml - transparentní TL0053",
+      "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
-      "price": 96.0,
+      "price": 95.0,
       "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
