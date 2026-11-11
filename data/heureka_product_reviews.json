@@ -1,5 +1,5 @@
 {
-  "generated_at": 1794277272,
+  "generated_at": 1794363576,
   "stats": {
     "products_count": 46,
     "raw_reviews_in_feed": 46,
@@ -96,8 +96,8 @@
       "reviews_count": 1,
       "reviews": [
         {
-          "rating_id": "16495256",
-          "rating_id_type": "offer",
+          "rating_id": "23619510",
+          "rating_id_type": "product",
           "unix_timestamp": 1794247475,
           "rating": 4.5,
           "pros": "",
@@ -116,8 +116,8 @@
       "reviews_count": 1,
       "reviews": [
         {
-          "rating_id": "16495251",
-          "rating_id_type": "offer",
+          "rating_id": "23619705",
+          "rating_id_type": "product",
           "unix_timestamp": 1794247374,
           "rating": 4.0,
           "pros": "Přesné ovládání\nOstré čepele\nPohodlná rukojeť\nPečlivé zpracování\nUniverzální použití",
