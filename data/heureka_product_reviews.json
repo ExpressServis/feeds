@@ -1,9 +1,9 @@
 {
-  "generated_at": 1794363576,
+  "generated_at": 1794450080,
   "stats": {
-    "products_count": 46,
-    "raw_reviews_in_feed": 46,
-    "saved_reviews": 46,
+    "products_count": 45,
+    "raw_reviews_in_feed": 45,
+    "saved_reviews": 45,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 4
   },
@@ -311,7 +311,7 @@
     {
       "product_name": "IC čip Buck regulátor MAX77812 Nintendo Switch Lite / Switch OLED GM0303",
       "url": "https://www.express-servis.cz/p/ic-cip-buck-regulator-max77812-nintendo-switch-lite-switch-oled?utm_source=heureka",
-      "price": 145.0,
+      "price": 144.0,
       "ean": "8597593043757",
       "reviews_count": 1,
       "reviews": [
@@ -345,26 +345,6 @@
           "summary": "OK",
           "recommends": "1",
           "fingerprint": "8f2cab4792fe7c116bdcb550698f20e0e0e041e9"
-        }
-      ]
-    },
-    {
-      "product_name": "Zadní sklo iPhone 14 Plus - fialové IPH0833",
-      "url": "https://www.express-servis.cz/p/zadni-sklo-iphone-14-plus-fialove?utm_source=heureka",
-      "price": 231.0,
-      "ean": "8596115631076",
-      "reviews_count": 1,
-      "reviews": [
-        {
-          "rating_id": "23416240",
-          "rating_id_type": "product",
-          "unix_timestamp": 1792138513,
-          "rating": 5.0,
-          "pros": "",
-          "cons": "",
-          "summary": "OK",
-          "recommends": "1",
-          "fingerprint": "eec5ae63c72da82bb3b54bc61352494a1a0fd358"
         }
       ]
     },
@@ -431,7 +411,7 @@
     {
       "product_name": "Audio Board MacBook Air 13\" (A2337 / 2020) – Apple Genuine – stříbrné MAC0540",
       "url": "https://www.express-servis.cz/p/audio-board-macbook-air-13-a2337-2020-apple-genuine-stribrne?utm_source=heureka",
-      "price": 331.0,
+      "price": 330.0,
       "ean": "8597593039774",
       "reviews_count": 1,
       "reviews": [
@@ -611,7 +591,7 @@
     {
       "product_name": "LCD Display + Dotyková Deska pro Realme 8 57983103156",
       "url": "https://www.express-servis.cz/p/lcd-display-a-dotykova-deska-realme-8?utm_source=heureka",
-      "price": 1089.0,
+      "price": 1087.0,
       "ean": "8596311146947",
       "reviews_count": 1,
       "reviews": [
@@ -691,7 +671,7 @@
     {
       "product_name": "Therabody JetBoots PRO Plus - Small JB0004130-3A1S",
       "url": "https://www.express-servis.cz/p/therabody-jetboots-pro-plus-regeneracni-boty-1?utm_source=heureka",
-      "price": 23920.0,
+      "price": 26009.0,
       "ean": "840295409276",
       "reviews_count": 1,
       "reviews": [
@@ -731,7 +711,7 @@
     {
       "product_name": "FD Blades Razor Blades - 5ks balení TL0073",
       "url": "https://www.express-servis.cz/p/fd-blades-razor-blades-5ks-kvalitni-cepele?utm_source=heureka",
-      "price": 6.0,
+      "price": 5.0,
       "ean": "8597593021137",
       "reviews_count": 1,
       "reviews": [
@@ -749,7 +729,7 @@
       ]
     },
     {
-      "product_name": "iPEAX textilní kabel USB-C/Lightning 1m černý 90010102",
+      "product_name": "iPEAX textilní kabel USB-C / lightning 1 m, USB 2.0, černý 90010102",
       "url": "https://www.express-servis.cz/p/ipeax-textilni-usb-c-lightning-kabel-1m-cerny?utm_source=heureka",
       "price": 119.0,
       "ean": "8595217491762",
@@ -791,7 +771,7 @@
     {
       "product_name": "LCD Displej + Dotyková deska + Přední kryt Xiaomi Redmi 9T",
       "url": "https://www.express-servis.cz/p/lcd-displej-a-deska-pro-xiaomi-redmi-9t?utm_source=heureka",
-      "price": 356.0,
+      "price": 342.0,
       "ean": "8596311206580",
       "reviews_count": 1,
       "reviews": [
@@ -891,7 +871,7 @@
     {
       "product_name": "LCD displej iPhone 11 - Refurbished IPH0989",
       "url": "https://www.express-servis.cz/p/lcd-displej-iphone-11-refurbished?utm_source=heureka",
-      "price": 764.0,
+      "price": 744.0,
       "ean": "8597593014085",
       "reviews_count": 1,
       "reviews": [
@@ -951,7 +931,7 @@
     {
       "product_name": "BAKU B-7000 Lepidlo 50g",
       "url": "https://www.express-servis.cz/p/lepidlo-b-7000-50ml-transparentni?utm_source=heureka",
-      "price": 95.0,
+      "price": 96.0,
       "ean": "8596115571044",
       "reviews_count": 1,
       "reviews": [
@@ -991,7 +971,7 @@
     {
       "product_name": "Epico UltraBoard klávesnice EK40 - iPad 10,9\" /11\" CZ, černá 73711101300024",
       "url": "https://www.express-servis.cz/p/epico-ultraboard-ek40-klavesnice-pro-ipad-s-trackpadem?utm_source=heureka",
-      "price": 2428.0,
+      "price": 2405.0,
       "ean": "8596049201376",
       "reviews_count": 1,
       "reviews": [
