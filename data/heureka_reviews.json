@@ -1,7 +1,22 @@
 {
-  "generated_at": 1794450077,
-  "count": 178,
+  "generated_at": 1794536344,
+  "count": 179,
   "reviews": [
+    {
+      "rating_id": "959424343",
+      "ordered": 1793875007,
+      "unix_timestamp": 1794472488,
+      "total_rating": 5.0,
+      "delivery_time": null,
+      "transport_quality": null,
+      "web_usability": null,
+      "communication": 4.0,
+      "pros": "",
+      "cons": "",
+      "summary": "perfektní přehledné stránky - dobrá cena - dobrá cena za dodání\n\ntrošku déle to trvalo",
+      "reaction": "",
+      "recommends": "1"
+    },
     {
       "rating_id": "958810191",
       "ordered": 1793651344,
