@@ -1,9 +1,9 @@
 {
-  "generated_at": 1795573404,
+  "generated_at": 1795659752,
   "stats": {
-    "products_count": 45,
-    "raw_reviews_in_feed": 45,
-    "saved_reviews": 45,
+    "products_count": 46,
+    "raw_reviews_in_feed": 46,
+    "saved_reviews": 46,
     "duplicates_within_product_skipped": 0,
     "cross_product_duplicates_count": 4
   },
@@ -88,6 +88,26 @@
     ]
   },
   "products": [
+    {
+      "product_name": "Samsung A146B Galaxy A14 5G Deska vč. Dobíjecího Konektoru",
+      "url": "https://www.express-servis.cz/p/samsung-a146b-galaxy-a14-5g-deska-vc-dobijeciho-konektoru?utm_source=heureka",
+      "price": 111.0,
+      "ean": "8596311233845",
+      "reviews_count": 1,
+      "reviews": [
+        {
+          "rating_id": "23751208",
+          "rating_id_type": "product",
+          "unix_timestamp": 1795595328,
+          "rating": 5.0,
+          "pros": "Perfektní kompatibilita\nPřesně padnoucí konektory",
+          "cons": "",
+          "summary": "",
+          "recommends": "1",
+          "fingerprint": "27d2670a8d2ecc0321ecdc4f2d10df7240d7e370"
+        }
+      ]
+    },
     {
       "product_name": "Tactical MagForce Velvet Smoothie 2.0 Kryt pro Apple iPhone 17 Pro Max/18 Pro Max Chilli 57983131338",
       "url": "https://www.express-servis.cz/p/tactical-magforce-velvet-smoothie-2-0-kryt-pro-apple-iphone-17-pro-max-18-pro-max-chilli?utm_source=heureka",
